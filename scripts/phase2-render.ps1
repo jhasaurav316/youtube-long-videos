@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 2 Render: Videos 51-100 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase2-render.ps1
 #        .\scripts\phase2-render.ps1 -Quality max
 param(

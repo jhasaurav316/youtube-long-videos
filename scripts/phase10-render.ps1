@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 10 Render: Videos 451-500 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase10-render.ps1
 #        .\scripts\phase10-render.ps1 -Quality max
 param(

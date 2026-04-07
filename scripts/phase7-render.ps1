@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 7 Render: Videos 301-350 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase7-render.ps1
 #        .\scripts\phase7-render.ps1 -Quality max
 param(

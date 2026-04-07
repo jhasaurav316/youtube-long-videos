@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 5 Render: Videos 201-250 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase5-render.ps1
 #        .\scripts\phase5-render.ps1 -Quality max
 param(

@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 8 Render: Videos 351-400 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase8-render.ps1
 #        .\scripts\phase8-render.ps1 -Quality max
 param(

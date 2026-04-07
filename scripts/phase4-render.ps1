@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 4 Render: Videos 151-200 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase4-render.ps1
 #        .\scripts\phase4-render.ps1 -Quality max
 param(

@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 9 Render: Videos 401-450 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase9-render.ps1
 #        .\scripts\phase9-render.ps1 -Quality max
 param(

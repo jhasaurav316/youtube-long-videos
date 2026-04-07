@@ -1,6 +1,4 @@
-# ============================================================================
 # Phase 3 Render: Videos 101-150 (High Quality)
-# ============================================================================
 # Usage: .\scripts\phase3-render.ps1
 #        .\scripts\phase3-render.ps1 -Quality max
 param(
