@@ -1,0 +1,7 @@
+node_modules/
+out/
+public/*-audio/
+long-video-bundle/
+*.log
+*.txt
+!scripts/*.txt

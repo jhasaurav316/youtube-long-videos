@@ -1,0 +1,33 @@
+{
+  "name": "youtube-long-videos",
+  "version": "1.0.0",
+  "description": "100 Landscape YouTube Long Videos - A to Z Compilations",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.441",
+    "@remotion/google-fonts": "4.0.441",
+    "@remotion/media": "4.0.441",
+    "@remotion/tailwind-v4": "4.0.441",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.441",
+    "tailwindcss": "4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "generate-catalog": "node scripts/generate-catalog.js",
+    "register": "node scripts/register-compositions.js",
+    "render-single": "npx remotion render LongVideo001 out/long-video-001.mp4 --codec=h264 --crf=18"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}
