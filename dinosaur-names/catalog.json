@@ -1,0 +1,5777 @@
+[
+  {
+    "id": "dino-carnivores-1",
+    "title": "Carnivore Dinosaurs - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "D",
+        "word": "Dilophosaurus",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Megalosaurus",
+        "emoji": "🦖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Baryonyx",
+        "emoji": "🦖",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "R",
+        "word": "Rajasaurus",
+        "emoji": "🦖",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "U",
+        "word": "Utahraptor",
+        "emoji": "🦖",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "O",
+        "word": "Oviraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "P",
+        "word": "Proceratosaurus",
+        "emoji": "🦖",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "N",
+        "word": "Neovenator",
+        "emoji": "🦖",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "H",
+        "word": "Herrerasaurus",
+        "emoji": "🦖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kronosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "L",
+        "word": "Lythronax",
+        "emoji": "🦖",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "I",
+        "word": "Indoraptor",
+        "emoji": "🦖",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦖",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "E",
+        "word": "Eoraptor",
+        "emoji": "🦖",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "J",
+        "word": "Juravenator",
+        "emoji": "🦖",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yangchuanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuolong",
+        "emoji": "🦖",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quilmesaurus",
+        "emoji": "🦖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Ceratosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Suchomimus",
+        "emoji": "🦖",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "T",
+        "word": "Tarbosaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mapusaurus",
+        "emoji": "🦖",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-carnivores-2",
+    "title": "Carnivore Dinosaurs - Part 2",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Deinonychus",
+        "emoji": "🦖",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Acrocanthosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Megaraptor",
+        "emoji": "🦖",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Coelophysis",
+        "emoji": "🦖",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Torvosaurus",
+        "emoji": "🦖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Saurophaganax",
+        "emoji": "🦖",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "G",
+        "word": "Guanlong",
+        "emoji": "🦖",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "B",
+        "word": "Bahariasaurus",
+        "emoji": "🦖",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "R",
+        "word": "Rugops",
+        "emoji": "🦖",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "P",
+        "word": "Pyroraptor",
+        "emoji": "🦖",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "N",
+        "word": "Nothronychus",
+        "emoji": "🦖",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Liopleurodon",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "K",
+        "word": "Kryptops",
+        "emoji": "🦖",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "O",
+        "word": "Oxalaia",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "H",
+        "word": "Hatzegopteryx",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fruitadens",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "I",
+        "word": "Irritator",
+        "emoji": "🦖",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "E",
+        "word": "Eocarcharia",
+        "emoji": "🦖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Wintonotitan",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jianchangosaurus",
+        "emoji": "🦖",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "U",
+        "word": "Unaysaurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "V",
+        "word": "Variraptor",
+        "emoji": "🦖",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "X",
+        "word": "Xiongguanlong",
+        "emoji": "🦖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yixianosaurus",
+        "emoji": "🦖",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "Z",
+        "word": "Zupaysaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "Q",
+        "word": "Qianzhousaurus",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Abelisaurus",
+        "emoji": "🦖",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "D",
+        "word": "Dryptosaurus",
+        "emoji": "🦖",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sinotyrannus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tyrannotitan",
+        "emoji": "🦖",
+        "bgColor": "#263238"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-carnivores-3",
+    "title": "Carnivore Dinosaurs - Part 3",
+    "bgGradient": [
+      "#E53935",
+      "#FFEBEE"
+    ],
+    "accentColor": "#C62828",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carcharodontosaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Monolophosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sinraptor",
+        "emoji": "🦖",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Piatnitzkysaurus",
+        "emoji": "🦖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "A",
+        "word": "Austroraptor",
+        "emoji": "🦖",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "R",
+        "word": "Raptorex",
+        "emoji": "🦖",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dahalokely",
+        "emoji": "🦖",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "T",
+        "word": "Troodon",
+        "emoji": "🦖",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "G",
+        "word": "Gasosaurus",
+        "emoji": "🦖",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "B",
+        "word": "Berberosaurus",
+        "emoji": "🦖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "N",
+        "word": "Nanuqsaurus",
+        "emoji": "🦖",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "L",
+        "word": "Labocania",
+        "emoji": "🦖",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "K",
+        "word": "Kileskus",
+        "emoji": "🦖",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "O",
+        "word": "Ostafrikasaurus",
+        "emoji": "🦖",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "H",
+        "word": "Huaxiagnathus",
+        "emoji": "🦖",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "F",
+        "word": "Falcarius",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "I",
+        "word": "Ichthyovenator",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "E",
+        "word": "Elaphrosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "W",
+        "word": "Wiehenvenator",
+        "emoji": "🦖",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "J",
+        "word": "Jubbulpuria",
+        "emoji": "🦖",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "U",
+        "word": "Ulughbegsaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Vespersaurus",
+        "emoji": "🦖",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "X",
+        "word": "Xenotarsosaurus",
+        "emoji": "🦖",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yutyrannus",
+        "emoji": "🦖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhuchengtyrannus",
+        "emoji": "🦖",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "Q",
+        "word": "Quaesitosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Masiakasaurus",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skorpiovenator",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Chilantaisaurus",
+        "emoji": "🦖",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Thanatotheristes",
+        "emoji": "🦖",
+        "bgColor": "#263238"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-herbivores-1",
+    "title": "Herbivore Dinosaurs - Part 1",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Hadrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Maiasaura",
+        "emoji": "🦕",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "C",
+        "word": "Corythosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Gigantspinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Lambeosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nigersaurus",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhabdodon",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Kentrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Ouranosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "F",
+        "word": "Fabrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jaxartosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "U",
+        "word": "Udanoceratops",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vulcanodon",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaosaurus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yunnanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zanabazar",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Q",
+        "word": "Qantassaurus",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Titanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Sauropelta",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "B",
+        "word": "Barosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Protoceratops",
+        "emoji": "🦕",
+        "bgColor": "#FFA000"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-herbivores-2",
+    "title": "Herbivore Dinosaurs - Part 2",
+    "bgGradient": [
+      "#388E3C",
+      "#C8E6C9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Camarasaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "D",
+        "word": "Dracorex",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "E",
+        "word": "Euoplocephalus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gastonia",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "H",
+        "word": "Huayangosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "Isanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "J",
+        "word": "Jobaria",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Kritosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "L",
+        "word": "Lesothosaurus",
+        "emoji": "🦕",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Minmi",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nodosaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "O",
+        "word": "Othnielosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "P",
+        "word": "Pachycephalosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "R",
+        "word": "Rajasaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "S",
+        "word": "Saltasaurus",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "T",
+        "word": "Therizinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "U",
+        "word": "Unaysaurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "V",
+        "word": "Velafrons",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wendiceratops",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuisaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "X",
+        "word": "Xenoceratops",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yamaceratops",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zalmoxes",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Q",
+        "word": "Quaesitosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Borealopelta",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "D",
+        "word": "Dryosaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "C",
+        "word": "Centrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Scelidosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "A",
+        "word": "Amargasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-herbivores-3",
+    "title": "Herbivore Dinosaurs - Part 3",
+    "bgGradient": [
+      "#43A047",
+      "#E8F5E9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Supersaurus",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Argentinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Patagotitan",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Brontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mamenchisaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "T",
+        "word": "Torosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "D",
+        "word": "Dreadnoughtus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffatitan",
+        "emoji": "🦕",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "C",
+        "word": "Chasmosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lusotitan",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "N",
+        "word": "Nemegtosaurus",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "R",
+        "word": "Rapetosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hypacrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kosmoceratops",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "O",
+        "word": "Opisthocoelicaudia",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "F",
+        "word": "Futalognkosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "W",
+        "word": "Wamweracaudia",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "E",
+        "word": "Erketu",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "I",
+        "word": "Indosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "J",
+        "word": "Jainosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "U",
+        "word": "Uberabatitan",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "V",
+        "word": "Venenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "X",
+        "word": "Xianshanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Y",
+        "word": "Yingshanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuul",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quetzalcoatlus",
+        "emoji": "🦕",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "T",
+        "word": "Tsintaosaurus",
+        "emoji": "🦕",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "S",
+        "word": "Shantungosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plateosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "B",
+        "word": "Bajadasaurus",
+        "emoji": "🦕",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-flying-dinos-1",
+    "title": "Flying Dinosaurs - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "Q",
+        "word": "Quetzalcoatlus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rhamphorhynchus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dimorphodon",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "A",
+        "word": "Anhanguera",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Tupuxuara",
+        "emoji": "🦕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sordes",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Caulkicephalus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hatzegopteryx",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nemicolopterus",
+        "emoji": "🦕",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithocheirus",
+        "emoji": "🦕",
+        "bgColor": "#1976D2"
+      },
+      {
+        "letter": "M",
+        "word": "Moganopterus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnathosaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "I",
+        "word": "Istiodactylus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Lonchodectes",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kepodactylus",
+        "emoji": "🦕",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "B",
+        "word": "Bakonydraco",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "E",
+        "word": "Eudimorphodon",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "F",
+        "word": "Feilongus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "W",
+        "word": "Wellnhopterus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "J",
+        "word": "Jeholopterus",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "U",
+        "word": "Unwindia",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vectidraco",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "X",
+        "word": "Xericeps",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yixianopterus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhenyuanopterus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Pterodactylus",
+        "emoji": "🦕",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "A",
+        "word": "Arambourgiania",
+        "emoji": "🦕",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "T",
+        "word": "Thalassodromeus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "S",
+        "word": "Sinopterus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-flying-dinos-2",
+    "title": "Flying Dinosaurs - Part 2",
+    "bgGradient": [
+      "#1976D2",
+      "#90CAF9"
+    ],
+    "accentColor": "#1565C0",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Archaeopteryx",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "M",
+        "word": "Microraptor",
+        "emoji": "🦖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Confuciusornis",
+        "emoji": "🦕",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "I",
+        "word": "Iberomesornis",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sharovipteryx",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Peteinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tapejara",
+        "emoji": "🦕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Darwinopterus",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Geosternbergia",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brasileodactylus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "N",
+        "word": "Nyctosaurus",
+        "emoji": "🦕",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "R",
+        "word": "Raeticodactylus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "H",
+        "word": "Haopterus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Ludodactylus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "K",
+        "word": "Kunpengopterus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithomimus",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "F",
+        "word": "Forfexopterus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "W",
+        "word": "Wukongopterus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "E",
+        "word": "Eoazhdarcho",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "J",
+        "word": "Jidapterus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Uktenadactylus",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Volgadraco",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "X",
+        "word": "Xericeps",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yungavolucris",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhejiangopterus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Q",
+        "word": "Quetzalcoatlus",
+        "emoji": "🦕",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aurorazhdarcho",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "M",
+        "word": "Muzquizopteryx",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tropeognathus",
+        "emoji": "🦕",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Phosphatodraco",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-flying-dinos-3",
+    "title": "Flying Dinosaurs - Part 3",
+    "bgGradient": [
+      "#1E88E5",
+      "#64B5F6"
+    ],
+    "accentColor": "#1976D2",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cearadactylus",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "D",
+        "word": "Dsungaripterus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "G",
+        "word": "Guidraco",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "H",
+        "word": "Hamipterus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "Ikrandraco",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "Kariridraco",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lacusovagus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mesadactylus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "N",
+        "word": "Navajodactylus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "O",
+        "word": "Oregoniterus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Preondactylus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "R",
+        "word": "Rhamphocephalus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "S",
+        "word": "Scaphognathus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tropeognathus",
+        "emoji": "🦕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Aerodactylus",
+        "emoji": "🦕",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "B",
+        "word": "Bennettazhia",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "E",
+        "word": "Eopteranodon",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "F",
+        "word": "Faxinalipterus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wendigo",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "J",
+        "word": "Jiufotang",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "U",
+        "word": "Urophonus",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Volaticotherium",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "X",
+        "word": "Xianglongus",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yixianopterus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhenyuan",
+        "emoji": "🦕",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "Q",
+        "word": "Quetzal Wing",
+        "emoji": "🦕",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Dorygnathus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "S",
+        "word": "Scleromochlus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "A",
+        "word": "Anurognathus",
+        "emoji": "🦕",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "P",
+        "word": "Pterodaustro",
+        "emoji": "🦕",
+        "bgColor": "#AD1457"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-sea-dinos-1",
+    "title": "Sea Dinosaurs - Part 1",
+    "bgGradient": [
+      "#0277BD",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "I",
+        "word": "Ichthyosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "E",
+        "word": "Elasmosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "L",
+        "word": "Liopleurodon",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "Kronosaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "N",
+        "word": "Nothosaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "S",
+        "word": "Shonisaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "D",
+        "word": "Dolichorhynchops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Albertonectes",
+        "emoji": "🦕",
+        "bgColor": "#1976D2"
+      },
+      {
+        "letter": "B",
+        "word": "Basilosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cryptoclidus",
+        "emoji": "🦕",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Globidens",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hainosaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "O",
+        "word": "Ophthalmosaurus",
+        "emoji": "🦕",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "R",
+        "word": "Rhomaleosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "F",
+        "word": "Futabasaurus",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "W",
+        "word": "Woolungasaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "J",
+        "word": "Jurassic Shark",
+        "emoji": "🦈",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "U",
+        "word": "Umoonasaurus",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vancleavea",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "X",
+        "word": "Xinpusaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yunguisaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "Z",
+        "word": "Zarafasaura",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "Q",
+        "word": "Qianichthyosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "P",
+        "word": "Platecarpus",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Mixosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Styxosaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "T",
+        "word": "Temnodontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-sea-dinos-2",
+    "title": "Sea Dinosaurs - Part 2",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clidastes",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "D",
+        "word": "Dakosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Goronyosaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hydrotherosaurus",
+        "emoji": "🦕",
+        "bgColor": "#1976D2"
+      },
+      {
+        "letter": "N",
+        "word": "Nichollsia",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Prognathodon",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "R",
+        "word": "Russellosaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "T",
+        "word": "Tanystropheus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Attenborosaurus",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Brachauchenius",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eurhinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "F",
+        "word": "Funkei",
+        "emoji": "🦕",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "I",
+        "word": "Irritator Aqua",
+        "emoji": "🦕",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Kaika",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "L",
+        "word": "Libonectes",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Maresaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Omphalosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "S",
+        "word": "Simolestes",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Westphaliasaurus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "J",
+        "word": "Jormungandr",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "U",
+        "word": "Undorosaurus",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vegasaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaolong",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuzhousaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuolong Sea",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Q",
+        "word": "Quaesitosaurus Aqua",
+        "emoji": "🦕",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "N",
+        "word": "Namouni",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Colymbosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "T",
+        "word": "Thalassiodracon",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pliosaur",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-sea-dinos-3",
+    "title": "Sea Dinosaurs - Part 3",
+    "bgGradient": [
+      "#039BE5",
+      "#4FC3F7"
+    ],
+    "accentColor": "#0288D1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Megalodon",
+        "emoji": "🦈",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dunkleosteus",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sarcosuchus",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "T",
+        "word": "Taniwhasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "P",
+        "word": "Plotosaurus",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "A",
+        "word": "Aristonectes",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Brancasaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Callawayasaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Edestus",
+        "emoji": "🦈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus Sea",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "H",
+        "word": "Helicoprion",
+        "emoji": "🦈",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "I",
+        "word": "Irritator Sea",
+        "emoji": "🦕",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Kaikaifilu",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "L",
+        "word": "Leedsichthys",
+        "emoji": "🐟",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "N",
+        "word": "Nothosaur",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "O",
+        "word": "Orthacanthus",
+        "emoji": "🦈",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Reptile Sea",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Fossil Fish",
+        "emoji": "🐟",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "W",
+        "word": "Whale Lizard",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "J",
+        "word": "Jurassic Sea",
+        "emoji": "🦕",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "U",
+        "word": "Utatsusaurus",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vancleavea",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "X",
+        "word": "Xiphactinus",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Y",
+        "word": "Yaguarasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziphactinus",
+        "emoji": "🐟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quenstedt",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Metriorhynchus",
+        "emoji": "🐊",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "S",
+        "word": "Stethacanthus",
+        "emoji": "🦈",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "D",
+        "word": "Dallasaurus",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-armored-1",
+    "title": "Armored Dinosaurs - Part 1",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Euoplocephalus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "N",
+        "word": "Nodosaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "P",
+        "word": "Polacanthus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "T",
+        "word": "Tarchia",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gastonia",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Hylaeosaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "M",
+        "word": "Minmi",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kentrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dacentrurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Borealopelta",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Crichtonsaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Lexovisaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "R",
+        "word": "Regnosaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "O",
+        "word": "Othnielosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fugalosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon Armored",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "J",
+        "word": "Jiangjunosaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "U",
+        "word": "Urbacodon",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vest Dino",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaoyuanlong",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yangchuano Armored",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuul Crurivastator",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Qijianglong",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sauropelta",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "A",
+        "word": "Animantarx",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Talarurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pinacosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-armored-2",
+    "title": "Armored Dinosaurs - Part 2",
+    "bgGradient": [
+      "#546E7A",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Saichania",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Tianchisaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "D",
+        "word": "Dracopelta",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gargoyleosaurus",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "H",
+        "word": "Hungarosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mymoorapelta",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Niobrarasaurus",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pawpawsaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "A",
+        "word": "Acanthopholis",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "B",
+        "word": "Batrachotomus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Cedarpelta",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontonia",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kunbarrasaurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "L",
+        "word": "Liaoningosaurus",
+        "emoji": "🦕",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "R",
+        "word": "Ruehleia",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "O",
+        "word": "Oohkotokia",
+        "emoji": "🦕",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "F",
+        "word": "Fossil Armored",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "W",
+        "word": "Woodwardian",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Armored",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "J",
+        "word": "Jurassic Shield",
+        "emoji": "🦕",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "U",
+        "word": "Ursa Armored",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Vectipelta",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "X",
+        "word": "Xenoposeidon",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuxisaurus",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhejiangosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Q",
+        "word": "Qiupa",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Struthiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "A",
+        "word": "Ahshislepelta",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Texasetes",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Denversaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-armored-3",
+    "title": "Armored Dinosaurs - Part 3",
+    "bgGradient": [
+      "#607D8B",
+      "#ECEFF1"
+    ],
+    "accentColor": "#455A64",
+    "items": [
+      {
+        "letter": "Z",
+        "word": "Zuul",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aletopelta",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Bumpy Dino",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Club Tail",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Dyoplosaurus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "E",
+        "word": "Emausaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "F",
+        "word": "Ford Armored",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gobisaurus",
+        "emoji": "🦕",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "H",
+        "word": "Hesperosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "Invicta Armored",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "J",
+        "word": "Jinyunpelta",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "K",
+        "word": "Koreano Armored",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "L",
+        "word": "Loricatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "M",
+        "word": "Maleev Armored",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "N",
+        "word": "Nopcsaspondylus",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Osmolskina",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Propanoplosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "R",
+        "word": "Rocky Armored",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Scutellosaurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tatankacephalus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "U",
+        "word": "Uintacrinus",
+        "emoji": "🦕",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "V",
+        "word": "Victory Armored",
+        "emoji": "🦕",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Willo Dino",
+        "emoji": "🦕",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhua Armored",
+        "emoji": "🦕",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Y",
+        "word": "Yunnanosaur",
+        "emoji": "🦕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "Q",
+        "word": "Quilled Dino",
+        "emoji": "🦕",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Shield Bearer",
+        "emoji": "🦕",
+        "bgColor": "#546E7A"
+      },
+      {
+        "letter": "A",
+        "word": "Ancient Shield",
+        "emoji": "🦕",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tank Dino",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mighty Armored",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "dino-giant-dinos-1",
+    "title": "Giant Dinosaurs - Part 1",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Argentinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "M",
+        "word": "Mamenchisaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Titanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "S",
+        "word": "Sauropodomorph",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "A",
+        "word": "Apatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "C",
+        "word": "Camarasaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "N",
+        "word": "Nebrasketosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "L",
+        "word": "Lirainosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Q",
+        "word": "Qinlingosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "H",
+        "word": "Haplocheirus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "P",
+        "word": "Prosauropod",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "S",
+        "word": "Shantungosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "L",
+        "word": "Lexovisaurus",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "E",
+        "word": "Eoraptor",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "H",
+        "word": "Hypsilophodon",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "O",
+        "word": "Ouranosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "R",
+        "word": "Rhoetosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Saichania",
+        "emoji": "🦕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Therizinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "V",
+        "word": "Vulcanodontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "W",
+        "word": "Wamweracosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "Y",
+        "word": "Yinlong",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zigongosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "I",
+        "word": "Isisaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "K",
+        "word": "Kronosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "J",
+        "word": "Jobaria",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "U",
+        "word": "Ultrasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      }
+    ]
+  },
+  {
+    "id": "dino-giant-dinos-2",
+    "title": "Giant Dinosaurs - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gastrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Loricosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Malawisaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "N",
+        "word": "Nemegtosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "O",
+        "word": "Opisthocoelicaudia",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "P",
+        "word": "Phuwiangosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "R",
+        "word": "Ruyangosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "S",
+        "word": "Sonorosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "T",
+        "word": "Turiasaurus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "U",
+        "word": "Ubirajara",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "V",
+        "word": "Venenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wintonotitan",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "X",
+        "word": "Xinjiangtitan",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "Y",
+        "word": "Yemenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "Z",
+        "word": "Zapalasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "A",
+        "word": "Angolatitan",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "B",
+        "word": "Barosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "C",
+        "word": "Cetiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "D",
+        "word": "Daxiatitan",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "E",
+        "word": "Erketu",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuisaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gondwanatitan",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "H",
+        "word": "Huanghetitan",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "I",
+        "word": "Indosuchus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "J",
+        "word": "Jaxartosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "K",
+        "word": "Kaijutitan",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "L",
+        "word": "Ligocristus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "M",
+        "word": "Mansourasaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "N",
+        "word": "Notocolossus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "O",
+        "word": "Omeisaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      }
+    ]
+  },
+  {
+    "id": "dino-giant-dinos-3",
+    "title": "Giant Dinosaurs - Part 3",
+    "bgGradient": [
+      "#FFA000",
+      "#FFECB3"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paralititan",
+        "emoji": "🦕",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "Q",
+        "word": "Qubbeosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rapetosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "S",
+        "word": "Saltasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Tastavinsaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "U",
+        "word": "Uberabatitan",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "V",
+        "word": "Valdoraptor",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "W",
+        "word": "Wamweracosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "Y",
+        "word": "Yongjuanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhejiangotitan",
+        "emoji": "🦕",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "A",
+        "word": "Asiatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bactrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "C",
+        "word": "Chubutosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "D",
+        "word": "Dinheirosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "E",
+        "word": "Europasaurus",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "F",
+        "word": "Futalognkosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "G",
+        "word": "Gobititan",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "H",
+        "word": "Hypselosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "I",
+        "word": "Inosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jingshanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "K",
+        "word": "Klamelisaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lirainosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFA726"
+      },
+      {
+        "letter": "M",
+        "word": "Mendozasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "N",
+        "word": "Nanzhousaurus",
+        "emoji": "🦕",
+        "bgColor": "#FB8C00"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithotitan",
+        "emoji": "🦕",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "P",
+        "word": "Pernasaurus",
+        "emoji": "🦕",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "Q",
+        "word": "Qiaowanlong",
+        "emoji": "🦕",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "R",
+        "word": "Ribasaurus",
+        "emoji": "🦕",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "S",
+        "word": "Savannasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF5722"
+      }
+    ]
+  },
+  {
+    "id": "dino-small-dinos-1",
+    "title": "Small Dinosaurs - Part 1",
+    "bgGradient": [
+      "#00897B",
+      "#B2DFDB"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Compsognathus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "M",
+        "word": "Microraptor",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "P",
+        "word": "Parvicursor",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Sinosauropteryx",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "J",
+        "word": "Jeholosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "H",
+        "word": "Hesperonyx",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "E",
+        "word": "Epidexipteryx",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "T",
+        "word": "Theyronyx",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaotingia",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "N",
+        "word": "Nanotyrannus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "O",
+        "word": "Ornitholestes",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "A",
+        "word": "Archaeopteryx",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "U",
+        "word": "Urvogel",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "F",
+        "word": "Fruitadens",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "L",
+        "word": "Lesothosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "T",
+        "word": "Tugulutherium",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "B",
+        "word": "Bambiraptor",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Deinonychus",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "P",
+        "word": "Protarchaeopteryx",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Graciliraptor",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "I",
+        "word": "Inostrancevia",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "C",
+        "word": "Caudipteryx",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "M",
+        "word": "Mei",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "T",
+        "word": "Troodon",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "S",
+        "word": "Sinornithosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "K",
+        "word": "Koparion",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yalvac",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zallisaurodon",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "R",
+        "word": "Raptorex",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      }
+    ]
+  },
+  {
+    "id": "dino-small-dinos-2",
+    "title": "Small Dinosaurs - Part 2",
+    "bgGradient": [
+      "#00796B",
+      "#80CBC4"
+    ],
+    "accentColor": "#00695C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Abrictosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "B",
+        "word": "Bugenosaurus",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "C",
+        "word": "Chirostenotes",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "D",
+        "word": "Dromaeosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "F",
+        "word": "Fusions",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "G",
+        "word": "Gastonosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "H",
+        "word": "Homalocephale",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "J",
+        "word": "Jeholornis",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "K",
+        "word": "Kulceratops",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "L",
+        "word": "Laosaurus",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "M",
+        "word": "Microceratops",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "N",
+        "word": "Nanshiungosaurus",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "O",
+        "word": "Orolceratops",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Psittacosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "Q",
+        "word": "Qinornithosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "R",
+        "word": "Rahonavis",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "S",
+        "word": "Scytalognathus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "T",
+        "word": "Tapinocephalus",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "U",
+        "word": "Unaysaurus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "V",
+        "word": "Vinyaraptor",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "W",
+        "word": "Wannanosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "X",
+        "word": "Xinjiangovenator",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "Y",
+        "word": "Yandusaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhejiangraptor",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "A",
+        "word": "Anfractosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "B",
+        "word": "Borealopelta",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "C",
+        "word": "Camptosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dracorex",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      }
+    ]
+  },
+  {
+    "id": "dino-small-dinos-3",
+    "title": "Small Dinosaurs - Part 3",
+    "bgGradient": [
+      "#00695C",
+      "#4DB6AC"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Elaphrosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "F",
+        "word": "Fabrosaurus",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "G",
+        "word": "Goyocephale",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "H",
+        "word": "Hylaeosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "I",
+        "word": "Ischinosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "J",
+        "word": "Jingshanosaurus",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "K",
+        "word": "Kaijiangosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "L",
+        "word": "Laquintasaura",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "M",
+        "word": "Microceratus",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "N",
+        "word": "Nuthetes",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithomimus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "P",
+        "word": "Placerias",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "Q",
+        "word": "Quadrupedalism",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "R",
+        "word": "Rhabdotus",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "S",
+        "word": "Sauropelta",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "T",
+        "word": "Tawjawisaurus",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "U",
+        "word": "Urbacodon",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "V",
+        "word": "Vectipelta",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "X",
+        "word": "Xenotarsosaurus",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "Y",
+        "word": "Yanornis",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuniceratops",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "A",
+        "word": "Aucasaurus",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "B",
+        "word": "Byronosaurus",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      },
+      {
+        "letter": "C",
+        "word": "Craspedodon",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dracorex",
+        "emoji": "🐉",
+        "bgColor": "#009688"
+      },
+      {
+        "letter": "E",
+        "word": "Eotyrannosaurs",
+        "emoji": "🐉",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "F",
+        "word": "Fruitadens",
+        "emoji": "🐉",
+        "bgColor": "#00796B"
+      },
+      {
+        "letter": "G",
+        "word": "Gasparinisaura",
+        "emoji": "🐉",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "H",
+        "word": "Hypsilophodon",
+        "emoji": "🐉",
+        "bgColor": "#004D40"
+      }
+    ]
+  },
+  {
+    "id": "dino-cretaceous-1",
+    "title": "Cretaceous Period - Part 1",
+    "bgGradient": [
+      "#6A1B9A",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦖",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦖",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦖",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Compsognathus",
+        "emoji": "🦖",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "D",
+        "word": "Dracorex",
+        "emoji": "🦖",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "E",
+        "word": "Euoplocephalus",
+        "emoji": "🦖",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Hesperosaurus",
+        "emoji": "🦖",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus",
+        "emoji": "🦖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "M",
+        "word": "Maiasaura",
+        "emoji": "🦖",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "P",
+        "word": "Psittacosaurus",
+        "emoji": "🦖",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "R",
+        "word": "Rajasaurus",
+        "emoji": "🦖",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "O",
+        "word": "Oviraptorosaur",
+        "emoji": "🦖",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "N",
+        "word": "Nodosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "K",
+        "word": "Kritosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lambeosaurus",
+        "emoji": "🦖",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Toxodon",
+        "emoji": "🦖",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "U",
+        "word": "Uintasaurus",
+        "emoji": "🦖",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "X",
+        "word": "Xenotarsosaurus",
+        "emoji": "🦖",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "Y",
+        "word": "Yandusaurus",
+        "emoji": "🦖",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuolong",
+        "emoji": "🦖",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦖",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "Q",
+        "word": "Qantassaurus",
+        "emoji": "🦖",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "J",
+        "word": "Jaxartosaurus",
+        "emoji": "🦖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦖",
+        "bgColor": "#8E24AA"
+      }
+    ]
+  },
+  {
+    "id": "dino-cretaceous-2",
+    "title": "Cretaceous Period - Part 2",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Argentinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuisaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "H",
+        "word": "Huanghetitan",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Isisaurus",
+        "emoji": "🦕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jaxartosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "K",
+        "word": "Kaijutitan",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "L",
+        "word": "Ligocristus",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "M",
+        "word": "Mamenchisaurus",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "N",
+        "word": "Nemegtosaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "O",
+        "word": "Opisthocoelicaudia",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "P",
+        "word": "Paralititan",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "Q",
+        "word": "Qiaowanlong",
+        "emoji": "🦕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Rapetosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "S",
+        "word": "Saltasaurus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "T",
+        "word": "Tastavinsaurus",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "U",
+        "word": "Uberabatitan",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "V",
+        "word": "Venenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "W",
+        "word": "Wintonotitan",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "X",
+        "word": "Xinjiangtitan",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yemenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "Z",
+        "word": "Zapalasaurus",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "A",
+        "word": "Angolatitan",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "B",
+        "word": "Barosaurus",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "C",
+        "word": "Cetiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "D",
+        "word": "Daxiatitan",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      }
+    ]
+  },
+  {
+    "id": "dino-cretaceous-3",
+    "title": "Cretaceous Period - Part 3",
+    "bgGradient": [
+      "#8E24AA",
+      "#F3E5F5"
+    ],
+    "accentColor": "#7B1FA2",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Erketu",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "F",
+        "word": "Futalognkosaurus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gondwanatitan",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "H",
+        "word": "Hypselosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "I",
+        "word": "Inosaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "J",
+        "word": "Jingshanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "K",
+        "word": "Klamelisaurus",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lirainosaurus",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "M",
+        "word": "Mendozasaurus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "N",
+        "word": "Nanzhousaurus",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithotitan",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "P",
+        "word": "Pernasaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "Q",
+        "word": "Qubbeosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "R",
+        "word": "Ribasaurus",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Savannasaurus",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "T",
+        "word": "Turiasaurus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "U",
+        "word": "Ubirajara",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "V",
+        "word": "Valdoraptor",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "W",
+        "word": "Wamweracosaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "Y",
+        "word": "Yongjuanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhejiangotitan",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "A",
+        "word": "Asiatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "B",
+        "word": "Bactrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#AB47BC"
+      },
+      {
+        "letter": "C",
+        "word": "Chubutosaurus",
+        "emoji": "🦕",
+        "bgColor": "#BA68C8"
+      },
+      {
+        "letter": "D",
+        "word": "Dinheirosaurus",
+        "emoji": "🦕",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "E",
+        "word": "Europasaurus",
+        "emoji": "🦕",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦕",
+        "bgColor": "#F3E5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gobititan",
+        "emoji": "🦕",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "H",
+        "word": "Haplocheirus",
+        "emoji": "🦕",
+        "bgColor": "#9C27B0"
+      }
+    ]
+  },
+  {
+    "id": "dino-jurassic-1",
+    "title": "Jurassic Period - Part 1",
+    "bgGradient": [
+      "#33691E",
+      "#DCEDC8"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "C",
+        "word": "Compsognathus",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "M",
+        "word": "Megalosaurus",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "O",
+        "word": "Oviraptor",
+        "emoji": "🦖",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦖",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "H",
+        "word": "Heterodontosaurus",
+        "emoji": "🐉",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "L",
+        "word": "Limusaurus",
+        "emoji": "🐉",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Q",
+        "word": "Qinling",
+        "emoji": "🐉",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaosaurus",
+        "emoji": "🐉",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "Y",
+        "word": "Yandusaurus",
+        "emoji": "🐉",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuolong",
+        "emoji": "🐉",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "E",
+        "word": "Eoraptor",
+        "emoji": "🐉",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "G",
+        "word": "Guanlong",
+        "emoji": "🦖",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦖",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "J",
+        "word": "Jingshanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kaijiangosaurus",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "N",
+        "word": "Nuthetes",
+        "emoji": "🦖",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "R",
+        "word": "Raptorex",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "S",
+        "word": "Sinraptor",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "U",
+        "word": "Utahraptor",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦖",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "F",
+        "word": "Fabrosaurus",
+        "emoji": "🐉",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "C",
+        "word": "Camptosaurus",
+        "emoji": "🦖",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "D",
+        "word": "Dracorex",
+        "emoji": "🦖",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "T",
+        "word": "Torvosaurus",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      }
+    ]
+  },
+  {
+    "id": "dino-jurassic-2",
+    "title": "Jurassic Period - Part 2",
+    "bgGradient": [
+      "#558B2F",
+      "#F1F8E9"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Barosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "C",
+        "word": "Camarasaurus",
+        "emoji": "🦕",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "D",
+        "word": "Dacentrurus",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "E",
+        "word": "Eggisaurus",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "G",
+        "word": "Gastonosaurus",
+        "emoji": "🦖",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "H",
+        "word": "Haplocheirus",
+        "emoji": "🦖",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "I",
+        "word": "Issanosaurs",
+        "emoji": "🦖",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jobaria",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "K",
+        "word": "Koparion",
+        "emoji": "🐉",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "L",
+        "word": "Lexovisaurus",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "M",
+        "word": "Mamenchisaurus",
+        "emoji": "🦕",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "N",
+        "word": "Nebrasketosaurus",
+        "emoji": "🦕",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "O",
+        "word": "Omeisaurus",
+        "emoji": "🦕",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "P",
+        "word": "Prosauropod",
+        "emoji": "🦕",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "Q",
+        "word": "Qinling",
+        "emoji": "🦖",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rhoetosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "S",
+        "word": "Saichania",
+        "emoji": "🦖",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "T",
+        "word": "Therizinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "U",
+        "word": "Unaysaurus",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "V",
+        "word": "Vulcanodontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "W",
+        "word": "Wamweracosaurus",
+        "emoji": "🦕",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "Y",
+        "word": "Yinlong",
+        "emoji": "🦖",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zigongosaurus",
+        "emoji": "🦕",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "A",
+        "word": "Aisaurus",
+        "emoji": "🦕",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "C",
+        "word": "Cetiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "D",
+        "word": "Dracorex",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      }
+    ]
+  },
+  {
+    "id": "dino-jurassic-3",
+    "title": "Jurassic Period - Part 3",
+    "bgGradient": [
+      "#689F38",
+      "#F1F8E9"
+    ],
+    "accentColor": "#558B2F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Eoraptor",
+        "emoji": "🐉",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "F",
+        "word": "Fruitadens",
+        "emoji": "🐉",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "G",
+        "word": "Gasparinisaura",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "H",
+        "word": "Hesperosaurus",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "J",
+        "word": "Jeholosaurus",
+        "emoji": "🐉",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "K",
+        "word": "Kaijiangosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "L",
+        "word": "Laosaurus",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "M",
+        "word": "Microceratops",
+        "emoji": "🐉",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "N",
+        "word": "Nanshiungosaurus",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithomimus",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "P",
+        "word": "Psittacosaurus",
+        "emoji": "🐉",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "Q",
+        "word": "Qantassaurus",
+        "emoji": "🦖",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "R",
+        "word": "Rahonavis",
+        "emoji": "🐉",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "S",
+        "word": "Sinornithosaurus",
+        "emoji": "🐉",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "T",
+        "word": "Troodon",
+        "emoji": "🐉",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "U",
+        "word": "Unaysaurus",
+        "emoji": "🦖",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "V",
+        "word": "Vinyaraptor",
+        "emoji": "🐉",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaotingia",
+        "emoji": "🐉",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "Y",
+        "word": "Yandusaurus",
+        "emoji": "🐉",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "Z",
+        "word": "Zallisaurodon",
+        "emoji": "🐉",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "A",
+        "word": "Abrictosaurus",
+        "emoji": "🐉",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "B",
+        "word": "Bugenosaurus",
+        "emoji": "🐉",
+        "bgColor": "#9CCC65"
+      },
+      {
+        "letter": "C",
+        "word": "Chirostenotes",
+        "emoji": "🦖",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "D",
+        "word": "Dromaeosaurus",
+        "emoji": "🦖",
+        "bgColor": "#C5E1A5"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontosaurus",
+        "emoji": "🦖",
+        "bgColor": "#DCEDC8"
+      },
+      {
+        "letter": "F",
+        "word": "Fusions",
+        "emoji": "🦖",
+        "bgColor": "#F1F8E9"
+      },
+      {
+        "letter": "G",
+        "word": "Goyocephale",
+        "emoji": "🦖",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "H",
+        "word": "Homalocephale",
+        "emoji": "🦖",
+        "bgColor": "#7CB342"
+      }
+    ]
+  },
+  {
+    "id": "dino-amazing-dinos-1",
+    "title": "Amazing Dinosaurs - Part 1",
+    "bgGradient": [
+      "#C62828",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "T",
+        "word": "Therizinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "D",
+        "word": "Dilophosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "M",
+        "word": "Megalosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "B",
+        "word": "Baryonyx",
+        "emoji": "🦖",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Rajasaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "U",
+        "word": "Utahraptor",
+        "emoji": "🦖",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "O",
+        "word": "Oviraptor",
+        "emoji": "🦖",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "P",
+        "word": "Proceratosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "N",
+        "word": "Neovenator",
+        "emoji": "🦖",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "H",
+        "word": "Herrerasaurus",
+        "emoji": "🦖",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "K",
+        "word": "Kronosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "X",
+        "word": "Xenocheirus",
+        "emoji": "🦖",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "Y",
+        "word": "Yangchuanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuniceratops",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "L",
+        "word": "Lexovisaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eoraptor",
+        "emoji": "🐉",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "J",
+        "word": "Jeholosaurus",
+        "emoji": "🐉",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "Q",
+        "word": "Qinling",
+        "emoji": "🦖",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦖",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "I",
+        "word": "Isisaurus",
+        "emoji": "🦕",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "C",
+        "word": "Cryolophosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "E",
+        "word": "Eustreptospondylus",
+        "emoji": "🦖",
+        "bgColor": "#FFEBEE"
+      }
+    ]
+  },
+  {
+    "id": "dino-amazing-dinos-2",
+    "title": "Amazing Dinosaurs - Part 2",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#C62828",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Argentinosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuisaurus",
+        "emoji": "🦖",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus",
+        "emoji": "🦖",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "H",
+        "word": "Hesperosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦖",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "J",
+        "word": "Jaxartosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kaijutitan",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "L",
+        "word": "Limusaurus",
+        "emoji": "🐉",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "M",
+        "word": "Mamenchisaurus",
+        "emoji": "🦕",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "N",
+        "word": "Nemegtosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "O",
+        "word": "Opisthocoelicaudia",
+        "emoji": "🦕",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "P",
+        "word": "Paralititan",
+        "emoji": "🦕",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "Q",
+        "word": "Qiaowanlong",
+        "emoji": "🦕",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "R",
+        "word": "Rapetosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "S",
+        "word": "Saltasaurus",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tastavinsaurus",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "U",
+        "word": "Uberabatitan",
+        "emoji": "🦕",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "V",
+        "word": "Venenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "W",
+        "word": "Wintonotitan",
+        "emoji": "🦕",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "X",
+        "word": "Xinjiangtitan",
+        "emoji": "🦕",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yemenosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "Z",
+        "word": "Zapalasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "A",
+        "word": "Angolatitan",
+        "emoji": "🦕",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "B",
+        "word": "Barosaurus",
+        "emoji": "🦕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cetiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "D",
+        "word": "Daxiatitan",
+        "emoji": "🦕",
+        "bgColor": "#EF5350"
+      }
+    ]
+  },
+  {
+    "id": "dino-amazing-dinos-3",
+    "title": "Amazing Dinosaurs - Part 3",
+    "bgGradient": [
+      "#E53935",
+      "#FFEBEE"
+    ],
+    "accentColor": "#D32F2F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Erketu",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "F",
+        "word": "Futalognkosaurus",
+        "emoji": "🦕",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "G",
+        "word": "Gondwanatitan",
+        "emoji": "🦕",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "H",
+        "word": "Hypselosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "I",
+        "word": "Inosaurus",
+        "emoji": "🦕",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "J",
+        "word": "Jingshanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "K",
+        "word": "Klamelisaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "L",
+        "word": "Lirainosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "M",
+        "word": "Mendozasaurus",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "N",
+        "word": "Nanzhousaurus",
+        "emoji": "🦕",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "O",
+        "word": "Ornithotitan",
+        "emoji": "🦕",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "P",
+        "word": "Pernasaurus",
+        "emoji": "🦕",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "Q",
+        "word": "Qubbeosaurus",
+        "emoji": "🦕",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "R",
+        "word": "Ribasaurus",
+        "emoji": "🦕",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "S",
+        "word": "Savannasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "T",
+        "word": "Turiasaurus",
+        "emoji": "🦕",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "U",
+        "word": "Ubirajara",
+        "emoji": "🦖",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "V",
+        "word": "Valdoraptor",
+        "emoji": "🦖",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "W",
+        "word": "Wamweracosaurus",
+        "emoji": "🦕",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "X",
+        "word": "Xuanhanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "Y",
+        "word": "Yongjuanosaurus",
+        "emoji": "🦕",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "Z",
+        "word": "Zhejiangotitan",
+        "emoji": "🦕",
+        "bgColor": "#F8BFBF"
+      },
+      {
+        "letter": "A",
+        "word": "Asiatosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "B",
+        "word": "Bactrosaurus",
+        "emoji": "🦖",
+        "bgColor": "#FFEBEE"
+      },
+      {
+        "letter": "C",
+        "word": "Chubutosaurus",
+        "emoji": "🦕",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "D",
+        "word": "Dinheirosaurus",
+        "emoji": "🦕",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "E",
+        "word": "Europasaurus",
+        "emoji": "🦖",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦖",
+        "bgColor": "#E57373"
+      },
+      {
+        "letter": "G",
+        "word": "Gobititan",
+        "emoji": "🦕",
+        "bgColor": "#EF9A9A"
+      },
+      {
+        "letter": "H",
+        "word": "Haplocheirus",
+        "emoji": "🦖",
+        "bgColor": "#F8BFBF"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: FLOWER NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Garden Blooms - Part 1 (flowers-garden-blooms-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-garden-blooms-1-audio/
+
+Letter 0: R for Rose
+Letter 1: S for Sunflower
+Letter 2: L for Lotus
+Letter 3: M for Marigold
+Letter 4: J for Jasmine
+Letter 5: H for Hibiscus
+Letter 6: D for Dahlia
+Letter 7: T for Tulip
+Letter 8: L for Lily
+Letter 9: C for Chrysanthemum
+Letter 10: O for Orchid
+Letter 11: P for Petunia
+Letter 12: G for Gladiolus
+Letter 13: I for Iris
+Letter 14: C for Carnation
+Letter 15: V for Violet
+Letter 16: B for Bougainvillea
+Letter 17: F for Frangipani
+Letter 18: A for Aster
+Letter 19: N for Narcissus
+Letter 20: K for Kaner
+Letter 21: W for Wisteria
+Letter 22: E for Elderflower
+Letter 23: U for Umbrella Plant
+Letter 24: X for Xeranthemum
+Letter 25: Y for Yellow Rose
+Letter 26: Z for Zinnia
+Letter 27: Q for Queen of Night
+Letter 28: P for Pansy
+Letter 29: S for Sweet Pea
+
+PLAIN TEXT:
+R for Rose
+S for Sunflower
+L for Lotus
+M for Marigold
+J for Jasmine
+H for Hibiscus
+D for Dahlia
+T for Tulip
+L for Lily
+C for Chrysanthemum
+O for Orchid
+P for Petunia
+G for Gladiolus
+I for Iris
+C for Carnation
+V for Violet
+B for Bougainvillea
+F for Frangipani
+A for Aster
+N for Narcissus
+K for Kaner
+W for Wisteria
+E for Elderflower
+U for Umbrella Plant
+X for Xeranthemum
+Y for Yellow Rose
+Z for Zinnia
+Q for Queen of Night
+P for Pansy
+S for Sweet Pea
+
+
+----------------------------------------------------------------------
+#2. Garden Blooms - Part 2 (flowers-garden-blooms-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-garden-blooms-2-audio/
+
+Letter 0: C for Champa
+Letter 1: R for Rajnigandha
+Letter 2: G for Genda
+Letter 3: M for Mogra
+Letter 4: K for Kewda
+Letter 5: P for Palash
+Letter 6: S for Sadabahar
+Letter 7: A for Aparajita
+Letter 8: N for Night Jasmine
+Letter 9: B for Bakul
+Letter 10: T for Tagar
+Letter 11: L for Lavender
+Letter 12: D for Daffodil
+Letter 13: H for Honeysuckle
+Letter 14: F for Forget Me Not
+Letter 15: O for Oleander
+Letter 16: W for Water Lily
+Letter 17: J for Juhi
+Letter 18: E for Edelweiss
+Letter 19: I for Indian Cork
+Letter 20: V for Verbena
+Letter 21: U for Upas Flower
+Letter 22: X for Xyris
+Letter 23: Y for Ylang Ylang
+Letter 24: Z for Zephyranthes
+Letter 25: Q for Queen Anne Lace
+Letter 26: R for Rangoon Creeper
+Letter 27: C for Cosmos
+Letter 28: P for Plumeria
+Letter 29: G for Gulmohar
+
+PLAIN TEXT:
+C for Champa
+R for Rajnigandha
+G for Genda
+M for Mogra
+K for Kewda
+P for Palash
+S for Sadabahar
+A for Aparajita
+N for Night Jasmine
+B for Bakul
+T for Tagar
+L for Lavender
+D for Daffodil
+H for Honeysuckle
+F for Forget Me Not
+O for Oleander
+W for Water Lily
+J for Juhi
+E for Edelweiss
+I for Indian Cork
+V for Verbena
+U for Upas Flower
+X for Xyris
+Y for Ylang Ylang
+Z for Zephyranthes
+Q for Queen Anne Lace
+R for Rangoon Creeper
+C for Cosmos
+P for Plumeria
+G for Gulmohar
+
+
+----------------------------------------------------------------------
+#3. Garden Blooms - Part 3 (flowers-garden-blooms-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-garden-blooms-3-audio/
+
+Letter 0: A for Amaryllis
+Letter 1: B for Begonia
+Letter 2: C for Camellia
+Letter 3: D for Daisy
+Letter 4: E for Evening Primrose
+Letter 5: F for Foxglove
+Letter 6: G for Gardenia
+Letter 7: H for Heather
+Letter 8: I for Impatiens
+Letter 9: J for Jacaranda
+Letter 10: K for Kanakambaram
+Letter 11: L for Larkspur
+Letter 12: M for Magnolia
+Letter 13: N for Nerium
+Letter 14: O for Orange Blossom
+Letter 15: P for Poppy
+Letter 16: Q for Quaker Ladies
+Letter 17: R for Ranunculus
+Letter 18: S for Snapdragon
+Letter 19: T for Tuberose
+Letter 20: U for Ursinia
+Letter 21: V for Vinca
+Letter 22: W for White Lily
+Letter 23: X for Xanthium
+Letter 24: Y for Yellow Dahlia
+Letter 25: Z for Zenobia
+Letter 26: M for Morning Glory
+Letter 27: S for Star Jasmine
+Letter 28: H for Hollyhock
+Letter 29: P for Periwinkle
+
+PLAIN TEXT:
+A for Amaryllis
+B for Begonia
+C for Camellia
+D for Daisy
+E for Evening Primrose
+F for Foxglove
+G for Gardenia
+H for Heather
+I for Impatiens
+J for Jacaranda
+K for Kanakambaram
+L for Larkspur
+M for Magnolia
+N for Nerium
+O for Orange Blossom
+P for Poppy
+Q for Quaker Ladies
+R for Ranunculus
+S for Snapdragon
+T for Tuberose
+U for Ursinia
+V for Vinca
+W for White Lily
+X for Xanthium
+Y for Yellow Dahlia
+Z for Zenobia
+M for Morning Glory
+S for Star Jasmine
+H for Hollyhock
+P for Periwinkle
+
+
+----------------------------------------------------------------------
+#4. Wild Flowers - Part 1 (flowers-wild-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-wild-flowers-1-audio/
+
+Letter 0: D for Dandelion
+Letter 1: C for Clover
+Letter 2: B for Buttercup
+Letter 3: P for Poppy
+Letter 4: L for Lupine
+Letter 5: W for Wildflower
+Letter 6: T for Thistle
+Letter 7: S for Sunray
+Letter 8: H for Heliotrope
+Letter 9: A for Anemone
+Letter 10: G for Goldenrod
+Letter 11: M for Meadow Sage
+Letter 12: F for Fireweed
+Letter 13: N for Nigella
+Letter 14: R for Red Campion
+Letter 15: K for Knapweed
+Letter 16: O for Oxeye Daisy
+Letter 17: J for Jack in Pulpit
+Letter 18: E for Echinacea
+Letter 19: I for Indian Paintbrush
+Letter 20: V for Vetch
+Letter 21: U for Umbrella Flower
+Letter 22: X for Xerophyte Bloom
+Letter 23: Y for Yarrow
+Letter 24: Z for Zigzag Goldenrod
+Letter 25: Q for Queen Cup
+Letter 26: B for Bluebell
+Letter 27: C for Cornflower
+Letter 28: S for Scarlet Pimpernel
+Letter 29: M for Milkweed
+
+PLAIN TEXT:
+D for Dandelion
+C for Clover
+B for Buttercup
+P for Poppy
+L for Lupine
+W for Wildflower
+T for Thistle
+S for Sunray
+H for Heliotrope
+A for Anemone
+G for Goldenrod
+M for Meadow Sage
+F for Fireweed
+N for Nigella
+R for Red Campion
+K for Knapweed
+O for Oxeye Daisy
+J for Jack in Pulpit
+E for Echinacea
+I for Indian Paintbrush
+V for Vetch
+U for Umbrella Flower
+X for Xerophyte Bloom
+Y for Yarrow
+Z for Zigzag Goldenrod
+Q for Queen Cup
+B for Bluebell
+C for Cornflower
+S for Scarlet Pimpernel
+M for Milkweed
+
+
+----------------------------------------------------------------------
+#5. Wild Flowers - Part 2 (flowers-wild-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-wild-flowers-2-audio/
+
+Letter 0: P for Primrose
+Letter 1: V for Violet
+Letter 2: B for Bird of Paradise
+Letter 3: H for Hyacinth
+Letter 4: S for Snowdrop
+Letter 5: C for Crocus
+Letter 6: R for Ragged Robin
+Letter 7: T for Trillium
+Letter 8: A for Alpine Aster
+Letter 9: G for Globe Thistle
+Letter 10: L for Lady Slipper
+Letter 11: M for Mountain Laurel
+Letter 12: D for Dog Rose
+Letter 13: K for King Protea
+Letter 14: F for Freesia
+Letter 15: N for Native Fuchsia
+Letter 16: O for Orange Hawkweed
+Letter 17: W for Wood Sorrel
+Letter 18: J for Joe Pye Weed
+Letter 19: E for Everlasting
+Letter 20: I for Indian Blanket
+Letter 21: U for Upland Daisy
+Letter 22: X for Xanthorrhoea
+Letter 23: Y for Yellow Poppy
+Letter 24: Z for Zephyr Lily
+Letter 25: Q for Queen Protea
+Letter 26: B for Bindweed
+Letter 27: S for Sweet William
+Letter 28: C for Columbine
+Letter 29: P for Passiflora
+
+PLAIN TEXT:
+P for Primrose
+V for Violet
+B for Bird of Paradise
+H for Hyacinth
+S for Snowdrop
+C for Crocus
+R for Ragged Robin
+T for Trillium
+A for Alpine Aster
+G for Globe Thistle
+L for Lady Slipper
+M for Mountain Laurel
+D for Dog Rose
+K for King Protea
+F for Freesia
+N for Native Fuchsia
+O for Orange Hawkweed
+W for Wood Sorrel
+J for Joe Pye Weed
+E for Everlasting
+I for Indian Blanket
+U for Upland Daisy
+X for Xanthorrhoea
+Y for Yellow Poppy
+Z for Zephyr Lily
+Q for Queen Protea
+B for Bindweed
+S for Sweet William
+C for Columbine
+P for Passiflora
+
+
+----------------------------------------------------------------------
+#6. Wild Flowers - Part 3 (flowers-wild-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-wild-flowers-3-audio/
+
+Letter 0: W for Wallflower
+Letter 1: A for Azalea
+Letter 2: S for Sakura
+Letter 3: C for Cherry Blossom
+Letter 4: L for Lily of Valley
+Letter 5: P for Peony
+Letter 6: R for Rhododendron
+Letter 7: T for Tiger Lily
+Letter 8: G for Geranium
+Letter 9: M for Marigold Wild
+Letter 10: B for Black Eyed Susan
+Letter 11: D for Desert Rose
+Letter 12: F for Flame Lily
+Letter 13: H for Heliconia
+Letter 14: K for Kafir Lily
+Letter 15: N for Nasturtium
+Letter 16: O for Orchid Wild
+Letter 17: J for Jasmine Wild
+Letter 18: E for Edelweiss
+Letter 19: I for Iris Wild
+Letter 20: V for Vanda Orchid
+Letter 21: U for Urn Plant
+Letter 22: X for Xeric Sage
+Letter 23: Y for Yucca Bloom
+Letter 24: Z for Zen Lotus
+Letter 25: Q for Quill Chrysanthemum
+Letter 26: M for Monsoon Lily
+Letter 27: S for Spider Lily
+Letter 28: H for Hawthorn Bloom
+Letter 29: C for Coral Vine
+
+PLAIN TEXT:
+W for Wallflower
+A for Azalea
+S for Sakura
+C for Cherry Blossom
+L for Lily of Valley
+P for Peony
+R for Rhododendron
+T for Tiger Lily
+G for Geranium
+M for Marigold Wild
+B for Black Eyed Susan
+D for Desert Rose
+F for Flame Lily
+H for Heliconia
+K for Kafir Lily
+N for Nasturtium
+O for Orchid Wild
+J for Jasmine Wild
+E for Edelweiss
+I for Iris Wild
+V for Vanda Orchid
+U for Urn Plant
+X for Xeric Sage
+Y for Yucca Bloom
+Z for Zen Lotus
+Q for Quill Chrysanthemum
+M for Monsoon Lily
+S for Spider Lily
+H for Hawthorn Bloom
+C for Coral Vine
+
+
+----------------------------------------------------------------------
+#7. Tropical Flowers - Part 1 (flowers-tropical-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-tropical-flowers-1-audio/
+
+Letter 0: H for Hibiscus
+Letter 1: P for Plumeria
+Letter 2: B for Bird of Paradise
+Letter 3: O for Orchid
+Letter 4: A for Anthurium
+Letter 5: F for Frangipani
+Letter 6: G for Ginger Lily
+Letter 7: H for Heliconia
+Letter 8: J for Jade Vine
+Letter 9: L for Lantana
+Letter 10: M for Mandevilla
+Letter 11: N for Nymphaea
+Letter 12: P for Passion Flower
+Letter 13: R for Red Ginger
+Letter 14: S for Shell Ginger
+Letter 15: T for Torch Ginger
+Letter 16: C for Canna Lily
+Letter 17: D for Desert Rose
+Letter 18: K for Kahili Ginger
+Letter 19: W for Wax Flower
+Letter 20: E for Epidendrum
+Letter 21: I for Ixora
+Letter 22: V for Vanda
+Letter 23: U for Urania Bloom
+Letter 24: X for Xanthostemon
+Letter 25: Y for Yellow Allamanda
+Letter 26: Z for Zingiberaceae
+Letter 27: Q for Queen Sago
+Letter 28: B for Bottlebrush
+Letter 29: C for Copa de Oro
+
+PLAIN TEXT:
+H for Hibiscus
+P for Plumeria
+B for Bird of Paradise
+O for Orchid
+A for Anthurium
+F for Frangipani
+G for Ginger Lily
+H for Heliconia
+J for Jade Vine
+L for Lantana
+M for Mandevilla
+N for Nymphaea
+P for Passion Flower
+R for Red Ginger
+S for Shell Ginger
+T for Torch Ginger
+C for Canna Lily
+D for Desert Rose
+K for Kahili Ginger
+W for Wax Flower
+E for Epidendrum
+I for Ixora
+V for Vanda
+U for Urania Bloom
+X for Xanthostemon
+Y for Yellow Allamanda
+Z for Zingiberaceae
+Q for Queen Sago
+B for Bottlebrush
+C for Copa de Oro
+
+
+----------------------------------------------------------------------
+#8. Tropical Flowers - Part 2 (flowers-tropical-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-tropical-flowers-2-audio/
+
+Letter 0: C for Crossandra
+Letter 1: K for Kalachuchi
+Letter 2: A for African Violet
+Letter 3: L for Lotus Pink
+Letter 4: M for Mexican Sunflower
+Letter 5: S for Strelitzia
+Letter 6: P for Protea
+Letter 7: R for Red Oleander
+Letter 8: T for Tiare
+Letter 9: G for Golden Trumpet
+Letter 10: B for Barleria
+Letter 11: D for Duranta
+Letter 12: F for Fire Bush
+Letter 13: H for Hoya
+Letter 14: N for Nepenthes
+Letter 15: O for Orange Jasmine
+Letter 16: J for Jatropha
+Letter 17: W for White Ginger
+Letter 18: E for Eucharis
+Letter 19: I for Indian Shot
+Letter 20: V for Victoria Lily
+Letter 21: U for Umbrella Tree Flower
+Letter 22: X for Xylobium
+Letter 23: Y for Yellow Bell
+Letter 24: Z for Zebra Plant
+Letter 25: Q for Queen Emma Lily
+Letter 26: C for Cattleya
+Letter 27: S for Sampaguita
+Letter 28: P for Pink Ginger
+Letter 29: M for Madagascar Jasmine
+
+PLAIN TEXT:
+C for Crossandra
+K for Kalachuchi
+A for African Violet
+L for Lotus Pink
+M for Mexican Sunflower
+S for Strelitzia
+P for Protea
+R for Red Oleander
+T for Tiare
+G for Golden Trumpet
+B for Barleria
+D for Duranta
+F for Fire Bush
+H for Hoya
+N for Nepenthes
+O for Orange Jasmine
+J for Jatropha
+W for White Ginger
+E for Eucharis
+I for Indian Shot
+V for Victoria Lily
+U for Umbrella Tree Flower
+X for Xylobium
+Y for Yellow Bell
+Z for Zebra Plant
+Q for Queen Emma Lily
+C for Cattleya
+S for Sampaguita
+P for Pink Ginger
+M for Madagascar Jasmine
+
+
+----------------------------------------------------------------------
+#9. Tropical Flowers - Part 3 (flowers-tropical-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-tropical-flowers-3-audio/
+
+Letter 0: A for Anthurium
+Letter 1: B for Bird of Paradise
+Letter 2: P for Protea
+Letter 3: S for Strelitzia
+Letter 4: H for Heliconia
+Letter 5: G for Ginger
+Letter 6: P for Plumeria
+Letter 7: C for Clivia
+Letter 8: A for Alpinia
+Letter 9: A for Aechmea
+Letter 10: B for Bromeliaceae
+Letter 11: M for Monstera
+Letter 12: I for Ixora
+Letter 13: C for Costus
+Letter 14: E for Etlingera
+Letter 15: T for Tapeinosperma
+Letter 16: R for Rafflesia
+Letter 17: V for Vanda
+Letter 18: C for Cattleya
+Letter 19: G for Guaiacum
+Letter 20: W for Wisteria
+Letter 21: M for Mandevilla
+Letter 22: T for Tecomaria
+Letter 23: I for Ipomoea
+Letter 24: B for Bougainvillea
+Letter 25: A for Allamanda
+Letter 26: T for Thunbergia
+Letter 27: P for Passiflora
+Letter 28: G for Gloriosa
+Letter 29: K for Kniphofia
+
+PLAIN TEXT:
+A for Anthurium
+B for Bird of Paradise
+P for Protea
+S for Strelitzia
+H for Heliconia
+G for Ginger
+P for Plumeria
+C for Clivia
+A for Alpinia
+A for Aechmea
+B for Bromeliaceae
+M for Monstera
+I for Ixora
+C for Costus
+E for Etlingera
+T for Tapeinosperma
+R for Rafflesia
+V for Vanda
+C for Cattleya
+G for Guaiacum
+W for Wisteria
+M for Mandevilla
+T for Tecomaria
+I for Ipomoea
+B for Bougainvillea
+A for Allamanda
+T for Thunbergia
+P for Passiflora
+G for Gloriosa
+K for Kniphofia
+
+
+----------------------------------------------------------------------
+#10. Spring Flowers - Part 1 (flowers-spring-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-spring-flowers-1-audio/
+
+Letter 0: A for Apple Blossom
+Letter 1: C for Cherry Blossom
+Letter 2: A for Almond Blossom
+Letter 3: F for Forsythia
+Letter 4: D for Daffodil
+Letter 5: H for Hyacinth
+Letter 6: P for Primrose
+Letter 7: H for Hellebore
+Letter 8: C for Crocuses
+Letter 9: A for Anemone
+Letter 10: B for Bleeding Heart
+Letter 11: C for Columbine
+Letter 12: C for Coral Bells
+Letter 13: C for Creeping Phlox
+Letter 14: D for Dianthus
+Letter 15: E for Euonymus
+Letter 16: F for Forget-me-not
+Letter 17: F for Fritillaria
+Letter 18: G for Geranium
+Letter 19: H for Hellebore
+Letter 20: I for Iberis
+Letter 21: J for Jacob's Ladder
+Letter 22: L for Lamium
+Letter 23: L for Lenten Rose
+Letter 24: M for Muscari
+Letter 25: P for Pansy
+Letter 26: P for Pussy Willow
+Letter 27: R for Ranunculus
+Letter 28: S for Sedum
+Letter 29: T for Thalictrum
+
+PLAIN TEXT:
+A for Apple Blossom
+C for Cherry Blossom
+A for Almond Blossom
+F for Forsythia
+D for Daffodil
+H for Hyacinth
+P for Primrose
+H for Hellebore
+C for Crocuses
+A for Anemone
+B for Bleeding Heart
+C for Columbine
+C for Coral Bells
+C for Creeping Phlox
+D for Dianthus
+E for Euonymus
+F for Forget-me-not
+F for Fritillaria
+G for Geranium
+H for Hellebore
+I for Iberis
+J for Jacob's Ladder
+L for Lamium
+L for Lenten Rose
+M for Muscari
+P for Pansy
+P for Pussy Willow
+R for Ranunculus
+S for Sedum
+T for Thalictrum
+
+
+----------------------------------------------------------------------
+#11. Spring Flowers - Part 2 (flowers-spring-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-spring-flowers-2-audio/
+
+Letter 0: B for Bleeding Heart
+Letter 1: B for Brunnera
+Letter 2: C for Candytuft
+Letter 3: C for Chionodoxa
+Letter 4: C for Corydalis
+Letter 5: C for Cyclamen
+Letter 6: D for Doronicum
+Letter 7: E for Epimedium
+Letter 8: E for Euphorbia
+Letter 9: H for Helleborus
+Letter 10: H for Hepatica
+Letter 11: I for Isopyrum
+Letter 12: K for Kenilworth Ivy
+Letter 13: L for Lamium
+Letter 14: L for Lathyrus
+Letter 15: L for Leucojum
+Letter 16: L for Liriope
+Letter 17: M for Mazus
+Letter 18: M for Mertensia
+Letter 19: M for Muscari
+Letter 20: O for Oenothera
+Letter 21: O for Ornithogalum
+Letter 22: P for Pachysandra
+Letter 23: P for Pulsatilla
+Letter 24: R for Ranunculus
+Letter 25: S for Sanguinaria
+Letter 26: S for Saxifraga
+Letter 27: S for Scilla
+Letter 28: S for Speedwell
+Letter 29: T for Trillium
+
+PLAIN TEXT:
+B for Bleeding Heart
+B for Brunnera
+C for Candytuft
+C for Chionodoxa
+C for Corydalis
+C for Cyclamen
+D for Doronicum
+E for Epimedium
+E for Euphorbia
+H for Helleborus
+H for Hepatica
+I for Isopyrum
+K for Kenilworth Ivy
+L for Lamium
+L for Lathyrus
+L for Leucojum
+L for Liriope
+M for Mazus
+M for Mertensia
+M for Muscari
+O for Oenothera
+O for Ornithogalum
+P for Pachysandra
+P for Pulsatilla
+R for Ranunculus
+S for Sanguinaria
+S for Saxifraga
+S for Scilla
+S for Speedwell
+T for Trillium
+
+
+----------------------------------------------------------------------
+#12. Spring Flowers - Part 3 (flowers-spring-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-spring-flowers-3-audio/
+
+Letter 0: T for Trollius
+Letter 1: U for Uvularia
+Letter 2: V for Veronica
+Letter 3: V for Vinca
+Letter 4: V for Violets
+Letter 5: W for Waldsteinia
+Letter 6: W for Whitlow Grass
+Letter 7: W for Winter Daphne
+Letter 8: W for Woodruff
+Letter 9: X for Xanthorhiza
+Letter 10: Y for Yarrow
+Letter 11: Y for Yellowstar Flower
+Letter 12: Y for Yucca
+Letter 13: Z for Zephyranthes
+Letter 14: Z for Zigadenus
+Letter 15: P for Primula
+Letter 16: P for Polyanthus
+Letter 17: A for Aubretia
+Letter 18: A for Armeria
+Letter 19: A for Aquilegia
+Letter 20: A for Arabis
+Letter 21: A for Argemone
+Letter 22: A for Arisaema
+Letter 23: A for Arthropodium
+Letter 24: A for Asarum
+Letter 25: A for Asclepias
+Letter 26: A for Asphodeline
+Letter 27: A for Asphodelus
+Letter 28: A for Astilbe
+Letter 29: A for Astilboides
+
+PLAIN TEXT:
+T for Trollius
+U for Uvularia
+V for Veronica
+V for Vinca
+V for Violets
+W for Waldsteinia
+W for Whitlow Grass
+W for Winter Daphne
+W for Woodruff
+X for Xanthorhiza
+Y for Yarrow
+Y for Yellowstar Flower
+Y for Yucca
+Z for Zephyranthes
+Z for Zigadenus
+P for Primula
+P for Polyanthus
+A for Aubretia
+A for Armeria
+A for Aquilegia
+A for Arabis
+A for Argemone
+A for Arisaema
+A for Arthropodium
+A for Asarum
+A for Asclepias
+A for Asphodeline
+A for Asphodelus
+A for Astilbe
+A for Astilboides
+
+
+----------------------------------------------------------------------
+#13. Wedding Flowers - Part 1 (flowers-wedding-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-wedding-flowers-1-audio/
+
+Letter 0: R for Rose
+Letter 1: P for Peony
+Letter 2: H for Hydrangea
+Letter 3: C for Carnation
+Letter 4: C for Calla Lily
+Letter 5: F for Freesia
+Letter 6: R for Ranunculus
+Letter 7: L for Lisianthus
+Letter 8: S for Stock
+Letter 9: A for Astilbe
+Letter 10: W for Waxflower
+Letter 11: H for Hypericum
+Letter 12: S for Sweet Pea
+Letter 13: B for Butterfly Ranunculus
+Letter 14: B for Blush Rose
+Letter 15: G for Garden Rose
+Letter 16: J for Juliet Rose
+Letter 17: Q for Quicksand Rose
+Letter 18: C for Cappuccino Rose
+Letter 19: C for Cappuccino Rose
+Letter 20: Q for Quicksand Rose
+Letter 21: C for Cappuccino Rose
+Letter 22: Q for Quicksand Rose
+Letter 23: C for Cappuccino Rose
+Letter 24: Q for Quicksand Rose
+Letter 25: Q for Quicksand Rose
+Letter 26: C for Cappuccino Rose
+Letter 27: C for Cappuccino Rose
+Letter 28: Q for Quicksand Rose
+Letter 29: C for Cappuccino Rose
+
+PLAIN TEXT:
+R for Rose
+P for Peony
+H for Hydrangea
+C for Carnation
+C for Calla Lily
+F for Freesia
+R for Ranunculus
+L for Lisianthus
+S for Stock
+A for Astilbe
+W for Waxflower
+H for Hypericum
+S for Sweet Pea
+B for Butterfly Ranunculus
+B for Blush Rose
+G for Garden Rose
+J for Juliet Rose
+Q for Quicksand Rose
+C for Cappuccino Rose
+C for Cappuccino Rose
+Q for Quicksand Rose
+C for Cappuccino Rose
+Q for Quicksand Rose
+C for Cappuccino Rose
+Q for Quicksand Rose
+Q for Quicksand Rose
+C for Cappuccino Rose
+C for Cappuccino Rose
+Q for Quicksand Rose
+C for Cappuccino Rose
+
+
+----------------------------------------------------------------------
+#14. Wedding Flowers - Part 2 (flowers-wedding-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-wedding-flowers-2-audio/
+
+Letter 0: E for Eucalyptus
+Letter 1: R for Ruscus
+Letter 2: S for Salal
+Letter 3: P for Pittosporum
+Letter 4: D for Dusty Miller
+Letter 5: L for Leather Leaf
+Letter 6: W for Waxflower
+Letter 7: D for Dahlias
+Letter 8: Z for Zinnias
+Letter 9: C for Celosia
+Letter 10: V for Veronica
+Letter 11: S for Spray Roses
+Letter 12: T for Thistle
+Letter 13: S for Scabiosa
+Letter 14: S for Solidago
+Letter 15: S for Statice
+Letter 16: B for Baby Breath
+Letter 17: Q for Queen Anne's Lace
+Letter 18: A for Aster
+Letter 19: G for Gerbera
+Letter 20: S for Sunflower
+Letter 21: S for Sunflower
+Letter 22: S for Sunflower
+Letter 23: S for Sunflower
+Letter 24: S for Sunflower
+Letter 25: S for Sunflower
+Letter 26: S for Sunflower
+Letter 27: S for Sunflower
+Letter 28: S for Sunflower
+Letter 29: S for Sunflower
+
+PLAIN TEXT:
+E for Eucalyptus
+R for Ruscus
+S for Salal
+P for Pittosporum
+D for Dusty Miller
+L for Leather Leaf
+W for Waxflower
+D for Dahlias
+Z for Zinnias
+C for Celosia
+V for Veronica
+S for Spray Roses
+T for Thistle
+S for Scabiosa
+S for Solidago
+S for Statice
+B for Baby Breath
+Q for Queen Anne's Lace
+A for Aster
+G for Gerbera
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+S for Sunflower
+
+
+----------------------------------------------------------------------
+#15. Wedding Flowers - Part 3 (flowers-wedding-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-wedding-flowers-3-audio/
+
+Letter 0: T for Tulips
+Letter 1: D for Daffodils
+Letter 2: A for Anemones
+Letter 3: R for Ranunculus
+Letter 4: O for Orchids
+Letter 5: C for Cymbidium
+Letter 6: D for Dendrobium
+Letter 7: V for Vanda
+Letter 8: C for Cattleya
+Letter 9: O for Oncidium
+Letter 10: P for Paphiopedilum
+Letter 11: P for Phalaenopsis
+Letter 12: S for Spathoglottis
+Letter 13: I for Iris
+Letter 14: L for Lily
+Letter 15: A for Asiatic Lily
+Letter 16: O for Oriental Lily
+Letter 17: S for Stargazer Lily
+Letter 18: C for Casa Blanca Lily
+Letter 19: C for Casablanca Lily
+Letter 20: C for Casa Blanca Lily
+Letter 21: S for Stargazer Lily
+Letter 22: O for Oriental Lily
+Letter 23: A for Asiatic Lily
+Letter 24: L for Lily
+Letter 25: I for Iris
+Letter 26: I for Iris
+Letter 27: I for Iris
+Letter 28: I for Iris
+Letter 29: I for Iris
+
+PLAIN TEXT:
+T for Tulips
+D for Daffodils
+A for Anemones
+R for Ranunculus
+O for Orchids
+C for Cymbidium
+D for Dendrobium
+V for Vanda
+C for Cattleya
+O for Oncidium
+P for Paphiopedilum
+P for Phalaenopsis
+S for Spathoglottis
+I for Iris
+L for Lily
+A for Asiatic Lily
+O for Oriental Lily
+S for Stargazer Lily
+C for Casa Blanca Lily
+C for Casablanca Lily
+C for Casa Blanca Lily
+S for Stargazer Lily
+O for Oriental Lily
+A for Asiatic Lily
+L for Lily
+I for Iris
+I for Iris
+I for Iris
+I for Iris
+I for Iris
+
+
+----------------------------------------------------------------------
+#16. Exotic Flowers - Part 1 (flowers-exotic-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-exotic-flowers-1-audio/
+
+Letter 0: B for Bird of Paradise
+Letter 1: A for Anthurium
+Letter 2: H for Heliconia
+Letter 3: S for Strelitzia
+Letter 4: P for Protea
+Letter 5: C for Clivia
+Letter 6: P for Plumeria
+Letter 7: I for Ixora
+Letter 8: G for Ginger
+Letter 9: A for Alpinia
+Letter 10: A for Aechmea
+Letter 11: B for Bromeliaceae
+Letter 12: M for Monstera
+Letter 13: C for Costus
+Letter 14: E for Etlingera
+Letter 15: T for Tapeinosperma
+Letter 16: R for Rafflesia
+Letter 17: V for Vanda
+Letter 18: C for Cattleya
+Letter 19: G for Guaiacum
+Letter 20: W for Wisteria
+Letter 21: M for Mandevilla
+Letter 22: T for Tecomaria
+Letter 23: I for Ipomoea
+Letter 24: B for Bougainvillea
+Letter 25: A for Allamanda
+Letter 26: T for Thunbergia
+Letter 27: P for Passiflora
+Letter 28: G for Gloriosa
+Letter 29: K for Kniphofia
+
+PLAIN TEXT:
+B for Bird of Paradise
+A for Anthurium
+H for Heliconia
+S for Strelitzia
+P for Protea
+C for Clivia
+P for Plumeria
+I for Ixora
+G for Ginger
+A for Alpinia
+A for Aechmea
+B for Bromeliaceae
+M for Monstera
+C for Costus
+E for Etlingera
+T for Tapeinosperma
+R for Rafflesia
+V for Vanda
+C for Cattleya
+G for Guaiacum
+W for Wisteria
+M for Mandevilla
+T for Tecomaria
+I for Ipomoea
+B for Bougainvillea
+A for Allamanda
+T for Thunbergia
+P for Passiflora
+G for Gloriosa
+K for Kniphofia
+
+
+----------------------------------------------------------------------
+#17. Exotic Flowers - Part 2 (flowers-exotic-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-exotic-flowers-2-audio/
+
+Letter 0: L for Lapageria
+Letter 1: E for Erysimum
+Letter 2: I for Ixora
+Letter 3: J for Jacobean Lily
+Letter 4: J for Jacobean Lily
+Letter 5: K for Kaempferia
+Letter 6: K for Kalanchoe
+Letter 7: K for Kennedia
+Letter 8: K for Kerria
+Letter 9: K for Kinnikinnick
+Letter 10: K for Kirengeshoma
+Letter 11: K for Kochia
+Letter 12: K for Kohleria
+Letter 13: K for Kolkwitzia
+Letter 14: L for Labrador Tea
+Letter 15: L for Lachenalia
+Letter 16: L for Lacewing Flower
+Letter 17: L for Lactuca
+Letter 18: L for Ladys Mantle
+Letter 19: L for Ladys Slipper
+Letter 20: L for Lagerstroemia
+Letter 21: L for Lagunaaia
+Letter 22: L for Lathyrus
+Letter 23: L for Laurentia
+Letter 24: L for Lavatera
+Letter 25: L for Lavender
+Letter 26: L for Lavender Cotton
+Letter 27: L for Leadplant
+Letter 28: L for Leatherflower
+Letter 29: L for Leatherleaf Mahonia
+
+PLAIN TEXT:
+L for Lapageria
+E for Erysimum
+I for Ixora
+J for Jacobean Lily
+J for Jacobean Lily
+K for Kaempferia
+K for Kalanchoe
+K for Kennedia
+K for Kerria
+K for Kinnikinnick
+K for Kirengeshoma
+K for Kochia
+K for Kohleria
+K for Kolkwitzia
+L for Labrador Tea
+L for Lachenalia
+L for Lacewing Flower
+L for Lactuca
+L for Ladys Mantle
+L for Ladys Slipper
+L for Lagerstroemia
+L for Lagunaaia
+L for Lathyrus
+L for Laurentia
+L for Lavatera
+L for Lavender
+L for Lavender Cotton
+L for Leadplant
+L for Leatherflower
+L for Leatherleaf Mahonia
+
+
+----------------------------------------------------------------------
+#18. Exotic Flowers - Part 3 (flowers-exotic-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-exotic-flowers-3-audio/
+
+Letter 0: L for Lenten Rose
+Letter 1: L for Leopard Plant
+Letter 2: L for Leopards Bane
+Letter 3: L for Liatris
+Letter 4: L for Libonia
+Letter 5: L for Lilac
+Letter 6: L for Lilium
+Letter 7: L for Lilyturf
+Letter 8: L for Limonium
+Letter 9: L for Linaria
+Letter 10: L for Lindelofia
+Letter 11: L for Lindera
+Letter 12: L for Ling
+Letter 13: L for Lingonberry
+Letter 14: L for Linum
+Letter 15: L for Lion Heart
+Letter 16: L for Liquidambar
+Letter 17: L for Liriodendron
+Letter 18: L for Liriope
+Letter 19: L for Litchi
+Letter 20: L for Lithocarpus
+Letter 21: L for Lithops
+Letter 22: L for Lithraea
+Letter 23: L for Littonia
+Letter 24: L for Liverwort
+Letter 25: L for Living Stone
+Letter 26: L for Lizzard Tail
+Letter 27: L for Llama Del Inca
+Letter 28: L for Loamia
+Letter 29: L for Lobelia
+
+PLAIN TEXT:
+L for Lenten Rose
+L for Leopard Plant
+L for Leopards Bane
+L for Liatris
+L for Libonia
+L for Lilac
+L for Lilium
+L for Lilyturf
+L for Limonium
+L for Linaria
+L for Lindelofia
+L for Lindera
+L for Ling
+L for Lingonberry
+L for Linum
+L for Lion Heart
+L for Liquidambar
+L for Liriodendron
+L for Liriope
+L for Litchi
+L for Lithocarpus
+L for Lithops
+L for Lithraea
+L for Littonia
+L for Liverwort
+L for Living Stone
+L for Lizzard Tail
+L for Llama Del Inca
+L for Loamia
+L for Lobelia
+
+
+----------------------------------------------------------------------
+#19. Fragrant Flowers - Part 1 (flowers-fragrant-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-fragrant-flowers-1-audio/
+
+Letter 0: J for Jasmine
+Letter 1: M for Mogra
+Letter 2: G for Gardenia
+Letter 3: T for Tuberose
+Letter 4: H for Hyacinth
+Letter 5: L for Lilac
+Letter 6: L for Lavender
+Letter 7: R for Rose
+Letter 8: O for Orange Blossom
+Letter 9: F for Freesia
+Letter 10: S for Sweet Pea
+Letter 11: H for Honeysuckle
+Letter 12: S for Stephanotis
+Letter 13: D for Daphne
+Letter 14: R for Ranunculus
+Letter 15: L for Lisianthus
+Letter 16: F for Freesia
+Letter 17: C for Carnation
+Letter 18: S for Stock
+Letter 19: L for Lilium
+Letter 20: N for Narcissus
+Letter 21: P for Peony
+Letter 22: I for Iris
+Letter 23: M for Magnolia
+Letter 24: C for Cinnamon
+Letter 25: C for Cinnamon
+Letter 26: C for Cinnamon
+Letter 27: C for Cinnamon
+Letter 28: C for Cinnamon
+Letter 29: C for Cinnamon
+
+PLAIN TEXT:
+J for Jasmine
+M for Mogra
+G for Gardenia
+T for Tuberose
+H for Hyacinth
+L for Lilac
+L for Lavender
+R for Rose
+O for Orange Blossom
+F for Freesia
+S for Sweet Pea
+H for Honeysuckle
+S for Stephanotis
+D for Daphne
+R for Ranunculus
+L for Lisianthus
+F for Freesia
+C for Carnation
+S for Stock
+L for Lilium
+N for Narcissus
+P for Peony
+I for Iris
+M for Magnolia
+C for Cinnamon
+C for Cinnamon
+C for Cinnamon
+C for Cinnamon
+C for Cinnamon
+C for Cinnamon
+
+
+----------------------------------------------------------------------
+#20. Fragrant Flowers - Part 2 (flowers-fragrant-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-fragrant-flowers-2-audio/
+
+Letter 0: R for Rajnigandha
+Letter 1: C for Champa
+Letter 2: K for Kaner
+Letter 3: P for Palash
+Letter 4: G for Gulmohar
+Letter 5: A for Aparajita
+Letter 6: N for Night Blooming Jasmine
+Letter 7: D for Datura
+Letter 8: C for Cestrum
+Letter 9: S for Sarcostemma
+Letter 10: S for Sarcococca
+Letter 11: S for Sarcopoterium
+Letter 12: S for Sarcostemma
+Letter 13: S for Sarcostemma
+Letter 14: S for Sarcostemma
+Letter 15: S for Sarcopoterium
+Letter 16: S for Sarcopoterium
+Letter 17: S for Sarcococca
+Letter 18: S for Sarcopoterium
+Letter 19: S for Sarcopoterium
+Letter 20: S for Sarcococca
+Letter 21: S for Sarcococca
+Letter 22: S for Sarcopoterium
+Letter 23: S for Sarcococca
+Letter 24: S for Sarcostemma
+Letter 25: S for Sarcopoterium
+Letter 26: S for Sarcococca
+Letter 27: S for Sarcopoterium
+Letter 28: S for Sarcostemma
+Letter 29: S for Sarcopoterium
+
+PLAIN TEXT:
+R for Rajnigandha
+C for Champa
+K for Kaner
+P for Palash
+G for Gulmohar
+A for Aparajita
+N for Night Blooming Jasmine
+D for Datura
+C for Cestrum
+S for Sarcostemma
+S for Sarcococca
+S for Sarcopoterium
+S for Sarcostemma
+S for Sarcostemma
+S for Sarcostemma
+S for Sarcopoterium
+S for Sarcopoterium
+S for Sarcococca
+S for Sarcopoterium
+S for Sarcopoterium
+S for Sarcococca
+S for Sarcococca
+S for Sarcopoterium
+S for Sarcococca
+S for Sarcostemma
+S for Sarcopoterium
+S for Sarcococca
+S for Sarcopoterium
+S for Sarcostemma
+S for Sarcopoterium
+
+
+----------------------------------------------------------------------
+#21. Fragrant Flowers - Part 3 (flowers-fragrant-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-fragrant-flowers-3-audio/
+
+Letter 0: J for Jasmine Sambac
+Letter 1: J for Jasmine Grandiflorum
+Letter 2: A for Arabian Jasmine
+Letter 3: C for Carolina Jasmine
+Letter 4: C for Carolina Jasmine
+Letter 5: C for Carolina Jasmine
+Letter 6: C for Carolina Jasmine
+Letter 7: C for Carolina Jasmine
+Letter 8: C for Carolina Jasmine
+Letter 9: C for Carolina Jasmine
+Letter 10: C for Carolina Jasmine
+Letter 11: C for Carolina Jasmine
+Letter 12: C for Carolina Jasmine
+Letter 13: C for Carolina Jasmine
+Letter 14: C for Carolina Jasmine
+Letter 15: C for Carolina Jasmine
+Letter 16: C for Carolina Jasmine
+Letter 17: C for Carolina Jasmine
+Letter 18: C for Carolina Jasmine
+Letter 19: C for Carolina Jasmine
+Letter 20: C for Carolina Jasmine
+Letter 21: C for Carolina Jasmine
+Letter 22: C for Carolina Jasmine
+Letter 23: C for Carolina Jasmine
+Letter 24: C for Carolina Jasmine
+Letter 25: C for Carolina Jasmine
+Letter 26: C for Carolina Jasmine
+Letter 27: C for Carolina Jasmine
+Letter 28: C for Carolina Jasmine
+Letter 29: C for Carolina Jasmine
+
+PLAIN TEXT:
+J for Jasmine Sambac
+J for Jasmine Grandiflorum
+A for Arabian Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+C for Carolina Jasmine
+
+
+----------------------------------------------------------------------
+#22. Rare Flowers - Part 1 (flowers-rare-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-rare-flowers-1-audio/
+
+Letter 0: M for Midnight Orchid
+Letter 1: G for Ghost Orchid
+Letter 2: M for Monkey Face Orchid
+Letter 3: F for Flying Duck Orchid
+Letter 4: N for Naked Mans Orchid
+Letter 5: B for Bee Orchid
+Letter 6: B for Bleeding Heart Flower
+Letter 7: H for Hanging Parrot Flower
+Letter 8: B for Beehive Ginger
+Letter 9: H for Hummingbird Flower
+Letter 10: C for Cannonball Flower
+Letter 11: P for Pigeon Orchid
+Letter 12: S for Swaddled Babies
+Letter 13: P for Psychotria elata
+Letter 14: P for Parrot Flower
+Letter 15: F for Flower of Paradise
+Letter 16: T for Tiger Orchid
+Letter 17: S for Superb Lily
+Letter 18: T for Tacca
+Letter 19: H for Hydnora
+Letter 20: D for Dracunculus
+Letter 21: R for Rafflesia
+Letter 22: A for Amorphophallus
+Letter 23: C for Calceolaria
+Letter 24: P for Paphiopedilum
+Letter 25: Z for Zygopetalum
+Letter 26: P for Prosthechea
+Letter 27: A for Anguloa
+Letter 28: C for Cirrhosepalum
+Letter 29: C for Cochlioda
+
+PLAIN TEXT:
+M for Midnight Orchid
+G for Ghost Orchid
+M for Monkey Face Orchid
+F for Flying Duck Orchid
+N for Naked Mans Orchid
+B for Bee Orchid
+B for Bleeding Heart Flower
+H for Hanging Parrot Flower
+B for Beehive Ginger
+H for Hummingbird Flower
+C for Cannonball Flower
+P for Pigeon Orchid
+S for Swaddled Babies
+P for Psychotria elata
+P for Parrot Flower
+F for Flower of Paradise
+T for Tiger Orchid
+S for Superb Lily
+T for Tacca
+H for Hydnora
+D for Dracunculus
+R for Rafflesia
+A for Amorphophallus
+C for Calceolaria
+P for Paphiopedilum
+Z for Zygopetalum
+P for Prosthechea
+A for Anguloa
+C for Cirrhosepalum
+C for Cochlioda
+
+
+----------------------------------------------------------------------
+#23. Rare Flowers - Part 2 (flowers-rare-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-rare-flowers-2-audio/
+
+Letter 0: I for Impatiens psittacina
+Letter 1: D for Dracula simia
+Letter 2: O for Ophrys apifera
+Letter 3: C for Caleana major
+Letter 4: O for Orchis italica
+Letter 5: E for Epimedium
+Letter 6: T for Tancetum
+Letter 7: P for Passiflora edulis
+Letter 8: P for Passiflora alata
+Letter 9: P for Passiflora vitifolia
+Letter 10: P for Passiflora tarminiana
+Letter 11: P for Passiflora antioquiensis
+Letter 12: P for Passiflora cincinnata
+Letter 13: P for Passiflora edulis
+Letter 14: P for Passiflora edulis
+Letter 15: P for Passiflora edulis
+Letter 16: P for Passiflora edulis
+Letter 17: P for Passiflora edulis
+Letter 18: P for Passiflora edulis
+Letter 19: P for Passiflora edulis
+Letter 20: P for Passiflora edulis
+Letter 21: P for Passiflora edulis
+Letter 22: P for Passiflora edulis
+Letter 23: P for Passiflora edulis
+Letter 24: P for Passiflora edulis
+Letter 25: P for Passiflora edulis
+Letter 26: P for Passiflora edulis
+Letter 27: P for Passiflora edulis
+Letter 28: P for Passiflora edulis
+Letter 29: P for Passiflora edulis
+
+PLAIN TEXT:
+I for Impatiens psittacina
+D for Dracula simia
+O for Ophrys apifera
+C for Caleana major
+O for Orchis italica
+E for Epimedium
+T for Tancetum
+P for Passiflora edulis
+P for Passiflora alata
+P for Passiflora vitifolia
+P for Passiflora tarminiana
+P for Passiflora antioquiensis
+P for Passiflora cincinnata
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+P for Passiflora edulis
+
+
+----------------------------------------------------------------------
+#24. Rare Flowers - Part 3 (flowers-rare-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-rare-flowers-3-audio/
+
+Letter 0: A for Angraecum sesquipedale
+Letter 1: P for Phragmipedium
+Letter 2: C for Cattleya
+Letter 3: L for Laelia
+Letter 4: O for Odontoglossum
+Letter 5: O for Oncidium
+Letter 6: P for Paphiopedilum
+Letter 7: P for Phalaenopsis
+Letter 8: V for Vanda
+Letter 9: Z for Zygopetalum
+Letter 10: A for Acineta
+Letter 11: A for Aerangis
+Letter 12: A for Aerides
+Letter 13: A for Aerochilus
+Letter 14: A for Aeonia
+Letter 15: A for Aesculus
+Letter 16: A for Aethionema
+Letter 17: A for Aethusia
+Letter 18: A for Ageratina
+Letter 19: A for Ageratum
+Letter 20: A for Aglaodendron
+Letter 21: A for Aglaomorpha
+Letter 22: A for Aglaonema
+Letter 23: A for Aglenum
+Letter 24: A for Agonis
+Letter 25: A for Agrimonia
+Letter 26: A for Agropyron
+Letter 27: A for Agrostemma
+Letter 28: A for Agrostis
+Letter 29: A for Aichryson
+
+PLAIN TEXT:
+A for Angraecum sesquipedale
+P for Phragmipedium
+C for Cattleya
+L for Laelia
+O for Odontoglossum
+O for Oncidium
+P for Paphiopedilum
+P for Phalaenopsis
+V for Vanda
+Z for Zygopetalum
+A for Acineta
+A for Aerangis
+A for Aerides
+A for Aerochilus
+A for Aeonia
+A for Aesculus
+A for Aethionema
+A for Aethusia
+A for Ageratina
+A for Ageratum
+A for Aglaodendron
+A for Aglaomorpha
+A for Aglaonema
+A for Aglenum
+A for Agonis
+A for Agrimonia
+A for Agropyron
+A for Agrostemma
+A for Agrostis
+A for Aichryson
+
+
+----------------------------------------------------------------------
+#25. Japanese Flowers - Part 1 (flowers-japanese-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-japanese-flowers-1-audio/
+
+Letter 0: S for Sakura
+Letter 1: U for Ume
+Letter 2: A for Azalea
+Letter 3: L for Lotus
+Letter 4: I for Iris
+Letter 5: P for Peony
+Letter 6: C for Chrysanthemum
+Letter 7: C for Camellia
+Letter 8: D for Daphne
+Letter 9: P for Pieris
+Letter 10: W for Wisteria
+Letter 11: P for Plum Blossom
+Letter 12: A for Apricot Blossom
+Letter 13: C for Cherry Blossom
+Letter 14: P for Peach Blossom
+Letter 15: M for Magnolia
+Letter 16: F for Forsythia
+Letter 17: C for Crabapple
+Letter 18: D for Dogwood
+Letter 19: H for Hawthorn
+Letter 20: L for Lily
+Letter 21: L for Lavender
+Letter 22: H for Hydrangea
+Letter 23: B for Bellflower
+Letter 24: M for Morning Glory
+Letter 25: P for Pampas Grass
+Letter 26: C for Chinese Elm
+Letter 27: C for Conifers
+Letter 28: D for Deciduous Trees
+Letter 29: E for Evergreen Trees
+
+PLAIN TEXT:
+S for Sakura
+U for Ume
+A for Azalea
+L for Lotus
+I for Iris
+P for Peony
+C for Chrysanthemum
+C for Camellia
+D for Daphne
+P for Pieris
+W for Wisteria
+P for Plum Blossom
+A for Apricot Blossom
+C for Cherry Blossom
+P for Peach Blossom
+M for Magnolia
+F for Forsythia
+C for Crabapple
+D for Dogwood
+H for Hawthorn
+L for Lily
+L for Lavender
+H for Hydrangea
+B for Bellflower
+M for Morning Glory
+P for Pampas Grass
+C for Chinese Elm
+C for Conifers
+D for Deciduous Trees
+E for Evergreen Trees
+
+
+----------------------------------------------------------------------
+#26. Japanese Flowers - Part 2 (flowers-japanese-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-japanese-flowers-2-audio/
+
+Letter 0: C for Chrysanthemum
+Letter 1: L for Lotus
+Letter 2: I for Iris
+Letter 3: P for Peony
+Letter 4: A for Azalea
+Letter 5: C for Camellia
+Letter 6: D for Daphne
+Letter 7: M for Magnolia
+Letter 8: W for Wisteria
+Letter 9: F for Forsythia
+Letter 10: U for Ume
+Letter 11: S for Sakura
+Letter 12: C for Crabapple
+Letter 13: D for Dogwood
+Letter 14: H for Hawthorn
+Letter 15: L for Lily
+Letter 16: L for Lavender
+Letter 17: H for Hydrangea
+Letter 18: B for Bellflower
+Letter 19: M for Morning Glory
+Letter 20: P for Pampas Grass
+Letter 21: B for Bamboo
+Letter 22: B for Bonsai
+Letter 23: M for Moss
+Letter 24: S for Stone Lantern
+Letter 25: S for Stepping Stones
+Letter 26: W for Water Feature
+Letter 27: J for Japanese Bridge
+Letter 28: G for Garden Path
+Letter 29: J for Japanese Garden
+
+PLAIN TEXT:
+C for Chrysanthemum
+L for Lotus
+I for Iris
+P for Peony
+A for Azalea
+C for Camellia
+D for Daphne
+M for Magnolia
+W for Wisteria
+F for Forsythia
+U for Ume
+S for Sakura
+C for Crabapple
+D for Dogwood
+H for Hawthorn
+L for Lily
+L for Lavender
+H for Hydrangea
+B for Bellflower
+M for Morning Glory
+P for Pampas Grass
+B for Bamboo
+B for Bonsai
+M for Moss
+S for Stone Lantern
+S for Stepping Stones
+W for Water Feature
+J for Japanese Bridge
+G for Garden Path
+J for Japanese Garden
+
+
+----------------------------------------------------------------------
+#27. Japanese Flowers - Part 3 (flowers-japanese-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-japanese-flowers-3-audio/
+
+Letter 0: J for Japanese Iris
+Letter 1: J for Japanese Peony
+Letter 2: J for Japanese Chrysanthemum
+Letter 3: J for Japanese Azalea
+Letter 4: J for Japanese Lotus
+Letter 5: J for Japanese Maple
+Letter 6: J for Japanese Garden Plum
+Letter 7: J for Japanese Crabapple
+Letter 8: J for Japanese Hawthorn
+Letter 9: J for Japanese Holly
+Letter 10: J for Japanese Barberry
+Letter 11: J for Japanese Privet
+Letter 12: J for Japanese Pieris
+Letter 13: J for Japanese Photinia
+Letter 14: J for Japanese Euronymus
+Letter 15: J for Japanese Spindle Tree
+Letter 16: J for Japanese Bush Clover
+Letter 17: J for Japanese Andromeda
+Letter 18: J for Japanese Aralia
+Letter 19: J for Japanese Aucuba
+Letter 20: J for Japanese Beautyberry
+Letter 21: J for Japanese Blueberry
+Letter 22: J for Japanese Boxthorn
+Letter 23: J for Japanese Bramble
+Letter 24: J for Japanese Broomcorn
+Letter 25: J for Japanese Cedar
+Letter 26: J for Japanese Cherry
+Letter 27: J for Japanese Cheesewood
+Letter 28: J for Japanese Cinquefoil
+Letter 29: J for Japanese Clethra
+
+PLAIN TEXT:
+J for Japanese Iris
+J for Japanese Peony
+J for Japanese Chrysanthemum
+J for Japanese Azalea
+J for Japanese Lotus
+J for Japanese Maple
+J for Japanese Garden Plum
+J for Japanese Crabapple
+J for Japanese Hawthorn
+J for Japanese Holly
+J for Japanese Barberry
+J for Japanese Privet
+J for Japanese Pieris
+J for Japanese Photinia
+J for Japanese Euronymus
+J for Japanese Spindle Tree
+J for Japanese Bush Clover
+J for Japanese Andromeda
+J for Japanese Aralia
+J for Japanese Aucuba
+J for Japanese Beautyberry
+J for Japanese Blueberry
+J for Japanese Boxthorn
+J for Japanese Bramble
+J for Japanese Broomcorn
+J for Japanese Cedar
+J for Japanese Cherry
+J for Japanese Cheesewood
+J for Japanese Cinquefoil
+J for Japanese Clethra
+
+
+----------------------------------------------------------------------
+#28. Colorful Flowers - Part 1 (flowers-colorful-flowers-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-colorful-flowers-1-audio/
+
+Letter 0: R for Red Rose
+Letter 1: O for Orange Marigold
+Letter 2: Y for Yellow Sunflower
+Letter 3: G for Green Shamrock
+Letter 4: B for Blue Iris
+Letter 5: P for Purple Orchid
+Letter 6: P for Pink Peony
+Letter 7: W for White Lily
+Letter 8: R for Red Hibiscus
+Letter 9: O for Orange Calendula
+Letter 10: Y for Yellow Dahlia
+Letter 11: G for Green Chrysanthemum
+Letter 12: B for Blue Cornflower
+Letter 13: P for Purple Aster
+Letter 14: P for Pink Begonia
+Letter 15: W for White Camellia
+Letter 16: R for Red Poinsettia
+Letter 17: O for Orange Gerbera
+Letter 18: Y for Yellow Daffodil
+Letter 19: G for Green Hydrangea
+Letter 20: B for Blue Delphinium
+Letter 21: P for Purple Liatris
+Letter 22: P for Pink Cosmos
+Letter 23: W for White Calla
+Letter 24: R for Red Poppy
+Letter 25: O for Orange Zinnia
+Letter 26: Y for Yellow Yarrow
+Letter 27: G for Green Celosia
+Letter 28: B for Blue Veronica
+Letter 29: P for Purple Statice
+
+PLAIN TEXT:
+R for Red Rose
+O for Orange Marigold
+Y for Yellow Sunflower
+G for Green Shamrock
+B for Blue Iris
+P for Purple Orchid
+P for Pink Peony
+W for White Lily
+R for Red Hibiscus
+O for Orange Calendula
+Y for Yellow Dahlia
+G for Green Chrysanthemum
+B for Blue Cornflower
+P for Purple Aster
+P for Pink Begonia
+W for White Camellia
+R for Red Poinsettia
+O for Orange Gerbera
+Y for Yellow Daffodil
+G for Green Hydrangea
+B for Blue Delphinium
+P for Purple Liatris
+P for Pink Cosmos
+W for White Calla
+R for Red Poppy
+O for Orange Zinnia
+Y for Yellow Yarrow
+G for Green Celosia
+B for Blue Veronica
+P for Purple Statice
+
+
+----------------------------------------------------------------------
+#29. Colorful Flowers - Part 2 (flowers-colorful-flowers-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-colorful-flowers-2-audio/
+
+Letter 0: R for Rainbow Rose
+Letter 1: M for Multicolor Pansy
+Letter 2: V for Variegated Petunia
+Letter 3: S for Striped Carnation
+Letter 4: B for Bicolor Lily
+Letter 5: M for Multicolor Orchid
+Letter 6: V for Variegated Dahlia
+Letter 7: S for Striped Tulip
+Letter 8: B for Bicolor Gerbera
+Letter 9: M for Multicolor Bougainvillea
+Letter 10: V for Variegated Begonia
+Letter 11: S for Striped Dianthus
+Letter 12: B for Bicolor Rose
+Letter 13: M for Multicolor Primrose
+Letter 14: V for Variegated Caladium
+Letter 15: S for Striped Daisy
+Letter 16: B for Bicolor Sunflower
+Letter 17: M for Multicolor Zinnia
+Letter 18: V for Variegated Coleus
+Letter 19: S for Striped Poppy
+Letter 20: B for Bicolor Iris
+Letter 21: M for Multicolor Cosmos
+Letter 22: V for Variegated Impatiens
+Letter 23: S for Striped Aster
+Letter 24: B for Bicolor Ranunculus
+Letter 25: M for Multicolor Geranium
+Letter 26: V for Variegated Salvia
+Letter 27: S for Striped Chrysanthemum
+Letter 28: B for Bicolor Freesia
+Letter 29: M for Multicolor Thistle
+
+PLAIN TEXT:
+R for Rainbow Rose
+M for Multicolor Pansy
+V for Variegated Petunia
+S for Striped Carnation
+B for Bicolor Lily
+M for Multicolor Orchid
+V for Variegated Dahlia
+S for Striped Tulip
+B for Bicolor Gerbera
+M for Multicolor Bougainvillea
+V for Variegated Begonia
+S for Striped Dianthus
+B for Bicolor Rose
+M for Multicolor Primrose
+V for Variegated Caladium
+S for Striped Daisy
+B for Bicolor Sunflower
+M for Multicolor Zinnia
+V for Variegated Coleus
+S for Striped Poppy
+B for Bicolor Iris
+M for Multicolor Cosmos
+V for Variegated Impatiens
+S for Striped Aster
+B for Bicolor Ranunculus
+M for Multicolor Geranium
+V for Variegated Salvia
+S for Striped Chrysanthemum
+B for Bicolor Freesia
+M for Multicolor Thistle
+
+
+----------------------------------------------------------------------
+#30. Colorful Flowers - Part 3 (flowers-colorful-flowers-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/flowers-colorful-flowers-3-audio/
+
+Letter 0: G for Golden Rose
+Letter 1: S for Sunset Peony
+Letter 2: T for Tropical Paradise
+Letter 3: S for Sunset Gradient
+Letter 4: S for Sunset Hibiscus
+Letter 5: S for Sunset Bougainvillea
+Letter 6: S for Sunset Lantana
+Letter 7: S for Sunset Coneflower
+Letter 8: S for Sunset Heuchera
+Letter 9: S for Sunset Heuchera
+Letter 10: S for Sunset Heuchera
+Letter 11: S for Sunset Heuchera
+Letter 12: S for Sunset Heuchera
+Letter 13: S for Sunset Heuchera
+Letter 14: S for Sunset Heuchera
+Letter 15: S for Sunset Heuchera
+Letter 16: S for Sunset Heuchera
+Letter 17: S for Sunset Heuchera
+Letter 18: S for Sunset Heuchera
+Letter 19: S for Sunset Heuchera
+Letter 20: S for Sunset Heuchera
+Letter 21: S for Sunset Heuchera
+Letter 22: S for Sunset Heuchera
+Letter 23: S for Sunset Heuchera
+Letter 24: S for Sunset Heuchera
+Letter 25: S for Sunset Heuchera
+Letter 26: S for Sunset Heuchera
+Letter 27: S for Sunset Heuchera
+Letter 28: S for Sunset Heuchera
+Letter 29: S for Sunset Heuchera
+
+PLAIN TEXT:
+G for Golden Rose
+S for Sunset Peony
+T for Tropical Paradise
+S for Sunset Gradient
+S for Sunset Hibiscus
+S for Sunset Bougainvillea
+S for Sunset Lantana
+S for Sunset Coneflower
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+S for Sunset Heuchera
+

@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: FOOD NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Indian Food - Part 1 (food-indian-food-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-indian-food-1-audio/
+
+Letter 0: S for Samosa
+Letter 1: B for Biryani
+Letter 2: D for Dosa
+Letter 3: I for Idli
+Letter 4: R for Roti
+Letter 5: C for Chole Bhature
+Letter 6: P for Paneer Tikka
+Letter 7: T for Tandoori Chicken
+Letter 8: A for Aloo Paratha
+Letter 9: V for Vada Pav
+Letter 10: K for Kebab
+Letter 11: M for Masala Dosa
+Letter 12: N for Naan
+Letter 13: L for Lassi
+Letter 14: G for Gulab Jamun
+Letter 15: J for Jalebi
+Letter 16: H for Halwa
+Letter 17: D for Dal Makhani
+Letter 18: R for Rajma Chawal
+Letter 19: P for Pav Bhaji
+Letter 20: U for Upma
+Letter 21: E for Egg Curry
+Letter 22: C for Chicken Tikka
+Letter 23: B for Butter Chicken
+Letter 24: W for Wada
+Letter 25: F for Fish Curry
+Letter 26: O for Onion Pakoda
+Letter 27: S for Sambar
+Letter 28: K for Khichdi
+Letter 29: T for Thali
+
+PLAIN TEXT:
+S for Samosa
+B for Biryani
+D for Dosa
+I for Idli
+R for Roti
+C for Chole Bhature
+P for Paneer Tikka
+T for Tandoori Chicken
+A for Aloo Paratha
+V for Vada Pav
+K for Kebab
+M for Masala Dosa
+N for Naan
+L for Lassi
+G for Gulab Jamun
+J for Jalebi
+H for Halwa
+D for Dal Makhani
+R for Rajma Chawal
+P for Pav Bhaji
+U for Upma
+E for Egg Curry
+C for Chicken Tikka
+B for Butter Chicken
+W for Wada
+F for Fish Curry
+O for Onion Pakoda
+S for Sambar
+K for Khichdi
+T for Thali
+
+
+----------------------------------------------------------------------
+#2. Indian Food - Part 2 (food-indian-food-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-indian-food-2-audio/
+
+Letter 0: P for Puri
+Letter 1: C for Chaat
+Letter 2: K for Kadhi
+Letter 3: M for Malai Kofta
+Letter 4: S for Shahi Paneer
+Letter 5: A for Alu Gobi
+Letter 6: B for Bhindi Masala
+Letter 7: D for Dhokla
+Letter 8: G for Gajar Halwa
+Letter 9: H for Hyderabadi Biryani
+Letter 10: I for Idiyappam
+Letter 11: J for Jeera Rice
+Letter 12: L for Litti Chokha
+Letter 13: N for Nihari
+Letter 14: O for Onion Bhaji
+Letter 15: R for Rasam
+Letter 16: T for Tikka Masala
+Letter 17: U for Uttapam
+Letter 18: V for Vegetable Korma
+Letter 19: W for Wheat Roti
+Letter 20: E for Egg Biryani
+Letter 21: F for Fried Rice
+Letter 22: Z for Zarda
+Letter 23: X for Xacuti Curry
+Letter 24: Y for Yogurt Rice
+Letter 25: Q for Quinoa Pulao
+Letter 26: P for Palak Paneer
+Letter 27: C for Chicken Biryani
+Letter 28: D for Dal Tadka
+Letter 29: S for Seekh Kebab
+
+PLAIN TEXT:
+P for Puri
+C for Chaat
+K for Kadhi
+M for Malai Kofta
+S for Shahi Paneer
+A for Alu Gobi
+B for Bhindi Masala
+D for Dhokla
+G for Gajar Halwa
+H for Hyderabadi Biryani
+I for Idiyappam
+J for Jeera Rice
+L for Litti Chokha
+N for Nihari
+O for Onion Bhaji
+R for Rasam
+T for Tikka Masala
+U for Uttapam
+V for Vegetable Korma
+W for Wheat Roti
+E for Egg Biryani
+F for Fried Rice
+Z for Zarda
+X for Xacuti Curry
+Y for Yogurt Rice
+Q for Quinoa Pulao
+P for Palak Paneer
+C for Chicken Biryani
+D for Dal Tadka
+S for Seekh Kebab
+
+
+----------------------------------------------------------------------
+#3. Indian Food - Part 3 (food-indian-food-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-indian-food-3-audio/
+
+Letter 0: M for Mutton Rogan Josh
+Letter 1: L for Lucknowi Biryani
+Letter 2: K for Kashmiri Pulao
+Letter 3: A for Appam
+Letter 4: S for Stew
+Letter 5: P for Puttu
+Letter 6: C for Chettinad Chicken
+Letter 7: V for Vindaloo
+Letter 8: T for Thukpa
+Letter 9: D for Dum Aloo
+Letter 10: B for Bisi Bele Bath
+Letter 11: R for Rogan Josh
+Letter 12: N for Navratan Korma
+Letter 13: G for Ghevar
+Letter 14: H for Handvo
+Letter 15: I for Indian Curry
+Letter 16: J for Jhalmuri
+Letter 17: E for Egg Bhurji
+Letter 18: F for Fish Fry
+Letter 19: O for Omelette
+Letter 20: W for Wheat Halwa
+Letter 21: U for Undhiyu
+Letter 22: X for Xmas Cake
+Letter 23: Y for Yellow Dal
+Letter 24: Z for Zafrani Pulao
+Letter 25: Q for Qorma
+Letter 26: P for Poha
+Letter 27: M for Misal Pav
+Letter 28: S for Sarson Ka Saag
+Letter 29: K for Kachori
+
+PLAIN TEXT:
+M for Mutton Rogan Josh
+L for Lucknowi Biryani
+K for Kashmiri Pulao
+A for Appam
+S for Stew
+P for Puttu
+C for Chettinad Chicken
+V for Vindaloo
+T for Thukpa
+D for Dum Aloo
+B for Bisi Bele Bath
+R for Rogan Josh
+N for Navratan Korma
+G for Ghevar
+H for Handvo
+I for Indian Curry
+J for Jhalmuri
+E for Egg Bhurji
+F for Fish Fry
+O for Omelette
+W for Wheat Halwa
+U for Undhiyu
+X for Xmas Cake
+Y for Yellow Dal
+Z for Zafrani Pulao
+Q for Qorma
+P for Poha
+M for Misal Pav
+S for Sarson Ka Saag
+K for Kachori
+
+
+----------------------------------------------------------------------
+#4. Street Food - Part 1 (food-street-food-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-street-food-1-audio/
+
+Letter 0: P for Pani Puri
+Letter 1: V for Vada Pav
+Letter 2: S for Samosa
+Letter 3: C for Chaat
+Letter 4: B for Bhel Puri
+Letter 5: A for Aloo Tikki
+Letter 6: D for Dabeli
+Letter 7: K for Kathi Roll
+Letter 8: M for Momos
+Letter 9: G for Golgappa
+Letter 10: P for Pav Bhaji
+Letter 11: T for Tikki
+Letter 12: J for Jhal Muri
+Letter 13: R for Ragda Pattice
+Letter 14: S for Sev Puri
+Letter 15: L for Litti Chokha
+Letter 16: E for Egg Roll
+Letter 17: F for Frankie
+Letter 18: H for Hot Dog
+Letter 19: I for Ice Gola
+Letter 20: N for Noodles
+Letter 21: O for Onion Rings
+Letter 22: W for Wonton
+Letter 23: U for Uttapam Street
+Letter 24: X for Xtreme Spicy
+Letter 25: Y for Yogurt Chaat
+Letter 26: Z for Zinger Burger
+Letter 27: Q for Quick Bite
+Letter 28: C for Corn Chat
+Letter 29: B for Bread Pakora
+
+PLAIN TEXT:
+P for Pani Puri
+V for Vada Pav
+S for Samosa
+C for Chaat
+B for Bhel Puri
+A for Aloo Tikki
+D for Dabeli
+K for Kathi Roll
+M for Momos
+G for Golgappa
+P for Pav Bhaji
+T for Tikki
+J for Jhal Muri
+R for Ragda Pattice
+S for Sev Puri
+L for Litti Chokha
+E for Egg Roll
+F for Frankie
+H for Hot Dog
+I for Ice Gola
+N for Noodles
+O for Onion Rings
+W for Wonton
+U for Uttapam Street
+X for Xtreme Spicy
+Y for Yogurt Chaat
+Z for Zinger Burger
+Q for Quick Bite
+C for Corn Chat
+B for Bread Pakora
+
+
+----------------------------------------------------------------------
+#5. Street Food - Part 2 (food-street-food-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-street-food-2-audio/
+
+Letter 0: C for Chole Kulche
+Letter 1: T for Taco
+Letter 2: P for Pizza Slice
+Letter 3: B for Burger
+Letter 4: S for Shawarma
+Letter 5: F for French Fries
+Letter 6: N for Nachos
+Letter 7: G for Grilled Sandwich
+Letter 8: H for Hotdog
+Letter 9: K for Kebab Roll
+Letter 10: D for Dahi Puri
+Letter 11: M for Maggi Noodles
+Letter 12: A for Aloo Chaat
+Letter 13: R for Roasted Corn
+Letter 14: L for Lasagna
+Letter 15: J for Junk Food
+Letter 16: W for Wrap
+Letter 17: E for Egg Sandwich
+Letter 18: I for Ice Cream Cone
+Letter 19: O for Onion Bhaji
+Letter 20: V for Veggie Wrap
+Letter 21: U for Ulta Tawa Bread
+Letter 22: X for Xtreme Burger
+Letter 23: Y for Yakitori
+Letter 24: Z for Zinger Wrap
+Letter 25: Q for Quesadilla
+Letter 26: S for Spring Roll
+Letter 27: P for Popcorn
+Letter 28: C for Corn Dog
+Letter 29: B for Bao Bun
+
+PLAIN TEXT:
+C for Chole Kulche
+T for Taco
+P for Pizza Slice
+B for Burger
+S for Shawarma
+F for French Fries
+N for Nachos
+G for Grilled Sandwich
+H for Hotdog
+K for Kebab Roll
+D for Dahi Puri
+M for Maggi Noodles
+A for Aloo Chaat
+R for Roasted Corn
+L for Lasagna
+J for Junk Food
+W for Wrap
+E for Egg Sandwich
+I for Ice Cream Cone
+O for Onion Bhaji
+V for Veggie Wrap
+U for Ulta Tawa Bread
+X for Xtreme Burger
+Y for Yakitori
+Z for Zinger Wrap
+Q for Quesadilla
+S for Spring Roll
+P for Popcorn
+C for Corn Dog
+B for Bao Bun
+
+
+----------------------------------------------------------------------
+#6. Street Food - Part 3 (food-street-food-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-street-food-3-audio/
+
+Letter 0: F for Falafel
+Letter 1: S for Sushi Roll
+Letter 2: D for Dim Sum
+Letter 3: R for Ramen
+Letter 4: T for Tempura
+Letter 5: P for Pad Thai
+Letter 6: G for Gyoza
+Letter 7: B for Banh Mi
+Letter 8: K for Katsu
+Letter 9: N for Nasi Goreng
+Letter 10: M for Momo Soup
+Letter 11: A for Arepa
+Letter 12: C for Churros
+Letter 13: H for Hummus
+Letter 14: L for Loaded Fries
+Letter 15: J for Jerk Chicken
+Letter 16: W for Waffle Fries
+Letter 17: E for Empanada
+Letter 18: I for Italian Panini
+Letter 19: O for Okonomiyaki
+Letter 20: V for Vietnamese Pho
+Letter 21: U for Udon Noodles
+Letter 22: X for Xiao Long Bao
+Letter 23: Y for Yakisoba
+Letter 24: Z for Za'atar Bread
+Letter 25: Q for Quiche
+Letter 26: S for Satay
+Letter 27: P for Pretzel
+Letter 28: B for Bruschetta
+Letter 29: T for Takoyaki
+
+PLAIN TEXT:
+F for Falafel
+S for Sushi Roll
+D for Dim Sum
+R for Ramen
+T for Tempura
+P for Pad Thai
+G for Gyoza
+B for Banh Mi
+K for Katsu
+N for Nasi Goreng
+M for Momo Soup
+A for Arepa
+C for Churros
+H for Hummus
+L for Loaded Fries
+J for Jerk Chicken
+W for Waffle Fries
+E for Empanada
+I for Italian Panini
+O for Okonomiyaki
+V for Vietnamese Pho
+U for Udon Noodles
+X for Xiao Long Bao
+Y for Yakisoba
+Z for Za'atar Bread
+Q for Quiche
+S for Satay
+P for Pretzel
+B for Bruschetta
+T for Takoyaki
+
+
+----------------------------------------------------------------------
+#7. Sweets & Desserts - Part 1 (food-sweets-desserts-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-sweets-desserts-1-audio/
+
+Letter 0: G for Gulab Jamun
+Letter 1: J for Jalebi
+Letter 2: R for Rasgulla
+Letter 3: L for Ladoo
+Letter 4: B for Barfi
+Letter 5: K for Kheer
+Letter 6: H for Halwa
+Letter 7: P for Payasam
+Letter 8: S for Sandesh
+Letter 9: M for Mysore Pak
+Letter 10: C for Cham Cham
+Letter 11: D for Doodh Peda
+Letter 12: A for Aam Shrikhand
+Letter 13: R for Rabri
+Letter 14: I for Ice Cream
+Letter 15: T for Thandai
+Letter 16: N for Nut Barfi
+Letter 17: E for Elaichi Barfi
+Letter 18: F for Firni
+Letter 19: W for White Rasgulla
+Letter 20: V for Vermicelli Kheer
+Letter 21: O for Orange Barfi
+Letter 22: U for Ukadiche Modak
+Letter 23: X for Xmas Plum Cake
+Letter 24: Y for Yogurt Parfait
+Letter 25: Z for Zarda Rice
+Letter 26: Q for Quick Dessert
+Letter 27: P for Petha
+Letter 28: S for Shrikhand
+Letter 29: K for Kalakand
+
+PLAIN TEXT:
+G for Gulab Jamun
+J for Jalebi
+R for Rasgulla
+L for Ladoo
+B for Barfi
+K for Kheer
+H for Halwa
+P for Payasam
+S for Sandesh
+M for Mysore Pak
+C for Cham Cham
+D for Doodh Peda
+A for Aam Shrikhand
+R for Rabri
+I for Ice Cream
+T for Thandai
+N for Nut Barfi
+E for Elaichi Barfi
+F for Firni
+W for White Rasgulla
+V for Vermicelli Kheer
+O for Orange Barfi
+U for Ukadiche Modak
+X for Xmas Plum Cake
+Y for Yogurt Parfait
+Z for Zarda Rice
+Q for Quick Dessert
+P for Petha
+S for Shrikhand
+K for Kalakand
+
+
+----------------------------------------------------------------------
+#8. Sweets & Desserts - Part 2 (food-sweets-desserts-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-sweets-desserts-2-audio/
+
+Letter 0: C for Cake
+Letter 1: P for Pastry
+Letter 2: B for Brownie
+Letter 3: D for Donut
+Letter 4: M for Muffin
+Letter 5: C for Cookie
+Letter 6: I for Ice Cream Sundae
+Letter 7: W for Waffle
+Letter 8: P for Pancake
+Letter 9: T for Tiramisu
+Letter 10: F for Fudge
+Letter 11: S for Souffle
+Letter 12: C for Cheesecake
+Letter 13: E for Eclair
+Letter 14: A for Apple Pie
+Letter 15: G for Gelato
+Letter 16: L for Lemon Tart
+Letter 17: R for Red Velvet
+Letter 18: K for Kulfi
+Letter 19: N for Nankhatai
+Letter 20: H for Honey Cake
+Letter 21: J for Jelly
+Letter 22: O for Oreo Shake
+Letter 23: V for Vanilla Cake
+Letter 24: U for Upside Down Cake
+Letter 25: X for Xmas Pudding
+Letter 26: Y for Yogurt Cake
+Letter 27: Z for Zabaglione
+Letter 28: Q for Queen Cake
+Letter 29: S for Strawberry Cake
+
+PLAIN TEXT:
+C for Cake
+P for Pastry
+B for Brownie
+D for Donut
+M for Muffin
+C for Cookie
+I for Ice Cream Sundae
+W for Waffle
+P for Pancake
+T for Tiramisu
+F for Fudge
+S for Souffle
+C for Cheesecake
+E for Eclair
+A for Apple Pie
+G for Gelato
+L for Lemon Tart
+R for Red Velvet
+K for Kulfi
+N for Nankhatai
+H for Honey Cake
+J for Jelly
+O for Oreo Shake
+V for Vanilla Cake
+U for Upside Down Cake
+X for Xmas Pudding
+Y for Yogurt Cake
+Z for Zabaglione
+Q for Queen Cake
+S for Strawberry Cake
+
+
+----------------------------------------------------------------------
+#9. Sweets & Desserts - Part 3 (food-sweets-desserts-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-sweets-desserts-3-audio/
+
+Letter 0: M for Malpua
+Letter 1: S for Soan Papdi
+Letter 2: P for Peda
+Letter 3: K for Kaju Katli
+Letter 4: B for Boondi Ladoo
+Letter 5: G for Gajar Halwa
+Letter 6: D for Double Ka Meetha
+Letter 7: C for Coconut Barfi
+Letter 8: R for Ras Malai
+Letter 9: A for Aam Ras
+Letter 10: L for Lassi Sweet
+Letter 11: T for Thandai Sweet
+Letter 12: N for Narkel Naru
+Letter 13: H for Havmor Ice Cream
+Letter 14: I for Imarti
+Letter 15: J for Jangiri
+Letter 16: E for Elaneer Payasam
+Letter 17: F for Falooda
+Letter 18: W for White Chocolate
+Letter 19: O for Orange Cream
+Letter 20: V for Vanilla Ice Cream
+Letter 21: U for Urad Dal Ladoo
+Letter 22: X for Xtra Sweet
+Letter 23: Y for Yellow Peda
+Letter 24: Z for Zafrani Kheer
+Letter 25: Q for Quick Sweet
+Letter 26: S for Sitaphal Basundi
+Letter 27: P for Puran Poli
+Letter 28: M for Modak
+Letter 29: B for Basundi
+
+PLAIN TEXT:
+M for Malpua
+S for Soan Papdi
+P for Peda
+K for Kaju Katli
+B for Boondi Ladoo
+G for Gajar Halwa
+D for Double Ka Meetha
+C for Coconut Barfi
+R for Ras Malai
+A for Aam Ras
+L for Lassi Sweet
+T for Thandai Sweet
+N for Narkel Naru
+H for Havmor Ice Cream
+I for Imarti
+J for Jangiri
+E for Elaneer Payasam
+F for Falooda
+W for White Chocolate
+O for Orange Cream
+V for Vanilla Ice Cream
+U for Urad Dal Ladoo
+X for Xtra Sweet
+Y for Yellow Peda
+Z for Zafrani Kheer
+Q for Quick Sweet
+S for Sitaphal Basundi
+P for Puran Poli
+M for Modak
+B for Basundi
+
+
+----------------------------------------------------------------------
+#10. Breakfast Food - Part 1 (food-breakfast-food-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-breakfast-food-1-audio/
+
+Letter 0: I for Idli
+Letter 1: D for Dosa
+Letter 2: P for Poha
+Letter 3: U for Upma
+Letter 4: A for Aloo Paratha
+Letter 5: C for Chole Bhature
+Letter 6: T for Toast
+Letter 7: E for Egg
+Letter 8: O for Omelette
+Letter 9: B for Bread Butter
+Letter 10: M for Milk
+Letter 11: S for Sandwich
+Letter 12: P for Pancake
+Letter 13: W for Waffle
+Letter 14: C for Cereal
+Letter 15: F for French Toast
+Letter 16: G for Granola
+Letter 17: H for Hash Brown
+Letter 18: K for Kulcha
+Letter 19: L for Lassi
+Letter 20: N for Naan Bread
+Letter 21: R for Ragi Dosa
+Letter 22: J for Juice
+Letter 23: V for Vada
+Letter 24: Y for Yogurt
+Letter 25: X for Xtra Crispy Toast
+Letter 26: Z for Zest Oatmeal
+Letter 27: Q for Quick Oats
+Letter 28: S for Smoothie
+Letter 29: D for Dhokla
+
+PLAIN TEXT:
+I for Idli
+D for Dosa
+P for Poha
+U for Upma
+A for Aloo Paratha
+C for Chole Bhature
+T for Toast
+E for Egg
+O for Omelette
+B for Bread Butter
+M for Milk
+S for Sandwich
+P for Pancake
+W for Waffle
+C for Cereal
+F for French Toast
+G for Granola
+H for Hash Brown
+K for Kulcha
+L for Lassi
+N for Naan Bread
+R for Ragi Dosa
+J for Juice
+V for Vada
+Y for Yogurt
+X for Xtra Crispy Toast
+Z for Zest Oatmeal
+Q for Quick Oats
+S for Smoothie
+D for Dhokla
+
+
+----------------------------------------------------------------------
+#11. Breakfast Food - Part 2 (food-breakfast-food-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-breakfast-food-2-audio/
+
+Letter 0: M for Medu Vada
+Letter 1: P for Puttu
+Letter 2: A for Appam
+Letter 3: S for Set Dosa
+Letter 4: C for Curd Rice
+Letter 5: B for Besan Chilla
+Letter 6: K for Kanda Poha
+Letter 7: R for Rava Idli
+Letter 8: T for Thepla
+Letter 9: G for Gobi Paratha
+Letter 10: N for Neer Dosa
+Letter 11: H for Hot Chocolate
+Letter 12: D for Dahi Vada
+Letter 13: E for English Muffin
+Letter 14: F for Fruit Salad
+Letter 15: I for Indian Coffee
+Letter 16: J for Jam Toast
+Letter 17: L for Lemon Tea
+Letter 18: O for Oats Porridge
+Letter 19: W for Whole Wheat Toast
+Letter 20: V for Vegetable Upma
+Letter 21: U for Uthappam
+Letter 22: X for Xtra Cheese Toast
+Letter 23: Y for Yellow Moong Dal
+Letter 24: Z for Zucchini Bread
+Letter 25: Q for Quick Poha
+Letter 26: P for Paneer Paratha
+Letter 27: M for Masala Dosa
+Letter 28: S for Sabudana Khichdi
+Letter 29: B for Banana Shake
+
+PLAIN TEXT:
+M for Medu Vada
+P for Puttu
+A for Appam
+S for Set Dosa
+C for Curd Rice
+B for Besan Chilla
+K for Kanda Poha
+R for Rava Idli
+T for Thepla
+G for Gobi Paratha
+N for Neer Dosa
+H for Hot Chocolate
+D for Dahi Vada
+E for English Muffin
+F for Fruit Salad
+I for Indian Coffee
+J for Jam Toast
+L for Lemon Tea
+O for Oats Porridge
+W for Whole Wheat Toast
+V for Vegetable Upma
+U for Uthappam
+X for Xtra Cheese Toast
+Y for Yellow Moong Dal
+Z for Zucchini Bread
+Q for Quick Poha
+P for Paneer Paratha
+M for Masala Dosa
+S for Sabudana Khichdi
+B for Banana Shake
+
+
+----------------------------------------------------------------------
+#12. Breakfast Food - Part 3 (food-breakfast-food-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-breakfast-food-3-audio/
+
+Letter 0: C for Chai
+Letter 1: T for Tea
+Letter 2: C for Coffee
+Letter 3: G for Green Tea
+Letter 4: B for Badam Milk
+Letter 5: H for Haldi Doodh
+Letter 6: S for Sattu Drink
+Letter 7: L for Lassi
+Letter 8: C for Chaas
+Letter 9: M for Mango Shake
+Letter 10: P for Protein Shake
+Letter 11: A for Apple Juice
+Letter 12: O for Orange Juice
+Letter 13: W for Watermelon Juice
+Letter 14: S for Sugarcane Juice
+Letter 15: J for Jaljeera
+Letter 16: N for Nimbu Pani
+Letter 17: R for Rose Milk
+Letter 18: K for Kokum Sharbat
+Letter 19: F for Filter Coffee
+Letter 20: D for Darjeeling Tea
+Letter 21: I for Iced Tea
+Letter 22: E for Espresso
+Letter 23: V for Vanilla Latte
+Letter 24: U for Ultra Coffee
+Letter 25: X for Xtra Strong Chai
+Letter 26: Y for Yogurt Drink
+Letter 27: Z for Zen Tea
+Letter 28: Q for Quick Chai
+Letter 29: B for Buttermilk
+
+PLAIN TEXT:
+C for Chai
+T for Tea
+C for Coffee
+G for Green Tea
+B for Badam Milk
+H for Haldi Doodh
+S for Sattu Drink
+L for Lassi
+C for Chaas
+M for Mango Shake
+P for Protein Shake
+A for Apple Juice
+O for Orange Juice
+W for Watermelon Juice
+S for Sugarcane Juice
+J for Jaljeera
+N for Nimbu Pani
+R for Rose Milk
+K for Kokum Sharbat
+F for Filter Coffee
+D for Darjeeling Tea
+I for Iced Tea
+E for Espresso
+V for Vanilla Latte
+U for Ultra Coffee
+X for Xtra Strong Chai
+Y for Yogurt Drink
+Z for Zen Tea
+Q for Quick Chai
+B for Buttermilk
+
+
+----------------------------------------------------------------------
+#13. Snacks & Munchies - Part 1 (food-snacks-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-snacks-1-audio/
+
+Letter 0: C for Chips
+Letter 1: N for Namkeen
+Letter 2: B for Biscuit
+Letter 3: M for Mathri
+Letter 4: S for Sev
+Letter 5: P for Popcorn
+Letter 6: C for Chakli
+Letter 7: M for Murukku
+Letter 8: G for Gathiya
+Letter 9: K for Khakhra
+Letter 10: A for Aloo Bhujia
+Letter 11: T for Thattai
+Letter 12: F for Farsan
+Letter 13: D for Dry Fruit Mix
+Letter 14: R for Ribbon Pakoda
+Letter 15: L for Laddoo
+Letter 16: H for Haldiram
+Letter 17: J for Jhaal Muri
+Letter 18: W for Wafer
+Letter 19: E for Energy Bar
+Letter 20: I for Indian Mix
+Letter 21: O for Onion Rings
+Letter 22: V for Veggie Chips
+Letter 23: U for Ujjain Namkeen
+Letter 24: X for Xtreme Spicy Mix
+Letter 25: Y for Yellow Banana Chips
+Letter 26: Z for Zen Crackers
+Letter 27: Q for Quick Snack
+Letter 28: N for Nut Brittle
+Letter 29: S for Sweet Popcorn
+
+PLAIN TEXT:
+C for Chips
+N for Namkeen
+B for Biscuit
+M for Mathri
+S for Sev
+P for Popcorn
+C for Chakli
+M for Murukku
+G for Gathiya
+K for Khakhra
+A for Aloo Bhujia
+T for Thattai
+F for Farsan
+D for Dry Fruit Mix
+R for Ribbon Pakoda
+L for Laddoo
+H for Haldiram
+J for Jhaal Muri
+W for Wafer
+E for Energy Bar
+I for Indian Mix
+O for Onion Rings
+V for Veggie Chips
+U for Ujjain Namkeen
+X for Xtreme Spicy Mix
+Y for Yellow Banana Chips
+Z for Zen Crackers
+Q for Quick Snack
+N for Nut Brittle
+S for Sweet Popcorn
+
+
+----------------------------------------------------------------------
+#14. Snacks & Munchies - Part 2 (food-snacks-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-snacks-2-audio/
+
+Letter 0: S for Samosa
+Letter 1: P for Pakora
+Letter 2: K for Kachori
+Letter 3: B for Bread Roll
+Letter 4: V for Veg Spring Roll
+Letter 5: A for Aloo Bonda
+Letter 6: M for Mirchi Bajji
+Letter 7: C for Cutlet
+Letter 8: D for Dry Samosa
+Letter 9: G for Gobi Manchurian
+Letter 10: T for Tandoori Momos
+Letter 11: N for Noodle Snack
+Letter 12: F for Fish Finger
+Letter 13: H for Hara Bhara Kebab
+Letter 14: R for Rajasthani Pyaaz
+Letter 15: J for Jodhpuri Mirchi
+Letter 16: L for Lollipop Chicken
+Letter 17: W for Wontons
+Letter 18: E for Egg Puff
+Letter 19: I for Indian Frankie
+Letter 20: O for Onion Samosa
+Letter 21: U for Ulundhu Vadai
+Letter 22: X for Xtra Crispy Fries
+Letter 23: Y for Yogurt Kebab
+Letter 24: Z for Zimikand Chips
+Letter 25: Q for Quick Pakora
+Letter 26: S for Stuffed Paratha
+Letter 27: P for Paneer Pakora
+Letter 28: C for Cheese Balls
+Letter 29: B for Banana Chips
+
+PLAIN TEXT:
+S for Samosa
+P for Pakora
+K for Kachori
+B for Bread Roll
+V for Veg Spring Roll
+A for Aloo Bonda
+M for Mirchi Bajji
+C for Cutlet
+D for Dry Samosa
+G for Gobi Manchurian
+T for Tandoori Momos
+N for Noodle Snack
+F for Fish Finger
+H for Hara Bhara Kebab
+R for Rajasthani Pyaaz
+J for Jodhpuri Mirchi
+L for Lollipop Chicken
+W for Wontons
+E for Egg Puff
+I for Indian Frankie
+O for Onion Samosa
+U for Ulundhu Vadai
+X for Xtra Crispy Fries
+Y for Yogurt Kebab
+Z for Zimikand Chips
+Q for Quick Pakora
+S for Stuffed Paratha
+P for Paneer Pakora
+C for Cheese Balls
+B for Banana Chips
+
+
+----------------------------------------------------------------------
+#15. Snacks & Munchies - Part 3 (food-snacks-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-snacks-3-audio/
+
+Letter 0: I for Ice Gola
+Letter 1: C for Chikki
+Letter 2: P for Peanut Chikki
+Letter 3: T for Til Chikki
+Letter 4: G for Gajak
+Letter 5: R for Revdi
+Letter 6: M for Murmura
+Letter 7: B for Bhujia Sev
+Letter 8: K for Khara Boondi
+Letter 9: D for Dal Moth
+Letter 10: A for Aam Papad
+Letter 11: S for Supari
+Letter 12: L for Lemon Soda
+Letter 13: N for Nimki
+Letter 14: F for Fryums
+Letter 15: H for Haldi Chips
+Letter 16: J for Jackfruit Chips
+Letter 17: W for Wheat Puffs
+Letter 18: E for Elachi Biscuit
+Letter 19: O for Oats Biscuit
+Letter 20: V for Veggie Sticks
+Letter 21: U for Urad Dal Fry
+Letter 22: X for Xtreme Snack
+Letter 23: Y for Yellow Gram
+Letter 24: Z for Zen Mix
+Letter 25: Q for Quick Mix
+Letter 26: S for Sweet Corn
+Letter 27: P for Puffed Rice
+Letter 28: C for Corn Flakes
+Letter 29: B for Baked Namkeen
+
+PLAIN TEXT:
+I for Ice Gola
+C for Chikki
+P for Peanut Chikki
+T for Til Chikki
+G for Gajak
+R for Revdi
+M for Murmura
+B for Bhujia Sev
+K for Khara Boondi
+D for Dal Moth
+A for Aam Papad
+S for Supari
+L for Lemon Soda
+N for Nimki
+F for Fryums
+H for Haldi Chips
+J for Jackfruit Chips
+W for Wheat Puffs
+E for Elachi Biscuit
+O for Oats Biscuit
+V for Veggie Sticks
+U for Urad Dal Fry
+X for Xtreme Snack
+Y for Yellow Gram
+Z for Zen Mix
+Q for Quick Mix
+S for Sweet Corn
+P for Puffed Rice
+C for Corn Flakes
+B for Baked Namkeen
+
+
+----------------------------------------------------------------------
+#16. Drinks & Beverages - Part 1 (food-drinks-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-drinks-1-audio/
+
+Letter 0: C for Coffee
+Letter 1: T for Chai
+Letter 2: L for Lassi
+Letter 3: M for Masala Chai
+Letter 4: J for Jaggery Tea
+Letter 5: B for Badam Milk
+Letter 6: S for Sugarcane Juice
+Letter 7: G for Ginger Drink
+Letter 8: K for Kokum Drink
+Letter 9: P for Pomegranate Juice
+Letter 10: O for Orange Juice
+Letter 11: L for Lime Water
+Letter 12: H for Hing Water
+Letter 13: R for Rose Syrup
+Letter 14: T for Turmeric Milk
+Letter 15: M for Mint Cooler
+Letter 16: I for Iced Tea
+Letter 17: F for Fruit Punch
+Letter 18: V for Vegetable Juice
+Letter 19: B for Buttermilk
+Letter 20: S for Sharbat
+Letter 21: W for Whey Drink
+Letter 22: C for Coconut Water
+Letter 23: A for Amla Juice
+Letter 24: B for Beetroot Juice
+Letter 25: D for Dates Shake
+Letter 26: N for Neem Water
+Letter 27: T for Tamarind Drink
+Letter 28: M for Mango Lassi
+Letter 29: S for Spiced Water
+
+PLAIN TEXT:
+C for Coffee
+T for Chai
+L for Lassi
+M for Masala Chai
+J for Jaggery Tea
+B for Badam Milk
+S for Sugarcane Juice
+G for Ginger Drink
+K for Kokum Drink
+P for Pomegranate Juice
+O for Orange Juice
+L for Lime Water
+H for Hing Water
+R for Rose Syrup
+T for Turmeric Milk
+M for Mint Cooler
+I for Iced Tea
+F for Fruit Punch
+V for Vegetable Juice
+B for Buttermilk
+S for Sharbat
+W for Whey Drink
+C for Coconut Water
+A for Amla Juice
+B for Beetroot Juice
+D for Dates Shake
+N for Neem Water
+T for Tamarind Drink
+M for Mango Lassi
+S for Spiced Water
+
+
+----------------------------------------------------------------------
+#17. Drinks & Beverages - Part 2 (food-drinks-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-drinks-2-audio/
+
+Letter 0: C for Coffee
+Letter 1: T for Chai
+Letter 2: L for Lassi
+Letter 3: M for Masala Chai
+Letter 4: J for Jaggery Tea
+Letter 5: B for Badam Milk
+Letter 6: S for Sugarcane Juice
+Letter 7: G for Ginger Drink
+Letter 8: K for Kokum Drink
+Letter 9: P for Pomegranate Juice
+Letter 10: O for Orange Juice
+Letter 11: L for Lime Water
+Letter 12: H for Hing Water
+Letter 13: R for Rose Syrup
+Letter 14: T for Turmeric Milk
+Letter 15: M for Mint Cooler
+Letter 16: I for Iced Tea
+Letter 17: F for Fruit Punch
+Letter 18: V for Vegetable Juice
+Letter 19: B for Buttermilk
+Letter 20: S for Sharbat
+Letter 21: W for Whey Drink
+Letter 22: C for Coconut Water
+Letter 23: A for Amla Juice
+Letter 24: B for Beetroot Juice
+Letter 25: D for Dates Shake
+Letter 26: N for Neem Water
+Letter 27: T for Tamarind Drink
+Letter 28: M for Mango Lassi
+Letter 29: S for Spiced Water
+
+PLAIN TEXT:
+C for Coffee
+T for Chai
+L for Lassi
+M for Masala Chai
+J for Jaggery Tea
+B for Badam Milk
+S for Sugarcane Juice
+G for Ginger Drink
+K for Kokum Drink
+P for Pomegranate Juice
+O for Orange Juice
+L for Lime Water
+H for Hing Water
+R for Rose Syrup
+T for Turmeric Milk
+M for Mint Cooler
+I for Iced Tea
+F for Fruit Punch
+V for Vegetable Juice
+B for Buttermilk
+S for Sharbat
+W for Whey Drink
+C for Coconut Water
+A for Amla Juice
+B for Beetroot Juice
+D for Dates Shake
+N for Neem Water
+T for Tamarind Drink
+M for Mango Lassi
+S for Spiced Water
+
+
+----------------------------------------------------------------------
+#18. Drinks & Beverages - Part 3 (food-drinks-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-drinks-3-audio/
+
+Letter 0: C for Coffee
+Letter 1: T for Chai
+Letter 2: L for Lassi
+Letter 3: M for Masala Chai
+Letter 4: J for Jaggery Tea
+Letter 5: B for Badam Milk
+Letter 6: S for Sugarcane Juice
+Letter 7: G for Ginger Drink
+Letter 8: K for Kokum Drink
+Letter 9: P for Pomegranate Juice
+Letter 10: O for Orange Juice
+Letter 11: L for Lime Water
+Letter 12: H for Hing Water
+Letter 13: R for Rose Syrup
+Letter 14: T for Turmeric Milk
+Letter 15: M for Mint Cooler
+Letter 16: I for Iced Tea
+Letter 17: F for Fruit Punch
+Letter 18: V for Vegetable Juice
+Letter 19: B for Buttermilk
+Letter 20: S for Sharbat
+Letter 21: W for Whey Drink
+Letter 22: C for Coconut Water
+Letter 23: A for Amla Juice
+Letter 24: B for Beetroot Juice
+Letter 25: D for Dates Shake
+Letter 26: N for Neem Water
+Letter 27: T for Tamarind Drink
+Letter 28: M for Mango Lassi
+Letter 29: S for Spiced Water
+
+PLAIN TEXT:
+C for Coffee
+T for Chai
+L for Lassi
+M for Masala Chai
+J for Jaggery Tea
+B for Badam Milk
+S for Sugarcane Juice
+G for Ginger Drink
+K for Kokum Drink
+P for Pomegranate Juice
+O for Orange Juice
+L for Lime Water
+H for Hing Water
+R for Rose Syrup
+T for Turmeric Milk
+M for Mint Cooler
+I for Iced Tea
+F for Fruit Punch
+V for Vegetable Juice
+B for Buttermilk
+S for Sharbat
+W for Whey Drink
+C for Coconut Water
+A for Amla Juice
+B for Beetroot Juice
+D for Dates Shake
+N for Neem Water
+T for Tamarind Drink
+M for Mango Lassi
+S for Spiced Water
+
+
+----------------------------------------------------------------------
+#19. World Cuisine - Part 1 (food-world-food-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-world-food-1-audio/
+
+Letter 0: P for Pizza
+Letter 1: B for Burger
+Letter 2: T for Tacos
+Letter 3: S for Sushi
+Letter 4: P for Pasta
+Letter 5: S for Steak
+Letter 6: F for Falafel
+Letter 7: S for Sandwich
+Letter 8: G for Gyro
+Letter 9: R for Ramen
+Letter 10: D for Dumplings
+Letter 11: K for Kebab
+Letter 12: W for Wonton
+Letter 13: C for Croissant
+Letter 14: B for Bagel
+Letter 15: M for Meatball
+Letter 16: N for Nachos
+Letter 17: P for Pad Thai
+Letter 18: B for Burritos
+Letter 19: A for Arepas
+Letter 20: T for Tempura
+Letter 21: S for Spring Rolls
+Letter 22: F for Fish Tacos
+Letter 23: V for Viand
+Letter 24: M for Momo
+Letter 25: H for Hotdog
+Letter 26: S for Schnitzel
+Letter 27: L for Lentil Soup
+Letter 28: Q for Quesadilla
+Letter 29: O for Oyster
+
+PLAIN TEXT:
+P for Pizza
+B for Burger
+T for Tacos
+S for Sushi
+P for Pasta
+S for Steak
+F for Falafel
+S for Sandwich
+G for Gyro
+R for Ramen
+D for Dumplings
+K for Kebab
+W for Wonton
+C for Croissant
+B for Bagel
+M for Meatball
+N for Nachos
+P for Pad Thai
+B for Burritos
+A for Arepas
+T for Tempura
+S for Spring Rolls
+F for Fish Tacos
+V for Viand
+M for Momo
+H for Hotdog
+S for Schnitzel
+L for Lentil Soup
+Q for Quesadilla
+O for Oyster
+
+
+----------------------------------------------------------------------
+#20. World Cuisine - Part 2 (food-world-food-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-world-food-2-audio/
+
+Letter 0: C for Crepes
+Letter 1: P for Paella
+Letter 2: R for Risotto
+Letter 3: L for Lasagna
+Letter 4: B for Bratwurst
+Letter 5: M for Moussaka
+Letter 6: T for Tikka Masala
+Letter 7: S for Schwarma
+Letter 8: C for Chicken Pho
+Letter 9: B for Bibimbap
+Letter 10: K for Korean BBQ
+Letter 11: T for Tom Yum
+Letter 12: G for Goulash
+Letter 13: B for Borscht
+Letter 14: B for Baklava
+Letter 15: C for Ceviche
+Letter 16: E for Escargot
+Letter 17: F for Foie Gras
+Letter 18: P for Pierogi
+Letter 19: B for Bouillon
+Letter 20: M for Milanesa
+Letter 21: T for Tandoori
+Letter 22: S for Satay
+Letter 23: V for Vietnamese Rolls
+Letter 24: T for Thai Curry
+Letter 25: M for Mezze
+Letter 26: T for Tagine
+Letter 27: C for Couscous
+Letter 28: J for Jerk Chicken
+Letter 29: M for Mojo Pork
+
+PLAIN TEXT:
+C for Crepes
+P for Paella
+R for Risotto
+L for Lasagna
+B for Bratwurst
+M for Moussaka
+T for Tikka Masala
+S for Schwarma
+C for Chicken Pho
+B for Bibimbap
+K for Korean BBQ
+T for Tom Yum
+G for Goulash
+B for Borscht
+B for Baklava
+C for Ceviche
+E for Escargot
+F for Foie Gras
+P for Pierogi
+B for Bouillon
+M for Milanesa
+T for Tandoori
+S for Satay
+V for Vietnamese Rolls
+T for Thai Curry
+M for Mezze
+T for Tagine
+C for Couscous
+J for Jerk Chicken
+M for Mojo Pork
+
+
+----------------------------------------------------------------------
+#21. World Cuisine - Part 3 (food-world-food-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-world-food-3-audio/
+
+Letter 0: V for Vindaloo
+Letter 1: S for Saag Paneer
+Letter 2: R for Rogan Josh
+Letter 3: A for Adobo
+Letter 4: B for Beef Bulgogi
+Letter 5: P for Pho
+Letter 6: B for Bhelpuri
+Letter 7: M for Momos
+Letter 8: S for Sambussa
+Letter 9: T for Tempeh
+Letter 10: K for Kimbap
+Letter 11: O for Okonomiyaki
+Letter 12: D for Dolma
+Letter 13: H for Hummus
+Letter 14: B for Baba Ganoush
+Letter 15: T for Tabbouleh
+Letter 16: F for Fattoush
+Letter 17: S for Shakshuka
+Letter 18: H for Haggis
+Letter 19: B for Bouillabaisse
+Letter 20: C for Cassoulet
+Letter 21: C for Churro
+Letter 22: T for Tapenade
+Letter 23: P for Prosciutto
+Letter 24: P for Polenta
+Letter 25: B for Bouillie
+Letter 26: M for Mofongo
+Letter 27: C for Chimichanga
+Letter 28: E for Empanada
+Letter 29: S for Souvlaki
+
+PLAIN TEXT:
+V for Vindaloo
+S for Saag Paneer
+R for Rogan Josh
+A for Adobo
+B for Beef Bulgogi
+P for Pho
+B for Bhelpuri
+M for Momos
+S for Sambussa
+T for Tempeh
+K for Kimbap
+O for Okonomiyaki
+D for Dolma
+H for Hummus
+B for Baba Ganoush
+T for Tabbouleh
+F for Fattoush
+S for Shakshuka
+H for Haggis
+B for Bouillabaisse
+C for Cassoulet
+C for Churro
+T for Tapenade
+P for Prosciutto
+P for Polenta
+B for Bouillie
+M for Mofongo
+C for Chimichanga
+E for Empanada
+S for Souvlaki
+
+
+----------------------------------------------------------------------
+#22. Healthy Food - Part 1 (food-healthy-food-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-healthy-food-1-audio/
+
+Letter 0: Q for Quinoa Bowl
+Letter 1: S for Salad
+Letter 2: B for Broccoli
+Letter 3: S for Spinach
+Letter 4: C for Carrot
+Letter 5: T for Tofu
+Letter 6: L for Lentils
+Letter 7: B for Brown Rice
+Letter 8: O for Oats
+Letter 9: G for Granola
+Letter 10: Y for Yogurt
+Letter 11: N for Nuts
+Letter 12: S for Seeds
+Letter 13: F for Fruit
+Letter 14: B for Berries
+Letter 15: A for Avocado
+Letter 16: F for Fish
+Letter 17: C for Chicken Breast
+Letter 18: E for Egg
+Letter 19: B for Beans
+Letter 20: C for Cucumber
+Letter 21: T for Tomato
+Letter 22: B for Bell Pepper
+Letter 23: K for Kale
+Letter 24: P for Pumpkin
+Letter 25: S for Sweet Potato
+Letter 26: W for Watermelon
+Letter 27: A for Apple
+Letter 28: B for Banana
+Letter 29: O for Olive Oil
+
+PLAIN TEXT:
+Q for Quinoa Bowl
+S for Salad
+B for Broccoli
+S for Spinach
+C for Carrot
+T for Tofu
+L for Lentils
+B for Brown Rice
+O for Oats
+G for Granola
+Y for Yogurt
+N for Nuts
+S for Seeds
+F for Fruit
+B for Berries
+A for Avocado
+F for Fish
+C for Chicken Breast
+E for Egg
+B for Beans
+C for Cucumber
+T for Tomato
+B for Bell Pepper
+K for Kale
+P for Pumpkin
+S for Sweet Potato
+W for Watermelon
+A for Apple
+B for Banana
+O for Olive Oil
+
+
+----------------------------------------------------------------------
+#23. Healthy Food - Part 2 (food-healthy-food-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-healthy-food-2-audio/
+
+Letter 0: W for Whole Wheat
+Letter 1: M for Millets
+Letter 2: C for Chia Seeds
+Letter 3: F for Flax Seeds
+Letter 4: H for Hemp Seeds
+Letter 5: A for Almonds
+Letter 6: W for Walnuts
+Letter 7: C for Cashews
+Letter 8: P for Pumpkin Seeds
+Letter 9: S for Sunflower Seeds
+Letter 10: B for Beet
+Letter 11: C for Cabbage
+Letter 12: G for Garlic
+Letter 13: O for Onion
+Letter 14: G for Ginger
+Letter 15: T for Turmeric
+Letter 16: L for Lemon
+Letter 17: L for Lime
+Letter 18: H for Honey
+Letter 19: G for Green Tea
+Letter 20: B for Barley
+Letter 21: A for Amaranth
+Letter 22: K for Kombucha
+Letter 23: T for Tempeh
+Letter 24: S for Sprouts
+Letter 25: M for Mushroom
+Letter 26: B for Broth
+Letter 27: H for Herbs
+Letter 28: V for Vegetables
+Letter 29: P for Protein Powder
+
+PLAIN TEXT:
+W for Whole Wheat
+M for Millets
+C for Chia Seeds
+F for Flax Seeds
+H for Hemp Seeds
+A for Almonds
+W for Walnuts
+C for Cashews
+P for Pumpkin Seeds
+S for Sunflower Seeds
+B for Beet
+C for Cabbage
+G for Garlic
+O for Onion
+G for Ginger
+T for Turmeric
+L for Lemon
+L for Lime
+H for Honey
+G for Green Tea
+B for Barley
+A for Amaranth
+K for Kombucha
+T for Tempeh
+S for Sprouts
+M for Mushroom
+B for Broth
+H for Herbs
+V for Vegetables
+P for Protein Powder
+
+
+----------------------------------------------------------------------
+#24. Healthy Food - Part 3 (food-healthy-food-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-healthy-food-3-audio/
+
+Letter 0: B for Barley Water
+Letter 1: J for Juice
+Letter 2: S for Smoothie
+Letter 3: S for Soup
+Letter 4: S for Stew
+Letter 5: R for Roasted Vegetables
+Letter 6: G for Grilled Chicken
+Letter 7: B for Baked Fish
+Letter 8: S for Steamed Broccoli
+Letter 9: S for Sauteed Spinach
+Letter 10: M for Miso Soup
+Letter 11: T for Tomato Juice
+Letter 12: B for Beet Juice
+Letter 13: C for Carrot Juice
+Letter 14: W for Wheat Grass
+Letter 15: S for Spirulina
+Letter 16: A for Aloe Vera
+Letter 17: M for Moringa
+Letter 18: N for Neem Leaves
+Letter 19: T for Tulsi Tea
+Letter 20: G for Ginseng Tea
+Letter 21: A for Ashwagandha
+Letter 22: T for Triphala
+Letter 23: S for Saffron
+Letter 24: C for Cardamom
+Letter 25: C for Clove
+Letter 26: C for Cinnamon
+Letter 27: B for Black Pepper
+Letter 28: C for Cumin
+Letter 29: C for Coriander
+
+PLAIN TEXT:
+B for Barley Water
+J for Juice
+S for Smoothie
+S for Soup
+S for Stew
+R for Roasted Vegetables
+G for Grilled Chicken
+B for Baked Fish
+S for Steamed Broccoli
+S for Sauteed Spinach
+M for Miso Soup
+T for Tomato Juice
+B for Beet Juice
+C for Carrot Juice
+W for Wheat Grass
+S for Spirulina
+A for Aloe Vera
+M for Moringa
+N for Neem Leaves
+T for Tulsi Tea
+G for Ginseng Tea
+A for Ashwagandha
+T for Triphala
+S for Saffron
+C for Cardamom
+C for Clove
+C for Cinnamon
+B for Black Pepper
+C for Cumin
+C for Coriander
+
+
+----------------------------------------------------------------------
+#25. Spices & Herbs - Part 1 (food-spices-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-spices-1-audio/
+
+Letter 0: T for Turmeric
+Letter 1: C for Cumin
+Letter 2: C for Coriander
+Letter 3: C for Cardamom
+Letter 4: C for Cinnamon
+Letter 5: C for Clove
+Letter 6: P for Pepper
+Letter 7: C for Chili Powder
+Letter 8: M for Mustard Seeds
+Letter 9: F for Fenugreek
+Letter 10: A for Asafetida
+Letter 11: B for Bay Leaves
+Letter 12: S for Star Anise
+Letter 13: N for Nutmeg
+Letter 14: M for Mace
+Letter 15: S for Saffron
+Letter 16: G for Garlic
+Letter 17: G for Ginger
+Letter 18: O for Onion Seeds
+Letter 19: P for Poppy Seeds
+Letter 20: S for Sesame Seeds
+Letter 21: S for Sunflower Seeds
+Letter 22: P for Peppermint
+Letter 23: B for Basil
+Letter 24: O for Oregano
+Letter 25: T for Thyme
+Letter 26: R for Rosemary
+Letter 27: S for Sage
+Letter 28: D for Dill
+Letter 29: C for Cilantro
+
+PLAIN TEXT:
+T for Turmeric
+C for Cumin
+C for Coriander
+C for Cardamom
+C for Cinnamon
+C for Clove
+P for Pepper
+C for Chili Powder
+M for Mustard Seeds
+F for Fenugreek
+A for Asafetida
+B for Bay Leaves
+S for Star Anise
+N for Nutmeg
+M for Mace
+S for Saffron
+G for Garlic
+G for Ginger
+O for Onion Seeds
+P for Poppy Seeds
+S for Sesame Seeds
+S for Sunflower Seeds
+P for Peppermint
+B for Basil
+O for Oregano
+T for Thyme
+R for Rosemary
+S for Sage
+D for Dill
+C for Cilantro
+
+
+----------------------------------------------------------------------
+#26. Spices & Herbs - Part 2 (food-spices-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-spices-2-audio/
+
+Letter 0: A for Ajwain
+Letter 1: B for Black Cumin
+Letter 2: C for Carom Seeds
+Letter 3: D for Dry Ginger
+Letter 4: E for Elderflower
+Letter 5: F for Fennel
+Letter 6: G for Green Cardamom
+Letter 7: H for Hibiscus
+Letter 8: J for Jasmine
+Letter 9: K for Kasuri Methi
+Letter 10: L for Lavender
+Letter 11: L for Long Pepper
+Letter 12: M for Mahlab
+Letter 13: N for Nigella Seeds
+Letter 14: P for Pomegranate Seeds
+Letter 15: R for Red Chili
+Letter 16: S for Sichuan Pepper
+Letter 17: S for Sumac
+Letter 18: T for Tamarind
+Letter 19: V for Vanilla
+Letter 20: W for White Pepper
+Letter 21: Z for Zataar
+Letter 22: A for Allspice
+Letter 23: A for Amchur
+Letter 24: A for Ancho Chili
+Letter 25: B for Blue Poppy
+Letter 26: C for Chaat Masala
+Letter 27: D for Dried Mint
+Letter 28: F for Five Spice
+Letter 29: G for Garam Masala
+
+PLAIN TEXT:
+A for Ajwain
+B for Black Cumin
+C for Carom Seeds
+D for Dry Ginger
+E for Elderflower
+F for Fennel
+G for Green Cardamom
+H for Hibiscus
+J for Jasmine
+K for Kasuri Methi
+L for Lavender
+L for Long Pepper
+M for Mahlab
+N for Nigella Seeds
+P for Pomegranate Seeds
+R for Red Chili
+S for Sichuan Pepper
+S for Sumac
+T for Tamarind
+V for Vanilla
+W for White Pepper
+Z for Zataar
+A for Allspice
+A for Amchur
+A for Ancho Chili
+B for Blue Poppy
+C for Chaat Masala
+D for Dried Mint
+F for Five Spice
+G for Garam Masala
+
+
+----------------------------------------------------------------------
+#27. Spices & Herbs - Part 3 (food-spices-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-spices-3-audio/
+
+Letter 0: H for Hing (Asafetida)
+Letter 1: H for Hungarian Paprika
+Letter 2: I for Indian Bay Leaf
+Letter 3: J for Juniper Berries
+Letter 4: K for Kaffir Lime
+Letter 5: L for Lemongrass
+Letter 6: L for Liquorice Root
+Letter 7: M for Marjoram
+Letter 8: M for Mint Leaves
+Letter 9: M for Musk Melon Seeds
+Letter 10: N for Nepalese Pepper
+Letter 11: O for Oakmoss
+Letter 12: P for Panch Phoron
+Letter 13: P for Persian Sumac
+Letter 14: P for Pink Pepper
+Letter 15: P for Pomegranate
+Letter 16: P for Propolis
+Letter 17: R for Roasted Cumin
+Letter 18: S for Smoked Paprika
+Letter 19: S for Star Anise
+Letter 20: T for Tonka Bean
+Letter 21: T for Turmeric Root
+Letter 22: U for Urfa Biber
+Letter 23: V for Voatsiperifery
+Letter 24: W for Wasabi
+Letter 25: X for Xanthan Gum
+Letter 26: Y for Yellow Mustard
+Letter 27: Z for Zedoary
+Letter 28: C for Cassia Bark
+Letter 29: C for Cumin Powder
+
+PLAIN TEXT:
+H for Hing (Asafetida)
+H for Hungarian Paprika
+I for Indian Bay Leaf
+J for Juniper Berries
+K for Kaffir Lime
+L for Lemongrass
+L for Liquorice Root
+M for Marjoram
+M for Mint Leaves
+M for Musk Melon Seeds
+N for Nepalese Pepper
+O for Oakmoss
+P for Panch Phoron
+P for Persian Sumac
+P for Pink Pepper
+P for Pomegranate
+P for Propolis
+R for Roasted Cumin
+S for Smoked Paprika
+S for Star Anise
+T for Tonka Bean
+T for Turmeric Root
+U for Urfa Biber
+V for Voatsiperifery
+W for Wasabi
+X for Xanthan Gum
+Y for Yellow Mustard
+Z for Zedoary
+C for Cassia Bark
+C for Cumin Powder
+
+
+----------------------------------------------------------------------
+#28. Festival Food - Part 1 (food-festival-food-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-festival-food-1-audio/
+
+Letter 0: G for Gulab Jamun
+Letter 1: J for Jalebi
+Letter 2: K for Kheer
+Letter 3: L for Laddoo
+Letter 4: B for Barfi
+Letter 5: R for Rasgulla
+Letter 6: P for Payasam
+Letter 7: P for Peda
+Letter 8: M for Modak
+Letter 9: C for Chakli
+Letter 10: B for Balushahi
+Letter 11: A for Aloo Halwa
+Letter 12: G for Gajar Halwa
+Letter 13: M for Malpua
+Letter 14: D for Dhokla
+Letter 15: I for Imarti
+Letter 16: M for Mysore Pak
+Letter 17: A for Amirtham
+Letter 18: P for Puree
+Letter 19: H for Halwa
+Letter 20: P for Puri
+Letter 21: B for Bhelpuri
+Letter 22: P for Papad
+Letter 23: P for Pickle
+Letter 24: M for Milk Dessert
+Letter 25: R for Rice Pudding
+Letter 26: S for Shrikhand
+Letter 27: P for Pongal
+Letter 28: B for Biryani
+Letter 29: S for Sweet Rice
+
+PLAIN TEXT:
+G for Gulab Jamun
+J for Jalebi
+K for Kheer
+L for Laddoo
+B for Barfi
+R for Rasgulla
+P for Payasam
+P for Peda
+M for Modak
+C for Chakli
+B for Balushahi
+A for Aloo Halwa
+G for Gajar Halwa
+M for Malpua
+D for Dhokla
+I for Imarti
+M for Mysore Pak
+A for Amirtham
+P for Puree
+H for Halwa
+P for Puri
+B for Bhelpuri
+P for Papad
+P for Pickle
+M for Milk Dessert
+R for Rice Pudding
+S for Shrikhand
+P for Pongal
+B for Biryani
+S for Sweet Rice
+
+
+----------------------------------------------------------------------
+#29. Festival Food - Part 2 (food-festival-food-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-festival-food-2-audio/
+
+Letter 0: K for Khichdi
+Letter 1: S for Samosa
+Letter 2: M for Matri
+Letter 3: N for Namak Pare
+Letter 4: B for Boondi Laddu
+Letter 5: M for Mohan Bhog
+Letter 6: R for Roat
+Letter 7: P for Prashad
+Letter 8: S for Sabudana
+Letter 9: S for Semolina Halwa
+Letter 10: M for Mithhai
+Letter 11: D for Diwali Sweets
+Letter 12: H for Holi Colors
+Letter 13: P for Puri Sabzi
+Letter 14: R for Rajasthani Bati
+Letter 15: G for Gujarat Fafda
+Letter 16: U for Undhiyu
+Letter 17: D for Dal
+Letter 18: V for Vegetable Curry
+Letter 19: R for Raita
+Letter 20: A for Achaar
+Letter 21: C for Chutney
+Letter 22: P for Pachadi
+Letter 23: S for Sattu
+Letter 24: B for Baked Items
+Letter 25: F for Festival Feast
+Letter 26: L for Lemon Rice
+Letter 27: T for Tamarind Rice
+Letter 28: C for Coconut Rice
+Letter 29: B for Bisi Bele Bath
+
+PLAIN TEXT:
+K for Khichdi
+S for Samosa
+M for Matri
+N for Namak Pare
+B for Boondi Laddu
+M for Mohan Bhog
+R for Roat
+P for Prashad
+S for Sabudana
+S for Semolina Halwa
+M for Mithhai
+D for Diwali Sweets
+H for Holi Colors
+P for Puri Sabzi
+R for Rajasthani Bati
+G for Gujarat Fafda
+U for Undhiyu
+D for Dal
+V for Vegetable Curry
+R for Raita
+A for Achaar
+C for Chutney
+P for Pachadi
+S for Sattu
+B for Baked Items
+F for Festival Feast
+L for Lemon Rice
+T for Tamarind Rice
+C for Coconut Rice
+B for Bisi Bele Bath
+
+
+----------------------------------------------------------------------
+#30. Festival Food - Part 3 (food-festival-food-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/food-festival-food-3-audio/
+
+Letter 0: M for Mango Rice
+Letter 1: B for Beetroot Rice
+Letter 2: C for Carrot Rice
+Letter 3: P for Peas Rice
+Letter 4: J for Jeera Rice
+Letter 5: S for Saffron Rice
+Letter 6: C for Cumin Rice
+Letter 7: F for Fried Rice
+Letter 8: M for Mint Rice
+Letter 9: P for Plain Rice
+Letter 10: B for Butter Rice
+Letter 11: G for Ghee Rice
+Letter 12: O for Oily Rice
+Letter 13: S for Steamed Rice
+Letter 14: R for Roasted Rice
+Letter 15: P for Parboiled Rice
+Letter 16: W for White Rice
+Letter 17: B for Brown Rice
+Letter 18: R for Red Rice
+Letter 19: B for Black Rice
+Letter 20: W for Wild Rice
+Letter 21: A for Arborio Rice
+Letter 22: B for Basmati Rice
+Letter 23: J for Jasmine Rice
+Letter 24: A for Arborio Risotto
+Letter 25: C for Couscous
+Letter 26: M for Millet
+Letter 27: Q for Quinoa
+Letter 28: F for Farro
+Letter 29: O for Oats Rice
+
+PLAIN TEXT:
+M for Mango Rice
+B for Beetroot Rice
+C for Carrot Rice
+P for Peas Rice
+J for Jeera Rice
+S for Saffron Rice
+C for Cumin Rice
+F for Fried Rice
+M for Mint Rice
+P for Plain Rice
+B for Butter Rice
+G for Ghee Rice
+O for Oily Rice
+S for Steamed Rice
+R for Roasted Rice
+P for Parboiled Rice
+W for White Rice
+B for Brown Rice
+R for Red Rice
+B for Black Rice
+W for Wild Rice
+A for Arborio Rice
+B for Basmati Rice
+J for Jasmine Rice
+A for Arborio Risotto
+C for Couscous
+M for Millet
+Q for Quinoa
+F for Farro
+O for Oats Rice
+

@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: COLOR & SHAPE NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Rainbow Colors - Part 1 (colors-rainbow-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-rainbow-colors-1-audio/
+
+Letter 0: R for Red
+Letter 1: B for Blue
+Letter 2: G for Green
+Letter 3: Y for Yellow
+Letter 4: O for Orange
+Letter 5: P for Purple
+Letter 6: W for White
+Letter 7: B for Black
+Letter 8: P for Pink
+Letter 9: B for Brown
+Letter 10: G for Gold
+Letter 11: S for Silver
+Letter 12: C for Cyan
+Letter 13: M for Magenta
+Letter 14: T for Turquoise
+Letter 15: I for Indigo
+Letter 16: V for Violet
+Letter 17: C for Crimson
+Letter 18: S for Scarlet
+Letter 19: N for Navy
+Letter 20: L for Lavender
+Letter 21: M for Maroon
+Letter 22: C for Coral
+Letter 23: T for Teal
+Letter 24: K for Khaki
+Letter 25: A for Amber
+Letter 26: P for Peach
+Letter 27: R for Rose
+Letter 28: B for Beige
+Letter 29: G for Grey
+
+PLAIN TEXT:
+R for Red
+B for Blue
+G for Green
+Y for Yellow
+O for Orange
+P for Purple
+W for White
+B for Black
+P for Pink
+B for Brown
+G for Gold
+S for Silver
+C for Cyan
+M for Magenta
+T for Turquoise
+I for Indigo
+V for Violet
+C for Crimson
+S for Scarlet
+N for Navy
+L for Lavender
+M for Maroon
+C for Coral
+T for Teal
+K for Khaki
+A for Amber
+P for Peach
+R for Rose
+B for Beige
+G for Grey
+
+
+----------------------------------------------------------------------
+#2. Rainbow Colors - Part 2 (colors-rainbow-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-rainbow-colors-2-audio/
+
+Letter 0: S for Sky Blue
+Letter 1: L for Lime Green
+Letter 2: H for Hot Pink
+Letter 3: D for Dark Blue
+Letter 4: F for Forest Green
+Letter 5: R for Royal Blue
+Letter 6: O for Olive Green
+Letter 7: B for Baby Pink
+Letter 8: M for Mint Green
+Letter 9: C for Cherry Red
+Letter 10: N for Neon Green
+Letter 11: P for Pastel Blue
+Letter 12: G for Golden Yellow
+Letter 13: W for Wine Red
+Letter 14: A for Aqua Blue
+Letter 15: T for Tangerine
+Letter 16: E for Emerald
+Letter 17: I for Ice Blue
+Letter 18: S for Sunset Orange
+Letter 19: J for Jade Green
+Letter 20: K for Kelly Green
+Letter 21: V for Vermillion
+Letter 22: U for Ultramarine
+Letter 23: X for Xanadu Green
+Letter 24: Y for Yellow Green
+Letter 25: Z for Zinc White
+Letter 26: D for Dusty Rose
+Letter 27: F for Fuchsia
+Letter 28: C for Copper
+Letter 29: B for Bronze
+
+PLAIN TEXT:
+S for Sky Blue
+L for Lime Green
+H for Hot Pink
+D for Dark Blue
+F for Forest Green
+R for Royal Blue
+O for Olive Green
+B for Baby Pink
+M for Mint Green
+C for Cherry Red
+N for Neon Green
+P for Pastel Blue
+G for Golden Yellow
+W for Wine Red
+A for Aqua Blue
+T for Tangerine
+E for Emerald
+I for Ice Blue
+S for Sunset Orange
+J for Jade Green
+K for Kelly Green
+V for Vermillion
+U for Ultramarine
+X for Xanadu Green
+Y for Yellow Green
+Z for Zinc White
+D for Dusty Rose
+F for Fuchsia
+C for Copper
+B for Bronze
+
+
+----------------------------------------------------------------------
+#3. Rainbow Colors - Part 3 (colors-rainbow-colors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-rainbow-colors-3-audio/
+
+Letter 0: R for Rainbow
+Letter 1: P for Plum
+Letter 2: C for Champagne
+Letter 3: S for Sage Green
+Letter 4: M for Mustard
+Letter 5: T for Terracotta
+Letter 6: B for Burgundy
+Letter 7: D for Denim Blue
+Letter 8: L for Lilac
+Letter 9: A for Apricot
+Letter 10: H for Honey
+Letter 11: O for Ochre
+Letter 12: N for Nude
+Letter 13: W for Wheat
+Letter 14: F for Flamingo Pink
+Letter 15: G for Grape Purple
+Letter 16: I for Ivory
+Letter 17: J for Jasmine Yellow
+Letter 18: K for Kale Green
+Letter 19: E for Electric Blue
+Letter 20: V for Vanilla
+Letter 21: U for Umber
+Letter 22: X for Xanthic Yellow
+Letter 23: Y for Yellow Ochre
+Letter 24: Z for Zaffre Blue
+Letter 25: Q for Quartz Pink
+Letter 26: C for Charcoal
+Letter 27: S for Steel Grey
+Letter 28: P for Pearl White
+Letter 29: R for Ruby Red
+
+PLAIN TEXT:
+R for Rainbow
+P for Plum
+C for Champagne
+S for Sage Green
+M for Mustard
+T for Terracotta
+B for Burgundy
+D for Denim Blue
+L for Lilac
+A for Apricot
+H for Honey
+O for Ochre
+N for Nude
+W for Wheat
+F for Flamingo Pink
+G for Grape Purple
+I for Ivory
+J for Jasmine Yellow
+K for Kale Green
+E for Electric Blue
+V for Vanilla
+U for Umber
+X for Xanthic Yellow
+Y for Yellow Ochre
+Z for Zaffre Blue
+Q for Quartz Pink
+C for Charcoal
+S for Steel Grey
+P for Pearl White
+R for Ruby Red
+
+
+----------------------------------------------------------------------
+#4. Shapes All Around - Part 1 (colors-shapes-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-shapes-1-audio/
+
+Letter 0: C for Circle
+Letter 1: S for Square
+Letter 2: T for Triangle
+Letter 3: R for Rectangle
+Letter 4: D for Diamond
+Letter 5: S for Star
+Letter 6: H for Heart
+Letter 7: O for Oval
+Letter 8: P for Pentagon
+Letter 9: H for Hexagon
+Letter 10: O for Octagon
+Letter 11: A for Arrow
+Letter 12: C for Crescent
+Letter 13: C for Cross
+Letter 14: S for Sphere
+Letter 15: C for Cube
+Letter 16: C for Cylinder
+Letter 17: C for Cone
+Letter 18: P for Pyramid
+Letter 19: S for Spiral
+Letter 20: R for Ring
+Letter 21: T for Trapezoid
+Letter 22: P for Parallelogram
+Letter 23: R for Rhombus
+Letter 24: K for Kite Shape
+Letter 25: S for Semicircle
+Letter 26: E for Ellipse
+Letter 27: D for Decagon
+Letter 28: H for Heptagon
+Letter 29: N for Nonagon
+
+PLAIN TEXT:
+C for Circle
+S for Square
+T for Triangle
+R for Rectangle
+D for Diamond
+S for Star
+H for Heart
+O for Oval
+P for Pentagon
+H for Hexagon
+O for Octagon
+A for Arrow
+C for Crescent
+C for Cross
+S for Sphere
+C for Cube
+C for Cylinder
+C for Cone
+P for Pyramid
+S for Spiral
+R for Ring
+T for Trapezoid
+P for Parallelogram
+R for Rhombus
+K for Kite Shape
+S for Semicircle
+E for Ellipse
+D for Decagon
+H for Heptagon
+N for Nonagon
+
+
+----------------------------------------------------------------------
+#5. Shapes All Around - Part 2 (colors-shapes-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-shapes-2-audio/
+
+Letter 0: S for Sphere
+Letter 1: C for Cube
+Letter 2: P for Prism
+Letter 3: C for Cylinder
+Letter 4: C for Cone
+Letter 5: P for Pyramid
+Letter 6: T for Torus
+Letter 7: D for Dodecahedron
+Letter 8: I for Icosahedron
+Letter 9: O for Octahedron
+Letter 10: T for Tetrahedron
+Letter 11: H for Hemisphere
+Letter 12: E for Ellipsoid
+Letter 13: R for Rectangular Prism
+Letter 14: S for Square Pyramid
+Letter 15: T for Triangular Prism
+Letter 16: P for Pentagonal Prism
+Letter 17: H for Hexagonal Prism
+Letter 18: C for Cuboid
+Letter 19: R for Right Angle
+Letter 20: A for Acute Angle
+Letter 21: O for Obtuse Angle
+Letter 22: S for Straight Line
+Letter 23: P for Parallel Lines
+Letter 24: C for Curved Line
+Letter 25: Z for Zigzag Line
+Letter 26: W for Wavy Line
+Letter 27: D for Dotted Line
+Letter 28: M for Measurement
+Letter 29: G for Grid
+
+PLAIN TEXT:
+S for Sphere
+C for Cube
+P for Prism
+C for Cylinder
+C for Cone
+P for Pyramid
+T for Torus
+D for Dodecahedron
+I for Icosahedron
+O for Octahedron
+T for Tetrahedron
+H for Hemisphere
+E for Ellipsoid
+R for Rectangular Prism
+S for Square Pyramid
+T for Triangular Prism
+P for Pentagonal Prism
+H for Hexagonal Prism
+C for Cuboid
+R for Right Angle
+A for Acute Angle
+O for Obtuse Angle
+S for Straight Line
+P for Parallel Lines
+C for Curved Line
+Z for Zigzag Line
+W for Wavy Line
+D for Dotted Line
+M for Measurement
+G for Grid
+
+
+----------------------------------------------------------------------
+#6. Shapes All Around - Part 3 (colors-shapes-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-shapes-3-audio/
+
+Letter 0: S for Snowflake Shape
+Letter 1: C for Cloud Shape
+Letter 2: L for Lightning Bolt
+Letter 3: S for Sun Shape
+Letter 4: M for Moon Shape
+Letter 5: R for Raindrop
+Letter 6: F for Flower Shape
+Letter 7: L for Leaf Shape
+Letter 8: T for Tree Shape
+Letter 9: B for Butterfly Shape
+Letter 10: H for Heart Shape
+Letter 11: S for Star Shape
+Letter 12: D for Diamond Shape
+Letter 13: A for Arrow Shape
+Letter 14: C for Crown Shape
+Letter 15: K for Key Shape
+Letter 16: R for Ribbon Shape
+Letter 17: S for Shield Shape
+Letter 18: W for Wave Shape
+Letter 19: P for Puzzle Shape
+Letter 20: G for Gear Shape
+Letter 21: E for Eye Shape
+Letter 22: I for Infinity Shape
+Letter 23: N for Number Shape
+Letter 24: O for Oval Shape
+Letter 25: U for Umbrella Shape
+Letter 26: V for Vine Shape
+Letter 27: X for X Shape
+Letter 28: Y for Yin Yang
+Letter 29: Z for Zigzag Shape
+
+PLAIN TEXT:
+S for Snowflake Shape
+C for Cloud Shape
+L for Lightning Bolt
+S for Sun Shape
+M for Moon Shape
+R for Raindrop
+F for Flower Shape
+L for Leaf Shape
+T for Tree Shape
+B for Butterfly Shape
+H for Heart Shape
+S for Star Shape
+D for Diamond Shape
+A for Arrow Shape
+C for Crown Shape
+K for Key Shape
+R for Ribbon Shape
+S for Shield Shape
+W for Wave Shape
+P for Puzzle Shape
+G for Gear Shape
+E for Eye Shape
+I for Infinity Shape
+N for Number Shape
+O for Oval Shape
+U for Umbrella Shape
+V for Vine Shape
+X for X Shape
+Y for Yin Yang
+Z for Zigzag Shape
+
+
+----------------------------------------------------------------------
+#7. Nature Colors - Part 1 (colors-nature-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-nature-colors-1-audio/
+
+Letter 0: G for Green Leaf
+Letter 1: B for Blue Sky
+Letter 2: R for Red Rose
+Letter 3: Y for Yellow Sun
+Letter 4: O for Orange Sunset
+Letter 5: W for White Snow
+Letter 6: B for Brown Earth
+Letter 7: P for Pink Flower
+Letter 8: G for Grey Cloud
+Letter 9: B for Blue Ocean
+Letter 10: G for Green Grass
+Letter 11: Y for Yellow Banana
+Letter 12: R for Red Apple
+Letter 13: O for Orange Carrot
+Letter 14: P for Purple Grape
+Letter 15: W for White Daisy
+Letter 16: B for Black Night
+Letter 17: G for Gold Honey
+Letter 18: S for Silver Moon
+Letter 19: T for Turquoise Water
+Letter 20: C for Coral Reef
+Letter 21: I for Indigo Night
+Letter 22: M for Mint Leaf
+Letter 23: L for Lavender Field
+Letter 24: K for Khaki Sand
+Letter 25: A for Amber Autumn
+Letter 26: N for Navy Deep
+Letter 27: D for Dark Forest
+Letter 28: F for Fiery Red
+Letter 29: E for Emerald Green
+
+PLAIN TEXT:
+G for Green Leaf
+B for Blue Sky
+R for Red Rose
+Y for Yellow Sun
+O for Orange Sunset
+W for White Snow
+B for Brown Earth
+P for Pink Flower
+G for Grey Cloud
+B for Blue Ocean
+G for Green Grass
+Y for Yellow Banana
+R for Red Apple
+O for Orange Carrot
+P for Purple Grape
+W for White Daisy
+B for Black Night
+G for Gold Honey
+S for Silver Moon
+T for Turquoise Water
+C for Coral Reef
+I for Indigo Night
+M for Mint Leaf
+L for Lavender Field
+K for Khaki Sand
+A for Amber Autumn
+N for Navy Deep
+D for Dark Forest
+F for Fiery Red
+E for Emerald Green
+
+
+----------------------------------------------------------------------
+#8. Nature Colors - Part 2 (colors-nature-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-nature-colors-2-audio/
+
+Letter 0: S for Sapphire Blue
+Letter 1: R for Ruby Red
+Letter 2: E for Emerald Green
+Letter 3: A for Amethyst Purple
+Letter 4: T for Topaz Yellow
+Letter 5: O for Opal White
+Letter 6: D for Diamond Clear
+Letter 7: G for Garnet Red
+Letter 8: P for Pearl White
+Letter 9: C for Citrine Yellow
+Letter 10: J for Jade Green
+Letter 11: L for Lapis Blue
+Letter 12: M for Moonstone
+Letter 13: N for Neon Pink
+Letter 14: B for Bright Orange
+Letter 15: F for Fern Green
+Letter 16: H for Hot Red
+Letter 17: I for Ice White
+Letter 18: K for Koi Orange
+Letter 19: W for Warm Gold
+Letter 20: V for Vivid Blue
+Letter 21: U for Ultra Violet
+Letter 22: X for Xanadu
+Letter 23: Y for Yarn Pink
+Letter 24: Z for Zenith Blue
+Letter 25: Q for Quartz Rose
+Letter 26: C for Cherry Blossom
+Letter 27: S for Sunset Gold
+Letter 28: T for Tropical Green
+Letter 29: B for Berry Purple
+
+PLAIN TEXT:
+S for Sapphire Blue
+R for Ruby Red
+E for Emerald Green
+A for Amethyst Purple
+T for Topaz Yellow
+O for Opal White
+D for Diamond Clear
+G for Garnet Red
+P for Pearl White
+C for Citrine Yellow
+J for Jade Green
+L for Lapis Blue
+M for Moonstone
+N for Neon Pink
+B for Bright Orange
+F for Fern Green
+H for Hot Red
+I for Ice White
+K for Koi Orange
+W for Warm Gold
+V for Vivid Blue
+U for Ultra Violet
+X for Xanadu
+Y for Yarn Pink
+Z for Zenith Blue
+Q for Quartz Rose
+C for Cherry Blossom
+S for Sunset Gold
+T for Tropical Green
+B for Berry Purple
+
+
+----------------------------------------------------------------------
+#9. Bright Colors - Part 1 (colors-bright-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-bright-colors-1-audio/
+
+Letter 0: N for Neon Yellow
+Letter 1: N for Neon Green
+Letter 2: N for Neon Pink
+Letter 3: N for Neon Blue
+Letter 4: N for Neon Orange
+Letter 5: N for Neon Purple
+Letter 6: E for Electric Blue
+Letter 7: E for Electric Green
+Letter 8: F for Fluorescent Yellow
+Letter 9: F for Fluorescent Pink
+Letter 10: B for Bright Red
+Letter 11: B for Bright Blue
+Letter 12: B for Bright Green
+Letter 13: B for Bright Yellow
+Letter 14: B for Bright Orange
+Letter 15: V for Vivid Red
+Letter 16: V for Vivid Blue
+Letter 17: V for Vivid Green
+Letter 18: V for Vivid Purple
+Letter 19: V for Vivid Orange
+Letter 20: H for Hot Pink
+Letter 21: H for Hot Red
+Letter 22: L for Lime
+Letter 23: C for Candy Pink
+Letter 24: S for Shocking Pink
+Letter 25: A for Acid Green
+Letter 26: R for Radical Red
+Letter 27: T for Tropical Blue
+Letter 28: G for Glow Yellow
+Letter 29: P for Power Purple
+
+PLAIN TEXT:
+N for Neon Yellow
+N for Neon Green
+N for Neon Pink
+N for Neon Blue
+N for Neon Orange
+N for Neon Purple
+E for Electric Blue
+E for Electric Green
+F for Fluorescent Yellow
+F for Fluorescent Pink
+B for Bright Red
+B for Bright Blue
+B for Bright Green
+B for Bright Yellow
+B for Bright Orange
+V for Vivid Red
+V for Vivid Blue
+V for Vivid Green
+V for Vivid Purple
+V for Vivid Orange
+H for Hot Pink
+H for Hot Red
+L for Lime
+C for Candy Pink
+S for Shocking Pink
+A for Acid Green
+R for Radical Red
+T for Tropical Blue
+G for Glow Yellow
+P for Power Purple
+
+
+----------------------------------------------------------------------
+#10. Bright Colors - Part 2 (colors-bright-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-bright-colors-2-audio/
+
+Letter 0: P for Pastel Pink
+Letter 1: P for Pastel Blue
+Letter 2: P for Pastel Green
+Letter 3: P for Pastel Yellow
+Letter 4: P for Pastel Purple
+Letter 5: P for Pastel Orange
+Letter 6: S for Soft Pink
+Letter 7: S for Soft Blue
+Letter 8: S for Soft Green
+Letter 9: S for Soft Yellow
+Letter 10: L for Light Grey
+Letter 11: L for Light Blue
+Letter 12: L for Light Green
+Letter 13: L for Light Pink
+Letter 14: L for Light Purple
+Letter 15: D for Dark Red
+Letter 16: D for Dark Blue
+Letter 17: D for Dark Green
+Letter 18: D for Dark Purple
+Letter 19: D for Dark Orange
+Letter 20: M for Matte Black
+Letter 21: M for Matte White
+Letter 22: M for Matte Grey
+Letter 23: G for Glitter Gold
+Letter 24: G for Glitter Silver
+Letter 25: R for Rose Gold
+Letter 26: C for Chrome Silver
+Letter 27: B for Bronze
+Letter 28: C for Copper
+Letter 29: T for Titanium
+
+PLAIN TEXT:
+P for Pastel Pink
+P for Pastel Blue
+P for Pastel Green
+P for Pastel Yellow
+P for Pastel Purple
+P for Pastel Orange
+S for Soft Pink
+S for Soft Blue
+S for Soft Green
+S for Soft Yellow
+L for Light Grey
+L for Light Blue
+L for Light Green
+L for Light Pink
+L for Light Purple
+D for Dark Red
+D for Dark Blue
+D for Dark Green
+D for Dark Purple
+D for Dark Orange
+M for Matte Black
+M for Matte White
+M for Matte Grey
+G for Glitter Gold
+G for Glitter Silver
+R for Rose Gold
+C for Chrome Silver
+B for Bronze
+C for Copper
+T for Titanium
+
+
+----------------------------------------------------------------------
+#11. Nature Colors - Part 3 (colors-nature-colors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-nature-colors-3-audio/
+
+Letter 0: G for Green
+Letter 1: E for Emerald
+Letter 2: O for Olive
+Letter 3: M for Moss
+Letter 4: J for Jade
+Letter 5: F for Forest
+Letter 6: S for Sage
+Letter 7: T for Teal
+Letter 8: M for Mint
+Letter 9: C for Cedar
+Letter 10: L for Leaf
+Letter 11: S for Spring
+Letter 12: A for Avocado
+Letter 13: K for Khaki
+Letter 14: P for Pistachio
+Letter 15: W for Willow
+Letter 16: H for Hunter
+Letter 17: B for Basil
+Letter 18: S for Shamrock
+Letter 19: N for Nature
+Letter 20: R for Rainforest
+Letter 21: V for Verdant
+Letter 22: E for Earth
+Letter 23: D for Dark
+Letter 24: L for Light
+Letter 25: B for Bright
+Letter 26: D for Deep
+Letter 27: S for Soft
+Letter 28: R for Rich
+Letter 29: V for Vibrant
+
+PLAIN TEXT:
+G for Green
+E for Emerald
+O for Olive
+M for Moss
+J for Jade
+F for Forest
+S for Sage
+T for Teal
+M for Mint
+C for Cedar
+L for Leaf
+S for Spring
+A for Avocado
+K for Khaki
+P for Pistachio
+W for Willow
+H for Hunter
+B for Basil
+S for Shamrock
+N for Nature
+R for Rainforest
+V for Verdant
+E for Earth
+D for Dark
+L for Light
+B for Bright
+D for Deep
+S for Soft
+R for Rich
+V for Vibrant
+
+
+----------------------------------------------------------------------
+#12. Warm Colors - Part 1 (colors-warm-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-warm-colors-1-audio/
+
+Letter 0: R for Red
+Letter 1: O for Orange
+Letter 2: Y for Yellow
+Letter 3: G for Gold
+Letter 4: C for Coral
+Letter 5: S for Salmon
+Letter 6: P for Peach
+Letter 7: T for Tangerine
+Letter 8: A for Amber
+Letter 9: B for Bronze
+Letter 10: F for Flame
+Letter 11: S for Sunset
+Letter 12: F for Fire
+Letter 13: M for Marmalade
+Letter 14: T for Terracotta
+Letter 15: R for Rust
+Letter 16: B for Brick
+Letter 17: H for Honey
+Letter 18: C for Copper
+Letter 19: W for Warm
+Letter 20: S for Saffron
+Letter 21: L for Lava
+Letter 22: B for Blaze
+Letter 23: G for Glow
+Letter 24: H for Heat
+Letter 25: R for Radiant
+Letter 26: W for Wheat
+Letter 27: S for Spice
+Letter 28: T for Toast
+Letter 29: V for Vibrant
+
+PLAIN TEXT:
+R for Red
+O for Orange
+Y for Yellow
+G for Gold
+C for Coral
+S for Salmon
+P for Peach
+T for Tangerine
+A for Amber
+B for Bronze
+F for Flame
+S for Sunset
+F for Fire
+M for Marmalade
+T for Terracotta
+R for Rust
+B for Brick
+H for Honey
+C for Copper
+W for Warm
+S for Saffron
+L for Lava
+B for Blaze
+G for Glow
+H for Heat
+R for Radiant
+W for Wheat
+S for Spice
+T for Toast
+V for Vibrant
+
+
+----------------------------------------------------------------------
+#13. Warm Colors - Part 2 (colors-warm-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-warm-colors-2-audio/
+
+Letter 0: R for Red
+Letter 1: O for Orange
+Letter 2: Y for Yellow
+Letter 3: G for Gold
+Letter 4: C for Coral
+Letter 5: S for Salmon
+Letter 6: P for Peach
+Letter 7: T for Tangerine
+Letter 8: A for Amber
+Letter 9: B for Bronze
+Letter 10: F for Flame
+Letter 11: S for Sunset
+Letter 12: F for Fire
+Letter 13: M for Marmalade
+Letter 14: T for Terracotta
+Letter 15: R for Rust
+Letter 16: B for Brick
+Letter 17: H for Honey
+Letter 18: C for Copper
+Letter 19: W for Warm
+Letter 20: S for Saffron
+Letter 21: L for Lava
+Letter 22: B for Blaze
+Letter 23: G for Glow
+Letter 24: H for Heat
+Letter 25: R for Radiant
+Letter 26: W for Wheat
+Letter 27: S for Spice
+Letter 28: T for Toast
+Letter 29: V for Vibrant
+
+PLAIN TEXT:
+R for Red
+O for Orange
+Y for Yellow
+G for Gold
+C for Coral
+S for Salmon
+P for Peach
+T for Tangerine
+A for Amber
+B for Bronze
+F for Flame
+S for Sunset
+F for Fire
+M for Marmalade
+T for Terracotta
+R for Rust
+B for Brick
+H for Honey
+C for Copper
+W for Warm
+S for Saffron
+L for Lava
+B for Blaze
+G for Glow
+H for Heat
+R for Radiant
+W for Wheat
+S for Spice
+T for Toast
+V for Vibrant
+
+
+----------------------------------------------------------------------
+#14. Warm Colors - Part 3 (colors-warm-colors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-warm-colors-3-audio/
+
+Letter 0: R for Red
+Letter 1: O for Orange
+Letter 2: Y for Yellow
+Letter 3: G for Gold
+Letter 4: C for Coral
+Letter 5: S for Salmon
+Letter 6: P for Peach
+Letter 7: T for Tangerine
+Letter 8: A for Amber
+Letter 9: B for Bronze
+Letter 10: F for Flame
+Letter 11: S for Sunset
+Letter 12: F for Fire
+Letter 13: M for Marmalade
+Letter 14: T for Terracotta
+Letter 15: R for Rust
+Letter 16: B for Brick
+Letter 17: H for Honey
+Letter 18: C for Copper
+Letter 19: W for Warm
+Letter 20: S for Saffron
+Letter 21: L for Lava
+Letter 22: B for Blaze
+Letter 23: G for Glow
+Letter 24: H for Heat
+Letter 25: R for Radiant
+Letter 26: W for Wheat
+Letter 27: S for Spice
+Letter 28: T for Toast
+Letter 29: V for Vibrant
+
+PLAIN TEXT:
+R for Red
+O for Orange
+Y for Yellow
+G for Gold
+C for Coral
+S for Salmon
+P for Peach
+T for Tangerine
+A for Amber
+B for Bronze
+F for Flame
+S for Sunset
+F for Fire
+M for Marmalade
+T for Terracotta
+R for Rust
+B for Brick
+H for Honey
+C for Copper
+W for Warm
+S for Saffron
+L for Lava
+B for Blaze
+G for Glow
+H for Heat
+R for Radiant
+W for Wheat
+S for Spice
+T for Toast
+V for Vibrant
+
+
+----------------------------------------------------------------------
+#15. Cool Colors - Part 1 (colors-cool-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-cool-colors-1-audio/
+
+Letter 0: B for Blue
+Letter 1: C for Cyan
+Letter 2: I for Indigo
+Letter 3: P for Purple
+Letter 4: V for Violet
+Letter 5: L for Lavender
+Letter 6: T for Teal
+Letter 7: S for Sky
+Letter 8: I for Ice
+Letter 9: M for Mint
+Letter 10: A for Azure
+Letter 11: S for Slate
+Letter 12: C for Cool
+Letter 13: F for Frost
+Letter 14: D for Denim
+Letter 15: M for Mauve
+Letter 16: P for Periwinkle
+Letter 17: S for Steel
+Letter 18: G for Gray
+Letter 19: S for Silver
+Letter 20: B for Bluebell
+Letter 21: N for Navy
+Letter 22: T for Turquoise
+Letter 23: C for Cornflower
+Letter 24: O for Ocean
+Letter 25: W for Water
+Letter 26: S for Sea
+Letter 27: B for Breeze
+Letter 28: D for Deep
+Letter 29: F for Frosty
+
+PLAIN TEXT:
+B for Blue
+C for Cyan
+I for Indigo
+P for Purple
+V for Violet
+L for Lavender
+T for Teal
+S for Sky
+I for Ice
+M for Mint
+A for Azure
+S for Slate
+C for Cool
+F for Frost
+D for Denim
+M for Mauve
+P for Periwinkle
+S for Steel
+G for Gray
+S for Silver
+B for Bluebell
+N for Navy
+T for Turquoise
+C for Cornflower
+O for Ocean
+W for Water
+S for Sea
+B for Breeze
+D for Deep
+F for Frosty
+
+
+----------------------------------------------------------------------
+#16. Cool Colors - Part 2 (colors-cool-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-cool-colors-2-audio/
+
+Letter 0: B for Blue
+Letter 1: C for Cyan
+Letter 2: I for Indigo
+Letter 3: P for Purple
+Letter 4: V for Violet
+Letter 5: L for Lavender
+Letter 6: T for Teal
+Letter 7: S for Sky
+Letter 8: I for Ice
+Letter 9: M for Mint
+Letter 10: A for Azure
+Letter 11: S for Slate
+Letter 12: C for Cool
+Letter 13: F for Frost
+Letter 14: D for Denim
+Letter 15: M for Mauve
+Letter 16: P for Periwinkle
+Letter 17: S for Steel
+Letter 18: G for Gray
+Letter 19: S for Silver
+Letter 20: B for Bluebell
+Letter 21: N for Navy
+Letter 22: T for Turquoise
+Letter 23: C for Cornflower
+Letter 24: O for Ocean
+Letter 25: W for Water
+Letter 26: S for Sea
+Letter 27: B for Breeze
+Letter 28: D for Deep
+Letter 29: F for Frosty
+
+PLAIN TEXT:
+B for Blue
+C for Cyan
+I for Indigo
+P for Purple
+V for Violet
+L for Lavender
+T for Teal
+S for Sky
+I for Ice
+M for Mint
+A for Azure
+S for Slate
+C for Cool
+F for Frost
+D for Denim
+M for Mauve
+P for Periwinkle
+S for Steel
+G for Gray
+S for Silver
+B for Bluebell
+N for Navy
+T for Turquoise
+C for Cornflower
+O for Ocean
+W for Water
+S for Sea
+B for Breeze
+D for Deep
+F for Frosty
+
+
+----------------------------------------------------------------------
+#17. Cool Colors - Part 3 (colors-cool-colors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-cool-colors-3-audio/
+
+Letter 0: B for Blue
+Letter 1: C for Cyan
+Letter 2: I for Indigo
+Letter 3: P for Purple
+Letter 4: V for Violet
+Letter 5: L for Lavender
+Letter 6: T for Teal
+Letter 7: S for Sky
+Letter 8: I for Ice
+Letter 9: M for Mint
+Letter 10: A for Azure
+Letter 11: S for Slate
+Letter 12: C for Cool
+Letter 13: F for Frost
+Letter 14: D for Denim
+Letter 15: M for Mauve
+Letter 16: P for Periwinkle
+Letter 17: S for Steel
+Letter 18: G for Gray
+Letter 19: S for Silver
+Letter 20: B for Bluebell
+Letter 21: N for Navy
+Letter 22: T for Turquoise
+Letter 23: C for Cornflower
+Letter 24: O for Ocean
+Letter 25: W for Water
+Letter 26: S for Sea
+Letter 27: B for Breeze
+Letter 28: D for Deep
+Letter 29: F for Frosty
+
+PLAIN TEXT:
+B for Blue
+C for Cyan
+I for Indigo
+P for Purple
+V for Violet
+L for Lavender
+T for Teal
+S for Sky
+I for Ice
+M for Mint
+A for Azure
+S for Slate
+C for Cool
+F for Frost
+D for Denim
+M for Mauve
+P for Periwinkle
+S for Steel
+G for Gray
+S for Silver
+B for Bluebell
+N for Navy
+T for Turquoise
+C for Cornflower
+O for Ocean
+W for Water
+S for Sea
+B for Breeze
+D for Deep
+F for Frosty
+
+
+----------------------------------------------------------------------
+#18. 3D Shapes - Part 1 (colors-3d-shapes-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-3d-shapes-1-audio/
+
+Letter 0: C for Cube
+Letter 1: S for Sphere
+Letter 2: P for Pyramid
+Letter 3: C for Cylinder
+Letter 4: C for Cone
+Letter 5: D for Diamond
+Letter 6: R for Rectangle
+Letter 7: T for Triangle
+Letter 8: O for Octahedron
+Letter 9: T for Tetrahedron
+Letter 10: P for Prism
+Letter 11: D for Dodecahedron
+Letter 12: I for Icosahedron
+Letter 13: C for Cube
+Letter 14: S for Square
+Letter 15: C for Circle
+Letter 16: H for Hexagon
+Letter 17: P for Pentagon
+Letter 18: S for Star
+Letter 19: R for Rhombus
+Letter 20: T for Trapezoid
+Letter 21: O for Oval
+Letter 22: E for Ellipse
+Letter 23: A for Arc
+Letter 24: L for Line
+Letter 25: A for Angle
+Letter 26: C for Curve
+Letter 27: V for Vertex
+Letter 28: E for Edge
+Letter 29: F for Face
+
+PLAIN TEXT:
+C for Cube
+S for Sphere
+P for Pyramid
+C for Cylinder
+C for Cone
+D for Diamond
+R for Rectangle
+T for Triangle
+O for Octahedron
+T for Tetrahedron
+P for Prism
+D for Dodecahedron
+I for Icosahedron
+C for Cube
+S for Square
+C for Circle
+H for Hexagon
+P for Pentagon
+S for Star
+R for Rhombus
+T for Trapezoid
+O for Oval
+E for Ellipse
+A for Arc
+L for Line
+A for Angle
+C for Curve
+V for Vertex
+E for Edge
+F for Face
+
+
+----------------------------------------------------------------------
+#19. 3D Shapes - Part 2 (colors-3d-shapes-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-3d-shapes-2-audio/
+
+Letter 0: C for Cube
+Letter 1: S for Sphere
+Letter 2: P for Pyramid
+Letter 3: C for Cylinder
+Letter 4: C for Cone
+Letter 5: D for Diamond
+Letter 6: R for Rectangle
+Letter 7: T for Triangle
+Letter 8: O for Octahedron
+Letter 9: T for Tetrahedron
+Letter 10: P for Prism
+Letter 11: D for Dodecahedron
+Letter 12: I for Icosahedron
+Letter 13: C for Cube
+Letter 14: S for Square
+Letter 15: C for Circle
+Letter 16: H for Hexagon
+Letter 17: P for Pentagon
+Letter 18: S for Star
+Letter 19: R for Rhombus
+Letter 20: T for Trapezoid
+Letter 21: O for Oval
+Letter 22: E for Ellipse
+Letter 23: A for Arc
+Letter 24: L for Line
+Letter 25: A for Angle
+Letter 26: C for Curve
+Letter 27: V for Vertex
+Letter 28: E for Edge
+Letter 29: F for Face
+
+PLAIN TEXT:
+C for Cube
+S for Sphere
+P for Pyramid
+C for Cylinder
+C for Cone
+D for Diamond
+R for Rectangle
+T for Triangle
+O for Octahedron
+T for Tetrahedron
+P for Prism
+D for Dodecahedron
+I for Icosahedron
+C for Cube
+S for Square
+C for Circle
+H for Hexagon
+P for Pentagon
+S for Star
+R for Rhombus
+T for Trapezoid
+O for Oval
+E for Ellipse
+A for Arc
+L for Line
+A for Angle
+C for Curve
+V for Vertex
+E for Edge
+F for Face
+
+
+----------------------------------------------------------------------
+#20. 3D Shapes - Part 3 (colors-3d-shapes-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-3d-shapes-3-audio/
+
+Letter 0: C for Cube
+Letter 1: S for Sphere
+Letter 2: P for Pyramid
+Letter 3: C for Cylinder
+Letter 4: C for Cone
+Letter 5: D for Diamond
+Letter 6: R for Rectangle
+Letter 7: T for Triangle
+Letter 8: O for Octahedron
+Letter 9: T for Tetrahedron
+Letter 10: P for Prism
+Letter 11: D for Dodecahedron
+Letter 12: I for Icosahedron
+Letter 13: C for Cube
+Letter 14: S for Square
+Letter 15: C for Circle
+Letter 16: H for Hexagon
+Letter 17: P for Pentagon
+Letter 18: S for Star
+Letter 19: R for Rhombus
+Letter 20: T for Trapezoid
+Letter 21: O for Oval
+Letter 22: E for Ellipse
+Letter 23: A for Arc
+Letter 24: L for Line
+Letter 25: A for Angle
+Letter 26: C for Curve
+Letter 27: V for Vertex
+Letter 28: E for Edge
+Letter 29: F for Face
+
+PLAIN TEXT:
+C for Cube
+S for Sphere
+P for Pyramid
+C for Cylinder
+C for Cone
+D for Diamond
+R for Rectangle
+T for Triangle
+O for Octahedron
+T for Tetrahedron
+P for Prism
+D for Dodecahedron
+I for Icosahedron
+C for Cube
+S for Square
+C for Circle
+H for Hexagon
+P for Pentagon
+S for Star
+R for Rhombus
+T for Trapezoid
+O for Oval
+E for Ellipse
+A for Arc
+L for Line
+A for Angle
+C for Curve
+V for Vertex
+E for Edge
+F for Face
+
+
+----------------------------------------------------------------------
+#21. Art & Paint Colors - Part 1 (colors-art-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-art-colors-1-audio/
+
+Letter 0: R for Red
+Letter 1: V for Violet
+Letter 2: I for Indigo
+Letter 3: C for Crimson
+Letter 4: S for Scarlet
+Letter 5: P for Purple
+Letter 6: M for Maroon
+Letter 7: P for Plum
+Letter 8: M for Mauve
+Letter 9: L for Lilac
+Letter 10: R for Rose
+Letter 11: W for Wine
+Letter 12: O for Orchid
+Letter 13: M for Magenta
+Letter 14: F for Fuchsia
+Letter 15: B for Berry
+Letter 16: A for Aubergine
+Letter 17: T for Taupe
+Letter 18: U for Umber
+Letter 19: S for Sienna
+Letter 20: O for Ochre
+Letter 21: B for Burnt
+Letter 22: R for Raw
+Letter 23: G for Gold
+Letter 24: S for Silver
+Letter 25: B for Bronze
+Letter 26: P for Platinum
+Letter 27: C for Copper
+Letter 28: T for Titanium
+Letter 29: A for Art
+
+PLAIN TEXT:
+R for Red
+V for Violet
+I for Indigo
+C for Crimson
+S for Scarlet
+P for Purple
+M for Maroon
+P for Plum
+M for Mauve
+L for Lilac
+R for Rose
+W for Wine
+O for Orchid
+M for Magenta
+F for Fuchsia
+B for Berry
+A for Aubergine
+T for Taupe
+U for Umber
+S for Sienna
+O for Ochre
+B for Burnt
+R for Raw
+G for Gold
+S for Silver
+B for Bronze
+P for Platinum
+C for Copper
+T for Titanium
+A for Art
+
+
+----------------------------------------------------------------------
+#22. Art & Paint Colors - Part 2 (colors-art-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-art-colors-2-audio/
+
+Letter 0: R for Red
+Letter 1: V for Violet
+Letter 2: I for Indigo
+Letter 3: C for Crimson
+Letter 4: S for Scarlet
+Letter 5: P for Purple
+Letter 6: M for Maroon
+Letter 7: P for Plum
+Letter 8: M for Mauve
+Letter 9: L for Lilac
+Letter 10: R for Rose
+Letter 11: W for Wine
+Letter 12: O for Orchid
+Letter 13: M for Magenta
+Letter 14: F for Fuchsia
+Letter 15: B for Berry
+Letter 16: A for Aubergine
+Letter 17: T for Taupe
+Letter 18: U for Umber
+Letter 19: S for Sienna
+Letter 20: O for Ochre
+Letter 21: B for Burnt
+Letter 22: R for Raw
+Letter 23: G for Gold
+Letter 24: S for Silver
+Letter 25: B for Bronze
+Letter 26: P for Platinum
+Letter 27: C for Copper
+Letter 28: T for Titanium
+Letter 29: A for Art
+
+PLAIN TEXT:
+R for Red
+V for Violet
+I for Indigo
+C for Crimson
+S for Scarlet
+P for Purple
+M for Maroon
+P for Plum
+M for Mauve
+L for Lilac
+R for Rose
+W for Wine
+O for Orchid
+M for Magenta
+F for Fuchsia
+B for Berry
+A for Aubergine
+T for Taupe
+U for Umber
+S for Sienna
+O for Ochre
+B for Burnt
+R for Raw
+G for Gold
+S for Silver
+B for Bronze
+P for Platinum
+C for Copper
+T for Titanium
+A for Art
+
+
+----------------------------------------------------------------------
+#23. Art & Paint Colors - Part 3 (colors-art-colors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-art-colors-3-audio/
+
+Letter 0: R for Red
+Letter 1: V for Violet
+Letter 2: I for Indigo
+Letter 3: C for Crimson
+Letter 4: S for Scarlet
+Letter 5: P for Purple
+Letter 6: M for Maroon
+Letter 7: P for Plum
+Letter 8: M for Mauve
+Letter 9: L for Lilac
+Letter 10: R for Rose
+Letter 11: W for Wine
+Letter 12: O for Orchid
+Letter 13: M for Magenta
+Letter 14: F for Fuchsia
+Letter 15: B for Berry
+Letter 16: A for Aubergine
+Letter 17: T for Taupe
+Letter 18: U for Umber
+Letter 19: S for Sienna
+Letter 20: O for Ochre
+Letter 21: B for Burnt
+Letter 22: R for Raw
+Letter 23: G for Gold
+Letter 24: S for Silver
+Letter 25: B for Bronze
+Letter 26: P for Platinum
+Letter 27: C for Copper
+Letter 28: T for Titanium
+Letter 29: A for Art
+
+PLAIN TEXT:
+R for Red
+V for Violet
+I for Indigo
+C for Crimson
+S for Scarlet
+P for Purple
+M for Maroon
+P for Plum
+M for Mauve
+L for Lilac
+R for Rose
+W for Wine
+O for Orchid
+M for Magenta
+F for Fuchsia
+B for Berry
+A for Aubergine
+T for Taupe
+U for Umber
+S for Sienna
+O for Ochre
+B for Burnt
+R for Raw
+G for Gold
+S for Silver
+B for Bronze
+P for Platinum
+C for Copper
+T for Titanium
+A for Art
+
+
+----------------------------------------------------------------------
+#24. Patterns & Designs - Part 1 (colors-patterns-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-patterns-1-audio/
+
+Letter 0: D for Dots
+Letter 1: S for Stripes
+Letter 2: C for Checkerboard
+Letter 3: Z for Zigzag
+Letter 4: W for Waves
+Letter 5: S for Spirals
+Letter 6: G for Grid
+Letter 7: M for Mosaic
+Letter 8: B for Blossoms
+Letter 9: F for Flowers
+Letter 10: L for Lines
+Letter 11: T for Triangles
+Letter 12: C for Circles
+Letter 13: S for Squares
+Letter 14: R for Rings
+Letter 15: D for Diamonds
+Letter 16: H for Hexagons
+Letter 17: S for Stars
+Letter 18: C for Crosses
+Letter 19: P for Plus
+Letter 20: X for X
+Letter 21: A for Arrows
+Letter 22: V for Vines
+Letter 23: L for Leaves
+Letter 24: P for Paisley
+Letter 25: T for Tile
+Letter 26: T for Texture
+Letter 27: P for Pattern
+Letter 28: D for Design
+Letter 29: O for Ornament
+
+PLAIN TEXT:
+D for Dots
+S for Stripes
+C for Checkerboard
+Z for Zigzag
+W for Waves
+S for Spirals
+G for Grid
+M for Mosaic
+B for Blossoms
+F for Flowers
+L for Lines
+T for Triangles
+C for Circles
+S for Squares
+R for Rings
+D for Diamonds
+H for Hexagons
+S for Stars
+C for Crosses
+P for Plus
+X for X
+A for Arrows
+V for Vines
+L for Leaves
+P for Paisley
+T for Tile
+T for Texture
+P for Pattern
+D for Design
+O for Ornament
+
+
+----------------------------------------------------------------------
+#25. Patterns & Designs - Part 2 (colors-patterns-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-patterns-2-audio/
+
+Letter 0: D for Dots
+Letter 1: S for Stripes
+Letter 2: C for Checkerboard
+Letter 3: Z for Zigzag
+Letter 4: W for Waves
+Letter 5: S for Spirals
+Letter 6: G for Grid
+Letter 7: M for Mosaic
+Letter 8: B for Blossoms
+Letter 9: F for Flowers
+Letter 10: L for Lines
+Letter 11: T for Triangles
+Letter 12: C for Circles
+Letter 13: S for Squares
+Letter 14: R for Rings
+Letter 15: D for Diamonds
+Letter 16: H for Hexagons
+Letter 17: S for Stars
+Letter 18: C for Crosses
+Letter 19: P for Plus
+Letter 20: X for X
+Letter 21: A for Arrows
+Letter 22: V for Vines
+Letter 23: L for Leaves
+Letter 24: P for Paisley
+Letter 25: T for Tile
+Letter 26: T for Texture
+Letter 27: P for Pattern
+Letter 28: D for Design
+Letter 29: O for Ornament
+
+PLAIN TEXT:
+D for Dots
+S for Stripes
+C for Checkerboard
+Z for Zigzag
+W for Waves
+S for Spirals
+G for Grid
+M for Mosaic
+B for Blossoms
+F for Flowers
+L for Lines
+T for Triangles
+C for Circles
+S for Squares
+R for Rings
+D for Diamonds
+H for Hexagons
+S for Stars
+C for Crosses
+P for Plus
+X for X
+A for Arrows
+V for Vines
+L for Leaves
+P for Paisley
+T for Tile
+T for Texture
+P for Pattern
+D for Design
+O for Ornament
+
+
+----------------------------------------------------------------------
+#26. Patterns & Designs - Part 3 (colors-patterns-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-patterns-3-audio/
+
+Letter 0: D for Dots
+Letter 1: S for Stripes
+Letter 2: C for Checkerboard
+Letter 3: Z for Zigzag
+Letter 4: W for Waves
+Letter 5: S for Spirals
+Letter 6: G for Grid
+Letter 7: M for Mosaic
+Letter 8: B for Blossoms
+Letter 9: F for Flowers
+Letter 10: L for Lines
+Letter 11: T for Triangles
+Letter 12: C for Circles
+Letter 13: S for Squares
+Letter 14: R for Rings
+Letter 15: D for Diamonds
+Letter 16: H for Hexagons
+Letter 17: S for Stars
+Letter 18: C for Crosses
+Letter 19: P for Plus
+Letter 20: X for X
+Letter 21: A for Arrows
+Letter 22: V for Vines
+Letter 23: L for Leaves
+Letter 24: P for Paisley
+Letter 25: T for Tile
+Letter 26: T for Texture
+Letter 27: P for Pattern
+Letter 28: D for Design
+Letter 29: O for Ornament
+
+PLAIN TEXT:
+D for Dots
+S for Stripes
+C for Checkerboard
+Z for Zigzag
+W for Waves
+S for Spirals
+G for Grid
+M for Mosaic
+B for Blossoms
+F for Flowers
+L for Lines
+T for Triangles
+C for Circles
+S for Squares
+R for Rings
+D for Diamonds
+H for Hexagons
+S for Stars
+C for Crosses
+P for Plus
+X for X
+A for Arrows
+V for Vines
+L for Leaves
+P for Paisley
+T for Tile
+T for Texture
+P for Pattern
+D for Design
+O for Ornament
+
+
+----------------------------------------------------------------------
+#27. Indian Colors - Part 1 (colors-indian-colors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-indian-colors-1-audio/
+
+Letter 0: H for Holi
+Letter 1: S for Saffron
+Letter 2: G for Green
+Letter 3: W for White
+Letter 4: R for Rangoli
+Letter 5: M for Mehendi
+Letter 6: B for Blue
+Letter 7: T for Turquoise
+Letter 8: P for Pink
+Letter 9: Y for Yellow
+Letter 10: R for Red
+Letter 11: O for Orange
+Letter 12: P for Purple
+Letter 13: I for Indigo
+Letter 14: C for Crimson
+Letter 15: M for Marigold
+Letter 16: L for Lotus
+Letter 17: T for Turmeric
+Letter 18: B for Bindhi
+Letter 19: S for Silk
+Letter 20: J for Jewel
+Letter 21: G for Gold
+Letter 22: A for Amber
+Letter 23: C for Copper
+Letter 24: B for Bronze
+Letter 25: T for Traditional
+Letter 26: V for Vibrant
+Letter 27: R for Rich
+Letter 28: D for Deep
+Letter 29: C for Color
+
+PLAIN TEXT:
+H for Holi
+S for Saffron
+G for Green
+W for White
+R for Rangoli
+M for Mehendi
+B for Blue
+T for Turquoise
+P for Pink
+Y for Yellow
+R for Red
+O for Orange
+P for Purple
+I for Indigo
+C for Crimson
+M for Marigold
+L for Lotus
+T for Turmeric
+B for Bindhi
+S for Silk
+J for Jewel
+G for Gold
+A for Amber
+C for Copper
+B for Bronze
+T for Traditional
+V for Vibrant
+R for Rich
+D for Deep
+C for Color
+
+
+----------------------------------------------------------------------
+#28. Indian Colors - Part 2 (colors-indian-colors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-indian-colors-2-audio/
+
+Letter 0: H for Holi
+Letter 1: S for Saffron
+Letter 2: G for Green
+Letter 3: W for White
+Letter 4: R for Rangoli
+Letter 5: M for Mehendi
+Letter 6: B for Blue
+Letter 7: T for Turquoise
+Letter 8: P for Pink
+Letter 9: Y for Yellow
+Letter 10: R for Red
+Letter 11: O for Orange
+Letter 12: P for Purple
+Letter 13: I for Indigo
+Letter 14: C for Crimson
+Letter 15: M for Marigold
+Letter 16: L for Lotus
+Letter 17: T for Turmeric
+Letter 18: B for Bindhi
+Letter 19: S for Silk
+Letter 20: J for Jewel
+Letter 21: G for Gold
+Letter 22: A for Amber
+Letter 23: C for Copper
+Letter 24: B for Bronze
+Letter 25: T for Traditional
+Letter 26: V for Vibrant
+Letter 27: R for Rich
+Letter 28: D for Deep
+Letter 29: C for Color
+
+PLAIN TEXT:
+H for Holi
+S for Saffron
+G for Green
+W for White
+R for Rangoli
+M for Mehendi
+B for Blue
+T for Turquoise
+P for Pink
+Y for Yellow
+R for Red
+O for Orange
+P for Purple
+I for Indigo
+C for Crimson
+M for Marigold
+L for Lotus
+T for Turmeric
+B for Bindhi
+S for Silk
+J for Jewel
+G for Gold
+A for Amber
+C for Copper
+B for Bronze
+T for Traditional
+V for Vibrant
+R for Rich
+D for Deep
+C for Color
+
+
+----------------------------------------------------------------------
+#29. Indian Colors - Part 3 (colors-indian-colors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-indian-colors-3-audio/
+
+Letter 0: H for Holi
+Letter 1: S for Saffron
+Letter 2: G for Green
+Letter 3: W for White
+Letter 4: R for Rangoli
+Letter 5: M for Mehendi
+Letter 6: B for Blue
+Letter 7: T for Turquoise
+Letter 8: P for Pink
+Letter 9: Y for Yellow
+Letter 10: R for Red
+Letter 11: O for Orange
+Letter 12: P for Purple
+Letter 13: I for Indigo
+Letter 14: C for Crimson
+Letter 15: M for Marigold
+Letter 16: L for Lotus
+Letter 17: T for Turmeric
+Letter 18: B for Bindhi
+Letter 19: S for Silk
+Letter 20: J for Jewel
+Letter 21: G for Gold
+Letter 22: A for Amber
+Letter 23: C for Copper
+Letter 24: B for Bronze
+Letter 25: T for Traditional
+Letter 26: V for Vibrant
+Letter 27: R for Rich
+Letter 28: D for Deep
+Letter 29: C for Color
+
+PLAIN TEXT:
+H for Holi
+S for Saffron
+G for Green
+W for White
+R for Rangoli
+M for Mehendi
+B for Blue
+T for Turquoise
+P for Pink
+Y for Yellow
+R for Red
+O for Orange
+P for Purple
+I for Indigo
+C for Crimson
+M for Marigold
+L for Lotus
+T for Turmeric
+B for Bindhi
+S for Silk
+J for Jewel
+G for Gold
+A for Amber
+C for Copper
+B for Bronze
+T for Traditional
+V for Vibrant
+R for Rich
+D for Deep
+C for Color
+
+
+----------------------------------------------------------------------
+#30. All Colors Collection (colors-all-colors)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/colors-all-colors-audio/
+
+Letter 0: H for Holi
+Letter 1: S for Saffron
+Letter 2: G for Green
+Letter 3: W for White
+Letter 4: R for Rangoli
+Letter 5: M for Mehendi
+Letter 6: B for Blue
+Letter 7: T for Turquoise
+Letter 8: P for Pink
+Letter 9: Y for Yellow
+Letter 10: R for Red
+Letter 11: O for Orange
+Letter 12: P for Purple
+Letter 13: I for Indigo
+Letter 14: C for Crimson
+Letter 15: M for Marigold
+Letter 16: L for Lotus
+Letter 17: T for Turmeric
+Letter 18: B for Bindhi
+Letter 19: S for Silk
+Letter 20: J for Jewel
+Letter 21: G for Gold
+Letter 22: A for Amber
+Letter 23: C for Copper
+Letter 24: B for Bronze
+Letter 25: T for Traditional
+Letter 26: V for Vibrant
+Letter 27: R for Rich
+Letter 28: D for Deep
+Letter 29: C for Color
+
+PLAIN TEXT:
+H for Holi
+S for Saffron
+G for Green
+W for White
+R for Rangoli
+M for Mehendi
+B for Blue
+T for Turquoise
+P for Pink
+Y for Yellow
+R for Red
+O for Orange
+P for Purple
+I for Indigo
+C for Crimson
+M for Marigold
+L for Lotus
+T for Turmeric
+B for Bindhi
+S for Silk
+J for Jewel
+G for Gold
+A for Amber
+C for Copper
+B for Bronze
+T for Traditional
+V for Vibrant
+R for Rich
+D for Deep
+C for Color
+

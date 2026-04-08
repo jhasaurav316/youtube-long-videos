@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: COUNTRY NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Asian Countries - Part 1 (countries-asian-countries-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-asian-countries-1-audio/
+
+Letter 0: I for India
+Letter 1: C for China
+Letter 2: J for Japan
+Letter 3: S for South Korea
+Letter 4: T for Thailand
+Letter 5: V for Vietnam
+Letter 6: M for Malaysia
+Letter 7: I for Indonesia
+Letter 8: P for Philippines
+Letter 9: S for Singapore
+Letter 10: B for Bangladesh
+Letter 11: P for Pakistan
+Letter 12: S for Sri Lanka
+Letter 13: N for Nepal
+Letter 14: M for Myanmar
+Letter 15: C for Cambodia
+Letter 16: L for Laos
+Letter 17: B for Bhutan
+Letter 18: M for Maldives
+Letter 19: A for Afghanistan
+Letter 20: K for Kazakhstan
+Letter 21: U for Uzbekistan
+Letter 22: T for Turkmenistan
+Letter 23: K for Kyrgyzstan
+Letter 24: T for Tajikistan
+Letter 25: H for Hong Kong
+Letter 26: M for Macau
+Letter 27: T for Taiwan
+Letter 28: M for Mongolia
+Letter 29: B for Brunei
+
+PLAIN TEXT:
+I for India
+C for China
+J for Japan
+S for South Korea
+T for Thailand
+V for Vietnam
+M for Malaysia
+I for Indonesia
+P for Philippines
+S for Singapore
+B for Bangladesh
+P for Pakistan
+S for Sri Lanka
+N for Nepal
+M for Myanmar
+C for Cambodia
+L for Laos
+B for Bhutan
+M for Maldives
+A for Afghanistan
+K for Kazakhstan
+U for Uzbekistan
+T for Turkmenistan
+K for Kyrgyzstan
+T for Tajikistan
+H for Hong Kong
+M for Macau
+T for Taiwan
+M for Mongolia
+B for Brunei
+
+
+----------------------------------------------------------------------
+#2. Asian Countries - Part 2 (countries-asian-countries-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-asian-countries-2-audio/
+
+Letter 0: I for India
+Letter 1: U for UAE
+Letter 2: S for Saudi Arabia
+Letter 3: Q for Qatar
+Letter 4: O for Oman
+Letter 5: K for Kuwait
+Letter 6: I for Iran
+Letter 7: I for Iraq
+Letter 8: S for Syria
+Letter 9: L for Lebanon
+Letter 10: J for Jordan
+Letter 11: I for Israel
+Letter 12: P for Palestine
+Letter 13: T for Turkey
+Letter 14: G for Georgia
+Letter 15: A for Armenia
+Letter 16: A for Azerbaijan
+Letter 17: Y for Yemen
+Letter 18: B for Bahrain
+Letter 19: P for Palestine
+Letter 20: N for North Korea
+Letter 21: M for Malaysia
+Letter 22: S for Singapore
+Letter 23: B for Bangladesh
+Letter 24: P for Pakistan
+Letter 25: S for Sri Lanka
+Letter 26: N for Nepal
+Letter 27: I for India
+Letter 28: B for Bhutan
+Letter 29: M for Maldives
+
+PLAIN TEXT:
+I for India
+U for UAE
+S for Saudi Arabia
+Q for Qatar
+O for Oman
+K for Kuwait
+I for Iran
+I for Iraq
+S for Syria
+L for Lebanon
+J for Jordan
+I for Israel
+P for Palestine
+T for Turkey
+G for Georgia
+A for Armenia
+A for Azerbaijan
+Y for Yemen
+B for Bahrain
+P for Palestine
+N for North Korea
+M for Malaysia
+S for Singapore
+B for Bangladesh
+P for Pakistan
+S for Sri Lanka
+N for Nepal
+I for India
+B for Bhutan
+M for Maldives
+
+
+----------------------------------------------------------------------
+#3. Asian Countries - Part 3 (countries-asian-countries-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-asian-countries-3-audio/
+
+Letter 0: C for Cambodia
+Letter 1: L for Laos
+Letter 2: V for Vietnam
+Letter 3: T for Thailand
+Letter 4: M for Myanmar
+Letter 5: I for India
+Letter 6: P for Philippines
+Letter 7: I for Indonesia
+Letter 8: J for Japan
+Letter 9: S for South Korea
+Letter 10: C for China
+Letter 11: M for Mongolia
+Letter 12: H for Hong Kong
+Letter 13: T for Taiwan
+Letter 14: M for Macau
+Letter 15: K for Kazakhstan
+Letter 16: U for Uzbekistan
+Letter 17: T for Turkmenistan
+Letter 18: K for Kyrgyzstan
+Letter 19: T for Tajikistan
+Letter 20: A for Afghanistan
+Letter 21: B for Brunei
+Letter 22: T for Timor-Leste
+Letter 23: S for Sri Lanka
+Letter 24: N for Nepal
+Letter 25: B for Bhutan
+Letter 26: M for Maldives
+Letter 27: B for Bangladesh
+Letter 28: P for Pakistan
+Letter 29: I for India
+
+PLAIN TEXT:
+C for Cambodia
+L for Laos
+V for Vietnam
+T for Thailand
+M for Myanmar
+I for India
+P for Philippines
+I for Indonesia
+J for Japan
+S for South Korea
+C for China
+M for Mongolia
+H for Hong Kong
+T for Taiwan
+M for Macau
+K for Kazakhstan
+U for Uzbekistan
+T for Turkmenistan
+K for Kyrgyzstan
+T for Tajikistan
+A for Afghanistan
+B for Brunei
+T for Timor-Leste
+S for Sri Lanka
+N for Nepal
+B for Bhutan
+M for Maldives
+B for Bangladesh
+P for Pakistan
+I for India
+
+
+----------------------------------------------------------------------
+#4. European Countries - Part 1 (countries-european-countries-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-european-countries-1-audio/
+
+Letter 0: G for Germany
+Letter 1: F for France
+Letter 2: U for United Kingdom
+Letter 3: I for Italy
+Letter 4: S for Spain
+Letter 5: P for Portugal
+Letter 6: G for Greece
+Letter 7: P for Poland
+Letter 8: C for Czech Republic
+Letter 9: H for Hungary
+Letter 10: R for Romania
+Letter 11: B for Bulgaria
+Letter 12: S for Serbia
+Letter 13: C for Croatia
+Letter 14: S for Slovenia
+Letter 15: A for Austria
+Letter 16: S for Switzerland
+Letter 17: N for Netherlands
+Letter 18: B for Belgium
+Letter 19: L for Luxembourg
+Letter 20: D for Denmark
+Letter 21: S for Sweden
+Letter 22: N for Norway
+Letter 23: F for Finland
+Letter 24: I for Ireland
+Letter 25: I for Iceland
+Letter 26: R for Russia
+Letter 27: U for Ukraine
+Letter 28: B for Belarus
+Letter 29: I for India
+
+PLAIN TEXT:
+G for Germany
+F for France
+U for United Kingdom
+I for Italy
+S for Spain
+P for Portugal
+G for Greece
+P for Poland
+C for Czech Republic
+H for Hungary
+R for Romania
+B for Bulgaria
+S for Serbia
+C for Croatia
+S for Slovenia
+A for Austria
+S for Switzerland
+N for Netherlands
+B for Belgium
+L for Luxembourg
+D for Denmark
+S for Sweden
+N for Norway
+F for Finland
+I for Ireland
+I for Iceland
+R for Russia
+U for Ukraine
+B for Belarus
+I for India
+
+
+----------------------------------------------------------------------
+#5. European Countries - Part 2 (countries-european-countries-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-european-countries-2-audio/
+
+Letter 0: M for Moldova
+Letter 1: L for Latvia
+Letter 2: L for Lithuania
+Letter 3: E for Estonia
+Letter 4: S for Slovakia
+Letter 5: M for Montenegro
+Letter 6: K for Kosovo
+Letter 7: N for North Macedonia
+Letter 8: A for Albania
+Letter 9: B for Bosnia and Herzegovina
+Letter 10: M for Malta
+Letter 11: C for Cyprus
+Letter 12: A for Andorra
+Letter 13: L for Liechtenstein
+Letter 14: M for Monaco
+Letter 15: S for San Marino
+Letter 16: V for Vatican City
+Letter 17: G for Gibraltar
+Letter 18: I for India
+Letter 19: T for Turkey
+Letter 20: G for Georgia
+Letter 21: A for Armenia
+Letter 22: A for Azerbaijan
+Letter 23: C for Cyprus
+Letter 24: G for Greece
+Letter 25: I for Italy
+Letter 26: M for Malta
+Letter 27: P for Portugal
+Letter 28: S for Spain
+Letter 29: F for France
+
+PLAIN TEXT:
+M for Moldova
+L for Latvia
+L for Lithuania
+E for Estonia
+S for Slovakia
+M for Montenegro
+K for Kosovo
+N for North Macedonia
+A for Albania
+B for Bosnia and Herzegovina
+M for Malta
+C for Cyprus
+A for Andorra
+L for Liechtenstein
+M for Monaco
+S for San Marino
+V for Vatican City
+G for Gibraltar
+I for India
+T for Turkey
+G for Georgia
+A for Armenia
+A for Azerbaijan
+C for Cyprus
+G for Greece
+I for Italy
+M for Malta
+P for Portugal
+S for Spain
+F for France
+
+
+----------------------------------------------------------------------
+#6. African Countries - Part 1 (countries-african-countries-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-african-countries-1-audio/
+
+Letter 0: E for Egypt
+Letter 1: S for South Africa
+Letter 2: N for Nigeria
+Letter 3: K for Kenya
+Letter 4: E for Ethiopia
+Letter 5: M for Morocco
+Letter 6: A for Algeria
+Letter 7: T for Tunisia
+Letter 8: L for Libya
+Letter 9: S for Sudan
+Letter 10: G for Ghana
+Letter 11: I for Ivory Coast
+Letter 12: S for Senegal
+Letter 13: U for Uganda
+Letter 14: T for Tanzania
+Letter 15: Z for Zimbabwe
+Letter 16: Z for Zambia
+Letter 17: B for Botswana
+Letter 18: N for Namibia
+Letter 19: A for Angola
+Letter 20: C for Cameroon
+Letter 21: G for Gabon
+Letter 22: C for Chad
+Letter 23: M for Mali
+Letter 24: B for Burkina Faso
+Letter 25: N for Niger
+Letter 26: B for Benin
+Letter 27: T for Togo
+Letter 28: L for Liberia
+Letter 29: I for India
+
+PLAIN TEXT:
+E for Egypt
+S for South Africa
+N for Nigeria
+K for Kenya
+E for Ethiopia
+M for Morocco
+A for Algeria
+T for Tunisia
+L for Libya
+S for Sudan
+G for Ghana
+I for Ivory Coast
+S for Senegal
+U for Uganda
+T for Tanzania
+Z for Zimbabwe
+Z for Zambia
+B for Botswana
+N for Namibia
+A for Angola
+C for Cameroon
+G for Gabon
+C for Chad
+M for Mali
+B for Burkina Faso
+N for Niger
+B for Benin
+T for Togo
+L for Liberia
+I for India
+
+
+----------------------------------------------------------------------
+#7. American Countries - Part 1 (countries-american-countries-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-american-countries-1-audio/
+
+Letter 0: U for United States
+Letter 1: C for Canada
+Letter 2: M for Mexico
+Letter 3: B for Brazil
+Letter 4: A for Argentina
+Letter 5: C for Colombia
+Letter 6: P for Peru
+Letter 7: V for Venezuela
+Letter 8: C for Chile
+Letter 9: E for Ecuador
+Letter 10: B for Bolivia
+Letter 11: P for Paraguay
+Letter 12: U for Uruguay
+Letter 13: G for Guyana
+Letter 14: S for Suriname
+Letter 15: C for Costa Rica
+Letter 16: N for Nicaragua
+Letter 17: H for Honduras
+Letter 18: E for El Salvador
+Letter 19: G for Guatemala
+Letter 20: B for Belize
+Letter 21: P for Panama
+Letter 22: J for Jamaica
+Letter 23: C for Cuba
+Letter 24: D for Dominican Republic
+Letter 25: H for Haiti
+Letter 26: B for Bahamas
+Letter 27: B for Barbados
+Letter 28: T for Trinidad and Tobago
+Letter 29: I for India
+
+PLAIN TEXT:
+U for United States
+C for Canada
+M for Mexico
+B for Brazil
+A for Argentina
+C for Colombia
+P for Peru
+V for Venezuela
+C for Chile
+E for Ecuador
+B for Bolivia
+P for Paraguay
+U for Uruguay
+G for Guyana
+S for Suriname
+C for Costa Rica
+N for Nicaragua
+H for Honduras
+E for El Salvador
+G for Guatemala
+B for Belize
+P for Panama
+J for Jamaica
+C for Cuba
+D for Dominican Republic
+H for Haiti
+B for Bahamas
+B for Barbados
+T for Trinidad and Tobago
+I for India
+
+
+----------------------------------------------------------------------
+#8. Oceania Countries (countries-oceania-countries)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-oceania-countries-audio/
+
+Letter 0: A for Australia
+Letter 1: N for New Zealand
+Letter 2: P for Papua New Guinea
+Letter 3: F for Fiji
+Letter 4: S for Solomon Islands
+Letter 5: V for Vanuatu
+Letter 6: S for Samoa
+Letter 7: K for Kiribati
+Letter 8: M for Marshall Islands
+Letter 9: M for Micronesia
+Letter 10: N for Nauru
+Letter 11: P for Palau
+Letter 12: T for Tonga
+Letter 13: T for Tuvalu
+Letter 14: N for Niue
+Letter 15: C for Cook Islands
+Letter 16: P for Palau
+Letter 17: S for Samoa
+Letter 18: T for Timor-Leste
+Letter 19: I for India
+Letter 20: A for Australia
+Letter 21: N for New Zealand
+Letter 22: F for Fiji
+Letter 23: P for Papua New Guinea
+Letter 24: V for Vanuatu
+Letter 25: S for Solomon Islands
+Letter 26: K for Kiribati
+Letter 27: M for Marshall Islands
+Letter 28: M for Micronesia
+Letter 29: T for Tonga
+
+PLAIN TEXT:
+A for Australia
+N for New Zealand
+P for Papua New Guinea
+F for Fiji
+S for Solomon Islands
+V for Vanuatu
+S for Samoa
+K for Kiribati
+M for Marshall Islands
+M for Micronesia
+N for Nauru
+P for Palau
+T for Tonga
+T for Tuvalu
+N for Niue
+C for Cook Islands
+P for Palau
+S for Samoa
+T for Timor-Leste
+I for India
+A for Australia
+N for New Zealand
+F for Fiji
+P for Papua New Guinea
+V for Vanuatu
+S for Solomon Islands
+K for Kiribati
+M for Marshall Islands
+M for Micronesia
+T for Tonga
+
+
+----------------------------------------------------------------------
+#9. India's Neighbors - Part 2 (countries-neighbors-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-neighbors-2-audio/
+
+Letter 0: I for India
+Letter 1: P for Pakistan
+Letter 2: B for Bangladesh
+Letter 3: N for Nepal
+Letter 4: B for Bhutan
+Letter 5: M for Myanmar
+Letter 6: S for Sri Lanka
+Letter 7: M for Maldives
+Letter 8: A for Afghanistan
+Letter 9: C for China
+Letter 10: I for India
+Letter 11: T for Thailand
+Letter 12: L for Laos
+Letter 13: C for Cambodia
+Letter 14: V for Vietnam
+Letter 15: M for Malaysia
+Letter 16: I for Indonesia
+Letter 17: S for Singapore
+Letter 18: B for Brunei
+Letter 19: P for Philippines
+Letter 20: J for Japan
+Letter 21: S for South Korea
+Letter 22: I for India
+Letter 23: U for UAE
+Letter 24: S for Saudi Arabia
+Letter 25: Q for Qatar
+Letter 26: O for Oman
+Letter 27: I for Iran
+Letter 28: I for Iraq
+Letter 29: I for India
+
+PLAIN TEXT:
+I for India
+P for Pakistan
+B for Bangladesh
+N for Nepal
+B for Bhutan
+M for Myanmar
+S for Sri Lanka
+M for Maldives
+A for Afghanistan
+C for China
+I for India
+T for Thailand
+L for Laos
+C for Cambodia
+V for Vietnam
+M for Malaysia
+I for Indonesia
+S for Singapore
+B for Brunei
+P for Philippines
+J for Japan
+S for South Korea
+I for India
+U for UAE
+S for Saudi Arabia
+Q for Qatar
+O for Oman
+I for Iran
+I for Iraq
+I for India
+
+
+----------------------------------------------------------------------
+#10. India's Neighbors - Part 3 (countries-neighbors-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-neighbors-3-audio/
+
+Letter 0: I for India
+Letter 1: P for Pakistan
+Letter 2: A for Afghanistan
+Letter 3: I for Iran
+Letter 4: T for Turkmenistan
+Letter 5: U for Uzbekistan
+Letter 6: T for Tajikistan
+Letter 7: K for Kyrgyzstan
+Letter 8: C for China
+Letter 9: N for Nepal
+Letter 10: B for Bhutan
+Letter 11: B for Bangladesh
+Letter 12: M for Myanmar
+Letter 13: I for India
+Letter 14: T for Thailand
+Letter 15: L for Laos
+Letter 16: V for Vietnam
+Letter 17: C for Cambodia
+Letter 18: M for Malaysia
+Letter 19: S for Singapore
+Letter 20: B for Brunei
+Letter 21: I for Indonesia
+Letter 22: T for Timor-Leste
+Letter 23: P for Philippines
+Letter 24: J for Japan
+Letter 25: S for South Korea
+Letter 26: M for Mongolia
+Letter 27: R for Russia
+Letter 28: S for Sri Lanka
+Letter 29: I for India
+
+PLAIN TEXT:
+I for India
+P for Pakistan
+A for Afghanistan
+I for Iran
+T for Turkmenistan
+U for Uzbekistan
+T for Tajikistan
+K for Kyrgyzstan
+C for China
+N for Nepal
+B for Bhutan
+B for Bangladesh
+M for Myanmar
+I for India
+T for Thailand
+L for Laos
+V for Vietnam
+C for Cambodia
+M for Malaysia
+S for Singapore
+B for Brunei
+I for Indonesia
+T for Timor-Leste
+P for Philippines
+J for Japan
+S for South Korea
+M for Mongolia
+R for Russia
+S for Sri Lanka
+I for India
+
+
+----------------------------------------------------------------------
+#11. World Capitals - Part 1 (countries-world-capitals-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-world-capitals-1-audio/
+
+Letter 0: N for New Delhi
+Letter 1: W for Washington DC
+Letter 2: L for London
+Letter 3: P for Paris
+Letter 4: B for Berlin
+Letter 5: T for Tokyo
+Letter 6: B for Beijing
+Letter 7: M for Moscow
+Letter 8: C for Canberra
+Letter 9: W for Wellington
+Letter 10: S for Seoul
+Letter 11: B for Bangkok
+Letter 12: S for Singapore
+Letter 13: J for Jakarta
+Letter 14: M for Manila
+Letter 15: D for Dhaka
+Letter 16: I for Islamabad
+Letter 17: C for Colombo
+Letter 18: K for Kathmandu
+Letter 19: N for Naypyidaw
+Letter 20: H for Hanoi
+Letter 21: H for Ho Chi Minh City
+Letter 22: P for Phnom Penh
+Letter 23: V for Vientiane
+Letter 24: K for Kuala Lumpur
+Letter 25: B for Bandar Seri Begawan
+Letter 26: M for Malé
+Letter 27: T for Thimphu
+Letter 28: K for Kabul
+Letter 29: I for India
+
+PLAIN TEXT:
+N for New Delhi
+W for Washington DC
+L for London
+P for Paris
+B for Berlin
+T for Tokyo
+B for Beijing
+M for Moscow
+C for Canberra
+W for Wellington
+S for Seoul
+B for Bangkok
+S for Singapore
+J for Jakarta
+M for Manila
+D for Dhaka
+I for Islamabad
+C for Colombo
+K for Kathmandu
+N for Naypyidaw
+H for Hanoi
+H for Ho Chi Minh City
+P for Phnom Penh
+V for Vientiane
+K for Kuala Lumpur
+B for Bandar Seri Begawan
+M for Malé
+T for Thimphu
+K for Kabul
+I for India
+
+
+----------------------------------------------------------------------
+#12. World Capitals - Part 2 (countries-world-capitals-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-world-capitals-2-audio/
+
+Letter 0: C for Cairo
+Letter 1: J for Johannesburg
+Letter 2: A for Abuja
+Letter 3: N for Nairobi
+Letter 4: A for Addis Ababa
+Letter 5: R for Rabat
+Letter 6: A for Algiers
+Letter 7: T for Tunis
+Letter 8: T for Tripoli
+Letter 9: K for Khartoum
+Letter 10: A for Accra
+Letter 11: Y for Yamoussoukro
+Letter 12: D for Dakar
+Letter 13: K for Kampala
+Letter 14: D for Dar es Salaam
+Letter 15: H for Harare
+Letter 16: L for Lusaka
+Letter 17: G for Gaborone
+Letter 18: W for Windhoek
+Letter 19: L for Luanda
+Letter 20: Y for Yaoundé
+Letter 21: L for Libreville
+Letter 22: N for N'Djamena
+Letter 23: B for Bamako
+Letter 24: O for Ouagadougou
+Letter 25: N for Niamey
+Letter 26: P for Porto-Novo
+Letter 27: L for Lomé
+Letter 28: M for Monrovia
+Letter 29: I for India
+
+PLAIN TEXT:
+C for Cairo
+J for Johannesburg
+A for Abuja
+N for Nairobi
+A for Addis Ababa
+R for Rabat
+A for Algiers
+T for Tunis
+T for Tripoli
+K for Khartoum
+A for Accra
+Y for Yamoussoukro
+D for Dakar
+K for Kampala
+D for Dar es Salaam
+H for Harare
+L for Lusaka
+G for Gaborone
+W for Windhoek
+L for Luanda
+Y for Yaoundé
+L for Libreville
+N for N'Djamena
+B for Bamako
+O for Ouagadougou
+N for Niamey
+P for Porto-Novo
+L for Lomé
+M for Monrovia
+I for India
+
+
+----------------------------------------------------------------------
+#13. World Capitals - Part 3 (countries-world-capitals-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-world-capitals-3-audio/
+
+Letter 0: W for Washington
+Letter 1: O for Ottawa
+Letter 2: M for Mexico City
+Letter 3: B for Brasília
+Letter 4: B for Buenos Aires
+Letter 5: B for Bogotá
+Letter 6: L for Lima
+Letter 7: C for Caracas
+Letter 8: S for Santiago
+Letter 9: Q for Quito
+Letter 10: L for La Paz
+Letter 11: A for Asunción
+Letter 12: M for Montevideo
+Letter 13: G for Georgetown
+Letter 14: P for Paramaribo
+Letter 15: S for San José
+Letter 16: M for Managua
+Letter 17: T for Tegucigalpa
+Letter 18: S for San Salvador
+Letter 19: G for Guatemala City
+Letter 20: B for Belmopan
+Letter 21: P for Panama City
+Letter 22: K for Kingston
+Letter 23: H for Havana
+Letter 24: S for Santo Domingo
+Letter 25: P for Port-au-Prince
+Letter 26: N for Nassau
+Letter 27: B for Bridgetown
+Letter 28: P for Port of Spain
+Letter 29: I for India
+
+PLAIN TEXT:
+W for Washington
+O for Ottawa
+M for Mexico City
+B for Brasília
+B for Buenos Aires
+B for Bogotá
+L for Lima
+C for Caracas
+S for Santiago
+Q for Quito
+L for La Paz
+A for Asunción
+M for Montevideo
+G for Georgetown
+P for Paramaribo
+S for San José
+M for Managua
+T for Tegucigalpa
+S for San Salvador
+G for Guatemala City
+B for Belmopan
+P for Panama City
+K for Kingston
+H for Havana
+S for Santo Domingo
+P for Port-au-Prince
+N for Nassau
+B for Bridgetown
+P for Port of Spain
+I for India
+
+
+----------------------------------------------------------------------
+#14. Island Nations - Part 1 (countries-island-nations-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-island-nations-1-audio/
+
+Letter 0: J for Japan
+Letter 1: P for Philippines
+Letter 2: I for Indonesia
+Letter 3: N for New Zealand
+Letter 4: A for Australia
+Letter 5: F for Fiji
+Letter 6: S for Solomon Islands
+Letter 7: V for Vanuatu
+Letter 8: P for Papua New Guinea
+Letter 9: S for Samoa
+Letter 10: T for Tonga
+Letter 11: K for Kiribati
+Letter 12: M for Marshall Islands
+Letter 13: M for Micronesia
+Letter 14: P for Palau
+Letter 15: N for Nauru
+Letter 16: T for Tuvalu
+Letter 17: N for Niue
+Letter 18: C for Cook Islands
+Letter 19: T for Timor-Leste
+Letter 20: B for Brunei
+Letter 21: S for Singapore
+Letter 22: M for Malta
+Letter 23: C for Cyprus
+Letter 24: I for Iceland
+Letter 25: I for Ireland
+Letter 26: U for United Kingdom
+Letter 27: C for Cuba
+Letter 28: J for Jamaica
+Letter 29: I for India
+
+PLAIN TEXT:
+J for Japan
+P for Philippines
+I for Indonesia
+N for New Zealand
+A for Australia
+F for Fiji
+S for Solomon Islands
+V for Vanuatu
+P for Papua New Guinea
+S for Samoa
+T for Tonga
+K for Kiribati
+M for Marshall Islands
+M for Micronesia
+P for Palau
+N for Nauru
+T for Tuvalu
+N for Niue
+C for Cook Islands
+T for Timor-Leste
+B for Brunei
+S for Singapore
+M for Malta
+C for Cyprus
+I for Iceland
+I for Ireland
+U for United Kingdom
+C for Cuba
+J for Jamaica
+I for India
+
+
+----------------------------------------------------------------------
+#15. Island Nations - Part 2 (countries-island-nations-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-island-nations-2-audio/
+
+Letter 0: H for Haiti
+Letter 1: D for Dominican Republic
+Letter 2: B for Bahamas
+Letter 3: B for Barbados
+Letter 4: T for Trinidad and Tobago
+Letter 5: M for Mauritius
+Letter 6: S for Seychelles
+Letter 7: M for Madagascar
+Letter 8: C for Comoros
+Letter 9: M for Maldives
+Letter 10: S for Sri Lanka
+Letter 11: G for Grenada
+Letter 12: S for Saint Lucia
+Letter 13: S for Saint Vincent and Grenadines
+Letter 14: A for Antigua and Barbuda
+Letter 15: S for Saint Kitts and Nevis
+Letter 16: D for Dominica
+Letter 17: M for Mauritius
+Letter 18: C for Cape Verde
+Letter 19: M for Mauritania
+Letter 20: G for Gambia
+Letter 21: H for Hong Kong
+Letter 22: M for Macau
+Letter 23: T for Taiwan
+Letter 24: B for Bahrain
+Letter 25: M for Malta
+Letter 26: C for Cyprus
+Letter 27: C for Crete
+Letter 28: S for Sicily
+Letter 29: I for India
+
+PLAIN TEXT:
+H for Haiti
+D for Dominican Republic
+B for Bahamas
+B for Barbados
+T for Trinidad and Tobago
+M for Mauritius
+S for Seychelles
+M for Madagascar
+C for Comoros
+M for Maldives
+S for Sri Lanka
+G for Grenada
+S for Saint Lucia
+S for Saint Vincent and Grenadines
+A for Antigua and Barbuda
+S for Saint Kitts and Nevis
+D for Dominica
+M for Mauritius
+C for Cape Verde
+M for Mauritania
+G for Gambia
+H for Hong Kong
+M for Macau
+T for Taiwan
+B for Bahrain
+M for Malta
+C for Cyprus
+C for Crete
+S for Sicily
+I for India
+
+
+----------------------------------------------------------------------
+#16. Island Nations - Part 3 (countries-island-nations-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-island-nations-3-audio/
+
+Letter 0: M for Maldives
+Letter 1: S for Sri Lanka
+Letter 2: J for Japan
+Letter 3: P for Philippines
+Letter 4: I for Indonesia
+Letter 5: B for Brunei
+Letter 6: T for Timor-Leste
+Letter 7: A for Australia
+Letter 8: N for New Zealand
+Letter 9: F for Fiji
+Letter 10: P for Papua New Guinea
+Letter 11: S for Solomon Islands
+Letter 12: V for Vanuatu
+Letter 13: S for Samoa
+Letter 14: T for Tonga
+Letter 15: K for Kiribati
+Letter 16: M for Marshall Islands
+Letter 17: M for Micronesia
+Letter 18: P for Palau
+Letter 19: N for Nauru
+Letter 20: T for Tuvalu
+Letter 21: N for Niue
+Letter 22: C for Cook Islands
+Letter 23: I for Iceland
+Letter 24: I for Ireland
+Letter 25: U for United Kingdom
+Letter 26: M for Malta
+Letter 27: C for Cyprus
+Letter 28: G for Grenada
+Letter 29: I for India
+
+PLAIN TEXT:
+M for Maldives
+S for Sri Lanka
+J for Japan
+P for Philippines
+I for Indonesia
+B for Brunei
+T for Timor-Leste
+A for Australia
+N for New Zealand
+F for Fiji
+P for Papua New Guinea
+S for Solomon Islands
+V for Vanuatu
+S for Samoa
+T for Tonga
+K for Kiribati
+M for Marshall Islands
+M for Micronesia
+P for Palau
+N for Nauru
+T for Tuvalu
+N for Niue
+C for Cook Islands
+I for Iceland
+I for Ireland
+U for United Kingdom
+M for Malta
+C for Cyprus
+G for Grenada
+I for India
+
+
+----------------------------------------------------------------------
+#17. Biggest Countries - Part 1 (countries-biggest-countries-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-biggest-countries-1-audio/
+
+Letter 0: R for Russia
+Letter 1: C for Canada
+Letter 2: U for United States
+Letter 3: C for China
+Letter 4: B for Brazil
+Letter 5: A for Australia
+Letter 6: I for India
+Letter 7: A for Argentina
+Letter 8: K for Kazakhstan
+Letter 9: A for Algeria
+Letter 10: G for Greenland
+Letter 11: D for Democratic Republic of Congo
+Letter 12: S for Saudi Arabia
+Letter 13: M for Mexico
+Letter 14: I for Indonesia
+Letter 15: L for Libya
+Letter 16: I for Iran
+Letter 17: M for Mongolia
+Letter 18: P for Peru
+Letter 19: C for Chad
+Letter 20: N for Niger
+Letter 21: A for Angola
+Letter 22: M for Mali
+Letter 23: S for South Africa
+Letter 24: C for Colombia
+Letter 25: E for Ethiopia
+Letter 26: B for Bolivia
+Letter 27: M for Mauritania
+Letter 28: E for Egypt
+Letter 29: T for Tanzania
+
+PLAIN TEXT:
+R for Russia
+C for Canada
+U for United States
+C for China
+B for Brazil
+A for Australia
+I for India
+A for Argentina
+K for Kazakhstan
+A for Algeria
+G for Greenland
+D for Democratic Republic of Congo
+S for Saudi Arabia
+M for Mexico
+I for Indonesia
+L for Libya
+I for Iran
+M for Mongolia
+P for Peru
+C for Chad
+N for Niger
+A for Angola
+M for Mali
+S for South Africa
+C for Colombia
+E for Ethiopia
+B for Bolivia
+M for Mauritania
+E for Egypt
+T for Tanzania
+
+
+----------------------------------------------------------------------
+#18. Biggest Countries - Part 2 (countries-biggest-countries-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-biggest-countries-2-audio/
+
+Letter 0: N for Nigeria
+Letter 1: V for Venezuela
+Letter 2: N for Namibia
+Letter 3: B for Botswana
+Letter 4: K for Kenya
+Letter 5: S for Sudan
+Letter 6: U for Ukraine
+Letter 7: L for Libya
+Letter 8: Q for Quebec
+Letter 9: T for Turkey
+Letter 10: C for Chile
+Letter 11: Z for Zambia
+Letter 12: M for Myanmar
+Letter 13: A for Afghanistan
+Letter 14: S for Somalia
+Letter 15: C for Cameroon
+Letter 16: P for Pakistan
+Letter 17: M for Morocco
+Letter 18: U for Uzbekistan
+Letter 19: S for Sierra Leone
+Letter 20: H for Hong Kong
+Letter 21: G for Gabon
+Letter 22: G for Guinea
+Letter 23: R for Rwanda
+Letter 24: B for Benin
+Letter 25: B for Burundi
+Letter 26: Z for Zimbabwe
+Letter 27: J for Japan
+Letter 28: G for Germany
+Letter 29: I for India
+
+PLAIN TEXT:
+N for Nigeria
+V for Venezuela
+N for Namibia
+B for Botswana
+K for Kenya
+S for Sudan
+U for Ukraine
+L for Libya
+Q for Quebec
+T for Turkey
+C for Chile
+Z for Zambia
+M for Myanmar
+A for Afghanistan
+S for Somalia
+C for Cameroon
+P for Pakistan
+M for Morocco
+U for Uzbekistan
+S for Sierra Leone
+H for Hong Kong
+G for Gabon
+G for Guinea
+R for Rwanda
+B for Benin
+B for Burundi
+Z for Zimbabwe
+J for Japan
+G for Germany
+I for India
+
+
+----------------------------------------------------------------------
+#19. Biggest Countries - Part 3 (countries-biggest-countries-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-biggest-countries-3-audio/
+
+Letter 0: F for France
+Letter 1: U for United Kingdom
+Letter 2: M for Malaysia
+Letter 3: T for Tunisia
+Letter 4: B for Bangladesh
+Letter 5: U for Uganda
+Letter 6: G for Greece
+Letter 7: S for Sri Lanka
+Letter 8: K for Kuwait
+Letter 9: B for Burkina Faso
+Letter 10: S for Senegal
+Letter 11: S for Serbia
+Letter 12: S for Syria
+Letter 13: C for Cambodia
+Letter 14: Z for Zimbabwe
+Letter 15: C for Czech Republic
+Letter 16: G for Guinea-Bissau
+Letter 17: A for Austria
+Letter 18: J for Ivory Coast
+Letter 19: S for South Korea
+Letter 20: M for Moldova
+Letter 21: B for Belgium
+Letter 22: H for Haiti
+Letter 23: B for Botswana
+Letter 24: H for Honduras
+Letter 25: N for Nicaragua
+Letter 26: J for Jordan
+Letter 27: A for Oman
+Letter 28: P for Paraguay
+Letter 29: I for India
+
+PLAIN TEXT:
+F for France
+U for United Kingdom
+M for Malaysia
+T for Tunisia
+B for Bangladesh
+U for Uganda
+G for Greece
+S for Sri Lanka
+K for Kuwait
+B for Burkina Faso
+S for Senegal
+S for Serbia
+S for Syria
+C for Cambodia
+Z for Zimbabwe
+C for Czech Republic
+G for Guinea-Bissau
+A for Austria
+J for Ivory Coast
+S for South Korea
+M for Moldova
+B for Belgium
+H for Haiti
+B for Botswana
+H for Honduras
+N for Nicaragua
+J for Jordan
+A for Oman
+P for Paraguay
+I for India
+
+
+----------------------------------------------------------------------
+#20. Famous Countries - Part 1 (countries-famous-countries-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-famous-countries-1-audio/
+
+Letter 0: I for India
+Letter 1: U for United States
+Letter 2: U for United Kingdom
+Letter 3: F for France
+Letter 4: G for Germany
+Letter 5: J for Japan
+Letter 6: C for China
+Letter 7: R for Russia
+Letter 8: B for Brazil
+Letter 9: I for Italy
+Letter 10: S for Spain
+Letter 11: C for Canada
+Letter 12: A for Australia
+Letter 13: N for Netherlands
+Letter 14: S for Switzerland
+Letter 15: S for Sweden
+Letter 16: N for Norway
+Letter 17: G for Greece
+Letter 18: B for Belgium
+Letter 19: A for Austria
+Letter 20: P for Portugal
+Letter 21: D for Denmark
+Letter 22: F for Finland
+Letter 23: I for Ireland
+Letter 24: P for Poland
+Letter 25: M for Mexico
+Letter 26: A for Argentina
+Letter 27: T for Thailand
+Letter 28: V for Vietnam
+Letter 29: S for South Korea
+
+PLAIN TEXT:
+I for India
+U for United States
+U for United Kingdom
+F for France
+G for Germany
+J for Japan
+C for China
+R for Russia
+B for Brazil
+I for Italy
+S for Spain
+C for Canada
+A for Australia
+N for Netherlands
+S for Switzerland
+S for Sweden
+N for Norway
+G for Greece
+B for Belgium
+A for Austria
+P for Portugal
+D for Denmark
+F for Finland
+I for Ireland
+P for Poland
+M for Mexico
+A for Argentina
+T for Thailand
+V for Vietnam
+S for South Korea
+
+
+----------------------------------------------------------------------
+#21. Famous Countries - Part 2 (countries-famous-countries-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-famous-countries-2-audio/
+
+Letter 0: T for Turkey
+Letter 1: I for Israel
+Letter 2: S for Singapore
+Letter 3: M for Malaysia
+Letter 4: T for Taiwan
+Letter 5: H for Hong Kong
+Letter 6: P for Philippines
+Letter 7: I for Indonesia
+Letter 8: N for New Zealand
+Letter 9: E for Egypt
+Letter 10: S for South Africa
+Letter 11: U for UAE
+Letter 12: S for Saudi Arabia
+Letter 13: C for Colombia
+Letter 14: P for Peru
+Letter 15: C for Chile
+Letter 16: B for Bangladesh
+Letter 17: P for Pakistan
+Letter 18: N for Nigeria
+Letter 19: K for Kenya
+Letter 20: C for Cuba
+Letter 21: J for Jamaica
+Letter 22: G for Greece
+Letter 23: C for Czech Republic
+Letter 24: H for Hungary
+Letter 25: R for Romania
+Letter 26: U for Ukraine
+Letter 27: C for Croatia
+Letter 28: L for Luxembourg
+Letter 29: I for India
+
+PLAIN TEXT:
+T for Turkey
+I for Israel
+S for Singapore
+M for Malaysia
+T for Taiwan
+H for Hong Kong
+P for Philippines
+I for Indonesia
+N for New Zealand
+E for Egypt
+S for South Africa
+U for UAE
+S for Saudi Arabia
+C for Colombia
+P for Peru
+C for Chile
+B for Bangladesh
+P for Pakistan
+N for Nigeria
+K for Kenya
+C for Cuba
+J for Jamaica
+G for Greece
+C for Czech Republic
+H for Hungary
+R for Romania
+U for Ukraine
+C for Croatia
+L for Luxembourg
+I for India
+
+
+----------------------------------------------------------------------
+#22. Famous Countries - Part 3 (countries-famous-countries-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-famous-countries-3-audio/
+
+Letter 0: L for Latvia
+Letter 1: L for Lithuania
+Letter 2: E for Estonia
+Letter 3: S for Slovakia
+Letter 4: S for Slovenia
+Letter 5: B for Bulgaria
+Letter 6: S for Serbia
+Letter 7: B for Bosnia and Herzegovina
+Letter 8: M for Montenegro
+Letter 9: A for Albania
+Letter 10: N for North Macedonia
+Letter 11: M for Malta
+Letter 12: C for Cyprus
+Letter 13: I for Iceland
+Letter 14: L for Luxembourg
+Letter 15: L for Liechtenstein
+Letter 16: A for Andorra
+Letter 17: M for Monaco
+Letter 18: S for San Marino
+Letter 19: V for Vatican City
+Letter 20: G for Georgia
+Letter 21: A for Armenia
+Letter 22: A for Azerbaijan
+Letter 23: M for Mauritius
+Letter 24: S for Seychelles
+Letter 25: M for Madagascar
+Letter 26: F for Fiji
+Letter 27: S for Samoa
+Letter 28: T for Tonga
+Letter 29: I for India
+
+PLAIN TEXT:
+L for Latvia
+L for Lithuania
+E for Estonia
+S for Slovakia
+S for Slovenia
+B for Bulgaria
+S for Serbia
+B for Bosnia and Herzegovina
+M for Montenegro
+A for Albania
+N for North Macedonia
+M for Malta
+C for Cyprus
+I for Iceland
+L for Luxembourg
+L for Liechtenstein
+A for Andorra
+M for Monaco
+S for San Marino
+V for Vatican City
+G for Georgia
+A for Armenia
+A for Azerbaijan
+M for Mauritius
+S for Seychelles
+M for Madagascar
+F for Fiji
+S for Samoa
+T for Tonga
+I for India
+
+
+----------------------------------------------------------------------
+#23. All Around the World (countries-all-around-world)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-all-around-world-audio/
+
+Letter 0: I for India
+Letter 1: U for United States
+Letter 2: U for United Kingdom
+Letter 3: F for France
+Letter 4: G for Germany
+Letter 5: J for Japan
+Letter 6: C for China
+Letter 7: R for Russia
+Letter 8: B for Brazil
+Letter 9: A for Australia
+Letter 10: C for Canada
+Letter 11: M for Mexico
+Letter 12: I for Italy
+Letter 13: S for Spain
+Letter 14: N for Netherlands
+Letter 15: A for Argentina
+Letter 16: S for South Africa
+Letter 17: E for Egypt
+Letter 18: S for South Korea
+Letter 19: T for Thailand
+Letter 20: I for Indonesia
+Letter 21: P for Philippines
+Letter 22: N for New Zealand
+Letter 23: S for Singapore
+Letter 24: V for Vietnam
+Letter 25: M for Malaysia
+Letter 26: B for Bangladesh
+Letter 27: P for Pakistan
+Letter 28: N for Nigeria
+Letter 29: K for Kenya
+
+PLAIN TEXT:
+I for India
+U for United States
+U for United Kingdom
+F for France
+G for Germany
+J for Japan
+C for China
+R for Russia
+B for Brazil
+A for Australia
+C for Canada
+M for Mexico
+I for Italy
+S for Spain
+N for Netherlands
+A for Argentina
+S for South Africa
+E for Egypt
+S for South Korea
+T for Thailand
+I for Indonesia
+P for Philippines
+N for New Zealand
+S for Singapore
+V for Vietnam
+M for Malaysia
+B for Bangladesh
+P for Pakistan
+N for Nigeria
+K for Kenya
+
+
+----------------------------------------------------------------------
+#24. European Countries - Part 3 (countries-european-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-european-3-audio/
+
+Letter 0: E for England
+Letter 1: F for France
+Letter 2: G for Germany
+Letter 3: S for Spain
+Letter 4: I for Italy
+Letter 5: P for Portugal
+Letter 6: N for Netherlands
+Letter 7: B for Belgium
+Letter 8: S for Switzerland
+Letter 9: A for Austria
+Letter 10: D for Denmark
+Letter 11: S for Sweden
+Letter 12: N for Norway
+Letter 13: F for Finland
+Letter 14: G for Greece
+Letter 15: P for Poland
+Letter 16: R for Romania
+Letter 17: C for Czech Republic
+Letter 18: H for Hungary
+Letter 19: I for Ireland
+Letter 20: U for Ukraine
+Letter 21: R for Russia
+Letter 22: T for Turkey
+Letter 23: C for Croatia
+Letter 24: S for Serbia
+Letter 25: B for Bulgaria
+Letter 26: M for Montenegro
+Letter 27: A for Albania
+Letter 28: L for Luxembourg
+Letter 29: M for Malta
+
+PLAIN TEXT:
+E for England
+F for France
+G for Germany
+S for Spain
+I for Italy
+P for Portugal
+N for Netherlands
+B for Belgium
+S for Switzerland
+A for Austria
+D for Denmark
+S for Sweden
+N for Norway
+F for Finland
+G for Greece
+P for Poland
+R for Romania
+C for Czech Republic
+H for Hungary
+I for Ireland
+U for Ukraine
+R for Russia
+T for Turkey
+C for Croatia
+S for Serbia
+B for Bulgaria
+M for Montenegro
+A for Albania
+L for Luxembourg
+M for Malta
+
+
+----------------------------------------------------------------------
+#25. African Countries - Part 2 (countries-african-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-african-2-audio/
+
+Letter 0: M for Mali
+Letter 1: N for Niger
+Letter 2: C for Chad
+Letter 3: C for Congo
+Letter 4: G for Gabon
+Letter 5: S for South Sudan
+Letter 6: E for Eritrea
+Letter 7: D for Djibouti
+Letter 8: S for Somalia
+Letter 9: C for Comoros
+Letter 10: M for Mauritius
+Letter 11: S for Seychelles
+Letter 12: T for Togo
+Letter 13: B for Benin
+Letter 14: G for Guinea
+Letter 15: L for Lesotho
+Letter 16: E for Eswatini
+Letter 17: M for Mauritania
+Letter 18: R for Rwanda
+Letter 19: B for Burundi
+Letter 20: Z for Zanzibar
+Letter 21: K for Kenya
+Letter 22: U for Uganda
+Letter 23: A for Angola
+Letter 24: I for Ivory Coast
+Letter 25: S for Senegal
+Letter 26: N for Namibia
+Letter 27: Z for Zimbabwe
+Letter 28: B for Botswana
+Letter 29: T for Tanzania
+
+PLAIN TEXT:
+M for Mali
+N for Niger
+C for Chad
+C for Congo
+G for Gabon
+S for South Sudan
+E for Eritrea
+D for Djibouti
+S for Somalia
+C for Comoros
+M for Mauritius
+S for Seychelles
+T for Togo
+B for Benin
+G for Guinea
+L for Lesotho
+E for Eswatini
+M for Mauritania
+R for Rwanda
+B for Burundi
+Z for Zanzibar
+K for Kenya
+U for Uganda
+A for Angola
+I for Ivory Coast
+S for Senegal
+N for Namibia
+Z for Zimbabwe
+B for Botswana
+T for Tanzania
+
+
+----------------------------------------------------------------------
+#26. African Countries - Part 3 (countries-african-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-african-3-audio/
+
+Letter 0: S for South Africa
+Letter 1: E for Egypt
+Letter 2: K for Kenya
+Letter 3: N for Nigeria
+Letter 4: G for Ghana
+Letter 5: T for Tanzania
+Letter 6: M for Morocco
+Letter 7: E for Ethiopia
+Letter 8: U for Uganda
+Letter 9: R for Rwanda
+Letter 10: A for Algeria
+Letter 11: T for Tunisia
+Letter 12: Z for Zimbabwe
+Letter 13: B for Botswana
+Letter 14: N for Namibia
+Letter 15: L for Libya
+Letter 16: S for Sudan
+Letter 17: M for Madagascar
+Letter 18: D for DR Congo
+Letter 19: C for Cameroon
+Letter 20: I for Ivory Coast
+Letter 21: S for Senegal
+Letter 22: Z for Zambia
+Letter 23: M for Malawi
+Letter 24: G for Gambia
+Letter 25: C for Cape Verde
+Letter 26: M for Mauritius
+Letter 27: S for Seychelles
+Letter 28: A for Angola
+Letter 29: B for Burkina Faso
+
+PLAIN TEXT:
+S for South Africa
+E for Egypt
+K for Kenya
+N for Nigeria
+G for Ghana
+T for Tanzania
+M for Morocco
+E for Ethiopia
+U for Uganda
+R for Rwanda
+A for Algeria
+T for Tunisia
+Z for Zimbabwe
+B for Botswana
+N for Namibia
+L for Libya
+S for Sudan
+M for Madagascar
+D for DR Congo
+C for Cameroon
+I for Ivory Coast
+S for Senegal
+Z for Zambia
+M for Malawi
+G for Gambia
+C for Cape Verde
+M for Mauritius
+S for Seychelles
+A for Angola
+B for Burkina Faso
+
+
+----------------------------------------------------------------------
+#27. American Countries - Part 2 (countries-american-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-american-2-audio/
+
+Letter 0: B for Brazil
+Letter 1: A for Argentina
+Letter 2: C for Chile
+Letter 3: P for Peru
+Letter 4: C for Colombia
+Letter 5: V for Venezuela
+Letter 6: E for Ecuador
+Letter 7: B for Bolivia
+Letter 8: P for Paraguay
+Letter 9: U for Uruguay
+Letter 10: G for Guyana
+Letter 11: S for Suriname
+Letter 12: C for Cuba
+Letter 13: J for Jamaica
+Letter 14: H for Haiti
+Letter 15: D for Dominican Rep
+Letter 16: T for Trinidad
+Letter 17: B for Barbados
+Letter 18: S for Saint Lucia
+Letter 19: A for Antigua
+Letter 20: D for Dominica
+Letter 21: G for Grenada
+Letter 22: P for Panama
+Letter 23: C for Costa Rica
+Letter 24: N for Nicaragua
+Letter 25: H for Honduras
+Letter 26: E for El Salvador
+Letter 27: G for Guatemala
+Letter 28: B for Belize
+Letter 29: K for Saint Kitts
+
+PLAIN TEXT:
+B for Brazil
+A for Argentina
+C for Chile
+P for Peru
+C for Colombia
+V for Venezuela
+E for Ecuador
+B for Bolivia
+P for Paraguay
+U for Uruguay
+G for Guyana
+S for Suriname
+C for Cuba
+J for Jamaica
+H for Haiti
+D for Dominican Rep
+T for Trinidad
+B for Barbados
+S for Saint Lucia
+A for Antigua
+D for Dominica
+G for Grenada
+P for Panama
+C for Costa Rica
+N for Nicaragua
+H for Honduras
+E for El Salvador
+G for Guatemala
+B for Belize
+K for Saint Kitts
+
+
+----------------------------------------------------------------------
+#28. American Countries - Part 3 (countries-american-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-american-3-audio/
+
+Letter 0: U for USA
+Letter 1: C for Canada
+Letter 2: M for Mexico
+Letter 3: B for Brazil
+Letter 4: A for Argentina
+Letter 5: C for Chile
+Letter 6: P for Peru
+Letter 7: C for Colombia
+Letter 8: V for Venezuela
+Letter 9: E for Ecuador
+Letter 10: C for Cuba
+Letter 11: J for Jamaica
+Letter 12: P for Panama
+Letter 13: C for Costa Rica
+Letter 14: G for Guatemala
+Letter 15: H for Honduras
+Letter 16: N for Nicaragua
+Letter 17: E for El Salvador
+Letter 18: B for Belize
+Letter 19: T for Trinidad
+Letter 20: B for Bahamas
+Letter 21: D for Dominican Rep
+Letter 22: H for Haiti
+Letter 23: P for Puerto Rico
+Letter 24: B for Bolivia
+Letter 25: U for Uruguay
+Letter 26: P for Paraguay
+Letter 27: G for Guyana
+Letter 28: S for Suriname
+Letter 29: F for Falklands
+
+PLAIN TEXT:
+U for USA
+C for Canada
+M for Mexico
+B for Brazil
+A for Argentina
+C for Chile
+P for Peru
+C for Colombia
+V for Venezuela
+E for Ecuador
+C for Cuba
+J for Jamaica
+P for Panama
+C for Costa Rica
+G for Guatemala
+H for Honduras
+N for Nicaragua
+E for El Salvador
+B for Belize
+T for Trinidad
+B for Bahamas
+D for Dominican Rep
+H for Haiti
+P for Puerto Rico
+B for Bolivia
+U for Uruguay
+P for Paraguay
+G for Guyana
+S for Suriname
+F for Falklands
+
+
+----------------------------------------------------------------------
+#29. Oceania & Islands - Part 2 (countries-oceania-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-oceania-2-audio/
+
+Letter 0: A for Australia
+Letter 1: N for New Zealand
+Letter 2: F for Fiji
+Letter 3: S for Samoa
+Letter 4: T for Tonga
+Letter 5: V for Vanuatu
+Letter 6: P for Papua
+Letter 7: S for Solomon
+Letter 8: M for Marshall
+Letter 9: K for Kiribati
+Letter 10: P for Palau
+Letter 11: N for Nauru
+Letter 12: T for Tuvalu
+Letter 13: M for Micronesia
+Letter 14: G for Guam
+Letter 15: C for Cook Islands
+Letter 16: N for Niue
+Letter 17: F for French Polynesia
+Letter 18: T for Tahiti
+Letter 19: B for Bora Bora
+Letter 20: H for Hawaii
+Letter 21: E for Easter Island
+Letter 22: S for Samoa American
+Letter 23: W for Wallis
+Letter 24: R for Rarotonga
+Letter 25: N for New Caledonia
+Letter 26: C for Christmas Island
+Letter 27: M for Midway
+Letter 28: O for Oceania
+Letter 29: I for Indonesia
+
+PLAIN TEXT:
+A for Australia
+N for New Zealand
+F for Fiji
+S for Samoa
+T for Tonga
+V for Vanuatu
+P for Papua
+S for Solomon
+M for Marshall
+K for Kiribati
+P for Palau
+N for Nauru
+T for Tuvalu
+M for Micronesia
+G for Guam
+C for Cook Islands
+N for Niue
+F for French Polynesia
+T for Tahiti
+B for Bora Bora
+H for Hawaii
+E for Easter Island
+S for Samoa American
+W for Wallis
+R for Rarotonga
+N for New Caledonia
+C for Christmas Island
+M for Midway
+O for Oceania
+I for Indonesia
+
+
+----------------------------------------------------------------------
+#30. India's Neighbors - Part 1 (countries-neighbors-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/countries-neighbors-1-audio/
+
+Letter 0: I for India
+Letter 1: P for Pakistan
+Letter 2: B for Bangladesh
+Letter 3: N for Nepal
+Letter 4: S for Sri Lanka
+Letter 5: B for Bhutan
+Letter 6: M for Myanmar
+Letter 7: C for China
+Letter 8: A for Afghanistan
+Letter 9: M for Maldives
+Letter 10: T for Thailand
+Letter 11: I for Indonesia
+Letter 12: M for Malaysia
+Letter 13: S for Singapore
+Letter 14: V for Vietnam
+Letter 15: J for Japan
+Letter 16: K for South Korea
+Letter 17: P for Philippines
+Letter 18: C for Cambodia
+Letter 19: L for Laos
+Letter 20: T for Taiwan
+Letter 21: M for Mongolia
+Letter 22: U for UAE
+Letter 23: S for Saudi Arabia
+Letter 24: Q for Qatar
+Letter 25: O for Oman
+Letter 26: K for Kuwait
+Letter 27: I for Iran
+Letter 28: R for Russia
+Letter 29: A for Australia
+
+PLAIN TEXT:
+I for India
+P for Pakistan
+B for Bangladesh
+N for Nepal
+S for Sri Lanka
+B for Bhutan
+M for Myanmar
+C for China
+A for Afghanistan
+M for Maldives
+T for Thailand
+I for Indonesia
+M for Malaysia
+S for Singapore
+V for Vietnam
+J for Japan
+K for South Korea
+P for Philippines
+C for Cambodia
+L for Laos
+T for Taiwan
+M for Mongolia
+U for UAE
+S for Saudi Arabia
+Q for Qatar
+O for Oman
+K for Kuwait
+I for Iran
+R for Russia
+A for Australia
+

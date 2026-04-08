@@ -1,0 +1,5982 @@
+import "./index.css";
+import { Composition } from "remotion";
+import { AlphabetShortsTemplate } from "./AlphabetShortsTemplate";
+import type { AlphabetShortsProps } from "./AlphabetShortsTemplate";
+import React from "react";
+
+export const FlowerRemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Composition
+        id="FlowersGardenBlooms1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Garden Blooms - Part 1",
+          videoId: "flowers-garden-blooms-1",
+          bgGradient: ["#E91E63","#F48FB1"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rose",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌻",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🪷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "M",
+          "word": "Marigold",
+          "emoji": "🌼",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "J",
+          "word": "Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Hibiscus",
+          "emoji": "🌺",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "D",
+          "word": "Dahlia",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "T",
+          "word": "Tulip",
+          "emoji": "🌷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lily",
+          "emoji": "🌸",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Chrysanthemum",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "O",
+          "word": "Orchid",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "P",
+          "word": "Petunia",
+          "emoji": "🌸",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "G",
+          "word": "Gladiolus",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌸",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "C",
+          "word": "Carnation",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🌸",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "B",
+          "word": "Bougainvillea",
+          "emoji": "🌺",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Frangipani",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "A",
+          "word": "Aster",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "N",
+          "word": "Narcissus",
+          "emoji": "🌼",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "K",
+          "word": "Kaner",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "W",
+          "word": "Wisteria",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          },
+          {
+          "letter": "E",
+          "word": "Elderflower",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Plant",
+          "emoji": "🌿",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "X",
+          "word": "Xeranthemum",
+          "emoji": "🌸",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Rose",
+          "emoji": "🌹",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Z",
+          "word": "Zinnia",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen of Night",
+          "emoji": "🌸",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "P",
+          "word": "Pansy",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "S",
+          "word": "Sweet Pea",
+          "emoji": "🌸",
+          "bgColor": "#F48FB1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersGardenBlooms2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Garden Blooms - Part 2",
+          videoId: "flowers-garden-blooms-2",
+          bgGradient: ["#AD1457","#F8BBD0"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Champa",
+          "emoji": "🌸",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "R",
+          "word": "Rajnigandha",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "G",
+          "word": "Genda",
+          "emoji": "🌼",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Mogra",
+          "emoji": "🌸",
+          "bgColor": "#FAFAFA"
+          },
+          {
+          "letter": "K",
+          "word": "Kewda",
+          "emoji": "🌿",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "P",
+          "word": "Palash",
+          "emoji": "🌺",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "S",
+          "word": "Sadabahar",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Aparajita",
+          "emoji": "🌸",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "N",
+          "word": "Night Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "B",
+          "word": "Bakul",
+          "emoji": "🌸",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Tagar",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          },
+          {
+          "letter": "D",
+          "word": "Daffodil",
+          "emoji": "🌼",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "H",
+          "word": "Honeysuckle",
+          "emoji": "🌸",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "F",
+          "word": "Forget Me Not",
+          "emoji": "🌸",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Oleander",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "Water Lily",
+          "emoji": "🪷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Juhi",
+          "emoji": "🌸",
+          "bgColor": "#FAFAFA"
+          },
+          {
+          "letter": "E",
+          "word": "Edelweiss",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Cork",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "V",
+          "word": "Verbena",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "U",
+          "word": "Upas Flower",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "X",
+          "word": "Xyris",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Y",
+          "word": "Ylang Ylang",
+          "emoji": "🌸",
+          "bgColor": "#FFF176"
+          },
+          {
+          "letter": "Z",
+          "word": "Zephyranthes",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Anne Lace",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoon Creeper",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmos",
+          "emoji": "🌸",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Plumeria",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "G",
+          "word": "Gulmohar",
+          "emoji": "🌺",
+          "bgColor": "#FF5722"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersGardenBlooms3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Garden Blooms - Part 3",
+          videoId: "flowers-garden-blooms-3",
+          bgGradient: ["#C2185B","#FCE4EC"] as [string, string],
+          accentColor: "#AD1457",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Amaryllis",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Begonia",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Camellia",
+          "emoji": "🌸",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "D",
+          "word": "Daisy",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "E",
+          "word": "Evening Primrose",
+          "emoji": "🌸",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "F",
+          "word": "Foxglove",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          },
+          {
+          "letter": "G",
+          "word": "Gardenia",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Heather",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "I",
+          "word": "Impatiens",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "J",
+          "word": "Jacaranda",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "K",
+          "word": "Kanakambaram",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "L",
+          "word": "Larkspur",
+          "emoji": "🌸",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Magnolia",
+          "emoji": "🌸",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "N",
+          "word": "Nerium",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Blossom",
+          "emoji": "🌸",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Poppy",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quaker Ladies",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          },
+          {
+          "letter": "R",
+          "word": "Ranunculus",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "S",
+          "word": "Snapdragon",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "T",
+          "word": "Tuberose",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "U",
+          "word": "Ursinia",
+          "emoji": "🌼",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "V",
+          "word": "Vinca",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "White Lily",
+          "emoji": "🌸",
+          "bgColor": "#FAFAFA"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthium",
+          "emoji": "🌼",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Dahlia",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Z",
+          "word": "Zenobia",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "M",
+          "word": "Morning Glory",
+          "emoji": "🌸",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "S",
+          "word": "Star Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "H",
+          "word": "Hollyhock",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "P",
+          "word": "Periwinkle",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersWildFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wild Flowers - Part 1",
+          videoId: "flowers-wild-flowers-1",
+          bgGradient: ["#FF6F00","#FFE0B2"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dandelion",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "C",
+          "word": "Clover",
+          "emoji": "🌿",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "B",
+          "word": "Buttercup",
+          "emoji": "🌼",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "P",
+          "word": "Poppy",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "L",
+          "word": "Lupine",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "W",
+          "word": "Wildflower",
+          "emoji": "🌸",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "T",
+          "word": "Thistle",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          },
+          {
+          "letter": "S",
+          "word": "Sunray",
+          "emoji": "🌼",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "H",
+          "word": "Heliotrope",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "A",
+          "word": "Anemone",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "G",
+          "word": "Goldenrod",
+          "emoji": "🌼",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "M",
+          "word": "Meadow Sage",
+          "emoji": "🌸",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "F",
+          "word": "Fireweed",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "N",
+          "word": "Nigella",
+          "emoji": "🌸",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "R",
+          "word": "Red Campion",
+          "emoji": "🌸",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "K",
+          "word": "Knapweed",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "O",
+          "word": "Oxeye Daisy",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "J",
+          "word": "Jack in Pulpit",
+          "emoji": "🌿",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "E",
+          "word": "Echinacea",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Paintbrush",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "V",
+          "word": "Vetch",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Flower",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "X",
+          "word": "Xerophyte Bloom",
+          "emoji": "🌸",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yarrow",
+          "emoji": "🌼",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag Goldenrod",
+          "emoji": "🌼",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Cup",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "B",
+          "word": "Bluebell",
+          "emoji": "🌸",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Cornflower",
+          "emoji": "🌸",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Scarlet Pimpernel",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "M",
+          "word": "Milkweed",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersWildFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wild Flowers - Part 2",
+          videoId: "flowers-wild-flowers-2",
+          bgGradient: ["#FF8F00","#FFF3E0"] as [string, string],
+          accentColor: "#FF6F00",
+          letters: [
+          {
+          "letter": "P",
+          "word": "Primrose",
+          "emoji": "🌸",
+          "bgColor": "#FFF176"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🌸",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "B",
+          "word": "Bird of Paradise",
+          "emoji": "🌺",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "H",
+          "word": "Hyacinth",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "S",
+          "word": "Snowdrop",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Crocus",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "R",
+          "word": "Ragged Robin",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Trillium",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "A",
+          "word": "Alpine Aster",
+          "emoji": "🌸",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "G",
+          "word": "Globe Thistle",
+          "emoji": "🌸",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "L",
+          "word": "Lady Slipper",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Laurel",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "D",
+          "word": "Dog Rose",
+          "emoji": "🌹",
+          "bgColor": "#F48FB1"
+          },
+          {
+          "letter": "K",
+          "word": "King Protea",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Freesia",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "N",
+          "word": "Native Fuchsia",
+          "emoji": "🌸",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Hawkweed",
+          "emoji": "🌼",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "W",
+          "word": "Wood Sorrel",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "J",
+          "word": "Joe Pye Weed",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "E",
+          "word": "Everlasting",
+          "emoji": "🌼",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Blanket",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "U",
+          "word": "Upland Daisy",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthorrhoea",
+          "emoji": "🌿",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Poppy",
+          "emoji": "🌸",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zephyr Lily",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Protea",
+          "emoji": "🌸",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Bindweed",
+          "emoji": "🌸",
+          "bgColor": "#F48FB1"
+          },
+          {
+          "letter": "S",
+          "word": "Sweet William",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "C",
+          "word": "Columbine",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersWildFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wild Flowers - Part 3",
+          videoId: "flowers-wild-flowers-3",
+          bgGradient: ["#FFA000","#FFECB3"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "W",
+          "word": "Wallflower",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "A",
+          "word": "Azalea",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sakura",
+          "emoji": "🌸",
+          "bgColor": "#F48FB1"
+          },
+          {
+          "letter": "C",
+          "word": "Cherry Blossom",
+          "emoji": "🌸",
+          "bgColor": "#FFB7C5"
+          },
+          {
+          "letter": "L",
+          "word": "Lily of Valley",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "P",
+          "word": "Peony",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "R",
+          "word": "Rhododendron",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Lily",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "G",
+          "word": "Geranium",
+          "emoji": "🌸",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Marigold Wild",
+          "emoji": "🌼",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Black Eyed Susan",
+          "emoji": "🌼",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Rose",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "F",
+          "word": "Flame Lily",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "H",
+          "word": "Heliconia",
+          "emoji": "🌺",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "K",
+          "word": "Kafir Lily",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "N",
+          "word": "Nasturtium",
+          "emoji": "🌸",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "O",
+          "word": "Orchid Wild",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "J",
+          "word": "Jasmine Wild",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "E",
+          "word": "Edelweiss",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "I",
+          "word": "Iris Wild",
+          "emoji": "🌸",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "V",
+          "word": "Vanda Orchid",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "U",
+          "word": "Urn Plant",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "X",
+          "word": "Xeric Sage",
+          "emoji": "🌿",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yucca Bloom",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Z",
+          "word": "Zen Lotus",
+          "emoji": "🪷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Q",
+          "word": "Quill Chrysanthemum",
+          "emoji": "🌼",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Monsoon Lily",
+          "emoji": "🌸",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "S",
+          "word": "Spider Lily",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Hawthorn Bloom",
+          "emoji": "🌸",
+          "bgColor": "#F48FB1"
+          },
+          {
+          "letter": "C",
+          "word": "Coral Vine",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersTropicalFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tropical Flowers - Part 1",
+          videoId: "flowers-tropical-flowers-1",
+          bgGradient: ["#00C853","#B9F6CA"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "H",
+          "word": "Hibiscus",
+          "emoji": "🌺",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "P",
+          "word": "Plumeria",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "B",
+          "word": "Bird of Paradise",
+          "emoji": "🌺",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "O",
+          "word": "Orchid",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "A",
+          "word": "Anthurium",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Frangipani",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "G",
+          "word": "Ginger Lily",
+          "emoji": "🌸",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "H",
+          "word": "Heliconia",
+          "emoji": "🌺",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Jade Vine",
+          "emoji": "🌸",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "L",
+          "word": "Lantana",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Mandevilla",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "N",
+          "word": "Nymphaea",
+          "emoji": "🪷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Passion Flower",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "R",
+          "word": "Red Ginger",
+          "emoji": "🌺",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Shell Ginger",
+          "emoji": "🌸",
+          "bgColor": "#F48FB1"
+          },
+          {
+          "letter": "T",
+          "word": "Torch Ginger",
+          "emoji": "🌺",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "C",
+          "word": "Canna Lily",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Rose",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "K",
+          "word": "Kahili Ginger",
+          "emoji": "🌸",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "W",
+          "word": "Wax Flower",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Epidendrum",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "I",
+          "word": "Ixora",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "V",
+          "word": "Vanda",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "U",
+          "word": "Urania Bloom",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthostemon",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Allamanda",
+          "emoji": "🌸",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zingiberaceae",
+          "emoji": "🌸",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Sago",
+          "emoji": "🌿",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "B",
+          "word": "Bottlebrush",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "C",
+          "word": "Copa de Oro",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersTropicalFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tropical Flowers - Part 2",
+          videoId: "flowers-tropical-flowers-2",
+          bgGradient: ["#00E676","#C8E6C9"] as [string, string],
+          accentColor: "#2E7D32",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Crossandra",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "K",
+          "word": "Kalachuchi",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          },
+          {
+          "letter": "A",
+          "word": "African Violet",
+          "emoji": "🌸",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus Pink",
+          "emoji": "🪷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "M",
+          "word": "Mexican Sunflower",
+          "emoji": "🌻",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "S",
+          "word": "Strelitzia",
+          "emoji": "🌺",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "P",
+          "word": "Protea",
+          "emoji": "🌸",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "R",
+          "word": "Red Oleander",
+          "emoji": "🌸",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "T",
+          "word": "Tiare",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Trumpet",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "B",
+          "word": "Barleria",
+          "emoji": "🌸",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "D",
+          "word": "Duranta",
+          "emoji": "🌸",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "F",
+          "word": "Fire Bush",
+          "emoji": "🌺",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "H",
+          "word": "Hoya",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "N",
+          "word": "Nepenthes",
+          "emoji": "🌸",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "J",
+          "word": "Jatropha",
+          "emoji": "🌸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "W",
+          "word": "White Ginger",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Eucharis",
+          "emoji": "🌸",
+          "bgColor": "#FAFAFA"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Shot",
+          "emoji": "🌸",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "V",
+          "word": "Victoria Lily",
+          "emoji": "🪷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Tree Flower",
+          "emoji": "🌸",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "X",
+          "word": "Xylobium",
+          "emoji": "🌸",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Bell",
+          "emoji": "🌸",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Plant",
+          "emoji": "🌸",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Emma Lily",
+          "emoji": "🌸",
+          "bgColor": "#7E57C2"
+          },
+          {
+          "letter": "C",
+          "word": "Cattleya",
+          "emoji": "🌸",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "S",
+          "word": "Sampaguita",
+          "emoji": "🌸",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "P",
+          "word": "Pink Ginger",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "M",
+          "word": "Madagascar Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#FFF9C4"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersTropicalFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tropical Flowers - Part 3",
+          videoId: "flowers-tropical-flowers-3",
+          bgGradient: ["#69F0AE","#E8F5E9"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anthurium",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Bird of Paradise",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Protea",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Strelitzia",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Heliconia",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "G",
+          "word": "Ginger",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Plumeria",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Clivia",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Alpinia",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Aechmea",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "B",
+          "word": "Bromeliaceae",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Monstera",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "I",
+          "word": "Ixora",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Costus",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "E",
+          "word": "Etlingera",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Tapeinosperma",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "R",
+          "word": "Rafflesia",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "V",
+          "word": "Vanda",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cattleya",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "G",
+          "word": "Guaiacum",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "Wisteria",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Mandevilla",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "T",
+          "word": "Tecomaria",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "I",
+          "word": "Ipomoea",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Bougainvillea",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Allamanda",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "T",
+          "word": "Thunbergia",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "G",
+          "word": "Gloriosa",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "K",
+          "word": "Kniphofia",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersSpringFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Spring Flowers - Part 1",
+          videoId: "flowers-spring-flowers-1",
+          bgGradient: ["#F48FB1","#FCE4EC"] as [string, string],
+          accentColor: "#C2185B",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Apple Blossom",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Cherry Blossom",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Almond Blossom",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "F",
+          "word": "Forsythia",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "D",
+          "word": "Daffodil",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "H",
+          "word": "Hyacinth",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Primrose",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "H",
+          "word": "Hellebore",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Crocuses",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Anemone",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "B",
+          "word": "Bleeding Heart",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Columbine",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Coral Bells",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Creeping Phlox",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "D",
+          "word": "Dianthus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "E",
+          "word": "Euonymus",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "F",
+          "word": "Forget-me-not",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "F",
+          "word": "Fritillaria",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "G",
+          "word": "Geranium",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Hellebore",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "I",
+          "word": "Iberis",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Jacob's Ladder",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Lamium",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Lenten Rose",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Muscari",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pansy",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Pussy Willow",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "R",
+          "word": "Ranunculus",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sedum",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "T",
+          "word": "Thalictrum",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersSpringFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Spring Flowers - Part 2",
+          videoId: "flowers-spring-flowers-2",
+          bgGradient: ["#F06292","#F8BBD0"] as [string, string],
+          accentColor: "#AD1457",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Bleeding Heart",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Brunnera",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Candytuft",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Chionodoxa",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Corydalis",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Cyclamen",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "D",
+          "word": "Doronicum",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "E",
+          "word": "Epimedium",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "E",
+          "word": "Euphorbia",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Helleborus",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "H",
+          "word": "Hepatica",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "I",
+          "word": "Isopyrum",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "K",
+          "word": "Kenilworth Ivy",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Lamium",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Lathyrus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Leucojum",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Liriope",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "M",
+          "word": "Mazus",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "M",
+          "word": "Mertensia",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Muscari",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "O",
+          "word": "Oenothera",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "O",
+          "word": "Ornithogalum",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Pachysandra",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Pulsatilla",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "R",
+          "word": "Ranunculus",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sanguinaria",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Saxifraga",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Scilla",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Speedwell",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "T",
+          "word": "Trillium",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersSpringFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Spring Flowers - Part 3",
+          videoId: "flowers-spring-flowers-3",
+          bgGradient: ["#EC407A","#FFEBEE"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Trollius",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "U",
+          "word": "Uvularia",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "V",
+          "word": "Veronica",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "V",
+          "word": "Vinca",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "V",
+          "word": "Violets",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "Waldsteinia",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "W",
+          "word": "Whitlow Grass",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "W",
+          "word": "Winter Daphne",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "W",
+          "word": "Woodruff",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthorhiza",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yarrow",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowstar Flower",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "Y",
+          "word": "Yucca",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "Z",
+          "word": "Zephyranthes",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigadenus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Primula",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Polyanthus",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Aubretia",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Armeria",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Aquilegia",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Arabis",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Argemone",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Arisaema",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Arthropodium",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Asarum",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Asclepias",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Asphodeline",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Asphodelus",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Astilbe",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Astilboides",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersWeddingFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wedding Flowers - Part 1",
+          videoId: "flowers-wedding-flowers-1",
+          bgGradient: ["#FFD54F","#FFF8E1"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rose",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Peony",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "H",
+          "word": "Hydrangea",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carnation",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Calla Lily",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "F",
+          "word": "Freesia",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "R",
+          "word": "Ranunculus",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Lisianthus",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Stock",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Astilbe",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "Waxflower",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "H",
+          "word": "Hypericum",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sweet Pea",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Butterfly Ranunculus",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Blush Rose",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "G",
+          "word": "Garden Rose",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Juliet Rose",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "Q",
+          "word": "Quicksand Rose",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Q",
+          "word": "Quicksand Rose",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "Q",
+          "word": "Quicksand Rose",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "Q",
+          "word": "Quicksand Rose",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Q",
+          "word": "Quicksand Rose",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "Q",
+          "word": "Quicksand Rose",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Cappuccino Rose",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersWeddingFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wedding Flowers - Part 2",
+          videoId: "flowers-wedding-flowers-2",
+          bgGradient: ["#FFC107","#FFF9C4"] as [string, string],
+          accentColor: "#FFA000",
+          letters: [
+          {
+          "letter": "E",
+          "word": "Eucalyptus",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "R",
+          "word": "Ruscus",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Salal",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Pittosporum",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "D",
+          "word": "Dusty Miller",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Leather Leaf",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "W",
+          "word": "Waxflower",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "D",
+          "word": "Dahlias",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "Z",
+          "word": "Zinnias",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Celosia",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "V",
+          "word": "Veronica",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Spray Roses",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "T",
+          "word": "Thistle",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Scabiosa",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Solidago",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Statice",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Baby Breath",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Anne's Lace",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Aster",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "G",
+          "word": "Gerbera",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunflower",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersWeddingFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wedding Flowers - Part 3",
+          videoId: "flowers-wedding-flowers-3",
+          bgGradient: ["#FFB300","#FFECB3"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tulips",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "D",
+          "word": "Daffodils",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Anemones",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "R",
+          "word": "Ranunculus",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "O",
+          "word": "Orchids",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Cymbidium",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "D",
+          "word": "Dendrobium",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "V",
+          "word": "Vanda",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cattleya",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "O",
+          "word": "Oncidium",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Paphiopedilum",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Phalaenopsis",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Spathoglottis",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Lily",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Asiatic Lily",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "O",
+          "word": "Oriental Lily",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Stargazer Lily",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Casa Blanca Lily",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Casablanca Lily",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Casa Blanca Lily",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Stargazer Lily",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "O",
+          "word": "Oriental Lily",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Asiatic Lily",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Lily",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersExoticFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Exotic Flowers - Part 1",
+          videoId: "flowers-exotic-flowers-1",
+          bgGradient: ["#7B1FA2","#E1BEE7"] as [string, string],
+          accentColor: "#4A148C",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Bird of Paradise",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Anthurium",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "H",
+          "word": "Heliconia",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Strelitzia",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Protea",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Clivia",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Plumeria",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "I",
+          "word": "Ixora",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "G",
+          "word": "Ginger",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Alpinia",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Aechmea",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Bromeliaceae",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "M",
+          "word": "Monstera",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Costus",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "E",
+          "word": "Etlingera",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Tapeinosperma",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "R",
+          "word": "Rafflesia",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "V",
+          "word": "Vanda",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cattleya",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "G",
+          "word": "Guaiacum",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "Wisteria",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Mandevilla",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "T",
+          "word": "Tecomaria",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "I",
+          "word": "Ipomoea",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Bougainvillea",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Allamanda",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "T",
+          "word": "Thunbergia",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "G",
+          "word": "Gloriosa",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "K",
+          "word": "Kniphofia",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersExoticFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Exotic Flowers - Part 2",
+          videoId: "flowers-exotic-flowers-2",
+          bgGradient: ["#8E24AA","#CE93D8"] as [string, string],
+          accentColor: "#6A1B9A",
+          letters: [
+          {
+          "letter": "L",
+          "word": "Lapageria",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "E",
+          "word": "Erysimum",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "I",
+          "word": "Ixora",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Jacobean Lily",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Jacobean Lily",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "K",
+          "word": "Kaempferia",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "K",
+          "word": "Kalanchoe",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "K",
+          "word": "Kennedia",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "K",
+          "word": "Kerria",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "K",
+          "word": "Kinnikinnick",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "K",
+          "word": "Kirengeshoma",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "K",
+          "word": "Kochia",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "K",
+          "word": "Kohleria",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "K",
+          "word": "Kolkwitzia",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Labrador Tea",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lachenalia",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lacewing Flower",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Lactuca",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Ladys Mantle",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Ladys Slipper",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lagerstroemia",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lagunaaia",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Lathyrus",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Laurentia",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Lavatera",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender Cotton",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Leadplant",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Leatherflower",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Leatherleaf Mahonia",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersExoticFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Exotic Flowers - Part 3",
+          videoId: "flowers-exotic-flowers-3",
+          bgGradient: ["#9C27B0","#F3E5F5"] as [string, string],
+          accentColor: "#7B1FA2",
+          letters: [
+          {
+          "letter": "L",
+          "word": "Lenten Rose",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Plant",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Leopards Bane",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Liatris",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Libonia",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lilac",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lilium",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Lilyturf",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Limonium",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Linaria",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lindelofia",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lindera",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Ling",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Lingonberry",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Linum",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lion Heart",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Liquidambar",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Liriodendron",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Liriope",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Litchi",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lithocarpus",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lithops",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Lithraea",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Littonia",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Liverwort",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Living Stone",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lizzard Tail",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "L",
+          "word": "Llama Del Inca",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Loamia",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Lobelia",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersFragrantFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Fragrant Flowers - Part 1",
+          videoId: "flowers-fragrant-flowers-1",
+          bgGradient: ["#00897B","#B2DFDB"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "J",
+          "word": "Jasmine",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Mogra",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "G",
+          "word": "Gardenia",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "T",
+          "word": "Tuberose",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Hyacinth",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lilac",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "R",
+          "word": "Rose",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Blossom",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "F",
+          "word": "Freesia",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sweet Pea",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "H",
+          "word": "Honeysuckle",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Stephanotis",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "D",
+          "word": "Daphne",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "R",
+          "word": "Ranunculus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lisianthus",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "F",
+          "word": "Freesia",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Carnation",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Stock",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Lilium",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "N",
+          "word": "Narcissus",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Peony",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "M",
+          "word": "Magnolia",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Cinnamon",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Cinnamon",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Cinnamon",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Cinnamon",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cinnamon",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Cinnamon",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersFragrantFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Fragrant Flowers - Part 2",
+          videoId: "flowers-fragrant-flowers-2",
+          bgGradient: ["#00796B","#80CBC4"] as [string, string],
+          accentColor: "#00695C",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rajnigandha",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Champa",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "K",
+          "word": "Kaner",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Palash",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "G",
+          "word": "Gulmohar",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Aparajita",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "N",
+          "word": "Night Blooming Jasmine",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "D",
+          "word": "Datura",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cestrum",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcostemma",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcococca",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcostemma",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcostemma",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcostemma",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcococca",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcococca",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcococca",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcococca",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcostemma",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcococca",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcostemma",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sarcopoterium",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersFragrantFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Fragrant Flowers - Part 3",
+          videoId: "flowers-fragrant-flowers-3",
+          bgGradient: ["#00695C","#4DB6AC"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "J",
+          "word": "Jasmine Sambac",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Jasmine Grandiflorum",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Arabian Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Carolina Jasmine",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersRareFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Rare Flowers - Part 1",
+          videoId: "flowers-rare-flowers-1",
+          bgGradient: ["#1565C0","#BBDEFB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "M",
+          "word": "Midnight Orchid",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "G",
+          "word": "Ghost Orchid",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey Face Orchid",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Duck Orchid",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "N",
+          "word": "Naked Mans Orchid",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "B",
+          "word": "Bee Orchid",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Bleeding Heart Flower",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "H",
+          "word": "Hanging Parrot Flower",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Beehive Ginger",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Hummingbird Flower",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Cannonball Flower",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Pigeon Orchid",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Swaddled Babies",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Psychotria elata",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Parrot Flower",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "F",
+          "word": "Flower of Paradise",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Orchid",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Superb Lily",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "T",
+          "word": "Tacca",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Hydnora",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "D",
+          "word": "Dracunculus",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "R",
+          "word": "Rafflesia",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Amorphophallus",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Calceolaria",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Paphiopedilum",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Z",
+          "word": "Zygopetalum",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Prosthechea",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Anguloa",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cirrhosepalum",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Cochlioda",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersRareFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Rare Flowers - Part 2",
+          videoId: "flowers-rare-flowers-2",
+          bgGradient: ["#1976D2","#90CAF9"] as [string, string],
+          accentColor: "#1565C0",
+          letters: [
+          {
+          "letter": "I",
+          "word": "Impatiens psittacina",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "D",
+          "word": "Dracula simia",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "O",
+          "word": "Ophrys apifera",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Caleana major",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "O",
+          "word": "Orchis italica",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "E",
+          "word": "Epimedium",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "T",
+          "word": "Tancetum",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora alata",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora vitifolia",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora tarminiana",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora antioquiensis",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora cincinnata",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Passiflora edulis",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersRareFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Rare Flowers - Part 3",
+          videoId: "flowers-rare-flowers-3",
+          bgGradient: ["#1E88E5","#64B5F6"] as [string, string],
+          accentColor: "#1976D2",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Angraecum sesquipedale",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Phragmipedium",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Cattleya",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Laelia",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "O",
+          "word": "Odontoglossum",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "O",
+          "word": "Oncidium",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Paphiopedilum",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Phalaenopsis",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "V",
+          "word": "Vanda",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "Z",
+          "word": "Zygopetalum",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Acineta",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Aerangis",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Aerides",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Aerochilus",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Aeonia",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Aesculus",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Aethionema",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Aethusia",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Ageratina",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Ageratum",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Aglaodendron",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Aglaomorpha",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Aglaonema",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Aglenum",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Agonis",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "A",
+          "word": "Agrimonia",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "A",
+          "word": "Agropyron",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Agrostemma",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "A",
+          "word": "Agrostis",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Aichryson",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersJapaneseFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Japanese Flowers - Part 1",
+          videoId: "flowers-japanese-flowers-1",
+          bgGradient: ["#D32F2F","#FFCDD2"] as [string, string],
+          accentColor: "#B71C1C",
+          letters: [
+          {
+          "letter": "S",
+          "word": "Sakura",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "U",
+          "word": "Ume",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Azalea",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Peony",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Chrysanthemum",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Camellia",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "D",
+          "word": "Daphne",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Pieris",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "Wisteria",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Plum Blossom",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "A",
+          "word": "Apricot Blossom",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "C",
+          "word": "Cherry Blossom",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Peach Blossom",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "M",
+          "word": "Magnolia",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "F",
+          "word": "Forsythia",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Crabapple",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "D",
+          "word": "Dogwood",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Hawthorn",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lily",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "H",
+          "word": "Hydrangea",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Bellflower",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Morning Glory",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pampas Grass",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "C",
+          "word": "Chinese Elm",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Conifers",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "D",
+          "word": "Deciduous Trees",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "E",
+          "word": "Evergreen Trees",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersJapaneseFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Japanese Flowers - Part 2",
+          videoId: "flowers-japanese-flowers-2",
+          bgGradient: ["#E53935","#EF9A9A"] as [string, string],
+          accentColor: "#C62828",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Chrysanthemum",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "I",
+          "word": "Iris",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Peony",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "Azalea",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Camellia",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "D",
+          "word": "Daphne",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "M",
+          "word": "Magnolia",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "W",
+          "word": "Wisteria",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "F",
+          "word": "Forsythia",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "U",
+          "word": "Ume",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sakura",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "C",
+          "word": "Crabapple",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "D",
+          "word": "Dogwood",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "H",
+          "word": "Hawthorn",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lily",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "H",
+          "word": "Hydrangea",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Bellflower",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Morning Glory",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pampas Grass",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Bamboo",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "B",
+          "word": "Bonsai",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "M",
+          "word": "Moss",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Stone Lantern",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Stepping Stones",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "W",
+          "word": "Water Feature",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Bridge",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "G",
+          "word": "Garden Path",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Garden",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersJapaneseFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Japanese Flowers - Part 3",
+          videoId: "flowers-japanese-flowers-3",
+          bgGradient: ["#F44336","#FFEBEE"] as [string, string],
+          accentColor: "#D32F2F",
+          letters: [
+          {
+          "letter": "J",
+          "word": "Japanese Iris",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Peony",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Chrysanthemum",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Azalea",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Lotus",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Maple",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Garden Plum",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Crabapple",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Hawthorn",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Holly",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Barberry",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Privet",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Pieris",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Photinia",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Euronymus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Spindle Tree",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Bush Clover",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Andromeda",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Aralia",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Aucuba",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Beautyberry",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Blueberry",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Boxthorn",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Bramble",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Broomcorn",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Cedar",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Cherry",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Cheesewood",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Cinquefoil",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Clethra",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersColorfulFlowers1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Colorful Flowers - Part 1",
+          videoId: "flowers-colorful-flowers-1",
+          bgGradient: ["#FF6F00","#FFE0B2"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red Rose",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Marigold",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Sunflower",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "G",
+          "word": "Green Shamrock",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Iris",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Purple Orchid",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Pink Peony",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "W",
+          "word": "White Lily",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "R",
+          "word": "Red Hibiscus",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Calendula",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Dahlia",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "G",
+          "word": "Green Chrysanthemum",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Cornflower",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "P",
+          "word": "Purple Aster",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Pink Begonia",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "W",
+          "word": "White Camellia",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "R",
+          "word": "Red Poinsettia",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Gerbera",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Daffodil",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "G",
+          "word": "Green Hydrangea",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Delphinium",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Purple Liatris",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "P",
+          "word": "Pink Cosmos",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "W",
+          "word": "White Calla",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "R",
+          "word": "Red Poppy",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Zinnia",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Yarrow",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "G",
+          "word": "Green Celosia",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Veronica",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Purple Statice",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersColorfulFlowers2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Colorful Flowers - Part 2",
+          videoId: "flowers-colorful-flowers-2",
+          bgGradient: ["#FF8F00","#FFF3E0"] as [string, string],
+          accentColor: "#FF6F00",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rainbow Rose",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Pansy",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Petunia",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Carnation",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Lily",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Orchid",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Dahlia",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Tulip",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Gerbera",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Bougainvillea",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Begonia",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Dianthus",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Rose",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Primrose",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Caladium",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Daisy",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Sunflower",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Zinnia",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Coleus",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Poppy",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Iris",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Cosmos",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Impatiens",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Aster",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Ranunculus",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Geranium",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "V",
+          "word": "Variegated Salvia",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Chrysanthemum",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "B",
+          "word": "Bicolor Freesia",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Multicolor Thistle",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="FlowersColorfulFlowers3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Colorful Flowers - Part 3",
+          videoId: "flowers-colorful-flowers-3",
+          bgGradient: ["#FFA000","#FFECB3"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "G",
+          "word": "Golden Rose",
+          "emoji": "🌹",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Peony",
+          "emoji": "🌷",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "T",
+          "word": "Tropical Paradise",
+          "emoji": "🌸",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Gradient",
+          "emoji": "🌺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Hibiscus",
+          "emoji": "🌻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Bougainvillea",
+          "emoji": "🌼",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Lantana",
+          "emoji": "💐",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Coneflower",
+          "emoji": "🪻",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🪷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🏵️",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "💮",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌾",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌹",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌷",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌺",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌻",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌼",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "💐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🪻",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🪷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🏵️",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "💮",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌾",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌹",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌸",
+          "bgColor": "#FF4081"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌺",
+          "bgColor": "#673AB7"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌻",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Heuchera",
+          "emoji": "🌼",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+    </>
+  );
+};

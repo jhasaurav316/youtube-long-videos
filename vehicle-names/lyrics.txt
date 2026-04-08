@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: VEHICLE NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. City Vehicles - Part 1 (vehicles-city-vehicles-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-city-vehicles-1-audio/
+
+Letter 0: C for Car
+Letter 1: B for Bus
+Letter 2: A for Auto Rickshaw
+Letter 3: T for Taxi
+Letter 4: M for Motorcycle
+Letter 5: S for Scooter
+Letter 6: R for Rickshaw
+Letter 7: B for Bicycle
+Letter 8: V for Van
+Letter 9: T for Truck
+Letter 10: J for Jeep
+Letter 11: H for Hatchback
+Letter 12: S for SUV
+Letter 13: P for Police Car
+Letter 14: L for Limousine
+Letter 15: E for Electric Car
+Letter 16: M for Metro
+Letter 17: T for Tram
+Letter 18: C for Cycle Rickshaw
+Letter 19: D for Delivery Van
+Letter 20: W for Wagon
+Letter 21: K for Kart
+Letter 22: N for Nano Car
+Letter 23: O for Omni Bus
+Letter 24: F for Four Wheeler
+Letter 25: G for Golf Cart
+Letter 26: I for Ice Cream Truck
+Letter 27: U for Uber Car
+Letter 28: X for XUV Car
+Letter 29: Z for Zip Car
+
+PLAIN TEXT:
+C for Car
+B for Bus
+A for Auto Rickshaw
+T for Taxi
+M for Motorcycle
+S for Scooter
+R for Rickshaw
+B for Bicycle
+V for Van
+T for Truck
+J for Jeep
+H for Hatchback
+S for SUV
+P for Police Car
+L for Limousine
+E for Electric Car
+M for Metro
+T for Tram
+C for Cycle Rickshaw
+D for Delivery Van
+W for Wagon
+K for Kart
+N for Nano Car
+O for Omni Bus
+F for Four Wheeler
+G for Golf Cart
+I for Ice Cream Truck
+U for Uber Car
+X for XUV Car
+Z for Zip Car
+
+
+----------------------------------------------------------------------
+#2. City Vehicles - Part 2 (vehicles-city-vehicles-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-city-vehicles-2-audio/
+
+Letter 0: T for Tempo
+Letter 1: M for Minibus
+Letter 2: A for Ambulance
+Letter 3: F for Fire Truck
+Letter 4: P for Pickup Truck
+Letter 5: C for Cab
+Letter 6: S for School Bus
+Letter 7: D for Double Decker
+Letter 8: R for Road Roller
+Letter 9: B for Bulldozer
+Letter 10: H for Hearse
+Letter 11: L for Loader
+Letter 12: G for Garbage Truck
+Letter 13: W for Water Tanker
+Letter 14: K for Kenworth Truck
+Letter 15: N for Night Bus
+Letter 16: O for Oil Tanker
+Letter 17: E for Express Bus
+Letter 18: I for Indian Bus
+Letter 19: J for Jonga
+Letter 20: U for Utility Vehicle
+Letter 21: V for Volvo Bus
+Letter 22: X for Xylo SUV
+Letter 23: Y for Yellow Cab
+Letter 24: Z for Zero Turn Mower
+Letter 25: Q for Quad Bike
+Letter 26: T for Tata Truck
+Letter 27: M for Mail Van
+Letter 28: S for Sleeper Bus
+Letter 29: C for Container Truck
+
+PLAIN TEXT:
+T for Tempo
+M for Minibus
+A for Ambulance
+F for Fire Truck
+P for Pickup Truck
+C for Cab
+S for School Bus
+D for Double Decker
+R for Road Roller
+B for Bulldozer
+H for Hearse
+L for Loader
+G for Garbage Truck
+W for Water Tanker
+K for Kenworth Truck
+N for Night Bus
+O for Oil Tanker
+E for Express Bus
+I for Indian Bus
+J for Jonga
+U for Utility Vehicle
+V for Volvo Bus
+X for Xylo SUV
+Y for Yellow Cab
+Z for Zero Turn Mower
+Q for Quad Bike
+T for Tata Truck
+M for Mail Van
+S for Sleeper Bus
+C for Container Truck
+
+
+----------------------------------------------------------------------
+#3. City Vehicles - Part 3 (vehicles-city-vehicles-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-city-vehicles-3-audio/
+
+Letter 0: E for E-Rickshaw
+Letter 1: T for Tuk Tuk
+Letter 2: S for Smart Car
+Letter 3: H for Hybrid Car
+Letter 4: C for Convertible
+Letter 5: M for MUV
+Letter 6: P for Pedicab
+Letter 7: B for Bike
+Letter 8: A for Airport Shuttle
+Letter 9: D for Diesel Bus
+Letter 10: R for Royal Enfield
+Letter 11: L for Luna Moped
+Letter 12: G for Goods Carrier
+Letter 13: W for Winger Van
+Letter 14: K for Kinetic Scooter
+Letter 15: N for Night Rider
+Letter 16: O for Open Top Bus
+Letter 17: F for Food Truck
+Letter 18: I for Innova Car
+Letter 19: J for Jugaad Vehicle
+Letter 20: U for Urban Bus
+Letter 21: V for Vintage Car
+Letter 22: X for Xpulse Bike
+Letter 23: Y for Yamaha Bike
+Letter 24: Z for Zen Car
+Letter 25: Q for Quick Ride
+Letter 26: T for Three Wheeler
+Letter 27: S for State Bus
+Letter 28: B for Bolero
+Letter 29: C for Creta SUV
+
+PLAIN TEXT:
+E for E-Rickshaw
+T for Tuk Tuk
+S for Smart Car
+H for Hybrid Car
+C for Convertible
+M for MUV
+P for Pedicab
+B for Bike
+A for Airport Shuttle
+D for Diesel Bus
+R for Royal Enfield
+L for Luna Moped
+G for Goods Carrier
+W for Winger Van
+K for Kinetic Scooter
+N for Night Rider
+O for Open Top Bus
+F for Food Truck
+I for Innova Car
+J for Jugaad Vehicle
+U for Urban Bus
+V for Vintage Car
+X for Xpulse Bike
+Y for Yamaha Bike
+Z for Zen Car
+Q for Quick Ride
+T for Three Wheeler
+S for State Bus
+B for Bolero
+C for Creta SUV
+
+
+----------------------------------------------------------------------
+#4. Emergency Vehicles - Part 1 (vehicles-emergency-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-emergency-1-audio/
+
+Letter 0: A for Ambulance
+Letter 1: F for Fire Engine
+Letter 2: P for Police Car
+Letter 3: R for Rescue Van
+Letter 4: H for Helicopter
+Letter 5: C for Coast Guard
+Letter 6: T for Tow Truck
+Letter 7: M for Medical Van
+Letter 8: S for Siren Car
+Letter 9: D for Disaster Relief
+Letter 10: E for Emergency Van
+Letter 11: B for Blood Bank Van
+Letter 12: L for Ladder Truck
+Letter 13: W for Water Rescue
+Letter 14: N for NDRF Vehicle
+Letter 15: G for Gas Leak Unit
+Letter 16: K for K9 Unit
+Letter 17: I for ICU Ambulance
+Letter 18: O for Off Road Rescue
+Letter 19: J for Jet Ski Rescue
+Letter 20: U for Utility Rescue
+Letter 21: V for Volunteer Van
+Letter 22: X for X-Ray Mobile
+Letter 23: Y for Yellow Alert Van
+Letter 24: Z for Zone Patrol
+Letter 25: Q for Quick Response
+Letter 26: F for First Aid Car
+Letter 27: A for Air Ambulance
+Letter 28: P for Paramedic Bike
+Letter 29: S for SWAT Van
+
+PLAIN TEXT:
+A for Ambulance
+F for Fire Engine
+P for Police Car
+R for Rescue Van
+H for Helicopter
+C for Coast Guard
+T for Tow Truck
+M for Medical Van
+S for Siren Car
+D for Disaster Relief
+E for Emergency Van
+B for Blood Bank Van
+L for Ladder Truck
+W for Water Rescue
+N for NDRF Vehicle
+G for Gas Leak Unit
+K for K9 Unit
+I for ICU Ambulance
+O for Off Road Rescue
+J for Jet Ski Rescue
+U for Utility Rescue
+V for Volunteer Van
+X for X-Ray Mobile
+Y for Yellow Alert Van
+Z for Zone Patrol
+Q for Quick Response
+F for First Aid Car
+A for Air Ambulance
+P for Paramedic Bike
+S for SWAT Van
+
+
+----------------------------------------------------------------------
+#5. Emergency Vehicles - Part 2 (vehicles-emergency-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-emergency-2-audio/
+
+Letter 0: F for Fire Truck
+Letter 1: S for Search Rescue
+Letter 2: M for Mountain Rescue
+Letter 3: C for Crash Tender
+Letter 4: P for Patrol Boat
+Letter 5: R for Recovery Vehicle
+Letter 6: D for Decontamination
+Letter 7: T for Trauma Unit
+Letter 8: A for Aerial Ladder
+Letter 9: B for Bomb Squad
+Letter 10: H for Hazmat Truck
+Letter 11: E for EMS Vehicle
+Letter 12: L for Life Guard
+Letter 13: W for Wildfire Truck
+Letter 14: N for Navy Rescue
+Letter 15: G for Ground Ambulance
+Letter 16: K for K9 Patrol
+Letter 17: I for Incident Command
+Letter 18: O for Oxygen Supply
+Letter 19: J for Jaws of Life
+Letter 20: U for Urban Search
+Letter 21: V for Ventilation Unit
+Letter 22: X for X-Country Rescue
+Letter 23: Y for Yellow Fire
+Letter 24: Z for Zone Emergency
+Letter 25: Q for Quint Fire
+Letter 26: S for Snorkel Truck
+Letter 27: M for Mobile Hospital
+Letter 28: T for Technical Rescue
+Letter 29: F for Foam Tender
+
+PLAIN TEXT:
+F for Fire Truck
+S for Search Rescue
+M for Mountain Rescue
+C for Crash Tender
+P for Patrol Boat
+R for Recovery Vehicle
+D for Decontamination
+T for Trauma Unit
+A for Aerial Ladder
+B for Bomb Squad
+H for Hazmat Truck
+E for EMS Vehicle
+L for Life Guard
+W for Wildfire Truck
+N for Navy Rescue
+G for Ground Ambulance
+K for K9 Patrol
+I for Incident Command
+O for Oxygen Supply
+J for Jaws of Life
+U for Urban Search
+V for Ventilation Unit
+X for X-Country Rescue
+Y for Yellow Fire
+Z for Zone Emergency
+Q for Quint Fire
+S for Snorkel Truck
+M for Mobile Hospital
+T for Technical Rescue
+F for Foam Tender
+
+
+----------------------------------------------------------------------
+#6. Emergency Vehicles - Part 3 (vehicles-emergency-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-emergency-3-audio/
+
+Letter 0: A for Army Truck
+Letter 1: B for Battle Tank
+Letter 2: R for Riot Control
+Letter 3: P for Police Van
+Letter 4: S for Siren Vehicle
+Letter 5: T for Traffic Police
+Letter 6: C for Commando Car
+Letter 7: H for Highway Patrol
+Letter 8: D for Detective Car
+Letter 9: M for Military Jeep
+Letter 10: F for Force One
+Letter 11: G for Guard Van
+Letter 12: E for Escort Vehicle
+Letter 13: L for Law Vehicle
+Letter 14: N for Navy Car
+Letter 15: W for War Vehicle
+Letter 16: K for K9 Van
+Letter 17: I for Intel Vehicle
+Letter 18: O for Operations Van
+Letter 19: J for Jawan Transport
+Letter 20: U for Undercover Car
+Letter 21: V for VIP Escort
+Letter 22: X for X-Special Force
+Letter 23: Y for Yellow Beacon
+Letter 24: Z for Zero Dark Car
+Letter 25: Q for Quick Patrol
+Letter 26: T for Tank Carrier
+Letter 27: B for BSF Vehicle
+Letter 28: S for Security Van
+Letter 29: M for Marine Vehicle
+
+PLAIN TEXT:
+A for Army Truck
+B for Battle Tank
+R for Riot Control
+P for Police Van
+S for Siren Vehicle
+T for Traffic Police
+C for Commando Car
+H for Highway Patrol
+D for Detective Car
+M for Military Jeep
+F for Force One
+G for Guard Van
+E for Escort Vehicle
+L for Law Vehicle
+N for Navy Car
+W for War Vehicle
+K for K9 Van
+I for Intel Vehicle
+O for Operations Van
+J for Jawan Transport
+U for Undercover Car
+V for VIP Escort
+X for X-Special Force
+Y for Yellow Beacon
+Z for Zero Dark Car
+Q for Quick Patrol
+T for Tank Carrier
+B for BSF Vehicle
+S for Security Van
+M for Marine Vehicle
+
+
+----------------------------------------------------------------------
+#7. Construction Vehicles - Part 1 (vehicles-construction-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-construction-1-audio/
+
+Letter 0: C for Crane
+Letter 1: B for Bulldozer
+Letter 2: E for Excavator
+Letter 3: D for Dump Truck
+Letter 4: L for Loader
+Letter 5: R for Road Roller
+Letter 6: M for Mixer Truck
+Letter 7: F for Forklift
+Letter 8: P for Paver
+Letter 9: G for Grader
+Letter 10: T for Tower Crane
+Letter 11: S for Scraper
+Letter 12: H for Hammer Crane
+Letter 13: W for Wheel Loader
+Letter 14: K for Knuckle Boom
+Letter 15: A for Asphalt Paver
+Letter 16: N for New Holland
+Letter 17: J for JCB
+Letter 18: O for Overhead Crane
+Letter 19: I for Industrial Truck
+Letter 20: U for Utility Crane
+Letter 21: V for Vibro Roller
+Letter 22: X for XL Excavator
+Letter 23: Y for Yellow Crane
+Letter 24: Z for Zoom Boom
+Letter 25: Q for Quarry Truck
+Letter 26: C for Compactor
+Letter 27: B for Backhoe
+Letter 28: D for Digger
+Letter 29: T for Tractor
+
+PLAIN TEXT:
+C for Crane
+B for Bulldozer
+E for Excavator
+D for Dump Truck
+L for Loader
+R for Road Roller
+M for Mixer Truck
+F for Forklift
+P for Paver
+G for Grader
+T for Tower Crane
+S for Scraper
+H for Hammer Crane
+W for Wheel Loader
+K for Knuckle Boom
+A for Asphalt Paver
+N for New Holland
+J for JCB
+O for Overhead Crane
+I for Industrial Truck
+U for Utility Crane
+V for Vibro Roller
+X for XL Excavator
+Y for Yellow Crane
+Z for Zoom Boom
+Q for Quarry Truck
+C for Compactor
+B for Backhoe
+D for Digger
+T for Tractor
+
+
+----------------------------------------------------------------------
+#8. Construction Vehicles - Part 2 (vehicles-construction-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-construction-2-audio/
+
+Letter 0: T for Tractor
+Letter 1: P for Pile Driver
+Letter 2: C for Concrete Pump
+Letter 3: S for Skid Steer
+Letter 4: M for Mini Excavator
+Letter 5: B for Boom Lift
+Letter 6: D for Dragline
+Letter 7: A for Articulated Truck
+Letter 8: R for Rigid Dump
+Letter 9: L for Log Loader
+Letter 10: G for Gantry Crane
+Letter 11: H for Hydraulic Crane
+Letter 12: F for Flat Bed Truck
+Letter 13: W for Winch Truck
+Letter 14: N for Narrow Gauge
+Letter 15: K for Kato Crane
+Letter 16: E for Earth Mover
+Letter 17: J for JCB Mini
+Letter 18: O for Off Highway
+Letter 19: I for Industrial Crane
+Letter 20: U for Underground Loader
+Letter 21: V for Vibratory Hammer
+Letter 22: X for XL Crane
+Letter 23: Y for Yard Crane
+Letter 24: Z for Zero Tail Excavator
+Letter 25: Q for Quarry Loader
+Letter 26: T for Telescopic Handler
+Letter 27: S for Screener
+Letter 28: C for Crawler Crane
+Letter 29: B for Breaker
+
+PLAIN TEXT:
+T for Tractor
+P for Pile Driver
+C for Concrete Pump
+S for Skid Steer
+M for Mini Excavator
+B for Boom Lift
+D for Dragline
+A for Articulated Truck
+R for Rigid Dump
+L for Log Loader
+G for Gantry Crane
+H for Hydraulic Crane
+F for Flat Bed Truck
+W for Winch Truck
+N for Narrow Gauge
+K for Kato Crane
+E for Earth Mover
+J for JCB Mini
+O for Off Highway
+I for Industrial Crane
+U for Underground Loader
+V for Vibratory Hammer
+X for XL Crane
+Y for Yard Crane
+Z for Zero Tail Excavator
+Q for Quarry Loader
+T for Telescopic Handler
+S for Screener
+C for Crawler Crane
+B for Breaker
+
+
+----------------------------------------------------------------------
+#9. Construction Vehicles - Part 3 (vehicles-construction-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-construction-3-audio/
+
+Letter 0: W for Wrecking Ball
+Letter 1: C for Compressor
+Letter 2: T for Trencher
+Letter 3: P for Platform Lift
+Letter 4: S for Scissor Lift
+Letter 5: M for Mobile Crane
+Letter 6: B for Boring Machine
+Letter 7: D for Dredger
+Letter 8: A for Aerial Work
+Letter 9: R for Rock Breaker
+Letter 10: L for Lift Crane
+Letter 11: G for Generator Truck
+Letter 12: H for Hot Mix Plant
+Letter 13: F for Fuel Tanker
+Letter 14: K for Kobelco
+Letter 15: N for New Excavator
+Letter 16: E for Elevator Crane
+Letter 17: J for Jib Crane
+Letter 18: O for Off Road Truck
+Letter 19: I for Impact Hammer
+Letter 20: U for Ultra Crane
+Letter 21: V for Vacuum Truck
+Letter 22: X for XL Loader
+Letter 23: Y for Yellow Digger
+Letter 24: Z for Zoomlion Crane
+Letter 25: Q for Quick Lift
+Letter 26: T for Tower Hoist
+Letter 27: S for Stone Crusher
+Letter 28: C for Cable Crane
+Letter 29: M for Mixer Plant
+
+PLAIN TEXT:
+W for Wrecking Ball
+C for Compressor
+T for Trencher
+P for Platform Lift
+S for Scissor Lift
+M for Mobile Crane
+B for Boring Machine
+D for Dredger
+A for Aerial Work
+R for Rock Breaker
+L for Lift Crane
+G for Generator Truck
+H for Hot Mix Plant
+F for Fuel Tanker
+K for Kobelco
+N for New Excavator
+E for Elevator Crane
+J for Jib Crane
+O for Off Road Truck
+I for Impact Hammer
+U for Ultra Crane
+V for Vacuum Truck
+X for XL Loader
+Y for Yellow Digger
+Z for Zoomlion Crane
+Q for Quick Lift
+T for Tower Hoist
+S for Stone Crusher
+C for Cable Crane
+M for Mixer Plant
+
+
+----------------------------------------------------------------------
+#10. Military Vehicles - Part 1 (vehicles-military-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-military-1-audio/
+
+Letter 0: T for Tank
+Letter 1: J for Jet Fighter
+Letter 2: H for Helicopter
+Letter 3: S for Submarine
+Letter 4: A for Aircraft Carrier
+Letter 5: B for Battleship
+Letter 6: C for Cruiser
+Letter 7: D for Destroyer
+Letter 8: F for Fighter Jet
+Letter 9: G for Gunship
+Letter 10: K for Kayak Military
+Letter 11: L for Landing Craft
+Letter 12: M for Missile Truck
+Letter 13: N for Navy Ship
+Letter 14: O for Operations Vehicle
+Letter 15: P for Patrol Vehicle
+Letter 16: R for Radar Vehicle
+Letter 17: W for Warship
+Letter 18: E for Engineering Vehicle
+Letter 19: I for Infantry Vehicle
+Letter 20: U for Unmanned Drone
+Letter 21: V for Victory Ship
+Letter 22: X for Xpedition Vehicle
+Letter 23: Y for Yak Fighter
+Letter 24: Z for Zeppelin
+Letter 25: Q for Quick Strike
+Letter 26: T for Transport Plane
+Letter 27: S for Stealth Bomber
+Letter 28: A for Armored Car
+Letter 29: B for Bomber
+
+PLAIN TEXT:
+T for Tank
+J for Jet Fighter
+H for Helicopter
+S for Submarine
+A for Aircraft Carrier
+B for Battleship
+C for Cruiser
+D for Destroyer
+F for Fighter Jet
+G for Gunship
+K for Kayak Military
+L for Landing Craft
+M for Missile Truck
+N for Navy Ship
+O for Operations Vehicle
+P for Patrol Vehicle
+R for Radar Vehicle
+W for Warship
+E for Engineering Vehicle
+I for Infantry Vehicle
+U for Unmanned Drone
+V for Victory Ship
+X for Xpedition Vehicle
+Y for Yak Fighter
+Z for Zeppelin
+Q for Quick Strike
+T for Transport Plane
+S for Stealth Bomber
+A for Armored Car
+B for Bomber
+
+
+----------------------------------------------------------------------
+#11. Military Vehicles - Part 2 (vehicles-military-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-military-2-audio/
+
+Letter 0: A for APC
+Letter 1: B for Binoculars Van
+Letter 2: C for Convoy Truck
+Letter 3: D for Drone
+Letter 4: E for Electronic War
+Letter 5: F for Frigate
+Letter 6: G for Gunboat
+Letter 7: H for Humvee
+Letter 8: I for Intelligence Van
+Letter 9: J for Jeep Military
+Letter 10: K for Kamov Helicopter
+Letter 11: L for Light Tank
+Letter 12: M for Mine Sweeper
+Letter 13: N for Nuclear Sub
+Letter 14: O for Osprey
+Letter 15: P for Patrol Boat
+Letter 16: R for Reconnaissance
+Letter 17: S for Spy Plane
+Letter 18: T for Torpedo Boat
+Letter 19: U for Utility Helo
+Letter 20: V for VTOL Craft
+Letter 21: W for Warplane
+Letter 22: X for Xperimental Craft
+Letter 23: Y for Yak Transport
+Letter 24: Z for Zodiac Boat
+Letter 25: Q for Quick Response Craft
+Letter 26: S for Supply Ship
+Letter 27: A for Assault Boat
+Letter 28: B for Battle Cruiser
+Letter 29: C for Cargo Plane
+
+PLAIN TEXT:
+A for APC
+B for Binoculars Van
+C for Convoy Truck
+D for Drone
+E for Electronic War
+F for Frigate
+G for Gunboat
+H for Humvee
+I for Intelligence Van
+J for Jeep Military
+K for Kamov Helicopter
+L for Light Tank
+M for Mine Sweeper
+N for Nuclear Sub
+O for Osprey
+P for Patrol Boat
+R for Reconnaissance
+S for Spy Plane
+T for Torpedo Boat
+U for Utility Helo
+V for VTOL Craft
+W for Warplane
+X for Xperimental Craft
+Y for Yak Transport
+Z for Zodiac Boat
+Q for Quick Response Craft
+S for Supply Ship
+A for Assault Boat
+B for Battle Cruiser
+C for Cargo Plane
+
+
+----------------------------------------------------------------------
+#12. Military Vehicles - Part 3 (vehicles-military-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-military-3-audio/
+
+Letter 0: H for Helicopter Gunship
+Letter 1: T for Troop Carrier
+Letter 2: M for Mortar Vehicle
+Letter 3: S for Scout Vehicle
+Letter 4: P for Patrol Craft
+Letter 5: A for Anti Aircraft
+Letter 6: B for Bridge Layer
+Letter 7: C for Command Vehicle
+Letter 8: D for Defense Drone
+Letter 9: F for Flag Ship
+Letter 10: G for Guard Ship
+Letter 11: I for Infantry Tank
+Letter 12: J for Joint Strike
+Letter 13: K for Kavach Vehicle
+Letter 14: L for Landing Ship
+Letter 15: N for Naval Craft
+Letter 16: O for Observer Plane
+Letter 17: R for Rocket Launcher
+Letter 18: W for War Truck
+Letter 19: E for Ejector Seat
+Letter 20: U for UAV Drone
+Letter 21: V for Victory Tank
+Letter 22: X for Xplorer Craft
+Letter 23: Y for Yellow Sub
+Letter 24: Z for Zero Fighter
+Letter 25: Q for Quick Deploy
+Letter 26: T for Tiger Helo
+Letter 27: S for Seabee Vehicle
+Letter 28: M for Mobile Launcher
+Letter 29: P for Penguin Ship
+
+PLAIN TEXT:
+H for Helicopter Gunship
+T for Troop Carrier
+M for Mortar Vehicle
+S for Scout Vehicle
+P for Patrol Craft
+A for Anti Aircraft
+B for Bridge Layer
+C for Command Vehicle
+D for Defense Drone
+F for Flag Ship
+G for Guard Ship
+I for Infantry Tank
+J for Joint Strike
+K for Kavach Vehicle
+L for Landing Ship
+N for Naval Craft
+O for Observer Plane
+R for Rocket Launcher
+W for War Truck
+E for Ejector Seat
+U for UAV Drone
+V for Victory Tank
+X for Xplorer Craft
+Y for Yellow Sub
+Z for Zero Fighter
+Q for Quick Deploy
+T for Tiger Helo
+S for Seabee Vehicle
+M for Mobile Launcher
+P for Penguin Ship
+
+
+----------------------------------------------------------------------
+#13. Water Vehicles - Part 1 (vehicles-water-vehicles-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-water-vehicles-1-audio/
+
+Letter 0: S for Ship
+Letter 1: B for Boat
+Letter 2: Y for Yacht
+Letter 3: F for Ferry
+Letter 4: C for Canoe
+Letter 5: K for Kayak
+Letter 6: S for Speedboat
+Letter 7: H for Houseboat
+Letter 8: J for Jet Ski
+Letter 9: T for Tugboat
+Letter 10: S for Sailboat
+Letter 11: C for Catamaran
+Letter 12: D for Dhow
+Letter 13: G for Gondola
+Letter 14: L for Lifeboat
+Letter 15: M for Motor Boat
+Letter 16: N for Narrow Boat
+Letter 17: P for Pontoon
+Letter 18: R for Raft
+Letter 19: W for Watercraft
+Letter 20: A for Anchor Ship
+Letter 21: O for Ocean Liner
+Letter 22: E for Express Boat
+Letter 23: I for Indian Boat
+Letter 24: U for Utility Boat
+Letter 25: V for Vessel
+Letter 26: X for Xebec
+Letter 27: Z for Zodiac
+Letter 28: Q for Queen Ship
+Letter 29: T for Trawler
+
+PLAIN TEXT:
+S for Ship
+B for Boat
+Y for Yacht
+F for Ferry
+C for Canoe
+K for Kayak
+S for Speedboat
+H for Houseboat
+J for Jet Ski
+T for Tugboat
+S for Sailboat
+C for Catamaran
+D for Dhow
+G for Gondola
+L for Lifeboat
+M for Motor Boat
+N for Narrow Boat
+P for Pontoon
+R for Raft
+W for Watercraft
+A for Anchor Ship
+O for Ocean Liner
+E for Express Boat
+I for Indian Boat
+U for Utility Boat
+V for Vessel
+X for Xebec
+Z for Zodiac
+Q for Queen Ship
+T for Trawler
+
+
+----------------------------------------------------------------------
+#14. Water Vehicles - Part 2 (vehicles-water-vehicles-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-water-vehicles-2-audio/
+
+Letter 0: C for Cruise Ship
+Letter 1: S for Submarine
+Letter 2: A for Aircraft Carrier
+Letter 3: B for Barge
+Letter 4: D for Dinghy
+Letter 5: F for Fishing Boat
+Letter 6: G for Galleon
+Letter 7: H for Hydrofoil
+Letter 8: I for Inflatable Boat
+Letter 9: J for Junk Boat
+Letter 10: K for Ketch
+Letter 11: L for Landing Craft
+Letter 12: M for Merchant Ship
+Letter 13: N for Naval Ship
+Letter 14: O for Oil Tanker
+Letter 15: P for Paddle Boat
+Letter 16: R for Row Boat
+Letter 17: T for Tanker
+Letter 18: W for War Ship
+Letter 19: E for Express Ferry
+Letter 20: U for U-Boat
+Letter 21: V for Viking Ship
+Letter 22: X for Xpress Boat
+Letter 23: Y for Yawl
+Letter 24: Z for Zulu Canoe
+Letter 25: Q for Quarter Ship
+Letter 26: S for Steam Ship
+Letter 27: C for Container Ship
+Letter 28: B for Battleship
+Letter 29: F for Frigate
+
+PLAIN TEXT:
+C for Cruise Ship
+S for Submarine
+A for Aircraft Carrier
+B for Barge
+D for Dinghy
+F for Fishing Boat
+G for Galleon
+H for Hydrofoil
+I for Inflatable Boat
+J for Junk Boat
+K for Ketch
+L for Landing Craft
+M for Merchant Ship
+N for Naval Ship
+O for Oil Tanker
+P for Paddle Boat
+R for Row Boat
+T for Tanker
+W for War Ship
+E for Express Ferry
+U for U-Boat
+V for Viking Ship
+X for Xpress Boat
+Y for Yawl
+Z for Zulu Canoe
+Q for Quarter Ship
+S for Steam Ship
+C for Container Ship
+B for Battleship
+F for Frigate
+
+
+----------------------------------------------------------------------
+#15. Water Vehicles - Part 3 (vehicles-water-vehicles-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-water-vehicles-3-audio/
+
+Letter 0: P for Pirate Ship
+Letter 1: S for Schooner
+Letter 2: C for Clipper Ship
+Letter 3: T for Trimaran
+Letter 4: M for Motor Yacht
+Letter 5: A for Amphibious Vehicle
+Letter 6: B for Bumboat
+Letter 7: D for Dragon Boat
+Letter 8: F for Flying Boat
+Letter 9: G for Glass Bottom
+Letter 10: H for Hovecraft
+Letter 11: I for Indian Shikara
+Letter 12: J for Jangada
+Letter 13: K for Kite Boat
+Letter 14: L for Log Boat
+Letter 15: N for Nautical Vessel
+Letter 16: O for Outrigger
+Letter 17: R for River Boat
+Letter 18: W for Water Taxi
+Letter 19: E for Electric Boat
+Letter 20: U for Underwater Vessel
+Letter 21: V for Vaporetto
+Letter 22: X for Xebec Sailing
+Letter 23: Y for Yacht Racing
+Letter 24: Z for Zebec
+Letter 25: Q for Queen Mary
+Letter 26: S for Swan Boat
+Letter 27: T for Torpedo Boat
+Letter 28: C for Cargo Ship
+Letter 29: M for Mine Sweeper
+
+PLAIN TEXT:
+P for Pirate Ship
+S for Schooner
+C for Clipper Ship
+T for Trimaran
+M for Motor Yacht
+A for Amphibious Vehicle
+B for Bumboat
+D for Dragon Boat
+F for Flying Boat
+G for Glass Bottom
+H for Hovecraft
+I for Indian Shikara
+J for Jangada
+K for Kite Boat
+L for Log Boat
+N for Nautical Vessel
+O for Outrigger
+R for River Boat
+W for Water Taxi
+E for Electric Boat
+U for Underwater Vessel
+V for Vaporetto
+X for Xebec Sailing
+Y for Yacht Racing
+Z for Zebec
+Q for Queen Mary
+S for Swan Boat
+T for Torpedo Boat
+C for Cargo Ship
+M for Mine Sweeper
+
+
+----------------------------------------------------------------------
+#16. Air Vehicles - Part 1 (vehicles-air-vehicles-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-air-vehicles-1-audio/
+
+Letter 0: A for Airplane
+Letter 1: H for Helicopter
+Letter 2: D for Drone
+Letter 3: B for Biplane
+Letter 4: G for Glider
+Letter 5: C for Cessna
+Letter 6: S for Seaplane
+Letter 7: J for Jet
+Letter 8: T for Turboprop
+Letter 9: C for Cargo Plane
+Letter 10: F for Fighter Jet
+Letter 11: A for Apache Chopper
+Letter 12: C for Chinook
+Letter 13: W for Wings
+Letter 14: S for Sky Crane
+Letter 15: H for Hangar
+Letter 16: R for Runway
+Letter 17: T for Takeoff
+Letter 18: L for Landing
+Letter 19: P for Pilot
+Letter 20: S for Stewardess
+Letter 21: S for Sparrow
+Letter 22: N for Navy Chopper
+Letter 23: A for Air Show
+Letter 24: S for Sky Patrol
+Letter 25: A for Aerobatics
+Letter 26: I for Instruments
+Letter 27: A for Airspeed
+Letter 28: C for Cockpit
+Letter 29: C for Cabin
+
+PLAIN TEXT:
+A for Airplane
+H for Helicopter
+D for Drone
+B for Biplane
+G for Glider
+C for Cessna
+S for Seaplane
+J for Jet
+T for Turboprop
+C for Cargo Plane
+F for Fighter Jet
+A for Apache Chopper
+C for Chinook
+W for Wings
+S for Sky Crane
+H for Hangar
+R for Runway
+T for Takeoff
+L for Landing
+P for Pilot
+S for Stewardess
+S for Sparrow
+N for Navy Chopper
+A for Air Show
+S for Sky Patrol
+A for Aerobatics
+I for Instruments
+A for Airspeed
+C for Cockpit
+C for Cabin
+
+
+----------------------------------------------------------------------
+#17. Air Vehicles - Part 2 (vehicles-air-vehicles-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-air-vehicles-2-audio/
+
+Letter 0: A for Airplane
+Letter 1: H for Helicopter
+Letter 2: D for Drone
+Letter 3: B for Biplane
+Letter 4: G for Glider
+Letter 5: C for Cessna
+Letter 6: S for Seaplane
+Letter 7: J for Jet
+Letter 8: T for Turboprop
+Letter 9: C for Cargo Plane
+Letter 10: F for Fighter Jet
+Letter 11: A for Apache Chopper
+Letter 12: C for Chinook
+Letter 13: W for Wings
+Letter 14: S for Sky Crane
+Letter 15: H for Hangar
+Letter 16: R for Runway
+Letter 17: T for Takeoff
+Letter 18: L for Landing
+Letter 19: P for Pilot
+Letter 20: S for Stewardess
+Letter 21: S for Sparrow
+Letter 22: N for Navy Chopper
+Letter 23: A for Air Show
+Letter 24: S for Sky Patrol
+Letter 25: A for Aerobatics
+Letter 26: I for Instruments
+Letter 27: A for Airspeed
+Letter 28: C for Cockpit
+Letter 29: C for Cabin
+
+PLAIN TEXT:
+A for Airplane
+H for Helicopter
+D for Drone
+B for Biplane
+G for Glider
+C for Cessna
+S for Seaplane
+J for Jet
+T for Turboprop
+C for Cargo Plane
+F for Fighter Jet
+A for Apache Chopper
+C for Chinook
+W for Wings
+S for Sky Crane
+H for Hangar
+R for Runway
+T for Takeoff
+L for Landing
+P for Pilot
+S for Stewardess
+S for Sparrow
+N for Navy Chopper
+A for Air Show
+S for Sky Patrol
+A for Aerobatics
+I for Instruments
+A for Airspeed
+C for Cockpit
+C for Cabin
+
+
+----------------------------------------------------------------------
+#18. Air Vehicles - Part 3 (vehicles-air-vehicles-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-air-vehicles-3-audio/
+
+Letter 0: A for Airplane
+Letter 1: H for Helicopter
+Letter 2: D for Drone
+Letter 3: B for Biplane
+Letter 4: G for Glider
+Letter 5: C for Cessna
+Letter 6: S for Seaplane
+Letter 7: J for Jet
+Letter 8: T for Turboprop
+Letter 9: C for Cargo Plane
+Letter 10: F for Fighter Jet
+Letter 11: A for Apache Chopper
+Letter 12: C for Chinook
+Letter 13: W for Wings
+Letter 14: S for Sky Crane
+Letter 15: H for Hangar
+Letter 16: R for Runway
+Letter 17: T for Takeoff
+Letter 18: L for Landing
+Letter 19: P for Pilot
+Letter 20: S for Stewardess
+Letter 21: S for Sparrow
+Letter 22: N for Navy Chopper
+Letter 23: A for Air Show
+Letter 24: S for Sky Patrol
+Letter 25: A for Aerobatics
+Letter 26: I for Instruments
+Letter 27: A for Airspeed
+Letter 28: C for Cockpit
+Letter 29: C for Cabin
+
+PLAIN TEXT:
+A for Airplane
+H for Helicopter
+D for Drone
+B for Biplane
+G for Glider
+C for Cessna
+S for Seaplane
+J for Jet
+T for Turboprop
+C for Cargo Plane
+F for Fighter Jet
+A for Apache Chopper
+C for Chinook
+W for Wings
+S for Sky Crane
+H for Hangar
+R for Runway
+T for Takeoff
+L for Landing
+P for Pilot
+S for Stewardess
+S for Sparrow
+N for Navy Chopper
+A for Air Show
+S for Sky Patrol
+A for Aerobatics
+I for Instruments
+A for Airspeed
+C for Cockpit
+C for Cabin
+
+
+----------------------------------------------------------------------
+#19. Racing Vehicles - Part 1 (vehicles-racing-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-racing-1-audio/
+
+Letter 0: F for Formula 1
+Letter 1: R for Race Car
+Letter 2: S for Stock Car
+Letter 3: D for Drag Racer
+Letter 4: I for Indy Car
+Letter 5: N for NASCAR
+Letter 6: L for Le Mans
+Letter 7: R for Rally Car
+Letter 8: S for Sports Car
+Letter 9: T for Time Trial
+Letter 10: C for Champ Car
+Letter 11: A for Autocross
+Letter 12: D for Drifting
+Letter 13: S for Sprint
+Letter 14: C for Circuit
+Letter 15: P for Pit Stop
+Letter 16: T for Track
+Letter 17: G for Grand Prix
+Letter 18: W for Wheel
+Letter 19: E for Engine
+Letter 20: A for Acceleration
+Letter 21: S for Speed
+Letter 22: F for Finish
+Letter 23: P for Podium
+Letter 24: V for Victory
+Letter 25: C for Champion
+Letter 26: R for Racer
+Letter 27: D for Driver
+Letter 28: F for Flag
+Letter 29: C for Chequered
+
+PLAIN TEXT:
+F for Formula 1
+R for Race Car
+S for Stock Car
+D for Drag Racer
+I for Indy Car
+N for NASCAR
+L for Le Mans
+R for Rally Car
+S for Sports Car
+T for Time Trial
+C for Champ Car
+A for Autocross
+D for Drifting
+S for Sprint
+C for Circuit
+P for Pit Stop
+T for Track
+G for Grand Prix
+W for Wheel
+E for Engine
+A for Acceleration
+S for Speed
+F for Finish
+P for Podium
+V for Victory
+C for Champion
+R for Racer
+D for Driver
+F for Flag
+C for Chequered
+
+
+----------------------------------------------------------------------
+#20. Racing Vehicles - Part 2 (vehicles-racing-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-racing-2-audio/
+
+Letter 0: F for Formula 1
+Letter 1: R for Race Car
+Letter 2: S for Stock Car
+Letter 3: D for Drag Racer
+Letter 4: I for Indy Car
+Letter 5: N for NASCAR
+Letter 6: L for Le Mans
+Letter 7: R for Rally Car
+Letter 8: S for Sports Car
+Letter 9: T for Time Trial
+Letter 10: C for Champ Car
+Letter 11: A for Autocross
+Letter 12: D for Drifting
+Letter 13: S for Sprint
+Letter 14: C for Circuit
+Letter 15: P for Pit Stop
+Letter 16: T for Track
+Letter 17: G for Grand Prix
+Letter 18: W for Wheel
+Letter 19: E for Engine
+Letter 20: A for Acceleration
+Letter 21: S for Speed
+Letter 22: F for Finish
+Letter 23: P for Podium
+Letter 24: V for Victory
+Letter 25: C for Champion
+Letter 26: R for Racer
+Letter 27: D for Driver
+Letter 28: F for Flag
+Letter 29: C for Chequered
+
+PLAIN TEXT:
+F for Formula 1
+R for Race Car
+S for Stock Car
+D for Drag Racer
+I for Indy Car
+N for NASCAR
+L for Le Mans
+R for Rally Car
+S for Sports Car
+T for Time Trial
+C for Champ Car
+A for Autocross
+D for Drifting
+S for Sprint
+C for Circuit
+P for Pit Stop
+T for Track
+G for Grand Prix
+W for Wheel
+E for Engine
+A for Acceleration
+S for Speed
+F for Finish
+P for Podium
+V for Victory
+C for Champion
+R for Racer
+D for Driver
+F for Flag
+C for Chequered
+
+
+----------------------------------------------------------------------
+#21. Racing Vehicles - Part 3 (vehicles-racing-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-racing-3-audio/
+
+Letter 0: F for Formula 1
+Letter 1: R for Race Car
+Letter 2: S for Stock Car
+Letter 3: D for Drag Racer
+Letter 4: I for Indy Car
+Letter 5: N for NASCAR
+Letter 6: L for Le Mans
+Letter 7: R for Rally Car
+Letter 8: S for Sports Car
+Letter 9: T for Time Trial
+Letter 10: C for Champ Car
+Letter 11: A for Autocross
+Letter 12: D for Drifting
+Letter 13: S for Sprint
+Letter 14: C for Circuit
+Letter 15: P for Pit Stop
+Letter 16: T for Track
+Letter 17: G for Grand Prix
+Letter 18: W for Wheel
+Letter 19: E for Engine
+Letter 20: A for Acceleration
+Letter 21: S for Speed
+Letter 22: F for Finish
+Letter 23: P for Podium
+Letter 24: V for Victory
+Letter 25: C for Champion
+Letter 26: R for Racer
+Letter 27: D for Driver
+Letter 28: F for Flag
+Letter 29: C for Chequered
+
+PLAIN TEXT:
+F for Formula 1
+R for Race Car
+S for Stock Car
+D for Drag Racer
+I for Indy Car
+N for NASCAR
+L for Le Mans
+R for Rally Car
+S for Sports Car
+T for Time Trial
+C for Champ Car
+A for Autocross
+D for Drifting
+S for Sprint
+C for Circuit
+P for Pit Stop
+T for Track
+G for Grand Prix
+W for Wheel
+E for Engine
+A for Acceleration
+S for Speed
+F for Finish
+P for Podium
+V for Victory
+C for Champion
+R for Racer
+D for Driver
+F for Flag
+C for Chequered
+
+
+----------------------------------------------------------------------
+#22. Public Transport - Part 1 (vehicles-public-transport-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-public-transport-1-audio/
+
+Letter 0: M for Metro
+Letter 1: T for Train
+Letter 2: B for Bus
+Letter 3: T for Tram
+Letter 4: M for Minibus
+Letter 5: C for Coach
+Letter 6: D for Double Decker
+Letter 7: E for Express Bus
+Letter 8: S for School Bus
+Letter 9: T for Tourist Bus
+Letter 10: I for Indian Railway
+Letter 11: L for Light Rail
+Letter 12: M for Monorail
+Letter 13: A for Airport Shuttle
+Letter 14: C for Cable Car
+Letter 15: S for Station
+Letter 16: P for Platform
+Letter 17: T for Ticket
+Letter 18: P for Passenger
+Letter 19: R for Route
+Letter 20: S for Stop
+Letter 21: D for Depot
+Letter 22: S for Schedule
+Letter 23: F for Ferry
+Letter 24: T for Transit
+Letter 25: J for Journey
+Letter 26: C for Commute
+Letter 27: D for Destination
+Letter 28: O for Operator
+Letter 29: N for Network
+
+PLAIN TEXT:
+M for Metro
+T for Train
+B for Bus
+T for Tram
+M for Minibus
+C for Coach
+D for Double Decker
+E for Express Bus
+S for School Bus
+T for Tourist Bus
+I for Indian Railway
+L for Light Rail
+M for Monorail
+A for Airport Shuttle
+C for Cable Car
+S for Station
+P for Platform
+T for Ticket
+P for Passenger
+R for Route
+S for Stop
+D for Depot
+S for Schedule
+F for Ferry
+T for Transit
+J for Journey
+C for Commute
+D for Destination
+O for Operator
+N for Network
+
+
+----------------------------------------------------------------------
+#23. Public Transport - Part 2 (vehicles-public-transport-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-public-transport-2-audio/
+
+Letter 0: M for Metro
+Letter 1: T for Train
+Letter 2: B for Bus
+Letter 3: T for Tram
+Letter 4: M for Minibus
+Letter 5: C for Coach
+Letter 6: D for Double Decker
+Letter 7: E for Express Bus
+Letter 8: S for School Bus
+Letter 9: T for Tourist Bus
+Letter 10: I for Indian Railway
+Letter 11: L for Light Rail
+Letter 12: M for Monorail
+Letter 13: A for Airport Shuttle
+Letter 14: C for Cable Car
+Letter 15: S for Station
+Letter 16: P for Platform
+Letter 17: T for Ticket
+Letter 18: P for Passenger
+Letter 19: R for Route
+Letter 20: S for Stop
+Letter 21: D for Depot
+Letter 22: S for Schedule
+Letter 23: F for Ferry
+Letter 24: T for Transit
+Letter 25: J for Journey
+Letter 26: C for Commute
+Letter 27: D for Destination
+Letter 28: O for Operator
+Letter 29: N for Network
+
+PLAIN TEXT:
+M for Metro
+T for Train
+B for Bus
+T for Tram
+M for Minibus
+C for Coach
+D for Double Decker
+E for Express Bus
+S for School Bus
+T for Tourist Bus
+I for Indian Railway
+L for Light Rail
+M for Monorail
+A for Airport Shuttle
+C for Cable Car
+S for Station
+P for Platform
+T for Ticket
+P for Passenger
+R for Route
+S for Stop
+D for Depot
+S for Schedule
+F for Ferry
+T for Transit
+J for Journey
+C for Commute
+D for Destination
+O for Operator
+N for Network
+
+
+----------------------------------------------------------------------
+#24. Public Transport - Part 3 (vehicles-public-transport-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-public-transport-3-audio/
+
+Letter 0: M for Metro
+Letter 1: T for Train
+Letter 2: B for Bus
+Letter 3: T for Tram
+Letter 4: M for Minibus
+Letter 5: C for Coach
+Letter 6: D for Double Decker
+Letter 7: E for Express Bus
+Letter 8: S for School Bus
+Letter 9: T for Tourist Bus
+Letter 10: I for Indian Railway
+Letter 11: L for Light Rail
+Letter 12: M for Monorail
+Letter 13: A for Airport Shuttle
+Letter 14: C for Cable Car
+Letter 15: S for Station
+Letter 16: P for Platform
+Letter 17: T for Ticket
+Letter 18: P for Passenger
+Letter 19: R for Route
+Letter 20: S for Stop
+Letter 21: D for Depot
+Letter 22: S for Schedule
+Letter 23: F for Ferry
+Letter 24: T for Transit
+Letter 25: J for Journey
+Letter 26: C for Commute
+Letter 27: D for Destination
+Letter 28: O for Operator
+Letter 29: N for Network
+
+PLAIN TEXT:
+M for Metro
+T for Train
+B for Bus
+T for Tram
+M for Minibus
+C for Coach
+D for Double Decker
+E for Express Bus
+S for School Bus
+T for Tourist Bus
+I for Indian Railway
+L for Light Rail
+M for Monorail
+A for Airport Shuttle
+C for Cable Car
+S for Station
+P for Platform
+T for Ticket
+P for Passenger
+R for Route
+S for Stop
+D for Depot
+S for Schedule
+F for Ferry
+T for Transit
+J for Journey
+C for Commute
+D for Destination
+O for Operator
+N for Network
+
+
+----------------------------------------------------------------------
+#25. Space Vehicles - Part 1 (vehicles-space-vehicles-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-space-vehicles-1-audio/
+
+Letter 0: R for Rocket
+Letter 1: S for Space Shuttle
+Letter 2: S for Satellite
+Letter 3: A for Apollo
+Letter 4: L for Lunar Module
+Letter 5: M for Mars Rover
+Letter 6: I for ISS
+Letter 7: S for Soyuz
+Letter 8: O for Orbiter
+Letter 9: C for Capsule
+Letter 10: T for Telescope
+Letter 11: P for Probe
+Letter 12: L for Launch Pad
+Letter 13: M for Mission Control
+Letter 14: A for Astronaut
+Letter 15: C for Cosmonaut
+Letter 16: Z for Zero Gravity
+Letter 17: S for Space Walk
+Letter 18: D for Docking
+Letter 19: O for Orbit
+Letter 20: M for Moon
+Letter 21: S for Star
+Letter 22: P for Planet
+Letter 23: C for Cosmos
+Letter 24: G for Galaxy
+Letter 25: U for Universe
+Letter 26: S for Sun
+Letter 27: F for Flight
+Letter 28: L for Liftoff
+Letter 29: E for Exploration
+
+PLAIN TEXT:
+R for Rocket
+S for Space Shuttle
+S for Satellite
+A for Apollo
+L for Lunar Module
+M for Mars Rover
+I for ISS
+S for Soyuz
+O for Orbiter
+C for Capsule
+T for Telescope
+P for Probe
+L for Launch Pad
+M for Mission Control
+A for Astronaut
+C for Cosmonaut
+Z for Zero Gravity
+S for Space Walk
+D for Docking
+O for Orbit
+M for Moon
+S for Star
+P for Planet
+C for Cosmos
+G for Galaxy
+U for Universe
+S for Sun
+F for Flight
+L for Liftoff
+E for Exploration
+
+
+----------------------------------------------------------------------
+#26. Space Vehicles - Part 2 (vehicles-space-vehicles-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-space-vehicles-2-audio/
+
+Letter 0: R for Rocket
+Letter 1: S for Space Shuttle
+Letter 2: S for Satellite
+Letter 3: A for Apollo
+Letter 4: L for Lunar Module
+Letter 5: M for Mars Rover
+Letter 6: I for ISS
+Letter 7: S for Soyuz
+Letter 8: O for Orbiter
+Letter 9: C for Capsule
+Letter 10: T for Telescope
+Letter 11: P for Probe
+Letter 12: L for Launch Pad
+Letter 13: M for Mission Control
+Letter 14: A for Astronaut
+Letter 15: C for Cosmonaut
+Letter 16: Z for Zero Gravity
+Letter 17: S for Space Walk
+Letter 18: D for Docking
+Letter 19: O for Orbit
+Letter 20: M for Moon
+Letter 21: S for Star
+Letter 22: P for Planet
+Letter 23: C for Cosmos
+Letter 24: G for Galaxy
+Letter 25: U for Universe
+Letter 26: S for Sun
+Letter 27: F for Flight
+Letter 28: L for Liftoff
+Letter 29: E for Exploration
+
+PLAIN TEXT:
+R for Rocket
+S for Space Shuttle
+S for Satellite
+A for Apollo
+L for Lunar Module
+M for Mars Rover
+I for ISS
+S for Soyuz
+O for Orbiter
+C for Capsule
+T for Telescope
+P for Probe
+L for Launch Pad
+M for Mission Control
+A for Astronaut
+C for Cosmonaut
+Z for Zero Gravity
+S for Space Walk
+D for Docking
+O for Orbit
+M for Moon
+S for Star
+P for Planet
+C for Cosmos
+G for Galaxy
+U for Universe
+S for Sun
+F for Flight
+L for Liftoff
+E for Exploration
+
+
+----------------------------------------------------------------------
+#27. Space Vehicles - Part 3 (vehicles-space-vehicles-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-space-vehicles-3-audio/
+
+Letter 0: R for Rocket
+Letter 1: S for Space Shuttle
+Letter 2: S for Satellite
+Letter 3: A for Apollo
+Letter 4: L for Lunar Module
+Letter 5: M for Mars Rover
+Letter 6: I for ISS
+Letter 7: S for Soyuz
+Letter 8: O for Orbiter
+Letter 9: C for Capsule
+Letter 10: T for Telescope
+Letter 11: P for Probe
+Letter 12: L for Launch Pad
+Letter 13: M for Mission Control
+Letter 14: A for Astronaut
+Letter 15: C for Cosmonaut
+Letter 16: Z for Zero Gravity
+Letter 17: S for Space Walk
+Letter 18: D for Docking
+Letter 19: O for Orbit
+Letter 20: M for Moon
+Letter 21: S for Star
+Letter 22: P for Planet
+Letter 23: C for Cosmos
+Letter 24: G for Galaxy
+Letter 25: U for Universe
+Letter 26: S for Sun
+Letter 27: F for Flight
+Letter 28: L for Liftoff
+Letter 29: E for Exploration
+
+PLAIN TEXT:
+R for Rocket
+S for Space Shuttle
+S for Satellite
+A for Apollo
+L for Lunar Module
+M for Mars Rover
+I for ISS
+S for Soyuz
+O for Orbiter
+C for Capsule
+T for Telescope
+P for Probe
+L for Launch Pad
+M for Mission Control
+A for Astronaut
+C for Cosmonaut
+Z for Zero Gravity
+S for Space Walk
+D for Docking
+O for Orbit
+M for Moon
+S for Star
+P for Planet
+C for Cosmos
+G for Galaxy
+U for Universe
+S for Sun
+F for Flight
+L for Liftoff
+E for Exploration
+
+
+----------------------------------------------------------------------
+#28. Classic Vehicles - Part 1 (vehicles-classic-vehicles-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-classic-vehicles-1-audio/
+
+Letter 0: V for Vintage Car
+Letter 1: C for Classic
+Letter 2: A for Antique
+Letter 3: R for Roadster
+Letter 4: C for Coupe
+Letter 5: S for Sedan
+Letter 6: T for Touring Car
+Letter 7: M for Model T
+Letter 8: A for Austin
+Letter 9: M for Morris
+Letter 10: S for Studebaker
+Letter 11: P for Plymouth
+Letter 12: D for DeSoto
+Letter 13: P for Packard
+Letter 14: D for Duesenberg
+Letter 15: C for Cadillac
+Letter 16: L for Lincoln
+Letter 17: I for Imperial
+Letter 18: C for Chevrolet
+Letter 19: F for Ford
+Letter 20: G for Graham
+Letter 21: H for Hudson
+Letter 22: N for Nash
+Letter 23: O for Oldsmobile
+Letter 24: P for Pontiac
+Letter 25: R for REO
+Letter 26: W for Willys
+Letter 27: C for Chrysler
+Letter 28: D for Dodge
+Letter 29: D for DeSoto
+
+PLAIN TEXT:
+V for Vintage Car
+C for Classic
+A for Antique
+R for Roadster
+C for Coupe
+S for Sedan
+T for Touring Car
+M for Model T
+A for Austin
+M for Morris
+S for Studebaker
+P for Plymouth
+D for DeSoto
+P for Packard
+D for Duesenberg
+C for Cadillac
+L for Lincoln
+I for Imperial
+C for Chevrolet
+F for Ford
+G for Graham
+H for Hudson
+N for Nash
+O for Oldsmobile
+P for Pontiac
+R for REO
+W for Willys
+C for Chrysler
+D for Dodge
+D for DeSoto
+
+
+----------------------------------------------------------------------
+#29. Classic Vehicles - Part 2 (vehicles-classic-vehicles-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-classic-vehicles-2-audio/
+
+Letter 0: V for Vintage Car
+Letter 1: C for Classic
+Letter 2: A for Antique
+Letter 3: R for Roadster
+Letter 4: C for Coupe
+Letter 5: S for Sedan
+Letter 6: T for Touring Car
+Letter 7: M for Model T
+Letter 8: A for Austin
+Letter 9: M for Morris
+Letter 10: S for Studebaker
+Letter 11: P for Plymouth
+Letter 12: D for DeSoto
+Letter 13: P for Packard
+Letter 14: D for Duesenberg
+Letter 15: C for Cadillac
+Letter 16: L for Lincoln
+Letter 17: I for Imperial
+Letter 18: C for Chevrolet
+Letter 19: F for Ford
+Letter 20: G for Graham
+Letter 21: H for Hudson
+Letter 22: N for Nash
+Letter 23: O for Oldsmobile
+Letter 24: P for Pontiac
+Letter 25: R for REO
+Letter 26: W for Willys
+Letter 27: C for Chrysler
+Letter 28: D for Dodge
+Letter 29: D for DeSoto
+
+PLAIN TEXT:
+V for Vintage Car
+C for Classic
+A for Antique
+R for Roadster
+C for Coupe
+S for Sedan
+T for Touring Car
+M for Model T
+A for Austin
+M for Morris
+S for Studebaker
+P for Plymouth
+D for DeSoto
+P for Packard
+D for Duesenberg
+C for Cadillac
+L for Lincoln
+I for Imperial
+C for Chevrolet
+F for Ford
+G for Graham
+H for Hudson
+N for Nash
+O for Oldsmobile
+P for Pontiac
+R for REO
+W for Willys
+C for Chrysler
+D for Dodge
+D for DeSoto
+
+
+----------------------------------------------------------------------
+#30. Classic Vehicles - Part 3 (vehicles-classic-vehicles-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vehicles-classic-vehicles-3-audio/
+
+Letter 0: V for Vintage Car
+Letter 1: C for Classic
+Letter 2: A for Antique
+Letter 3: R for Roadster
+Letter 4: C for Coupe
+Letter 5: S for Sedan
+Letter 6: T for Touring Car
+Letter 7: M for Model T
+Letter 8: A for Austin
+Letter 9: M for Morris
+Letter 10: S for Studebaker
+Letter 11: P for Plymouth
+Letter 12: D for DeSoto
+Letter 13: P for Packard
+Letter 14: D for Duesenberg
+Letter 15: C for Cadillac
+Letter 16: L for Lincoln
+Letter 17: I for Imperial
+Letter 18: C for Chevrolet
+Letter 19: F for Ford
+Letter 20: G for Graham
+Letter 21: H for Hudson
+Letter 22: N for Nash
+Letter 23: O for Oldsmobile
+Letter 24: P for Pontiac
+Letter 25: R for REO
+Letter 26: W for Willys
+Letter 27: C for Chrysler
+Letter 28: D for Dodge
+Letter 29: D for DeSoto
+
+PLAIN TEXT:
+V for Vintage Car
+C for Classic
+A for Antique
+R for Roadster
+C for Coupe
+S for Sedan
+T for Touring Car
+M for Model T
+A for Austin
+M for Morris
+S for Studebaker
+P for Plymouth
+D for DeSoto
+P for Packard
+D for Duesenberg
+C for Cadillac
+L for Lincoln
+I for Imperial
+C for Chevrolet
+F for Ford
+G for Graham
+H for Hudson
+N for Nash
+O for Oldsmobile
+P for Pontiac
+R for REO
+W for Willys
+C for Chrysler
+D for Dodge
+D for DeSoto
+

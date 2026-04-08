@@ -1,0 +1,5822 @@
+[
+  {
+    "id": "fruits-tropical-fruits-1",
+    "title": "Tropical Fruits - Part 1",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFCA28"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍒",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "S",
+        "word": "Sitaphal",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "A",
+        "word": "Amla",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "J",
+        "word": "Jamun",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "B",
+        "word": "Bael",
+        "emoji": "🍈",
+        "bgColor": "#F0C929"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍈",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarind",
+        "emoji": "🍈",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Star Fruit",
+        "emoji": "🍈",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "W",
+        "word": "Wood Apple",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "P",
+        "word": "Passion Fruit",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E53935"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-tropical-fruits-2",
+    "title": "Tropical Fruits - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFD54F"
+    ],
+    "accentColor": "#F57F17",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Muskmelon",
+        "emoji": "🍈",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🍈",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "P",
+        "word": "Plum",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "G",
+        "word": "Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "T",
+        "word": "Tangerine",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🍇",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Cantaloupe",
+        "emoji": "🍈",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "A",
+        "word": "Apricot",
+        "emoji": "🍑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nectarine",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "K",
+        "word": "Kumquat",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Persimmon",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "S",
+        "word": "Sapodilla",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "J",
+        "word": "Jujube",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Longan",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mangosteen",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "D",
+        "word": "Durian",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "L",
+        "word": "Lychee",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pomelo",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Breadfruit",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "S",
+        "word": "Soursop",
+        "emoji": "🍈",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "H",
+        "word": "Honeydew",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tender Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-tropical-fruits-3",
+    "title": "Tropical Fruits - Part 3",
+    "bgGradient": [
+      "#FFA000",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Custard Apple",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "K",
+        "word": "Karonda",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "F",
+        "word": "Falsa",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "P",
+        "word": "Phalsa",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "J",
+        "word": "Java Plum",
+        "emoji": "🍇",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "B",
+        "word": "Black Plum",
+        "emoji": "🍇",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Fig",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "R",
+        "word": "Rose Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Water Chestnut",
+        "emoji": "🍈",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Makoy",
+        "emoji": "🍈",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Sweet Lime",
+        "emoji": "🍋",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "T",
+        "word": "Toddy Palm",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Green Mango",
+        "emoji": "🥭",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "A",
+        "word": "Aam Papad",
+        "emoji": "🥭",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noni",
+        "emoji": "🍈",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "P",
+        "word": "Palmyra Fruit",
+        "emoji": "🍈",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "C",
+        "word": "Crab Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ber",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hog Plum",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "S",
+        "word": "Santol",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Fruit",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Langsat",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Damson",
+        "emoji": "🍈",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "P",
+        "word": "Physalis",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Anjeer",
+        "emoji": "🍈",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "K",
+        "word": "Khirni",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant Apple",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "T",
+        "word": "Tart Cherry",
+        "emoji": "🍒",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "G",
+        "word": "Guavava",
+        "emoji": "🍈",
+        "bgColor": "#66BB6A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-berry-collection-1",
+    "title": "Berry Collection - Part 1",
+    "bgGradient": [
+      "#AD1457",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🍇",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "F",
+        "word": "Falsa Berry",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Amla Berry",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "K",
+        "word": "Karonda Berry",
+        "emoji": "🍒",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "J",
+        "word": "Jamun Berry",
+        "emoji": "🍇",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🍇",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🍒",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🍇",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "D",
+        "word": "Dewberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "M",
+        "word": "Marionberry",
+        "emoji": "🍇",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🍇",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Waterberry",
+        "emoji": "🍈",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "S",
+        "word": "Salmonberry",
+        "emoji": "🍈",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "T",
+        "word": "Tayberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Phalsa",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "N",
+        "word": "Nance Berry",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Red Currant",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Black Currant",
+        "emoji": "🍇",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "W",
+        "word": "White Currant",
+        "emoji": "🍈",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-berry-collection-2",
+    "title": "Berry Collection - Part 2",
+    "bgGradient": [
+      "#C2185B",
+      "#F8BBD0"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Serviceberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Cloudberry",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "B",
+        "word": "Barberry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Partridgeberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "T",
+        "word": "Thimbleberry",
+        "emoji": "🍇",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "W",
+        "word": "Wineberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Snowberry",
+        "emoji": "🍈",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "C",
+        "word": "Chokeberry",
+        "emoji": "🍇",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "H",
+        "word": "Honeyberry",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍒",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "K",
+        "word": "Kokum",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "B",
+        "word": "Bilberry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "A",
+        "word": "Atemoya",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍈",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nagpur Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "O",
+        "word": "Otaheite Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "E",
+        "word": "Emblic",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Apple",
+        "emoji": "🍎",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "I",
+        "word": "Imbe",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziziphus",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Passion Fruit",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia",
+        "emoji": "🍈",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "Q",
+        "word": "Quince",
+        "emoji": "🍐",
+        "bgColor": "#C0CA33"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-berry-collection-3",
+    "title": "Berry Collection - Part 3",
+    "bgGradient": [
+      "#D81B60",
+      "#FCE4EC"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shahtoot",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "K",
+        "word": "Kafir Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "R",
+        "word": "Rasbhari",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jambul",
+        "emoji": "🍇",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "P",
+        "word": "Pineberry",
+        "emoji": "🍓",
+        "bgColor": "#FFCDD2"
+      },
+      {
+        "letter": "A",
+        "word": "Aonla",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "B",
+        "word": "Ber Fruit",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Berry",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tomatillo",
+        "emoji": "🍅",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "C",
+        "word": "Cape Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "L",
+        "word": "Langsat",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Durian",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "M",
+        "word": "Mahua",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "W",
+        "word": "Wild Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "N",
+        "word": "Nungu",
+        "emoji": "🍈",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "F",
+        "word": "Forest Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hawthorn Berry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "O",
+        "word": "Oregon Grape",
+        "emoji": "🍇",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "E",
+        "word": "Etrog",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Tamarind",
+        "emoji": "🍈",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Apple",
+        "emoji": "🍈",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "U",
+        "word": "Umbu",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "Z",
+        "word": "Zalzalak",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Youngberry",
+        "emoji": "🍇",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "X",
+        "word": "Xigua",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Anne Cherry",
+        "emoji": "🍒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "M",
+        "word": "Melon",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-citrus-fruits-1",
+    "title": "Citrus Fruits - Part 1",
+    "bgGradient": [
+      "#F9A825",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F57F17",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "G",
+        "word": "Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "T",
+        "word": "Tangerine",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sweet Lime",
+        "emoji": "🍋",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "P",
+        "word": "Pomelo",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "K",
+        "word": "Kumquat",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "C",
+        "word": "Clementine",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Blood Orange",
+        "emoji": "🍊",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "N",
+        "word": "Navel Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Key Lime",
+        "emoji": "🍋",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuzu",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Citron",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "M",
+        "word": "Meyer Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Lime",
+        "emoji": "🍋",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bergamot",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "R",
+        "word": "Rangpur Lime",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "S",
+        "word": "Satsuma",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Kaffir Lime",
+        "emoji": "🍋",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "A",
+        "word": "Amanatsu",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Dekopon",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jaffa Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "W",
+        "word": "White Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "P",
+        "word": "Persian Lime",
+        "emoji": "🍋",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "H",
+        "word": "Hehu Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "E",
+        "word": "Etrog Citron",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-citrus-fruits-2",
+    "title": "Citrus Fruits - Part 2",
+    "bgGradient": [
+      "#FBC02D",
+      "#FFF59D"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Nagpur Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "D",
+        "word": "Darjeeling Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coorg Orange",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "K",
+        "word": "Khasi Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "S",
+        "word": "Sikkim Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "A",
+        "word": "Assam Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gondhoraj Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "M",
+        "word": "Mosambi",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "S",
+        "word": "Santra",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "N",
+        "word": "Nimbu",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tangelo",
+        "emoji": "🍊",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "O",
+        "word": "Oroblanco",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "P",
+        "word": "Pink Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "R",
+        "word": "Red Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "C",
+        "word": "Calamansi",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Limetta",
+        "emoji": "🍋",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "B",
+        "word": "Bitter Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "V",
+        "word": "Valencia Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "F",
+        "word": "Fairchild Tangerine",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyuganatsu",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Willowleaf Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "J",
+        "word": "Jambhiri Lemon",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "Z",
+        "word": "Zereshk",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "X",
+        "word": "Xinomavro Grape",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "I",
+        "word": "Iyokan",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "E",
+        "word": "Eureka Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quenepa",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "U",
+        "word": "Unshiu Mikan",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuja",
+        "emoji": "🍋",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "M",
+        "word": "Minneola Tangelo",
+        "emoji": "🍊",
+        "bgColor": "#FF7043"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-citrus-fruits-3",
+    "title": "Citrus Fruits - Part 3",
+    "bgGradient": [
+      "#FFD600",
+      "#FFFF8D"
+    ],
+    "accentColor": "#FBC02D",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lemon Drop",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Oro Blanco",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "S",
+        "word": "Sudan Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "P",
+        "word": "Ponkan",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Temple Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "K",
+        "word": "Kabosu",
+        "emoji": "🍋",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "A",
+        "word": "Amla",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "R",
+        "word": "Rough Lemon",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "N",
+        "word": "Nartjie",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flat Lemon",
+        "emoji": "🍋",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "H",
+        "word": "Hassaku",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Variegated Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Citron",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "E",
+        "word": "Emperor Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "U",
+        "word": "Unshu Mikan",
+        "emoji": "🍊",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Z",
+        "word": "Zest Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "X",
+        "word": "Xoconostle",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "Q",
+        "word": "Quince",
+        "emoji": "🍐",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "S",
+        "word": "Sitaphal",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍒",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-exotic-fruits-1",
+    "title": "Exotic Fruits - Part 1",
+    "bgGradient": [
+      "#6A1B9A",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Passion Fruit",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "S",
+        "word": "Star Fruit",
+        "emoji": "🍈",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mangosteen",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "L",
+        "word": "Longan",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "D",
+        "word": "Durian",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍒",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "C",
+        "word": "Cherimoya",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "A",
+        "word": "Atemoya",
+        "emoji": "🍈",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarillo",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guanabana",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "F",
+        "word": "Feijoa",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "P",
+        "word": "Pepino",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "B",
+        "word": "Buddha Hand",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Horned Melon",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sapodilla",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "N",
+        "word": "Noni",
+        "emoji": "🍈",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "C",
+        "word": "Cempedak",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "W",
+        "word": "Wood Apple",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bael Fruit",
+        "emoji": "🍈",
+        "bgColor": "#F0C929"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Apple",
+        "emoji": "🍈",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "M",
+        "word": "Miracle Fruit",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant Apple",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Apple",
+        "emoji": "🍎",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-exotic-fruits-2",
+    "title": "Exotic Fruits - Part 2",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soursop",
+        "emoji": "🍈",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "B",
+        "word": "Breadfruit",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "L",
+        "word": "Langsat",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Santol",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Marang",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "P",
+        "word": "Pulasan",
+        "emoji": "🍈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jujube",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Toddy Palm",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Carambola",
+        "emoji": "🍈",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "A",
+        "word": "Acerola",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kokum",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "G",
+        "word": "Garcinia",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nungu",
+        "emoji": "🍈",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "R",
+        "word": "Rose Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Damson Plum",
+        "emoji": "🍈",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "W",
+        "word": "Wax Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hala Fruit",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Lime",
+        "emoji": "🍋",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "O",
+        "word": "Otaheite Apple",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Fruit",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Jujube",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "V",
+        "word": "Vanilla Fruit",
+        "emoji": "🍈",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziziphus Fruit",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Q",
+        "word": "Quandong",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "X",
+        "word": "Xigua Melon",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "U",
+        "word": "Uvaia",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Y",
+        "word": "Yangmei",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pitaya",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#66BB6A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-exotic-fruits-3",
+    "title": "Exotic Fruits - Part 3",
+    "bgGradient": [
+      "#8E24AA",
+      "#F3E5F5"
+    ],
+    "accentColor": "#7B1FA2",
+    "items": [
+      {
+        "letter": "A",
+        "word": "African Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Black Sapote",
+        "emoji": "🍈",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "C",
+        "word": "Canistel",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Date Palm",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "E",
+        "word": "Emblic Fruit",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "F",
+        "word": "Fox Grape",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "G",
+        "word": "Grumichama",
+        "emoji": "🍒",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "H",
+        "word": "Hackberry",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ilama",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "J",
+        "word": "Jabuticaba",
+        "emoji": "🍇",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "K",
+        "word": "Kepel",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "L",
+        "word": "Lucuma",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Mamey Sapote",
+        "emoji": "🍈",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "N",
+        "word": "Naranjilla",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Orangelo",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "P",
+        "word": "Pitahaya",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rollinia",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "S",
+        "word": "Sugar Apple",
+        "emoji": "🍈",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarind",
+        "emoji": "🍈",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "U",
+        "word": "Umbu Fruit",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "V",
+        "word": "Voavanga",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "W",
+        "word": "White Sapote",
+        "emoji": "🍈",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia Fruit",
+        "emoji": "🍈",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Mangosteen",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Z",
+        "word": "Zapote",
+        "emoji": "🍈",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jamun",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Custard Apple",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "B",
+        "word": "Ber",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "K",
+        "word": "Karonda",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-garden-fruits-1",
+    "title": "Garden Fruits - Part 1",
+    "bgGradient": [
+      "#43A047",
+      "#C8E6C9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "P",
+        "word": "Plum",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Apricot",
+        "emoji": "🍑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nectarine",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍈",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jamun",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E53935"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarind",
+        "emoji": "🍈",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "A",
+        "word": "Amla",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "S",
+        "word": "Sitaphal",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "B",
+        "word": "Bael",
+        "emoji": "🍈",
+        "bgColor": "#F0C929"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍒",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "R",
+        "word": "Rose Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hog Plum",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-garden-fruits-2",
+    "title": "Garden Fruits - Part 2",
+    "bgGradient": [
+      "#388E3C",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Star Fruit",
+        "emoji": "🍈",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "W",
+        "word": "Wood Apple",
+        "emoji": "🍈",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Muskmelon",
+        "emoji": "🍈",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "K",
+        "word": "Karonda",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "F",
+        "word": "Falsa",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "G",
+        "word": "Green Apple",
+        "emoji": "🍏",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "R",
+        "word": "Red Banana",
+        "emoji": "🍌",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Black Grapes",
+        "emoji": "🍇",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "T",
+        "word": "Tender Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "N",
+        "word": "Neem Fruit",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Apple",
+        "emoji": "🍎",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Plum",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cantaloupe",
+        "emoji": "🍈",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant Apple",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "H",
+        "word": "Honeydew",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quince",
+        "emoji": "🍐",
+        "bgColor": "#C0CA33"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziziphus",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Mango",
+        "emoji": "🥭",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "X",
+        "word": "Xoconostle",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Passion Fruit",
+        "emoji": "🍈",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "S",
+        "word": "Sapodilla",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "B",
+        "word": "Ber",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-garden-fruits-3",
+    "title": "Garden Fruits - Part 3",
+    "bgGradient": [
+      "#2E7D32",
+      "#81C784"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FFD600"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍒",
+        "bgColor": "#EF5350"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane Fruit",
+        "emoji": "🍈",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kumquat",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍈",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nectarine",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Apple",
+        "emoji": "🍈",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "V",
+        "word": "Vanilla Fruit",
+        "emoji": "🍈",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "H",
+        "word": "Honeydew Melon",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "E",
+        "word": "Emblic",
+        "emoji": "🍈",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "U",
+        "word": "Umbu",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "Z",
+        "word": "Zalzalak",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Passion Fruit",
+        "emoji": "🍈",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia",
+        "emoji": "🍈",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "Q",
+        "word": "Quandong",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🍈",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "S",
+        "word": "Sitaphal",
+        "emoji": "🍈",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "B",
+        "word": "Bael",
+        "emoji": "🍈",
+        "bgColor": "#F0C929"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-summer-fruits-1",
+    "title": "Summer Fruits - Part 1",
+    "bgGradient": [
+      "#E65100",
+      "#FFCC80"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍇",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "M",
+        "word": "Muskmelon",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Plum",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "A",
+        "word": "Apricot",
+        "emoji": "🍑",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#66BB6A"
+      },
+      {
+        "letter": "F",
+        "word": "Falsa",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "J",
+        "word": "Jamun",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "T",
+        "word": "Tadgola",
+        "emoji": "🥥",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Karonda",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "S",
+        "word": "Sitaphal",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bael",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "A",
+        "word": "Amla",
+        "emoji": "🍏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🍓",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🥝",
+        "bgColor": "#6D4C41"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-summer-fruits-2",
+    "title": "Summer Fruits - Part 2",
+    "bgGradient": [
+      "#EF6C00",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Melon",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "L",
+        "word": "Lychee",
+        "emoji": "🍇",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Star Fruit",
+        "emoji": "🌟",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "P",
+        "word": "Passion Fruit",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Nectarine",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarind",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "W",
+        "word": "Wood Apple",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "K",
+        "word": "Kokum",
+        "emoji": "🫐",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosambi",
+        "emoji": "🍊",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🌿",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "J",
+        "word": "Java Plum",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🫒",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🌰",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "C",
+        "word": "Cantaloupe",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Honeydew",
+        "emoji": "🍈",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Longan",
+        "emoji": "🍇",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "P",
+        "word": "Persimmon",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "G",
+        "word": "Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "T",
+        "word": "Tangerine",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziziphus",
+        "emoji": "🍏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Jujube",
+        "emoji": "🍏",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "Q",
+        "word": "Quince",
+        "emoji": "🍐",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "V",
+        "word": "Vanilla Bean",
+        "emoji": "🌿",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-summer-fruits-3",
+    "title": "Summer Fruits - Part 3",
+    "bgGradient": [
+      "#F57C00",
+      "#FFF3E0"
+    ],
+    "accentColor": "#EF6C00",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Water Chestnut",
+        "emoji": "🌰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sapodilla",
+        "emoji": "🥝",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "P",
+        "word": "Prickly Pear",
+        "emoji": "🌵",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Aam Panna",
+        "emoji": "🥭",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "G",
+        "word": "Green Apple",
+        "emoji": "🍏",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "R",
+        "word": "Red Banana",
+        "emoji": "🍌",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tender Coconut",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🍋",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "D",
+        "word": "Durian",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Kumquat",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noni",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jambul",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "O",
+        "word": "Otaheite Apple",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "H",
+        "word": "Hog Plum",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "E",
+        "word": "Emblica",
+        "emoji": "🍏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Apple",
+        "emoji": "🥥",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Plum",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "Z",
+        "word": "Zucchini",
+        "emoji": "🥒",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Apple",
+        "emoji": "🍎",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "U",
+        "word": "Uvaia",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "P",
+        "word": "Phalsa",
+        "emoji": "🫐",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "S",
+        "word": "Snake Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D84315"
+      },
+      {
+        "letter": "M",
+        "word": "Mangosteen",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "B",
+        "word": "Breadfruit",
+        "emoji": "🍈",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Cempedak",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-winter-fruits-1",
+    "title": "Winter Fruits - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kinnow",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "C",
+        "word": "Custard Apple",
+        "emoji": "🍏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Ber",
+        "emoji": "🍏",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Amla",
+        "emoji": "🍏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Carambola",
+        "emoji": "🌟",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🫒",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "T",
+        "word": "Tangerine",
+        "emoji": "🍊",
+        "bgColor": "#EF6C00"
+      },
+      {
+        "letter": "W",
+        "word": "Walnut",
+        "emoji": "🌰",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "P",
+        "word": "Pistachio",
+        "emoji": "🥜",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "R",
+        "word": "Raisin",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Cashew Fruit",
+        "emoji": "🍎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jujube",
+        "emoji": "🍏",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "N",
+        "word": "Nagpur Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "H",
+        "word": "Hazelnut",
+        "emoji": "🌰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Endive",
+        "emoji": "🥬",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Fig",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "V",
+        "word": "Valencia Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Urad Fruit",
+        "emoji": "🍏",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Y",
+        "word": "Youngberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "Z",
+        "word": "Zante Currant",
+        "emoji": "🍇",
+        "bgColor": "#880E4F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-winter-fruits-2",
+    "title": "Winter Fruits - Part 2",
+    "bgGradient": [
+      "#1976D2",
+      "#90CAF9"
+    ],
+    "accentColor": "#1565C0",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sweet Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "M",
+        "word": "Malta",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Blood Orange",
+        "emoji": "🍊",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "P",
+        "word": "Persimmon",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "C",
+        "word": "Clementine",
+        "emoji": "🍊",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "K",
+        "word": "Kumquat",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Apple",
+        "emoji": "🍎",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "A",
+        "word": "Almond",
+        "emoji": "🌰",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dried Apricot",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarillo",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Red Apple",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "L",
+        "word": "Litchi",
+        "emoji": "🍇",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Winter Melon",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "F",
+        "word": "Feijoa",
+        "emoji": "🍐",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Navel Orange",
+        "emoji": "🍊",
+        "bgColor": "#EF6C00"
+      },
+      {
+        "letter": "H",
+        "word": "Honeyberry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese Plum",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "E",
+        "word": "Etrog",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "Q",
+        "word": "Quandong",
+        "emoji": "🍑",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "I",
+        "word": "Ilama",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "V",
+        "word": "Voavanga",
+        "emoji": "🍊",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "X",
+        "word": "Xigua",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuzu",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zapote",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "U",
+        "word": "Ugni",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "P",
+        "word": "Prune",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Cherimoya",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bael Fruit",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "S",
+        "word": "Satsuma",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-winter-fruits-3",
+    "title": "Winter Fruits - Part 3",
+    "bgGradient": [
+      "#1E88E5",
+      "#64B5F6"
+    ],
+    "accentColor": "#1976D2",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Kinnow",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mosambi",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "S",
+        "word": "Sapota",
+        "emoji": "🥝",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarind",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🍋",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "W",
+        "word": "Water Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Lime",
+        "emoji": "🍋",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "R",
+        "word": "Rose Apple",
+        "emoji": "🍎",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "N",
+        "word": "Nashi Pear",
+        "emoji": "🍐",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "H",
+        "word": "Hala Fruit",
+        "emoji": "🍍",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Plum",
+        "emoji": "🍏",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Fruit",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Tamarind",
+        "emoji": "🌰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "U",
+        "word": "Umbu",
+        "emoji": "🍋",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "X",
+        "word": "Xylocarp",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "Y",
+        "word": "Yali Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "Z",
+        "word": "Zalzalak",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "Q",
+        "word": "Quenepa",
+        "emoji": "🍏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pomelo",
+        "emoji": "🍊",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Star Apple",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "C",
+        "word": "Crab Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-asian-fruits-1",
+    "title": "Asian Fruits - Part 1",
+    "bgGradient": [
+      "#C62828",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Longan",
+        "emoji": "🍇",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Durian",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "L",
+        "word": "Lychee",
+        "emoji": "🍇",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mangosteen",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Snake Fruit",
+        "emoji": "🍎",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "T",
+        "word": "Thai Banana",
+        "emoji": "🍌",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "C",
+        "word": "Calamansi",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "K",
+        "word": "Kumquat",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asian Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Buddha Hand",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "W",
+        "word": "Wax Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "Noni",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Otaheite Gooseberry",
+        "emoji": "🍏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Lime",
+        "emoji": "🍋",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "H",
+        "word": "Horned Melon",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Gooseberry",
+        "emoji": "🍏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "E",
+        "word": "Emblic",
+        "emoji": "🍏",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Apple",
+        "emoji": "🍎",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "U",
+        "word": "Ume",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "Y",
+        "word": "Yangmei",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziziphus",
+        "emoji": "🍏",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "Q",
+        "word": "Quince",
+        "emoji": "🍐",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "S",
+        "word": "Starfruit",
+        "emoji": "🌟",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "C",
+        "word": "Chiku",
+        "emoji": "🥝",
+        "bgColor": "#6D4C41"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-asian-fruits-2",
+    "title": "Asian Fruits - Part 2",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#C62828",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Persimmon",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "J",
+        "word": "Jambul",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarillo",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kaffir Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "S",
+        "word": "Soursop",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Gac Fruit",
+        "emoji": "🍈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Langsat",
+        "emoji": "🍇",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "B",
+        "word": "Bilimbi",
+        "emoji": "🍏",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "M",
+        "word": "Miracle Fruit",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "D",
+        "word": "Duku",
+        "emoji": "🍇",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Atemoya",
+        "emoji": "🍈",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "R",
+        "word": "Rose Hip",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cempedak",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "N",
+        "word": "Naranjilla",
+        "emoji": "🍊",
+        "bgColor": "#EF6C00"
+      },
+      {
+        "letter": "W",
+        "word": "Wampee",
+        "emoji": "🍇",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "F",
+        "word": "Feijoa",
+        "emoji": "🍐",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "H",
+        "word": "Hawthorn",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "O",
+        "word": "Olallieberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant Apple",
+        "emoji": "🍏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream Bean",
+        "emoji": "🌿",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "V",
+        "word": "Voavanga",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "X",
+        "word": "Xigua",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Y",
+        "word": "Yumberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "Z",
+        "word": "Zabon",
+        "emoji": "🍊",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quandong",
+        "emoji": "🍑",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pitaya",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jabuticaba",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "T",
+        "word": "Thai Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Loquat",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-asian-fruits-3",
+    "title": "Asian Fruits - Part 3",
+    "bgGradient": [
+      "#E53935",
+      "#FFEBEE"
+    ],
+    "accentColor": "#D32F2F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Santol",
+        "emoji": "🍈",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "M",
+        "word": "Marang",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "C",
+        "word": "Canistel",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "B",
+        "word": "Breadfruit",
+        "emoji": "🍈",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "P",
+        "word": "Pomelo",
+        "emoji": "🍊",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "A",
+        "word": "Acerola",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Governor Plum",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "D",
+        "word": "Dabai",
+        "emoji": "🫒",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kepel",
+        "emoji": "🍈",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "R",
+        "word": "Rollinia",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "L",
+        "word": "Longanberry",
+        "emoji": "🍇",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tree Tomato",
+        "emoji": "🍅",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "N",
+        "word": "Nance",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "W",
+        "word": "White Sapote",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "F",
+        "word": "Falsa",
+        "emoji": "🫐",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "J",
+        "word": "Jatoba",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "H",
+        "word": "Hog Plum",
+        "emoji": "🍈",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Palm Fruit",
+        "emoji": "🍎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "E",
+        "word": "Etrog",
+        "emoji": "🍋",
+        "bgColor": "#F57F17"
+      },
+      {
+        "letter": "I",
+        "word": "Imbe",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Bean",
+        "emoji": "🌿",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "U",
+        "word": "Uvaia",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "X",
+        "word": "Xoconostle",
+        "emoji": "🌵",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Passion Fruit",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinfandel Grape",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Anne Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Monstera",
+        "emoji": "🌿",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "S",
+        "word": "Sapodilla",
+        "emoji": "🥝",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "P",
+        "word": "Pulasan",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cupuacu",
+        "emoji": "🍈",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-dried-fruits-1",
+    "title": "Dried Fruits & Nuts - Part 1",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Almond",
+        "emoji": "🌰",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashew",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pistachio",
+        "emoji": "🥜",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "W",
+        "word": "Walnut",
+        "emoji": "🌰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Raisin",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "D",
+        "word": "Dates",
+        "emoji": "🌰",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🫒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "A",
+        "word": "Apricot",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "P",
+        "word": "Prune",
+        "emoji": "🍇",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "P",
+        "word": "Peanut",
+        "emoji": "🥜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hazelnut",
+        "emoji": "🌰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Macadamia",
+        "emoji": "🌰",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil Nut",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "C",
+        "word": "Chestnut",
+        "emoji": "🌰",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower Seed",
+        "emoji": "🌻",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "P",
+        "word": "Pine Nut",
+        "emoji": "🌰",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "F",
+        "word": "Flax Seed",
+        "emoji": "🌿",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chia Seed",
+        "emoji": "🌿",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "K",
+        "word": "Kaju",
+        "emoji": "🥜",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dried Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry Dried",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "L",
+        "word": "Lotus Seed",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon Seed",
+        "emoji": "🍉",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "P",
+        "word": "Pumpkin Seed",
+        "emoji": "🎃",
+        "bgColor": "#EF6C00"
+      },
+      {
+        "letter": "S",
+        "word": "Sesame Seed",
+        "emoji": "🌿",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "N",
+        "word": "Nutmeg",
+        "emoji": "🌰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Edible Seed",
+        "emoji": "🌻",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "O",
+        "word": "Olive Dried",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-dried-fruits-2",
+    "title": "Dried Fruits & Nuts - Part 2",
+    "bgGradient": [
+      "#6D4C41",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Anjeer",
+        "emoji": "🫒",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "K",
+        "word": "Kishmish",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "B",
+        "word": "Badam",
+        "emoji": "🌰",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Charoli",
+        "emoji": "🌰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Makhana",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pecan",
+        "emoji": "🌰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saffron",
+        "emoji": "🌿",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Walnut",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "D",
+        "word": "Dried Coconut",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Golden Raisin",
+        "emoji": "🍇",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "T",
+        "word": "Tahini Seed",
+        "emoji": "🌿",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "R",
+        "word": "Raw Cashew",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hemp Seed",
+        "emoji": "🌿",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "L",
+        "word": "Linseeds",
+        "emoji": "🌿",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "F",
+        "word": "Fox Nut",
+        "emoji": "🌸",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "J",
+        "word": "Jaggery Peanut",
+        "emoji": "🥜",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "N",
+        "word": "Nigella Seed",
+        "emoji": "🌿",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "O",
+        "word": "Oat",
+        "emoji": "🌾",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Walnut",
+        "emoji": "🌰",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "V",
+        "word": "Vetiver Seed",
+        "emoji": "🌿",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "U",
+        "word": "Unsalted Peanut",
+        "emoji": "🥜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "E",
+        "word": "Elachi",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "X",
+        "word": "Xanthium Seed",
+        "emoji": "🌿",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yard Long Bean",
+        "emoji": "🌿",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Z",
+        "word": "Zedoary",
+        "emoji": "🌿",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "C",
+        "word": "Cashew Nut",
+        "emoji": "🥜",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "P",
+        "word": "Poppy Seed",
+        "emoji": "🌿",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "A",
+        "word": "Acorn",
+        "emoji": "🌰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Star Anise",
+        "emoji": "🌟",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-dried-fruits-3",
+    "title": "Dried Fruits & Nuts - Part 3",
+    "bgGradient": [
+      "#8D6E63",
+      "#EFEBE9"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mixed Nuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dry Fig",
+        "emoji": "🫒",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "A",
+        "word": "Areca Nut",
+        "emoji": "🌰",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "P",
+        "word": "Pine Kernel",
+        "emoji": "🌰",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut Chips",
+        "emoji": "🥥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Roasted Almond",
+        "emoji": "🌰",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Salted Cashew",
+        "emoji": "🥜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tutti Frutti",
+        "emoji": "🍒",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Walnuts",
+        "emoji": "🌰",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "B",
+        "word": "Betel Nut",
+        "emoji": "🌿",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "G",
+        "word": "Ground Nut",
+        "emoji": "🥜",
+        "bgColor": "#EF6C00"
+      },
+      {
+        "letter": "K",
+        "word": "Khajoor",
+        "emoji": "🌰",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "L",
+        "word": "Lotus Puff",
+        "emoji": "🌸",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel Seed",
+        "emoji": "🌿",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "H",
+        "word": "Honey Nut",
+        "emoji": "🍯",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit Chip",
+        "emoji": "🍈",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "N",
+        "word": "Nut Butter",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "O",
+        "word": "Organic Raisin",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "E",
+        "word": "Energy Bar",
+        "emoji": "🥜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Almond",
+        "emoji": "🌰",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum Dried Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "U",
+        "word": "Unsweetened Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "X",
+        "word": "Xylitol Gum",
+        "emoji": "🌿",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Y",
+        "word": "Yeast Flake",
+        "emoji": "🌾",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Za'atar Seed",
+        "emoji": "🌿",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Oats",
+        "emoji": "🌾",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "D",
+        "word": "Dried Banana",
+        "emoji": "🍌",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "M",
+        "word": "Medjool Date",
+        "emoji": "🌰",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "P",
+        "word": "Pistachio Shell",
+        "emoji": "🥜",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "S",
+        "word": "Seed Mix",
+        "emoji": "🌻",
+        "bgColor": "#FFA000"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-super-fruits-1",
+    "title": "Super Fruits - Part 1",
+    "bgGradient": [
+      "#00897B",
+      "#B2DFDB"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Fruit",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Turmeric Root",
+        "emoji": "🌿",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍐",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🍓",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🫒",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "N",
+        "word": "Noni Fruit",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "J",
+        "word": "Jamun",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "H",
+        "word": "Hawthorn Berry",
+        "emoji": "🍒",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Gooseberry",
+        "emoji": "🍏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "V",
+        "word": "Vitamin C Fruit",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Umeboshi",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuzu",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziziphus",
+        "emoji": "🍏",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quince",
+        "emoji": "🍐",
+        "bgColor": "#9E9D24"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "P",
+        "word": "Passion Fruit",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-super-fruits-2",
+    "title": "Super Fruits - Part 2",
+    "bgGradient": [
+      "#00796B",
+      "#80CBC4"
+    ],
+    "accentColor": "#00695C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "A",
+        "word": "Amla",
+        "emoji": "🍏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "S",
+        "word": "Sea Buckthorn",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Camu Camu",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Baobab",
+        "emoji": "🍈",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lucuma",
+        "emoji": "🍑",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "T",
+        "word": "Tart Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pitaya",
+        "emoji": "🍈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "G",
+        "word": "Grape Seed",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "K",
+        "word": "Kakadu Plum",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Cherry",
+        "emoji": "🍒",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Red Grape",
+        "emoji": "🍇",
+        "bgColor": "#B71C1C"
+      },
+      {
+        "letter": "W",
+        "word": "White Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "F",
+        "word": "Feijoa",
+        "emoji": "🍐",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "N",
+        "word": "Nectarine",
+        "emoji": "🍑",
+        "bgColor": "#FF8A65"
+      },
+      {
+        "letter": "H",
+        "word": "Honeyberry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "J",
+        "word": "Jujube",
+        "emoji": "🍏",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "E",
+        "word": "Emu Apple",
+        "emoji": "🍏",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "I",
+        "word": "Illawarra Plum",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet Apple",
+        "emoji": "🍎",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "U",
+        "word": "Ugni",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "X",
+        "word": "Xoconostle",
+        "emoji": "🌵",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Plum",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "Z",
+        "word": "Zapote",
+        "emoji": "🍈",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "Q",
+        "word": "Quenepa",
+        "emoji": "🍏",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "A",
+        "word": "Aronia Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "S",
+        "word": "Star Fruit",
+        "emoji": "🌟",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "M",
+        "word": "Maqui Berry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "C",
+        "word": "Chaga",
+        "emoji": "🍄",
+        "bgColor": "#5D4037"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "fruits-super-fruits-3",
+    "title": "Super Fruits - Part 3",
+    "bgGradient": [
+      "#00695C",
+      "#4DB6AC"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Golden Berry",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "S",
+        "word": "Schisandra",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Moringa",
+        "emoji": "🌿",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "A",
+        "word": "Ashwagandha Berry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tulsi Berry",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Purple Mangosteen",
+        "emoji": "🍇",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "B",
+        "word": "Bilberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "C",
+        "word": "Cloudberry",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dewberry",
+        "emoji": "🫐",
+        "bgColor": "#283593"
+      },
+      {
+        "letter": "K",
+        "word": "Karonda",
+        "emoji": "🍒",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Rosehip",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wineberry",
+        "emoji": "🍓",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Lime",
+        "emoji": "🍋",
+        "bgColor": "#7CB342"
+      },
+      {
+        "letter": "O",
+        "word": "Organic Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "N",
+        "word": "Neem Berry",
+        "emoji": "🌿",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "J",
+        "word": "Java Apple",
+        "emoji": "🍎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Emblic Fruit",
+        "emoji": "🍏",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Bael",
+        "emoji": "🍈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "V",
+        "word": "Vitex Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "U",
+        "word": "Uvaia Fruit",
+        "emoji": "🍋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "X",
+        "word": "Ximenia Caffra",
+        "emoji": "🍑",
+        "bgColor": "#FF7043"
+      },
+      {
+        "letter": "Y",
+        "word": "Youngberry",
+        "emoji": "🫐",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "Z",
+        "word": "Zante Currant",
+        "emoji": "🍇",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quandong Fruit",
+        "emoji": "🍑",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Physalis",
+        "emoji": "🍋",
+        "bgColor": "#F9A825"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍏",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "S",
+        "word": "Soursop",
+        "emoji": "🍈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acerola Cherry",
+        "emoji": "🍒",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]

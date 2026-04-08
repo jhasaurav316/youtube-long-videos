@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: FRUIT NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Tropical Fruits - Part 1 (fruits-tropical-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-tropical-fruits-1-audio/
+
+Letter 0: M for Mango
+Letter 1: P for Papaya
+Letter 2: J for Jackfruit
+Letter 3: G for Guava
+Letter 4: L for Litchi
+Letter 5: B for Banana
+Letter 6: C for Coconut
+Letter 7: P for Pineapple
+Letter 8: W for Watermelon
+Letter 9: P for Pomegranate
+Letter 10: C for Chiku
+Letter 11: S for Sitaphal
+Letter 12: A for Amla
+Letter 13: J for Jamun
+Letter 14: B for Bael
+Letter 15: D for Dates
+Letter 16: F for Fig
+Letter 17: T for Tamarind
+Letter 18: S for Star Fruit
+Letter 19: W for Wood Apple
+Letter 20: O for Orange
+Letter 21: G for Grapes
+Letter 22: A for Apple
+Letter 23: K for Kiwi
+Letter 24: P for Passion Fruit
+Letter 25: D for Dragon Fruit
+Letter 26: L for Lemon
+Letter 27: P for Peach
+Letter 28: C for Cherry
+Letter 29: S for Strawberry
+
+PLAIN TEXT:
+M for Mango
+P for Papaya
+J for Jackfruit
+G for Guava
+L for Litchi
+B for Banana
+C for Coconut
+P for Pineapple
+W for Watermelon
+P for Pomegranate
+C for Chiku
+S for Sitaphal
+A for Amla
+J for Jamun
+B for Bael
+D for Dates
+F for Fig
+T for Tamarind
+S for Star Fruit
+W for Wood Apple
+O for Orange
+G for Grapes
+A for Apple
+K for Kiwi
+P for Passion Fruit
+D for Dragon Fruit
+L for Lemon
+P for Peach
+C for Cherry
+S for Strawberry
+
+
+----------------------------------------------------------------------
+#2. Tropical Fruits - Part 2 (fruits-tropical-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-tropical-fruits-2-audio/
+
+Letter 0: M for Muskmelon
+Letter 1: S for Sugarcane
+Letter 2: P for Plum
+Letter 3: P for Pear
+Letter 4: G for Grapefruit
+Letter 5: T for Tangerine
+Letter 6: B for Blueberry
+Letter 7: R for Raspberry
+Letter 8: L for Lime
+Letter 9: M for Mulberry
+Letter 10: C for Cantaloupe
+Letter 11: A for Apricot
+Letter 12: N for Nectarine
+Letter 13: K for Kumquat
+Letter 14: P for Persimmon
+Letter 15: G for Gooseberry
+Letter 16: S for Sapodilla
+Letter 17: J for Jujube
+Letter 18: L for Longan
+Letter 19: R for Rambutan
+Letter 20: M for Mangosteen
+Letter 21: D for Durian
+Letter 22: L for Lychee
+Letter 23: P for Pomelo
+Letter 24: C for Cranberry
+Letter 25: B for Breadfruit
+Letter 26: S for Soursop
+Letter 27: H for Honeydew
+Letter 28: A for Avocado
+Letter 29: T for Tender Coconut
+
+PLAIN TEXT:
+M for Muskmelon
+S for Sugarcane
+P for Plum
+P for Pear
+G for Grapefruit
+T for Tangerine
+B for Blueberry
+R for Raspberry
+L for Lime
+M for Mulberry
+C for Cantaloupe
+A for Apricot
+N for Nectarine
+K for Kumquat
+P for Persimmon
+G for Gooseberry
+S for Sapodilla
+J for Jujube
+L for Longan
+R for Rambutan
+M for Mangosteen
+D for Durian
+L for Lychee
+P for Pomelo
+C for Cranberry
+B for Breadfruit
+S for Soursop
+H for Honeydew
+A for Avocado
+T for Tender Coconut
+
+
+----------------------------------------------------------------------
+#3. Tropical Fruits - Part 3 (fruits-tropical-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-tropical-fruits-3-audio/
+
+Letter 0: C for Custard Apple
+Letter 1: K for Karonda
+Letter 2: F for Falsa
+Letter 3: P for Phalsa
+Letter 4: J for Java Plum
+Letter 5: B for Black Plum
+Letter 6: I for Indian Fig
+Letter 7: R for Rose Apple
+Letter 8: W for Water Chestnut
+Letter 9: M for Makoy
+Letter 10: S for Sweet Lime
+Letter 11: T for Toddy Palm
+Letter 12: G for Green Mango
+Letter 13: A for Aam Papad
+Letter 14: N for Noni
+Letter 15: P for Palmyra Fruit
+Letter 16: C for Crab Apple
+Letter 17: B for Ber
+Letter 18: H for Hog Plum
+Letter 19: S for Santol
+Letter 20: M for Monkey Fruit
+Letter 21: L for Langsat
+Letter 22: D for Damson
+Letter 23: O for Olive
+Letter 24: P for Physalis
+Letter 25: A for Anjeer
+Letter 26: K for Khirni
+Letter 27: E for Elephant Apple
+Letter 28: T for Tart Cherry
+Letter 29: G for Guavava
+
+PLAIN TEXT:
+C for Custard Apple
+K for Karonda
+F for Falsa
+P for Phalsa
+J for Java Plum
+B for Black Plum
+I for Indian Fig
+R for Rose Apple
+W for Water Chestnut
+M for Makoy
+S for Sweet Lime
+T for Toddy Palm
+G for Green Mango
+A for Aam Papad
+N for Noni
+P for Palmyra Fruit
+C for Crab Apple
+B for Ber
+H for Hog Plum
+S for Santol
+M for Monkey Fruit
+L for Langsat
+D for Damson
+O for Olive
+P for Physalis
+A for Anjeer
+K for Khirni
+E for Elephant Apple
+T for Tart Cherry
+G for Guavava
+
+
+----------------------------------------------------------------------
+#4. Berry Collection - Part 1 (fruits-berry-collection-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-berry-collection-1-audio/
+
+Letter 0: S for Strawberry
+Letter 1: B for Blueberry
+Letter 2: R for Raspberry
+Letter 3: B for Blackberry
+Letter 4: C for Cranberry
+Letter 5: G for Gooseberry
+Letter 6: M for Mulberry
+Letter 7: F for Falsa Berry
+Letter 8: A for Amla Berry
+Letter 9: K for Karonda Berry
+Letter 10: J for Jamun Berry
+Letter 11: E for Elderberry
+Letter 12: L for Lingonberry
+Letter 13: A for Acai Berry
+Letter 14: G for Goji Berry
+Letter 15: H for Huckleberry
+Letter 16: B for Boysenberry
+Letter 17: D for Dewberry
+Letter 18: M for Marionberry
+Letter 19: L for Loganberry
+Letter 20: C for Cherry
+Letter 21: W for Waterberry
+Letter 22: S for Salmonberry
+Letter 23: T for Tayberry
+Letter 24: P for Phalsa
+Letter 25: N for Nance Berry
+Letter 26: R for Red Currant
+Letter 27: B for Black Currant
+Letter 28: W for White Currant
+Letter 29: I for Indian Gooseberry
+
+PLAIN TEXT:
+S for Strawberry
+B for Blueberry
+R for Raspberry
+B for Blackberry
+C for Cranberry
+G for Gooseberry
+M for Mulberry
+F for Falsa Berry
+A for Amla Berry
+K for Karonda Berry
+J for Jamun Berry
+E for Elderberry
+L for Lingonberry
+A for Acai Berry
+G for Goji Berry
+H for Huckleberry
+B for Boysenberry
+D for Dewberry
+M for Marionberry
+L for Loganberry
+C for Cherry
+W for Waterberry
+S for Salmonberry
+T for Tayberry
+P for Phalsa
+N for Nance Berry
+R for Red Currant
+B for Black Currant
+W for White Currant
+I for Indian Gooseberry
+
+
+----------------------------------------------------------------------
+#5. Berry Collection - Part 2 (fruits-berry-collection-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-berry-collection-2-audio/
+
+Letter 0: S for Serviceberry
+Letter 1: C for Cloudberry
+Letter 2: J for Juniper Berry
+Letter 3: B for Barberry
+Letter 4: P for Partridgeberry
+Letter 5: T for Thimbleberry
+Letter 6: W for Wineberry
+Letter 7: S for Snowberry
+Letter 8: C for Chokeberry
+Letter 9: H for Honeyberry
+Letter 10: M for Mango
+Letter 11: G for Grapes
+Letter 12: P for Pomegranate
+Letter 13: L for Litchi
+Letter 14: K for Kokum
+Letter 15: B for Bilberry
+Letter 16: A for Atemoya
+Letter 17: R for Rambutan
+Letter 18: D for Dragon Fruit
+Letter 19: F for Fig
+Letter 20: N for Nagpur Orange
+Letter 21: O for Otaheite Gooseberry
+Letter 22: E for Emblic
+Letter 23: U for Ugli Fruit
+Letter 24: V for Velvet Apple
+Letter 25: I for Imbe
+Letter 26: Z for Ziziphus
+Letter 27: Y for Yellow Passion Fruit
+Letter 28: X for Ximenia
+Letter 29: Q for Quince
+
+PLAIN TEXT:
+S for Serviceberry
+C for Cloudberry
+J for Juniper Berry
+B for Barberry
+P for Partridgeberry
+T for Thimbleberry
+W for Wineberry
+S for Snowberry
+C for Chokeberry
+H for Honeyberry
+M for Mango
+G for Grapes
+P for Pomegranate
+L for Litchi
+K for Kokum
+B for Bilberry
+A for Atemoya
+R for Rambutan
+D for Dragon Fruit
+F for Fig
+N for Nagpur Orange
+O for Otaheite Gooseberry
+E for Emblic
+U for Ugli Fruit
+V for Velvet Apple
+I for Imbe
+Z for Ziziphus
+Y for Yellow Passion Fruit
+X for Ximenia
+Q for Quince
+
+
+----------------------------------------------------------------------
+#6. Berry Collection - Part 3 (fruits-berry-collection-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-berry-collection-3-audio/
+
+Letter 0: S for Shahtoot
+Letter 1: K for Kafir Lime
+Letter 2: R for Rasbhari
+Letter 3: J for Jambul
+Letter 4: P for Pineberry
+Letter 5: A for Aonla
+Letter 6: B for Ber Fruit
+Letter 7: G for Golden Berry
+Letter 8: T for Tomatillo
+Letter 9: C for Cape Gooseberry
+Letter 10: L for Langsat
+Letter 11: D for Durian
+Letter 12: M for Mahua
+Letter 13: W for Wild Strawberry
+Letter 14: N for Nungu
+Letter 15: F for Forest Strawberry
+Letter 16: H for Hawthorn Berry
+Letter 17: O for Oregon Grape
+Letter 18: E for Etrog
+Letter 19: V for Velvet Tamarind
+Letter 20: I for Ice Apple
+Letter 21: U for Umbu
+Letter 22: Z for Zalzalak
+Letter 23: Y for Youngberry
+Letter 24: X for Xigua
+Letter 25: Q for Queen Anne Cherry
+Letter 26: P for Papaya
+Letter 27: B for Banana
+Letter 28: C for Chiku
+Letter 29: M for Melon
+
+PLAIN TEXT:
+S for Shahtoot
+K for Kafir Lime
+R for Rasbhari
+J for Jambul
+P for Pineberry
+A for Aonla
+B for Ber Fruit
+G for Golden Berry
+T for Tomatillo
+C for Cape Gooseberry
+L for Langsat
+D for Durian
+M for Mahua
+W for Wild Strawberry
+N for Nungu
+F for Forest Strawberry
+H for Hawthorn Berry
+O for Oregon Grape
+E for Etrog
+V for Velvet Tamarind
+I for Ice Apple
+U for Umbu
+Z for Zalzalak
+Y for Youngberry
+X for Xigua
+Q for Queen Anne Cherry
+P for Papaya
+B for Banana
+C for Chiku
+M for Melon
+
+
+----------------------------------------------------------------------
+#7. Citrus Fruits - Part 1 (fruits-citrus-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-citrus-fruits-1-audio/
+
+Letter 0: O for Orange
+Letter 1: L for Lemon
+Letter 2: L for Lime
+Letter 3: G for Grapefruit
+Letter 4: T for Tangerine
+Letter 5: S for Sweet Lime
+Letter 6: P for Pomelo
+Letter 7: K for Kumquat
+Letter 8: M for Mandarin
+Letter 9: C for Clementine
+Letter 10: B for Blood Orange
+Letter 11: N for Navel Orange
+Letter 12: K for Key Lime
+Letter 13: Y for Yuzu
+Letter 14: C for Citron
+Letter 15: M for Meyer Lemon
+Letter 16: F for Finger Lime
+Letter 17: U for Ugli Fruit
+Letter 18: B for Bergamot
+Letter 19: R for Rangpur Lime
+Letter 20: S for Satsuma
+Letter 21: K for Kaffir Lime
+Letter 22: A for Amanatsu
+Letter 23: D for Dekopon
+Letter 24: J for Jaffa Orange
+Letter 25: W for White Grapefruit
+Letter 26: P for Persian Lime
+Letter 27: H for Hehu Orange
+Letter 28: I for Indian Lime
+Letter 29: E for Etrog Citron
+
+PLAIN TEXT:
+O for Orange
+L for Lemon
+L for Lime
+G for Grapefruit
+T for Tangerine
+S for Sweet Lime
+P for Pomelo
+K for Kumquat
+M for Mandarin
+C for Clementine
+B for Blood Orange
+N for Navel Orange
+K for Key Lime
+Y for Yuzu
+C for Citron
+M for Meyer Lemon
+F for Finger Lime
+U for Ugli Fruit
+B for Bergamot
+R for Rangpur Lime
+S for Satsuma
+K for Kaffir Lime
+A for Amanatsu
+D for Dekopon
+J for Jaffa Orange
+W for White Grapefruit
+P for Persian Lime
+H for Hehu Orange
+I for Indian Lime
+E for Etrog Citron
+
+
+----------------------------------------------------------------------
+#8. Citrus Fruits - Part 2 (fruits-citrus-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-citrus-fruits-2-audio/
+
+Letter 0: N for Nagpur Orange
+Letter 1: D for Darjeeling Orange
+Letter 2: C for Coorg Orange
+Letter 3: K for Khasi Mandarin
+Letter 4: S for Sikkim Mandarin
+Letter 5: A for Assam Lemon
+Letter 6: G for Gondhoraj Lime
+Letter 7: M for Mosambi
+Letter 8: S for Santra
+Letter 9: N for Nimbu
+Letter 10: T for Tangelo
+Letter 11: O for Oroblanco
+Letter 12: P for Pink Grapefruit
+Letter 13: R for Red Grapefruit
+Letter 14: C for Calamansi
+Letter 15: L for Limetta
+Letter 16: B for Bitter Orange
+Letter 17: V for Valencia Orange
+Letter 18: F for Fairchild Tangerine
+Letter 19: H for Hyuganatsu
+Letter 20: W for Willowleaf Mandarin
+Letter 21: J for Jambhiri Lemon
+Letter 22: Z for Zereshk
+Letter 23: X for Xinomavro Grape
+Letter 24: I for Iyokan
+Letter 25: E for Eureka Lemon
+Letter 26: Q for Quenepa
+Letter 27: U for Unshiu Mikan
+Letter 28: Y for Yuja
+Letter 29: M for Minneola Tangelo
+
+PLAIN TEXT:
+N for Nagpur Orange
+D for Darjeeling Orange
+C for Coorg Orange
+K for Khasi Mandarin
+S for Sikkim Mandarin
+A for Assam Lemon
+G for Gondhoraj Lime
+M for Mosambi
+S for Santra
+N for Nimbu
+T for Tangelo
+O for Oroblanco
+P for Pink Grapefruit
+R for Red Grapefruit
+C for Calamansi
+L for Limetta
+B for Bitter Orange
+V for Valencia Orange
+F for Fairchild Tangerine
+H for Hyuganatsu
+W for Willowleaf Mandarin
+J for Jambhiri Lemon
+Z for Zereshk
+X for Xinomavro Grape
+I for Iyokan
+E for Eureka Lemon
+Q for Quenepa
+U for Unshiu Mikan
+Y for Yuja
+M for Minneola Tangelo
+
+
+----------------------------------------------------------------------
+#9. Citrus Fruits - Part 3 (fruits-citrus-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-citrus-fruits-3-audio/
+
+Letter 0: L for Lemon Drop
+Letter 1: O for Oro Blanco
+Letter 2: S for Sudan Orange
+Letter 3: P for Ponkan
+Letter 4: T for Temple Orange
+Letter 5: K for Kabosu
+Letter 6: M for Mango
+Letter 7: G for Guava
+Letter 8: B for Banana
+Letter 9: J for Jackfruit
+Letter 10: C for Chiku
+Letter 11: W for Watermelon
+Letter 12: P for Pineapple
+Letter 13: A for Amla
+Letter 14: D for Dates
+Letter 15: R for Rough Lemon
+Letter 16: N for Nartjie
+Letter 17: F for Flat Lemon
+Letter 18: H for Hassaku
+Letter 19: V for Variegated Lemon
+Letter 20: I for Indian Citron
+Letter 21: E for Emperor Mandarin
+Letter 22: U for Unshu Mikan
+Letter 23: Y for Yellow Lemon
+Letter 24: Z for Zest Lime
+Letter 25: X for Xoconostle
+Letter 26: Q for Quince
+Letter 27: S for Sitaphal
+Letter 28: L for Litchi
+Letter 29: C for Coconut
+
+PLAIN TEXT:
+L for Lemon Drop
+O for Oro Blanco
+S for Sudan Orange
+P for Ponkan
+T for Temple Orange
+K for Kabosu
+M for Mango
+G for Guava
+B for Banana
+J for Jackfruit
+C for Chiku
+W for Watermelon
+P for Pineapple
+A for Amla
+D for Dates
+R for Rough Lemon
+N for Nartjie
+F for Flat Lemon
+H for Hassaku
+V for Variegated Lemon
+I for Indian Citron
+E for Emperor Mandarin
+U for Unshu Mikan
+Y for Yellow Lemon
+Z for Zest Lime
+X for Xoconostle
+Q for Quince
+S for Sitaphal
+L for Litchi
+C for Coconut
+
+
+----------------------------------------------------------------------
+#10. Exotic Fruits - Part 1 (fruits-exotic-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-exotic-fruits-1-audio/
+
+Letter 0: D for Dragon Fruit
+Letter 1: P for Passion Fruit
+Letter 2: K for Kiwi
+Letter 3: S for Star Fruit
+Letter 4: R for Rambutan
+Letter 5: M for Mangosteen
+Letter 6: L for Longan
+Letter 7: D for Durian
+Letter 8: J for Jackfruit
+Letter 9: L for Litchi
+Letter 10: C for Cherimoya
+Letter 11: A for Atemoya
+Letter 12: T for Tamarillo
+Letter 13: G for Guanabana
+Letter 14: F for Feijoa
+Letter 15: P for Pepino
+Letter 16: B for Buddha Hand
+Letter 17: H for Horned Melon
+Letter 18: S for Sapodilla
+Letter 19: N for Noni
+Letter 20: C for Cempedak
+Letter 21: W for Wood Apple
+Letter 22: B for Bael Fruit
+Letter 23: I for Ice Apple
+Letter 24: O for Olive
+Letter 25: M for Miracle Fruit
+Letter 26: E for Elephant Apple
+Letter 27: V for Velvet Apple
+Letter 28: U for Ugli Fruit
+Letter 29: Y for Yellow Watermelon
+
+PLAIN TEXT:
+D for Dragon Fruit
+P for Passion Fruit
+K for Kiwi
+S for Star Fruit
+R for Rambutan
+M for Mangosteen
+L for Longan
+D for Durian
+J for Jackfruit
+L for Litchi
+C for Cherimoya
+A for Atemoya
+T for Tamarillo
+G for Guanabana
+F for Feijoa
+P for Pepino
+B for Buddha Hand
+H for Horned Melon
+S for Sapodilla
+N for Noni
+C for Cempedak
+W for Wood Apple
+B for Bael Fruit
+I for Ice Apple
+O for Olive
+M for Miracle Fruit
+E for Elephant Apple
+V for Velvet Apple
+U for Ugli Fruit
+Y for Yellow Watermelon
+
+
+----------------------------------------------------------------------
+#11. Exotic Fruits - Part 2 (fruits-exotic-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-exotic-fruits-2-audio/
+
+Letter 0: S for Soursop
+Letter 1: B for Breadfruit
+Letter 2: L for Langsat
+Letter 3: S for Santol
+Letter 4: M for Marang
+Letter 5: P for Pulasan
+Letter 6: J for Jujube
+Letter 7: T for Toddy Palm
+Letter 8: C for Carambola
+Letter 9: A for Acerola
+Letter 10: K for Kokum
+Letter 11: G for Garcinia
+Letter 12: N for Nungu
+Letter 13: R for Rose Apple
+Letter 14: D for Damson Plum
+Letter 15: W for Wax Apple
+Letter 16: H for Hala Fruit
+Letter 17: F for Finger Lime
+Letter 18: O for Otaheite Apple
+Letter 19: E for Egg Fruit
+Letter 20: I for Indian Jujube
+Letter 21: V for Vanilla Fruit
+Letter 22: Z for Ziziphus Fruit
+Letter 23: Q for Quandong
+Letter 24: X for Xigua Melon
+Letter 25: U for Uvaia
+Letter 26: Y for Yangmei
+Letter 27: P for Pitaya
+Letter 28: M for Mango
+Letter 29: G for Guava
+
+PLAIN TEXT:
+S for Soursop
+B for Breadfruit
+L for Langsat
+S for Santol
+M for Marang
+P for Pulasan
+J for Jujube
+T for Toddy Palm
+C for Carambola
+A for Acerola
+K for Kokum
+G for Garcinia
+N for Nungu
+R for Rose Apple
+D for Damson Plum
+W for Wax Apple
+H for Hala Fruit
+F for Finger Lime
+O for Otaheite Apple
+E for Egg Fruit
+I for Indian Jujube
+V for Vanilla Fruit
+Z for Ziziphus Fruit
+Q for Quandong
+X for Xigua Melon
+U for Uvaia
+Y for Yangmei
+P for Pitaya
+M for Mango
+G for Guava
+
+
+----------------------------------------------------------------------
+#12. Exotic Fruits - Part 3 (fruits-exotic-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-exotic-fruits-3-audio/
+
+Letter 0: A for African Mango
+Letter 1: B for Black Sapote
+Letter 2: C for Canistel
+Letter 3: D for Date Palm
+Letter 4: E for Emblic Fruit
+Letter 5: F for Fox Grape
+Letter 6: G for Grumichama
+Letter 7: H for Hackberry
+Letter 8: I for Ilama
+Letter 9: J for Jabuticaba
+Letter 10: K for Kepel
+Letter 11: L for Lucuma
+Letter 12: M for Mamey Sapote
+Letter 13: N for Naranjilla
+Letter 14: O for Orangelo
+Letter 15: P for Pitahaya
+Letter 16: R for Rollinia
+Letter 17: S for Sugar Apple
+Letter 18: T for Tamarind
+Letter 19: U for Umbu Fruit
+Letter 20: V for Voavanga
+Letter 21: W for White Sapote
+Letter 22: X for Ximenia Fruit
+Letter 23: Y for Yellow Mangosteen
+Letter 24: Z for Zapote
+Letter 25: P for Pomegranate
+Letter 26: J for Jamun
+Letter 27: C for Custard Apple
+Letter 28: B for Ber
+Letter 29: K for Karonda
+
+PLAIN TEXT:
+A for African Mango
+B for Black Sapote
+C for Canistel
+D for Date Palm
+E for Emblic Fruit
+F for Fox Grape
+G for Grumichama
+H for Hackberry
+I for Ilama
+J for Jabuticaba
+K for Kepel
+L for Lucuma
+M for Mamey Sapote
+N for Naranjilla
+O for Orangelo
+P for Pitahaya
+R for Rollinia
+S for Sugar Apple
+T for Tamarind
+U for Umbu Fruit
+V for Voavanga
+W for White Sapote
+X for Ximenia Fruit
+Y for Yellow Mangosteen
+Z for Zapote
+P for Pomegranate
+J for Jamun
+C for Custard Apple
+B for Ber
+K for Karonda
+
+
+----------------------------------------------------------------------
+#13. Garden Fruits - Part 1 (fruits-garden-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-garden-fruits-1-audio/
+
+Letter 0: A for Apple
+Letter 1: P for Pear
+Letter 2: P for Peach
+Letter 3: P for Plum
+Letter 4: C for Cherry
+Letter 5: A for Apricot
+Letter 6: N for Nectarine
+Letter 7: F for Fig
+Letter 8: G for Grapes
+Letter 9: P for Pomegranate
+Letter 10: G for Guava
+Letter 11: M for Mango
+Letter 12: B for Banana
+Letter 13: P for Papaya
+Letter 14: L for Lemon
+Letter 15: O for Orange
+Letter 16: C for Coconut
+Letter 17: J for Jamun
+Letter 18: S for Strawberry
+Letter 19: W for Watermelon
+Letter 20: K for Kiwi
+Letter 21: D for Dates
+Letter 22: T for Tamarind
+Letter 23: A for Amla
+Letter 24: S for Sitaphal
+Letter 25: B for Bael
+Letter 26: L for Litchi
+Letter 27: C for Chiku
+Letter 28: R for Rose Apple
+Letter 29: H for Hog Plum
+
+PLAIN TEXT:
+A for Apple
+P for Pear
+P for Peach
+P for Plum
+C for Cherry
+A for Apricot
+N for Nectarine
+F for Fig
+G for Grapes
+P for Pomegranate
+G for Guava
+M for Mango
+B for Banana
+P for Papaya
+L for Lemon
+O for Orange
+C for Coconut
+J for Jamun
+S for Strawberry
+W for Watermelon
+K for Kiwi
+D for Dates
+T for Tamarind
+A for Amla
+S for Sitaphal
+B for Bael
+L for Litchi
+C for Chiku
+R for Rose Apple
+H for Hog Plum
+
+
+----------------------------------------------------------------------
+#14. Garden Fruits - Part 2 (fruits-garden-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-garden-fruits-2-audio/
+
+Letter 0: J for Jackfruit
+Letter 1: P for Pineapple
+Letter 2: D for Dragon Fruit
+Letter 3: S for Star Fruit
+Letter 4: W for Wood Apple
+Letter 5: M for Muskmelon
+Letter 6: K for Karonda
+Letter 7: F for Falsa
+Letter 8: G for Green Apple
+Letter 9: R for Red Banana
+Letter 10: B for Black Grapes
+Letter 11: T for Tender Coconut
+Letter 12: N for Neem Fruit
+Letter 13: V for Velvet Apple
+Letter 14: I for Indian Plum
+Letter 15: C for Cantaloupe
+Letter 16: A for Avocado
+Letter 17: L for Lime
+Letter 18: E for Elephant Apple
+Letter 19: O for Olive
+Letter 20: H for Honeydew
+Letter 21: U for Ugli Fruit
+Letter 22: Q for Quince
+Letter 23: Z for Ziziphus
+Letter 24: Y for Yellow Mango
+Letter 25: X for Xoconostle
+Letter 26: P for Passion Fruit
+Letter 27: S for Sapodilla
+Letter 28: M for Mulberry
+Letter 29: B for Ber
+
+PLAIN TEXT:
+J for Jackfruit
+P for Pineapple
+D for Dragon Fruit
+S for Star Fruit
+W for Wood Apple
+M for Muskmelon
+K for Karonda
+F for Falsa
+G for Green Apple
+R for Red Banana
+B for Black Grapes
+T for Tender Coconut
+N for Neem Fruit
+V for Velvet Apple
+I for Indian Plum
+C for Cantaloupe
+A for Avocado
+L for Lime
+E for Elephant Apple
+O for Olive
+H for Honeydew
+U for Ugli Fruit
+Q for Quince
+Z for Ziziphus
+Y for Yellow Mango
+X for Xoconostle
+P for Passion Fruit
+S for Sapodilla
+M for Mulberry
+B for Ber
+
+
+----------------------------------------------------------------------
+#15. Garden Fruits - Part 3 (fruits-garden-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-garden-fruits-3-audio/
+
+Letter 0: M for Mango
+Letter 1: G for Guava
+Letter 2: P for Pomegranate
+Letter 3: B for Banana
+Letter 4: C for Coconut
+Letter 5: A for Apple
+Letter 6: O for Orange
+Letter 7: W for Watermelon
+Letter 8: P for Papaya
+Letter 9: J for Jackfruit
+Letter 10: L for Litchi
+Letter 11: D for Dates
+Letter 12: S for Sugarcane Fruit
+Letter 13: T for Tomato
+Letter 14: K for Kumquat
+Letter 15: F for Fig
+Letter 16: N for Nectarine
+Letter 17: R for Rambutan
+Letter 18: I for Ice Apple
+Letter 19: V for Vanilla Fruit
+Letter 20: H for Honeydew Melon
+Letter 21: E for Emblic
+Letter 22: U for Umbu
+Letter 23: Z for Zalzalak
+Letter 24: Y for Yellow Passion Fruit
+Letter 25: X for Ximenia
+Letter 26: Q for Quandong
+Letter 27: C for Chiku
+Letter 28: S for Sitaphal
+Letter 29: B for Bael
+
+PLAIN TEXT:
+M for Mango
+G for Guava
+P for Pomegranate
+B for Banana
+C for Coconut
+A for Apple
+O for Orange
+W for Watermelon
+P for Papaya
+J for Jackfruit
+L for Litchi
+D for Dates
+S for Sugarcane Fruit
+T for Tomato
+K for Kumquat
+F for Fig
+N for Nectarine
+R for Rambutan
+I for Ice Apple
+V for Vanilla Fruit
+H for Honeydew Melon
+E for Emblic
+U for Umbu
+Z for Zalzalak
+Y for Yellow Passion Fruit
+X for Ximenia
+Q for Quandong
+C for Chiku
+S for Sitaphal
+B for Bael
+
+
+----------------------------------------------------------------------
+#16. Summer Fruits - Part 1 (fruits-summer-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-summer-fruits-1-audio/
+
+Letter 0: W for Watermelon
+Letter 1: M for Mango
+Letter 2: L for Litchi
+Letter 3: P for Papaya
+Letter 4: J for Jackfruit
+Letter 5: M for Muskmelon
+Letter 6: P for Pineapple
+Letter 7: K for Kiwi
+Letter 8: P for Peach
+Letter 9: C for Cherry
+Letter 10: G for Grapes
+Letter 11: P for Plum
+Letter 12: A for Apricot
+Letter 13: S for Strawberry
+Letter 14: B for Banana
+Letter 15: C for Coconut
+Letter 16: G for Guava
+Letter 17: F for Falsa
+Letter 18: J for Jamun
+Letter 19: T for Tadgola
+Letter 20: K for Karonda
+Letter 21: S for Sitaphal
+Letter 22: B for Bael
+Letter 23: A for Amla
+Letter 24: R for Raspberry
+Letter 25: D for Dragon Fruit
+Letter 26: P for Pomegranate
+Letter 27: O for Orange
+Letter 28: L for Lemon
+Letter 29: C for Chiku
+
+PLAIN TEXT:
+W for Watermelon
+M for Mango
+L for Litchi
+P for Papaya
+J for Jackfruit
+M for Muskmelon
+P for Pineapple
+K for Kiwi
+P for Peach
+C for Cherry
+G for Grapes
+P for Plum
+A for Apricot
+S for Strawberry
+B for Banana
+C for Coconut
+G for Guava
+F for Falsa
+J for Jamun
+T for Tadgola
+K for Karonda
+S for Sitaphal
+B for Bael
+A for Amla
+R for Raspberry
+D for Dragon Fruit
+P for Pomegranate
+O for Orange
+L for Lemon
+C for Chiku
+
+
+----------------------------------------------------------------------
+#17. Summer Fruits - Part 2 (fruits-summer-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-summer-fruits-2-audio/
+
+Letter 0: M for Melon
+Letter 1: L for Lychee
+Letter 2: S for Star Fruit
+Letter 3: P for Passion Fruit
+Letter 4: G for Gooseberry
+Letter 5: N for Nectarine
+Letter 6: T for Tamarind
+Letter 7: W for Wood Apple
+Letter 8: K for Kokum
+Letter 9: M for Mosambi
+Letter 10: S for Sugarcane
+Letter 11: J for Java Plum
+Letter 12: F for Fig
+Letter 13: D for Dates
+Letter 14: A for Avocado
+Letter 15: B for Blackberry
+Letter 16: C for Cantaloupe
+Letter 17: H for Honeydew
+Letter 18: R for Rambutan
+Letter 19: L for Longan
+Letter 20: P for Persimmon
+Letter 21: G for Grapefruit
+Letter 22: T for Tangerine
+Letter 23: U for Ugli Fruit
+Letter 24: Z for Ziziphus
+Letter 25: I for Indian Jujube
+Letter 26: O for Olive
+Letter 27: Q for Quince
+Letter 28: V for Vanilla Bean
+Letter 29: E for Elderberry
+
+PLAIN TEXT:
+M for Melon
+L for Lychee
+S for Star Fruit
+P for Passion Fruit
+G for Gooseberry
+N for Nectarine
+T for Tamarind
+W for Wood Apple
+K for Kokum
+M for Mosambi
+S for Sugarcane
+J for Java Plum
+F for Fig
+D for Dates
+A for Avocado
+B for Blackberry
+C for Cantaloupe
+H for Honeydew
+R for Rambutan
+L for Longan
+P for Persimmon
+G for Grapefruit
+T for Tangerine
+U for Ugli Fruit
+Z for Ziziphus
+I for Indian Jujube
+O for Olive
+Q for Quince
+V for Vanilla Bean
+E for Elderberry
+
+
+----------------------------------------------------------------------
+#18. Summer Fruits - Part 3 (fruits-summer-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-summer-fruits-3-audio/
+
+Letter 0: W for Water Chestnut
+Letter 1: S for Sapodilla
+Letter 2: P for Prickly Pear
+Letter 3: M for Mulberry
+Letter 4: C for Cranberry
+Letter 5: B for Blueberry
+Letter 6: A for Aam Panna
+Letter 7: G for Green Apple
+Letter 8: R for Red Banana
+Letter 9: T for Tender Coconut
+Letter 10: L for Lime
+Letter 11: D for Durian
+Letter 12: K for Kumquat
+Letter 13: N for Noni
+Letter 14: J for Jambul
+Letter 15: O for Otaheite Apple
+Letter 16: F for Finger Lime
+Letter 17: H for Hog Plum
+Letter 18: E for Emblica
+Letter 19: I for Ice Apple
+Letter 20: Y for Yellow Plum
+Letter 21: Z for Zucchini
+Letter 22: V for Velvet Apple
+Letter 23: U for Uvaia
+Letter 24: X for Ximenia
+Letter 25: P for Phalsa
+Letter 26: S for Snake Fruit
+Letter 27: M for Mangosteen
+Letter 28: B for Breadfruit
+Letter 29: C for Cempedak
+
+PLAIN TEXT:
+W for Water Chestnut
+S for Sapodilla
+P for Prickly Pear
+M for Mulberry
+C for Cranberry
+B for Blueberry
+A for Aam Panna
+G for Green Apple
+R for Red Banana
+T for Tender Coconut
+L for Lime
+D for Durian
+K for Kumquat
+N for Noni
+J for Jambul
+O for Otaheite Apple
+F for Finger Lime
+H for Hog Plum
+E for Emblica
+I for Ice Apple
+Y for Yellow Plum
+Z for Zucchini
+V for Velvet Apple
+U for Uvaia
+X for Ximenia
+P for Phalsa
+S for Snake Fruit
+M for Mangosteen
+B for Breadfruit
+C for Cempedak
+
+
+----------------------------------------------------------------------
+#19. Winter Fruits - Part 1 (fruits-winter-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-winter-fruits-1-audio/
+
+Letter 0: O for Orange
+Letter 1: A for Apple
+Letter 2: G for Guava
+Letter 3: P for Pomegranate
+Letter 4: S for Strawberry
+Letter 5: K for Kinnow
+Letter 6: G for Grapes
+Letter 7: C for Custard Apple
+Letter 8: B for Ber
+Letter 9: D for Dates
+Letter 10: P for Pear
+Letter 11: M for Mandarin
+Letter 12: A for Amla
+Letter 13: C for Carambola
+Letter 14: F for Fig
+Letter 15: L for Lemon
+Letter 16: T for Tangerine
+Letter 17: W for Walnut
+Letter 18: P for Pistachio
+Letter 19: R for Raisin
+Letter 20: C for Cashew Fruit
+Letter 21: J for Jujube
+Letter 22: N for Nagpur Orange
+Letter 23: H for Hazelnut
+Letter 24: E for Endive
+Letter 25: I for Indian Fig
+Letter 26: V for Valencia Orange
+Letter 27: U for Urad Fruit
+Letter 28: Y for Youngberry
+Letter 29: Z for Zante Currant
+
+PLAIN TEXT:
+O for Orange
+A for Apple
+G for Guava
+P for Pomegranate
+S for Strawberry
+K for Kinnow
+G for Grapes
+C for Custard Apple
+B for Ber
+D for Dates
+P for Pear
+M for Mandarin
+A for Amla
+C for Carambola
+F for Fig
+L for Lemon
+T for Tangerine
+W for Walnut
+P for Pistachio
+R for Raisin
+C for Cashew Fruit
+J for Jujube
+N for Nagpur Orange
+H for Hazelnut
+E for Endive
+I for Indian Fig
+V for Valencia Orange
+U for Urad Fruit
+Y for Youngberry
+Z for Zante Currant
+
+
+----------------------------------------------------------------------
+#20. Winter Fruits - Part 2 (fruits-winter-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-winter-fruits-2-audio/
+
+Letter 0: S for Sweet Lime
+Letter 1: M for Malta
+Letter 2: B for Blood Orange
+Letter 3: P for Persimmon
+Letter 4: C for Clementine
+Letter 5: K for Kumquat
+Letter 6: G for Golden Apple
+Letter 7: A for Almond
+Letter 8: D for Dried Apricot
+Letter 9: T for Tamarillo
+Letter 10: R for Red Apple
+Letter 11: L for Litchi
+Letter 12: W for Winter Melon
+Letter 13: F for Feijoa
+Letter 14: N for Navel Orange
+Letter 15: H for Honeyberry
+Letter 16: J for Japanese Plum
+Letter 17: O for Olive
+Letter 18: E for Etrog
+Letter 19: Q for Quandong
+Letter 20: I for Ilama
+Letter 21: V for Voavanga
+Letter 22: X for Xigua
+Letter 23: Y for Yuzu
+Letter 24: Z for Zapote
+Letter 25: U for Ugni
+Letter 26: P for Prune
+Letter 27: C for Cherimoya
+Letter 28: B for Bael Fruit
+Letter 29: S for Satsuma
+
+PLAIN TEXT:
+S for Sweet Lime
+M for Malta
+B for Blood Orange
+P for Persimmon
+C for Clementine
+K for Kumquat
+G for Golden Apple
+A for Almond
+D for Dried Apricot
+T for Tamarillo
+R for Red Apple
+L for Litchi
+W for Winter Melon
+F for Feijoa
+N for Navel Orange
+H for Honeyberry
+J for Japanese Plum
+O for Olive
+E for Etrog
+Q for Quandong
+I for Ilama
+V for Voavanga
+X for Xigua
+Y for Yuzu
+Z for Zapote
+U for Ugni
+P for Prune
+C for Cherimoya
+B for Bael Fruit
+S for Satsuma
+
+
+----------------------------------------------------------------------
+#21. Winter Fruits - Part 3 (fruits-winter-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-winter-fruits-3-audio/
+
+Letter 0: A for Apple
+Letter 1: O for Orange
+Letter 2: G for Guava
+Letter 3: P for Pear
+Letter 4: K for Kinnow
+Letter 5: M for Mosambi
+Letter 6: S for Sapota
+Letter 7: B for Banana
+Letter 8: D for Dragon Fruit
+Letter 9: C for Coconut
+Letter 10: T for Tamarind
+Letter 11: L for Lime
+Letter 12: W for Water Apple
+Letter 13: F for Finger Lime
+Letter 14: R for Rose Apple
+Letter 15: N for Nashi Pear
+Letter 16: H for Hala Fruit
+Letter 17: J for Juniper Berry
+Letter 18: I for Indian Plum
+Letter 19: E for Egg Fruit
+Letter 20: V for Velvet Tamarind
+Letter 21: U for Umbu
+Letter 22: X for Xylocarp
+Letter 23: Y for Yali Pear
+Letter 24: Z for Zalzalak
+Letter 25: Q for Quenepa
+Letter 26: P for Pomelo
+Letter 27: M for Mandarin
+Letter 28: S for Star Apple
+Letter 29: C for Crab Apple
+
+PLAIN TEXT:
+A for Apple
+O for Orange
+G for Guava
+P for Pear
+K for Kinnow
+M for Mosambi
+S for Sapota
+B for Banana
+D for Dragon Fruit
+C for Coconut
+T for Tamarind
+L for Lime
+W for Water Apple
+F for Finger Lime
+R for Rose Apple
+N for Nashi Pear
+H for Hala Fruit
+J for Juniper Berry
+I for Indian Plum
+E for Egg Fruit
+V for Velvet Tamarind
+U for Umbu
+X for Xylocarp
+Y for Yali Pear
+Z for Zalzalak
+Q for Quenepa
+P for Pomelo
+M for Mandarin
+S for Star Apple
+C for Crab Apple
+
+
+----------------------------------------------------------------------
+#22. Asian Fruits - Part 1 (fruits-asian-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-asian-fruits-1-audio/
+
+Letter 0: M for Mango
+Letter 1: L for Longan
+Letter 2: R for Rambutan
+Letter 3: D for Durian
+Letter 4: J for Jackfruit
+Letter 5: L for Lychee
+Letter 6: M for Mangosteen
+Letter 7: P for Papaya
+Letter 8: S for Snake Fruit
+Letter 9: T for Thai Banana
+Letter 10: C for Calamansi
+Letter 11: G for Guava
+Letter 12: K for Kumquat
+Letter 13: A for Asian Pear
+Letter 14: B for Buddha Hand
+Letter 15: W for Wax Apple
+Letter 16: N for Noni
+Letter 17: O for Otaheite Gooseberry
+Letter 18: F for Finger Lime
+Letter 19: H for Horned Melon
+Letter 20: I for Indian Gooseberry
+Letter 21: E for Emblic
+Letter 22: V for Velvet Apple
+Letter 23: U for Ume
+Letter 24: Y for Yangmei
+Letter 25: Z for Ziziphus
+Letter 26: X for Ximenia
+Letter 27: Q for Quince
+Letter 28: S for Starfruit
+Letter 29: C for Chiku
+
+PLAIN TEXT:
+M for Mango
+L for Longan
+R for Rambutan
+D for Durian
+J for Jackfruit
+L for Lychee
+M for Mangosteen
+P for Papaya
+S for Snake Fruit
+T for Thai Banana
+C for Calamansi
+G for Guava
+K for Kumquat
+A for Asian Pear
+B for Buddha Hand
+W for Wax Apple
+N for Noni
+O for Otaheite Gooseberry
+F for Finger Lime
+H for Horned Melon
+I for Indian Gooseberry
+E for Emblic
+V for Velvet Apple
+U for Ume
+Y for Yangmei
+Z for Ziziphus
+X for Ximenia
+Q for Quince
+S for Starfruit
+C for Chiku
+
+
+----------------------------------------------------------------------
+#23. Asian Fruits - Part 2 (fruits-asian-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-asian-fruits-2-audio/
+
+Letter 0: P for Persimmon
+Letter 1: J for Jambul
+Letter 2: T for Tamarillo
+Letter 3: K for Kaffir Lime
+Letter 4: S for Soursop
+Letter 5: G for Gac Fruit
+Letter 6: L for Langsat
+Letter 7: B for Bilimbi
+Letter 8: M for Miracle Fruit
+Letter 9: D for Duku
+Letter 10: A for Atemoya
+Letter 11: R for Rose Hip
+Letter 12: C for Cempedak
+Letter 13: N for Naranjilla
+Letter 14: W for Wampee
+Letter 15: F for Feijoa
+Letter 16: H for Hawthorn
+Letter 17: O for Olallieberry
+Letter 18: E for Elephant Apple
+Letter 19: I for Ice Cream Bean
+Letter 20: V for Voavanga
+Letter 21: U for Ugli Fruit
+Letter 22: X for Xigua
+Letter 23: Y for Yumberry
+Letter 24: Z for Zabon
+Letter 25: Q for Quandong
+Letter 26: P for Pitaya
+Letter 27: J for Jabuticaba
+Letter 28: T for Thai Mango
+Letter 29: L for Loquat
+
+PLAIN TEXT:
+P for Persimmon
+J for Jambul
+T for Tamarillo
+K for Kaffir Lime
+S for Soursop
+G for Gac Fruit
+L for Langsat
+B for Bilimbi
+M for Miracle Fruit
+D for Duku
+A for Atemoya
+R for Rose Hip
+C for Cempedak
+N for Naranjilla
+W for Wampee
+F for Feijoa
+H for Hawthorn
+O for Olallieberry
+E for Elephant Apple
+I for Ice Cream Bean
+V for Voavanga
+U for Ugli Fruit
+X for Xigua
+Y for Yumberry
+Z for Zabon
+Q for Quandong
+P for Pitaya
+J for Jabuticaba
+T for Thai Mango
+L for Loquat
+
+
+----------------------------------------------------------------------
+#24. Asian Fruits - Part 3 (fruits-asian-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-asian-fruits-3-audio/
+
+Letter 0: S for Santol
+Letter 1: M for Marang
+Letter 2: C for Canistel
+Letter 3: B for Breadfruit
+Letter 4: P for Pomelo
+Letter 5: A for Acerola
+Letter 6: G for Governor Plum
+Letter 7: D for Dabai
+Letter 8: K for Kepel
+Letter 9: R for Rollinia
+Letter 10: L for Longanberry
+Letter 11: T for Tree Tomato
+Letter 12: N for Nance
+Letter 13: W for White Sapote
+Letter 14: F for Falsa
+Letter 15: J for Jatoba
+Letter 16: H for Hog Plum
+Letter 17: O for Oil Palm Fruit
+Letter 18: E for Etrog
+Letter 19: I for Imbe
+Letter 20: V for Velvet Bean
+Letter 21: U for Uvaia
+Letter 22: X for Xoconostle
+Letter 23: Y for Yellow Passion Fruit
+Letter 24: Z for Zinfandel Grape
+Letter 25: Q for Queen Anne Cherry
+Letter 26: M for Monstera
+Letter 27: S for Sapodilla
+Letter 28: P for Pulasan
+Letter 29: C for Cupuacu
+
+PLAIN TEXT:
+S for Santol
+M for Marang
+C for Canistel
+B for Breadfruit
+P for Pomelo
+A for Acerola
+G for Governor Plum
+D for Dabai
+K for Kepel
+R for Rollinia
+L for Longanberry
+T for Tree Tomato
+N for Nance
+W for White Sapote
+F for Falsa
+J for Jatoba
+H for Hog Plum
+O for Oil Palm Fruit
+E for Etrog
+I for Imbe
+V for Velvet Bean
+U for Uvaia
+X for Xoconostle
+Y for Yellow Passion Fruit
+Z for Zinfandel Grape
+Q for Queen Anne Cherry
+M for Monstera
+S for Sapodilla
+P for Pulasan
+C for Cupuacu
+
+
+----------------------------------------------------------------------
+#25. Dried Fruits & Nuts - Part 1 (fruits-dried-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-dried-fruits-1-audio/
+
+Letter 0: A for Almond
+Letter 1: C for Cashew
+Letter 2: P for Pistachio
+Letter 3: W for Walnut
+Letter 4: R for Raisin
+Letter 5: D for Dates
+Letter 6: F for Fig
+Letter 7: A for Apricot
+Letter 8: P for Prune
+Letter 9: P for Peanut
+Letter 10: H for Hazelnut
+Letter 11: M for Macadamia
+Letter 12: B for Brazil Nut
+Letter 13: C for Chestnut
+Letter 14: S for Sunflower Seed
+Letter 15: P for Pine Nut
+Letter 16: F for Flax Seed
+Letter 17: C for Chia Seed
+Letter 18: K for Kaju
+Letter 19: G for Goji Berry
+Letter 20: T for Trail Mix
+Letter 21: D for Dried Mango
+Letter 22: C for Cranberry Dried
+Letter 23: L for Lotus Seed
+Letter 24: W for Watermelon Seed
+Letter 25: P for Pumpkin Seed
+Letter 26: S for Sesame Seed
+Letter 27: N for Nutmeg
+Letter 28: E for Edible Seed
+Letter 29: O for Olive Dried
+
+PLAIN TEXT:
+A for Almond
+C for Cashew
+P for Pistachio
+W for Walnut
+R for Raisin
+D for Dates
+F for Fig
+A for Apricot
+P for Prune
+P for Peanut
+H for Hazelnut
+M for Macadamia
+B for Brazil Nut
+C for Chestnut
+S for Sunflower Seed
+P for Pine Nut
+F for Flax Seed
+C for Chia Seed
+K for Kaju
+G for Goji Berry
+T for Trail Mix
+D for Dried Mango
+C for Cranberry Dried
+L for Lotus Seed
+W for Watermelon Seed
+P for Pumpkin Seed
+S for Sesame Seed
+N for Nutmeg
+E for Edible Seed
+O for Olive Dried
+
+
+----------------------------------------------------------------------
+#26. Dried Fruits & Nuts - Part 2 (fruits-dried-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-dried-fruits-2-audio/
+
+Letter 0: A for Anjeer
+Letter 1: K for Kishmish
+Letter 2: B for Badam
+Letter 3: C for Charoli
+Letter 4: M for Makhana
+Letter 5: P for Pecan
+Letter 6: S for Saffron
+Letter 7: W for Walnut
+Letter 8: D for Dried Coconut
+Letter 9: G for Golden Raisin
+Letter 10: T for Tahini Seed
+Letter 11: R for Raw Cashew
+Letter 12: H for Hemp Seed
+Letter 13: L for Linseeds
+Letter 14: F for Fox Nut
+Letter 15: J for Jaggery Peanut
+Letter 16: N for Nigella Seed
+Letter 17: O for Oat
+Letter 18: I for Indian Walnut
+Letter 19: V for Vetiver Seed
+Letter 20: U for Unsalted Peanut
+Letter 21: E for Elachi
+Letter 22: X for Xanthium Seed
+Letter 23: Y for Yard Long Bean
+Letter 24: Z for Zedoary
+Letter 25: Q for Quinoa
+Letter 26: C for Cashew Nut
+Letter 27: P for Poppy Seed
+Letter 28: A for Acorn
+Letter 29: S for Star Anise
+
+PLAIN TEXT:
+A for Anjeer
+K for Kishmish
+B for Badam
+C for Charoli
+M for Makhana
+P for Pecan
+S for Saffron
+W for Walnut
+D for Dried Coconut
+G for Golden Raisin
+T for Tahini Seed
+R for Raw Cashew
+H for Hemp Seed
+L for Linseeds
+F for Fox Nut
+J for Jaggery Peanut
+N for Nigella Seed
+O for Oat
+I for Indian Walnut
+V for Vetiver Seed
+U for Unsalted Peanut
+E for Elachi
+X for Xanthium Seed
+Y for Yard Long Bean
+Z for Zedoary
+Q for Quinoa
+C for Cashew Nut
+P for Poppy Seed
+A for Acorn
+S for Star Anise
+
+
+----------------------------------------------------------------------
+#27. Dried Fruits & Nuts - Part 3 (fruits-dried-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-dried-fruits-3-audio/
+
+Letter 0: M for Mixed Nuts
+Letter 1: D for Dry Fig
+Letter 2: A for Areca Nut
+Letter 3: P for Pine Kernel
+Letter 4: C for Coconut Chips
+Letter 5: R for Roasted Almond
+Letter 6: S for Salted Cashew
+Letter 7: T for Tutti Frutti
+Letter 8: W for Walnuts
+Letter 9: B for Betel Nut
+Letter 10: G for Ground Nut
+Letter 11: K for Khajoor
+Letter 12: L for Lotus Puff
+Letter 13: F for Fennel Seed
+Letter 14: H for Honey Nut
+Letter 15: J for Jackfruit Chip
+Letter 16: N for Nut Butter
+Letter 17: O for Organic Raisin
+Letter 18: E for Energy Bar
+Letter 19: I for Indian Almond
+Letter 20: V for Vacuum Dried Mango
+Letter 21: U for Unsweetened Cranberry
+Letter 22: X for Xylitol Gum
+Letter 23: Y for Yeast Flake
+Letter 24: Z for Za'atar Seed
+Letter 25: Q for Quick Oats
+Letter 26: D for Dried Banana
+Letter 27: M for Medjool Date
+Letter 28: P for Pistachio Shell
+Letter 29: S for Seed Mix
+
+PLAIN TEXT:
+M for Mixed Nuts
+D for Dry Fig
+A for Areca Nut
+P for Pine Kernel
+C for Coconut Chips
+R for Roasted Almond
+S for Salted Cashew
+T for Tutti Frutti
+W for Walnuts
+B for Betel Nut
+G for Ground Nut
+K for Khajoor
+L for Lotus Puff
+F for Fennel Seed
+H for Honey Nut
+J for Jackfruit Chip
+N for Nut Butter
+O for Organic Raisin
+E for Energy Bar
+I for Indian Almond
+V for Vacuum Dried Mango
+U for Unsweetened Cranberry
+X for Xylitol Gum
+Y for Yeast Flake
+Z for Za'atar Seed
+Q for Quick Oats
+D for Dried Banana
+M for Medjool Date
+P for Pistachio Shell
+S for Seed Mix
+
+
+----------------------------------------------------------------------
+#28. Super Fruits - Part 1 (fruits-super-fruits-1)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-super-fruits-1-audio/
+
+Letter 0: A for Acai Berry
+Letter 1: B for Blueberry
+Letter 2: P for Pomegranate
+Letter 3: G for Goji Berry
+Letter 4: M for Mango
+Letter 5: A for Avocado
+Letter 6: K for Kiwi
+Letter 7: S for Strawberry
+Letter 8: C for Cranberry
+Letter 9: D for Dragon Fruit
+Letter 10: T for Turmeric Root
+Letter 11: W for Watermelon
+Letter 12: O for Orange
+Letter 13: L for Lemon
+Letter 14: G for Guava
+Letter 15: R for Raspberry
+Letter 16: F for Fig
+Letter 17: N for Noni Fruit
+Letter 18: J for Jamun
+Letter 19: H for Hawthorn Berry
+Letter 20: E for Elderberry
+Letter 21: I for Indian Gooseberry
+Letter 22: V for Vitamin C Fruit
+Letter 23: U for Umeboshi
+Letter 24: X for Ximenia
+Letter 25: Y for Yuzu
+Letter 26: Z for Ziziphus
+Letter 27: Q for Quince
+Letter 28: B for Blackberry
+Letter 29: P for Passion Fruit
+
+PLAIN TEXT:
+A for Acai Berry
+B for Blueberry
+P for Pomegranate
+G for Goji Berry
+M for Mango
+A for Avocado
+K for Kiwi
+S for Strawberry
+C for Cranberry
+D for Dragon Fruit
+T for Turmeric Root
+W for Watermelon
+O for Orange
+L for Lemon
+G for Guava
+R for Raspberry
+F for Fig
+N for Noni Fruit
+J for Jamun
+H for Hawthorn Berry
+E for Elderberry
+I for Indian Gooseberry
+V for Vitamin C Fruit
+U for Umeboshi
+X for Ximenia
+Y for Yuzu
+Z for Ziziphus
+Q for Quince
+B for Blackberry
+P for Passion Fruit
+
+
+----------------------------------------------------------------------
+#29. Super Fruits - Part 2 (fruits-super-fruits-2)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-super-fruits-2-audio/
+
+Letter 0: M for Mulberry
+Letter 1: A for Amla
+Letter 2: S for Sea Buckthorn
+Letter 3: C for Camu Camu
+Letter 4: B for Baobab
+Letter 5: L for Lucuma
+Letter 6: T for Tart Cherry
+Letter 7: P for Pitaya
+Letter 8: G for Grape Seed
+Letter 9: K for Kakadu Plum
+Letter 10: D for Dark Cherry
+Letter 11: R for Red Grape
+Letter 12: W for White Mulberry
+Letter 13: F for Feijoa
+Letter 14: O for Olive
+Letter 15: N for Nectarine
+Letter 16: H for Honeyberry
+Letter 17: J for Jujube
+Letter 18: E for Emu Apple
+Letter 19: I for Illawarra Plum
+Letter 20: V for Velvet Apple
+Letter 21: U for Ugni
+Letter 22: X for Xoconostle
+Letter 23: Y for Yellow Plum
+Letter 24: Z for Zapote
+Letter 25: Q for Quenepa
+Letter 26: A for Aronia Berry
+Letter 27: S for Star Fruit
+Letter 28: M for Maqui Berry
+Letter 29: C for Chaga
+
+PLAIN TEXT:
+M for Mulberry
+A for Amla
+S for Sea Buckthorn
+C for Camu Camu
+B for Baobab
+L for Lucuma
+T for Tart Cherry
+P for Pitaya
+G for Grape Seed
+K for Kakadu Plum
+D for Dark Cherry
+R for Red Grape
+W for White Mulberry
+F for Feijoa
+O for Olive
+N for Nectarine
+H for Honeyberry
+J for Jujube
+E for Emu Apple
+I for Illawarra Plum
+V for Velvet Apple
+U for Ugni
+X for Xoconostle
+Y for Yellow Plum
+Z for Zapote
+Q for Quenepa
+A for Aronia Berry
+S for Star Fruit
+M for Maqui Berry
+C for Chaga
+
+
+----------------------------------------------------------------------
+#30. Super Fruits - Part 3 (fruits-super-fruits-3)
+----------------------------------------------------------------------
+Audio files: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/fruits-super-fruits-3-audio/
+
+Letter 0: G for Golden Berry
+Letter 1: S for Schisandra
+Letter 2: M for Moringa
+Letter 3: A for Ashwagandha Berry
+Letter 4: T for Tulsi Berry
+Letter 5: P for Purple Mangosteen
+Letter 6: B for Bilberry
+Letter 7: L for Lingonberry
+Letter 8: C for Cloudberry
+Letter 9: D for Dewberry
+Letter 10: K for Karonda
+Letter 11: R for Rosehip
+Letter 12: W for Wineberry
+Letter 13: F for Finger Lime
+Letter 14: O for Organic Mango
+Letter 15: N for Neem Berry
+Letter 16: H for Huckleberry
+Letter 17: J for Java Apple
+Letter 18: E for Emblic Fruit
+Letter 19: I for Indian Bael
+Letter 20: V for Vitex Berry
+Letter 21: U for Uvaia Fruit
+Letter 22: X for Ximenia Caffra
+Letter 23: Y for Youngberry
+Letter 24: Z for Zante Currant
+Letter 25: Q for Quandong Fruit
+Letter 26: P for Physalis
+Letter 27: G for Gooseberry
+Letter 28: S for Soursop
+Letter 29: A for Acerola Cherry
+
+PLAIN TEXT:
+G for Golden Berry
+S for Schisandra
+M for Moringa
+A for Ashwagandha Berry
+T for Tulsi Berry
+P for Purple Mangosteen
+B for Bilberry
+L for Lingonberry
+C for Cloudberry
+D for Dewberry
+K for Karonda
+R for Rosehip
+W for Wineberry
+F for Finger Lime
+O for Organic Mango
+N for Neem Berry
+H for Huckleberry
+J for Java Apple
+E for Emblic Fruit
+I for Indian Bael
+V for Vitex Berry
+U for Uvaia Fruit
+X for Ximenia Caffra
+Y for Youngberry
+Z for Zante Currant
+Q for Quandong Fruit
+P for Physalis
+G for Gooseberry
+S for Soursop
+A for Acerola Cherry
+

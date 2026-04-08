@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: INSECT NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Garden Bugs - Part 1 (insects-garden-bugs-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-garden-bugs-1-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Beetle
+Letter 2: C for Caterpillar
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Ulysses Butterfly
+Letter 21: V for Velvet Ant
+Letter 22: W for Wasp
+Letter 23: X for Xerces Blue
+Letter 24: Y for Yellow Jacket
+Letter 25: Z for Zebra Spider
+Letter 26: S for Silverfish
+Letter 27: C for Cockroach
+Letter 28: M for Moth
+Letter 29: B for Bumblebee
+
+PLAIN TEXT:
+A for Ant
+B for Beetle
+C for Caterpillar
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Red Ant
+S for Spider
+T for Termite
+U for Ulysses Butterfly
+V for Velvet Ant
+W for Wasp
+X for Xerces Blue
+Y for Yellow Jacket
+Z for Zebra Spider
+S for Silverfish
+C for Cockroach
+M for Moth
+B for Bumblebee
+
+
+----------------------------------------------------------------------
+#2. Garden Bugs - Part 2 (insects-garden-bugs-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-garden-bugs-2-audio/
+
+Letter 0: A for Army Ant
+Letter 1: B for Black Ant
+Letter 2: C for Cricket
+Letter 3: D for Dung Beetle
+Letter 4: E for Emperor Moth
+Letter 5: F for Flea
+Letter 6: G for Glow Worm
+Letter 7: H for Hornet
+Letter 8: I for Indian Bee
+Letter 9: J for Jewel Beetle
+Letter 10: K for Kissing Bug
+Letter 11: L for Leafcutter Ant
+Letter 12: M for Mealworm
+Letter 13: N for Nightcrawler
+Letter 14: O for Orbweaver
+Letter 15: P for Pill Bug
+Letter 16: Q for Queen Ant
+Letter 17: R for Rhinoceros Beetle
+Letter 18: S for Stink Bug
+Letter 19: T for Tarantula
+Letter 20: U for Umbrella Ant
+Letter 21: V for Violin Spider
+Letter 22: W for Weevil
+Letter 23: X for Xylophagous
+Letter 24: Y for Yellow Ant
+Letter 25: Z for Zorapteran
+Letter 26: C for Centipede
+Letter 27: M for Millipede
+Letter 28: S for Scorpion
+Letter 29: L for Louse
+
+PLAIN TEXT:
+A for Army Ant
+B for Black Ant
+C for Cricket
+D for Dung Beetle
+E for Emperor Moth
+F for Flea
+G for Glow Worm
+H for Hornet
+I for Indian Bee
+J for Jewel Beetle
+K for Kissing Bug
+L for Leafcutter Ant
+M for Mealworm
+N for Nightcrawler
+O for Orbweaver
+P for Pill Bug
+Q for Queen Ant
+R for Rhinoceros Beetle
+S for Stink Bug
+T for Tarantula
+U for Umbrella Ant
+V for Violin Spider
+W for Weevil
+X for Xylophagous
+Y for Yellow Ant
+Z for Zorapteran
+C for Centipede
+M for Millipede
+S for Scorpion
+L for Louse
+
+
+----------------------------------------------------------------------
+#3. Garden Bugs - Part 3 (insects-garden-bugs-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-garden-bugs-3-audio/
+
+Letter 0: A for Aphid
+Letter 1: B for Bookworm
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Elm Beetle
+Letter 5: F for Fruit Fly
+Letter 6: G for Garden Spider
+Letter 7: H for Housefly
+Letter 8: I for Indian Mantis
+Letter 9: J for Japanese Beetle
+Letter 10: K for Kudzu Bug
+Letter 11: L for Lacewing
+Letter 12: M for Mayfly
+Letter 13: N for Net Wing
+Letter 14: O for Owlet Moth
+Letter 15: P for Potato Bug
+Letter 16: Q for Quaker Moth
+Letter 17: R for Robber Fly
+Letter 18: S for Sawfly
+Letter 19: T for Tick
+Letter 20: U for Underwing Moth
+Letter 21: V for Vine Borer
+Letter 22: W for Walking Stick
+Letter 23: X for Xylocopa
+Letter 24: Y for Yellow Fly
+Letter 25: Z for Zigzag Spider
+Letter 26: B for Bed Bug
+Letter 27: F for Fire Ant
+Letter 28: G for Green Bottle
+Letter 29: S for Stag Beetle
+
+PLAIN TEXT:
+A for Aphid
+B for Bookworm
+C for Cicada
+D for Damselfly
+E for Elm Beetle
+F for Fruit Fly
+G for Garden Spider
+H for Housefly
+I for Indian Mantis
+J for Japanese Beetle
+K for Kudzu Bug
+L for Lacewing
+M for Mayfly
+N for Net Wing
+O for Owlet Moth
+P for Potato Bug
+Q for Quaker Moth
+R for Robber Fly
+S for Sawfly
+T for Tick
+U for Underwing Moth
+V for Vine Borer
+W for Walking Stick
+X for Xylocopa
+Y for Yellow Fly
+Z for Zigzag Spider
+B for Bed Bug
+F for Fire Ant
+G for Green Bottle
+S for Stag Beetle
+
+
+----------------------------------------------------------------------
+#4. Flying Insects - Part 1 (insects-flying-insects-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-flying-insects-1-audio/
+
+Letter 0: B for Butterfly
+Letter 1: D for Dragonfly
+Letter 2: M for Monarch
+Letter 3: H for Hoverfly
+Letter 4: L for Lacewing
+Letter 5: W for Wasp
+Letter 6: F for Firefly
+Letter 7: C for Crane Fly
+Letter 8: G for Gnat
+Letter 9: A for Asian Hornet
+Letter 10: S for Sawfly
+Letter 11: T for Tsetse Fly
+Letter 12: N for Night Moth
+Letter 13: P for Paper Wasp
+Letter 14: R for Robber Fly
+Letter 15: K for Killer Bee
+Letter 16: O for Owl Butterfly
+Letter 17: E for Emerald Wasp
+Letter 18: I for Indian Bee
+Letter 19: J for June Beetle
+Letter 20: U for Ulysses
+Letter 21: V for Viceroy
+Letter 22: X for Xanthopan Moth
+Letter 23: Y for Yellow Swallowtail
+Letter 24: Z for Zebra Longwing
+Letter 25: Q for Queen Moth
+Letter 26: B for Blue Bottle
+Letter 27: M for Mayfly
+Letter 28: C for Caddisfly
+Letter 29: S for Stonefly
+
+PLAIN TEXT:
+B for Butterfly
+D for Dragonfly
+M for Monarch
+H for Hoverfly
+L for Lacewing
+W for Wasp
+F for Firefly
+C for Crane Fly
+G for Gnat
+A for Asian Hornet
+S for Sawfly
+T for Tsetse Fly
+N for Night Moth
+P for Paper Wasp
+R for Robber Fly
+K for Killer Bee
+O for Owl Butterfly
+E for Emerald Wasp
+I for Indian Bee
+J for June Beetle
+U for Ulysses
+V for Viceroy
+X for Xanthopan Moth
+Y for Yellow Swallowtail
+Z for Zebra Longwing
+Q for Queen Moth
+B for Blue Bottle
+M for Mayfly
+C for Caddisfly
+S for Stonefly
+
+
+----------------------------------------------------------------------
+#5. Flying Insects - Part 2 (insects-flying-insects-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-flying-insects-2-audio/
+
+Letter 0: D for Damselfly
+Letter 1: A for Atlas Moth
+Letter 2: G for Green Darner
+Letter 3: S for Skimmer
+Letter 4: H for Hawker Dragonfly
+Letter 5: P for Painted Lady
+Letter 6: R for Red Admiral
+Letter 7: C for Comma Butterfly
+Letter 8: M for Meadow Brown
+Letter 9: T for Tortoiseshell
+Letter 10: L for Luna Moth
+Letter 11: B for Blue Morpho
+Letter 12: K for King Cobra Moth
+Letter 13: N for Nymphalid
+Letter 14: O for Orange Oakleaf
+Letter 15: F for Fritillary
+Letter 16: W for White Admiral
+Letter 17: E for Emperor Butterfly
+Letter 18: I for Indian Swallowtail
+Letter 19: J for Julia Butterfly
+Letter 20: U for Urania Moth
+Letter 21: V for Vanessa Butterfly
+Letter 22: X for Xanthic Moth
+Letter 23: Y for Yellow Pansy
+Letter 24: Z for Zephyr Blue
+Letter 25: Q for Queen Alexandra
+Letter 26: S for Skipper
+Letter 27: C for Clearwing Moth
+Letter 28: P for Peacock Butterfly
+Letter 29: M for Morpho
+
+PLAIN TEXT:
+D for Damselfly
+A for Atlas Moth
+G for Green Darner
+S for Skimmer
+H for Hawker Dragonfly
+P for Painted Lady
+R for Red Admiral
+C for Comma Butterfly
+M for Meadow Brown
+T for Tortoiseshell
+L for Luna Moth
+B for Blue Morpho
+K for King Cobra Moth
+N for Nymphalid
+O for Orange Oakleaf
+F for Fritillary
+W for White Admiral
+E for Emperor Butterfly
+I for Indian Swallowtail
+J for Julia Butterfly
+U for Urania Moth
+V for Vanessa Butterfly
+X for Xanthic Moth
+Y for Yellow Pansy
+Z for Zephyr Blue
+Q for Queen Alexandra
+S for Skipper
+C for Clearwing Moth
+P for Peacock Butterfly
+M for Morpho
+
+
+----------------------------------------------------------------------
+#6. Flying Insects - Part 3 (insects-flying-insects-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-flying-insects-3-audio/
+
+Letter 0: D for Darter Dragonfly
+Letter 1: C for Club Tail
+Letter 2: S for Spreadwing
+Letter 3: E for Emperor Dragonfly
+Letter 4: G for Golden Ring
+Letter 5: H for Hawkmoth
+Letter 6: B for Black Swallowtail
+Letter 7: L for Lappet Moth
+Letter 8: M for Midge
+Letter 9: T for Thrips
+Letter 10: A for Antlion
+Letter 11: P for Phantom Crane
+Letter 12: R for Rain Moth
+Letter 13: N for Net Winged Beetle
+Letter 14: K for Kite Swallowtail
+Letter 15: O for Olive Hairstreak
+Letter 16: F for Fig Wasp
+Letter 17: W for Widow Skimmer
+Letter 18: I for Io Moth
+Letter 19: J for Jewel Bug
+Letter 20: U for Underwing
+Letter 21: V for Violet Ground
+Letter 22: X for Xestia Moth
+Letter 23: Y for Yucca Moth
+Letter 24: Z for Zodiac Moth
+Letter 25: Q for Quill Mite
+Letter 26: B for Banded Demoiselle
+Letter 27: C for Common Blue
+Letter 28: S for Silver Spotted
+Letter 29: P for Purple Emperor
+
+PLAIN TEXT:
+D for Darter Dragonfly
+C for Club Tail
+S for Spreadwing
+E for Emperor Dragonfly
+G for Golden Ring
+H for Hawkmoth
+B for Black Swallowtail
+L for Lappet Moth
+M for Midge
+T for Thrips
+A for Antlion
+P for Phantom Crane
+R for Rain Moth
+N for Net Winged Beetle
+K for Kite Swallowtail
+O for Olive Hairstreak
+F for Fig Wasp
+W for Widow Skimmer
+I for Io Moth
+J for Jewel Bug
+U for Underwing
+V for Violet Ground
+X for Xestia Moth
+Y for Yucca Moth
+Z for Zodiac Moth
+Q for Quill Mite
+B for Banded Demoiselle
+C for Common Blue
+S for Silver Spotted
+P for Purple Emperor
+
+
+----------------------------------------------------------------------
+#7. Beetles & Bugs - Part 1 (insects-beetles-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-beetles-1-audio/
+
+Letter 0: R for Rhinoceros Beetle
+Letter 1: S for Stag Beetle
+Letter 2: G for Goliath Beetle
+Letter 3: H for Hercules Beetle
+Letter 4: D for Dung Beetle
+Letter 5: L for Longhorn Beetle
+Letter 6: T for Titan Beetle
+Letter 7: C for Click Beetle
+Letter 8: B for Bark Beetle
+Letter 9: J for Jewel Beetle
+Letter 10: K for Khapra Beetle
+Letter 11: F for Flea Beetle
+Letter 12: W for Water Beetle
+Letter 13: A for Atlas Beetle
+Letter 14: N for Net Winged
+Letter 15: M for May Beetle
+Letter 16: P for Pine Beetle
+Letter 17: O for Oil Beetle
+Letter 18: E for Elm Bark Beetle
+Letter 19: I for Indian Beetle
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Vine Beetle
+Letter 22: X for Xyleborus
+Letter 23: Y for Yellow Beetle
+Letter 24: Z for Zebra Beetle
+Letter 25: Q for Queen Beetle
+Letter 26: C for Colorado Beetle
+Letter 27: S for Scarab
+Letter 28: B for Blister Beetle
+Letter 29: L for Lady Beetle
+
+PLAIN TEXT:
+R for Rhinoceros Beetle
+S for Stag Beetle
+G for Goliath Beetle
+H for Hercules Beetle
+D for Dung Beetle
+L for Longhorn Beetle
+T for Titan Beetle
+C for Click Beetle
+B for Bark Beetle
+J for Jewel Beetle
+K for Khapra Beetle
+F for Flea Beetle
+W for Water Beetle
+A for Atlas Beetle
+N for Net Winged
+M for May Beetle
+P for Pine Beetle
+O for Oil Beetle
+E for Elm Bark Beetle
+I for Indian Beetle
+U for Unicorn Beetle
+V for Vine Beetle
+X for Xyleborus
+Y for Yellow Beetle
+Z for Zebra Beetle
+Q for Queen Beetle
+C for Colorado Beetle
+S for Scarab
+B for Blister Beetle
+L for Lady Beetle
+
+
+----------------------------------------------------------------------
+#8. Beetles & Bugs - Part 2 (insects-beetles-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-beetles-2-audio/
+
+Letter 0: W for Weevil
+Letter 1: B for Bombardier Beetle
+Letter 2: C for Carpet Beetle
+Letter 3: D for Deathwatch Beetle
+Letter 4: F for Flour Beetle
+Letter 5: G for Ground Beetle
+Letter 6: H for Harlequin Bug
+Letter 7: I for Iron Clad Beetle
+Letter 8: J for Japanese Beetle
+Letter 9: K for Kheper Beetle
+Letter 10: L for Leaf Beetle
+Letter 11: M for Metallic Beetle
+Letter 12: N for Nightjar Beetle
+Letter 13: O for Ox Beetle
+Letter 14: P for Powder Post
+Letter 15: R for Rose Chafer
+Letter 16: S for Soldier Beetle
+Letter 17: T for Tiger Beetle
+Letter 18: A for Ambrosia Beetle
+Letter 19: E for Eyed Click
+Letter 20: U for Umber Beetle
+Letter 21: V for Violet Beetle
+Letter 22: X for Xysticus
+Letter 23: Y for Yew Beetle
+Letter 24: Z for Zopherus Beetle
+Letter 25: Q for Quince Beetle
+Letter 26: B for Bean Beetle
+Letter 27: C for Cucumber Beetle
+Letter 28: S for Snout Beetle
+Letter 29: R for Red Palm Weevil
+
+PLAIN TEXT:
+W for Weevil
+B for Bombardier Beetle
+C for Carpet Beetle
+D for Deathwatch Beetle
+F for Flour Beetle
+G for Ground Beetle
+H for Harlequin Bug
+I for Iron Clad Beetle
+J for Japanese Beetle
+K for Kheper Beetle
+L for Leaf Beetle
+M for Metallic Beetle
+N for Nightjar Beetle
+O for Ox Beetle
+P for Powder Post
+R for Rose Chafer
+S for Soldier Beetle
+T for Tiger Beetle
+A for Ambrosia Beetle
+E for Eyed Click
+U for Umber Beetle
+V for Violet Beetle
+X for Xysticus
+Y for Yew Beetle
+Z for Zopherus Beetle
+Q for Quince Beetle
+B for Bean Beetle
+C for Cucumber Beetle
+S for Snout Beetle
+R for Red Palm Weevil
+
+
+----------------------------------------------------------------------
+#9. Beetles & Bugs - Part 3 (insects-beetles-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-beetles-3-audio/
+
+Letter 0: S for Stink Beetle
+Letter 1: A for Acorn Weevil
+Letter 2: B for Boll Weevil
+Letter 3: C for Chafer Beetle
+Letter 4: D for Darkling Beetle
+Letter 5: E for Elephant Beetle
+Letter 6: F for Firefly Beetle
+Letter 7: G for Grain Beetle
+Letter 8: H for Horn Beetle
+Letter 9: I for Indian Dung
+Letter 10: J for Jeweled Frog
+Letter 11: K for King Stag
+Letter 12: L for Lightning Bug
+Letter 13: M for Museum Beetle
+Letter 14: N for Nut Weevil
+Letter 15: O for Oriental Beetle
+Letter 16: P for Pea Weevil
+Letter 17: R for Rice Weevil
+Letter 18: T for Tortoise Beetle
+Letter 19: W for Whirligig Beetle
+Letter 20: U for Umber Moth Beetle
+Letter 21: V for Varied Carpet
+Letter 22: X for Xenos
+Letter 23: Y for Yellow Mealworm
+Letter 24: Z for Zophobas
+Letter 25: Q for Quahog Beetle
+Letter 26: S for Sun Beetle
+Letter 27: C for Carrion Beetle
+Letter 28: B for Bess Beetle
+Letter 29: M for Metallic Wood
+
+PLAIN TEXT:
+S for Stink Beetle
+A for Acorn Weevil
+B for Boll Weevil
+C for Chafer Beetle
+D for Darkling Beetle
+E for Elephant Beetle
+F for Firefly Beetle
+G for Grain Beetle
+H for Horn Beetle
+I for Indian Dung
+J for Jeweled Frog
+K for King Stag
+L for Lightning Bug
+M for Museum Beetle
+N for Nut Weevil
+O for Oriental Beetle
+P for Pea Weevil
+R for Rice Weevil
+T for Tortoise Beetle
+W for Whirligig Beetle
+U for Umber Moth Beetle
+V for Varied Carpet
+X for Xenos
+Y for Yellow Mealworm
+Z for Zophobas
+Q for Quahog Beetle
+S for Sun Beetle
+C for Carrion Beetle
+B for Bess Beetle
+M for Metallic Wood
+
+
+----------------------------------------------------------------------
+#10. Butterflies & Moths - Part 1 (insects-butterflies-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-butterflies-1-audio/
+
+Letter 0: M for Monarch Butterfly
+Letter 1: S for Swallowtail
+Letter 2: B for Blue Morpho
+Letter 3: P for Painted Lady
+Letter 4: R for Red Admiral
+Letter 5: C for Cabbage White
+Letter 6: A for Apollo Butterfly
+Letter 7: G for Glasswing
+Letter 8: L for Luna Moth
+Letter 9: T for Tiger Moth
+Letter 10: H for Hawk Moth
+Letter 11: D for Death Head Moth
+Letter 12: K for King Swallowtail
+Letter 13: N for Nymphalid
+Letter 14: O for Owl Butterfly
+Letter 15: W for Wood Nymph
+Letter 16: F for Fritillary
+Letter 17: E for Emperor Moth
+Letter 18: I for Indian Leaf
+Letter 19: J for Jezebel
+Letter 20: U for Ulysses Swallowtail
+Letter 21: V for Viceroy
+Letter 22: X for Xanthopan
+Letter 23: Y for Yellow Pansy
+Letter 24: Z for Zebra Swallowtail
+Letter 25: Q for Queen Butterfly
+Letter 26: C for Clipper
+Letter 27: S for Skipper Moth
+Letter 28: P for Peacock Moth
+Letter 29: M for Morpho Blue
+
+PLAIN TEXT:
+M for Monarch Butterfly
+S for Swallowtail
+B for Blue Morpho
+P for Painted Lady
+R for Red Admiral
+C for Cabbage White
+A for Apollo Butterfly
+G for Glasswing
+L for Luna Moth
+T for Tiger Moth
+H for Hawk Moth
+D for Death Head Moth
+K for King Swallowtail
+N for Nymphalid
+O for Owl Butterfly
+W for Wood Nymph
+F for Fritillary
+E for Emperor Moth
+I for Indian Leaf
+J for Jezebel
+U for Ulysses Swallowtail
+V for Viceroy
+X for Xanthopan
+Y for Yellow Pansy
+Z for Zebra Swallowtail
+Q for Queen Butterfly
+C for Clipper
+S for Skipper Moth
+P for Peacock Moth
+M for Morpho Blue
+
+
+----------------------------------------------------------------------
+#11. Butterflies & Moths - Part 2 (insects-butterflies-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-butterflies-2-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#12. Butterflies & Moths - Part 3 (insects-butterflies-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-butterflies-3-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#13. Spiders & Arachnids - Part 1 (insects-spiders-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-spiders-1-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#14. Spiders & Arachnids - Part 2 (insects-spiders-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-spiders-2-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#15. Spiders & Arachnids - Part 3 (insects-spiders-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-spiders-3-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#16. Forest Insects - Part 1 (insects-forest-insects-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-forest-insects-1-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#17. Forest Insects - Part 2 (insects-forest-insects-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-forest-insects-2-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#18. Tropical Insects - Part 1 (insects-tropical-insects-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-tropical-insects-1-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#19. Tiny Creatures - Part 1 (insects-tiny-creatures-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-tiny-creatures-1-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#20. Amazing Insects - Part 1 (insects-amazing-insects-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-amazing-insects-1-audio/
+
+Letter 0: A for Atlas Moth
+Letter 1: B for Bee-eater
+Letter 2: C for Cicada
+Letter 3: D for Damselfly
+Letter 4: E for Emerald Dragonfly
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Hawk Moth
+Letter 8: I for Indian Stick Insect
+Letter 9: J for Jewel Beetle
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Malabar Cicada
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip Butterfly
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Alexandra Parrot
+Letter 17: R for Red Ant
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Unicorn Beetle
+Letter 21: V for Viceroy Butterfly
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Atlas Moth
+B for Bee-eater
+C for Cicada
+D for Damselfly
+E for Emerald Dragonfly
+F for Firefly
+G for Grasshopper
+H for Hawk Moth
+I for Indian Stick Insect
+J for Jewel Beetle
+K for Katydid
+L for Ladybug
+M for Malabar Cicada
+N for Nymph
+O for Orange Tip Butterfly
+P for Praying Mantis
+Q for Queen Alexandra Parrot
+R for Red Ant
+S for Spider
+T for Termite
+U for Unicorn Beetle
+V for Viceroy Butterfly
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#21. Forest Insects - Part 3 (insects-forest-insects-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-forest-insects-3-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#22. Tropical Insects - Part 2 (insects-tropical-insects-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-tropical-insects-2-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#23. Tropical Insects - Part 3 (insects-tropical-insects-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-tropical-insects-3-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#24. Tiny Creatures - Part 2 (insects-tiny-creatures-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-tiny-creatures-2-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#25. Tiny Creatures - Part 3 (insects-tiny-creatures-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-tiny-creatures-3-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#26. Night Insects - Part 1 (insects-night-insects-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-night-insects-1-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#27. Night Insects - Part 2 (insects-night-insects-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-night-insects-2-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#28. Night Insects - Part 3 (insects-night-insects-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-night-insects-3-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#29. Amazing Insects - Part 2 (insects-amazing-insects-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-amazing-insects-2-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+
+
+----------------------------------------------------------------------
+#30. Amazing Insects - Part 3 (insects-amazing-insects-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/insects-amazing-insects-3-audio/
+
+Letter 0: A for Ant
+Letter 1: B for Butterfly
+Letter 2: C for Cicada
+Letter 3: D for Dragonfly
+Letter 4: E for Earwig
+Letter 5: F for Firefly
+Letter 6: G for Grasshopper
+Letter 7: H for Honeybee
+Letter 8: I for Inchworm
+Letter 9: J for June Bug
+Letter 10: K for Katydid
+Letter 11: L for Ladybug
+Letter 12: M for Mosquito
+Letter 13: N for Nymph
+Letter 14: O for Orange Tip
+Letter 15: P for Praying Mantis
+Letter 16: Q for Queen Bee
+Letter 17: R for Robber Fly
+Letter 18: S for Spider
+Letter 19: T for Termite
+Letter 20: U for Underwing Moth
+Letter 21: V for Vespid Wasp
+Letter 22: W for Wasp
+Letter 23: X for Xeme Insect
+Letter 24: Y for Yellow Butterfly
+Letter 25: Z for Zebra Butterfly
+Letter 26: A for Antlion
+Letter 27: B for Blister Beetle
+Letter 28: C for Cockroach
+Letter 29: D for Dung Beetle
+
+PLAIN TEXT:
+A for Ant
+B for Butterfly
+C for Cicada
+D for Dragonfly
+E for Earwig
+F for Firefly
+G for Grasshopper
+H for Honeybee
+I for Inchworm
+J for June Bug
+K for Katydid
+L for Ladybug
+M for Mosquito
+N for Nymph
+O for Orange Tip
+P for Praying Mantis
+Q for Queen Bee
+R for Robber Fly
+S for Spider
+T for Termite
+U for Underwing Moth
+V for Vespid Wasp
+W for Wasp
+X for Xeme Insect
+Y for Yellow Butterfly
+Z for Zebra Butterfly
+A for Antlion
+B for Blister Beetle
+C for Cockroach
+D for Dung Beetle
+

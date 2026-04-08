@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: SPACE NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Planets & Moons - Part 1 (space-planets-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-planets-1-audio/
+
+Letter 0: M for Mercury
+Letter 1: V for Venus
+Letter 2: E for Earth
+Letter 3: M for Mars
+Letter 4: J for Jupiter
+Letter 5: S for Saturn
+Letter 6: U for Uranus
+Letter 7: N for Neptune
+Letter 8: P for Pluto
+Letter 9: S for Sun
+Letter 10: M for Moon
+Letter 11: C for Ceres
+Letter 12: E for Europa
+Letter 13: G for Ganymede
+Letter 14: I for Io
+Letter 15: C for Callisto
+Letter 16: T for Titan
+Letter 17: E for Enceladus
+Letter 18: T for Triton
+Letter 19: P for Phobos
+Letter 20: D for Deimos
+Letter 21: M for Miranda
+Letter 22: A for Ariel
+Letter 23: O for Oberon
+Letter 24: C for Charon
+Letter 25: R for Rhea
+Letter 26: I for Iapetus
+Letter 27: H for Hyperion
+Letter 28: M for Makemake
+Letter 29: E for Eris
+
+PLAIN TEXT:
+M for Mercury
+V for Venus
+E for Earth
+M for Mars
+J for Jupiter
+S for Saturn
+U for Uranus
+N for Neptune
+P for Pluto
+S for Sun
+M for Moon
+C for Ceres
+E for Europa
+G for Ganymede
+I for Io
+C for Callisto
+T for Titan
+E for Enceladus
+T for Triton
+P for Phobos
+D for Deimos
+M for Miranda
+A for Ariel
+O for Oberon
+C for Charon
+R for Rhea
+I for Iapetus
+H for Hyperion
+M for Makemake
+E for Eris
+
+
+----------------------------------------------------------------------
+#2. Planets & Moons - Part 2 (space-planets-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-planets-2-audio/
+
+Letter 0: S for Solar System
+Letter 1: M for Milky Way
+Letter 2: A for Asteroid Belt
+Letter 3: K for Kuiper Belt
+Letter 4: O for Oort Cloud
+Letter 5: D for Dwarf Planet
+Letter 6: G for Gas Giant
+Letter 7: I for Ice Giant
+Letter 8: R for Rocky Planet
+Letter 9: T for Terrestrial Planet
+Letter 10: E for Exoplanet
+Letter 11: N for Nebula
+Letter 12: C for Comet
+Letter 13: M for Meteor
+Letter 14: A for Asteroid
+Letter 15: S for Star
+Letter 16: B for Black Hole
+Letter 17: P for Pulsar
+Letter 18: Q for Quasar
+Letter 19: S for Supernova
+Letter 20: W for White Dwarf
+Letter 21: R for Red Giant
+Letter 22: N for Neutron Star
+Letter 23: G for Galaxy
+Letter 24: C for Constellation
+Letter 25: L for Light Year
+Letter 26: H for Heliosphere
+Letter 27: F for Fireball
+Letter 28: V for Void
+Letter 29: U for Universe
+
+PLAIN TEXT:
+S for Solar System
+M for Milky Way
+A for Asteroid Belt
+K for Kuiper Belt
+O for Oort Cloud
+D for Dwarf Planet
+G for Gas Giant
+I for Ice Giant
+R for Rocky Planet
+T for Terrestrial Planet
+E for Exoplanet
+N for Nebula
+C for Comet
+M for Meteor
+A for Asteroid
+S for Star
+B for Black Hole
+P for Pulsar
+Q for Quasar
+S for Supernova
+W for White Dwarf
+R for Red Giant
+N for Neutron Star
+G for Galaxy
+C for Constellation
+L for Light Year
+H for Heliosphere
+F for Fireball
+V for Void
+U for Universe
+
+
+----------------------------------------------------------------------
+#3. Planets & Moons - Part 3 (space-planets-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-planets-3-audio/
+
+Letter 0: E for Earth
+Letter 1: M for Mars Colony
+Letter 2: V for Venus Surface
+Letter 3: J for Jupiter Storm
+Letter 4: S for Saturn Rings
+Letter 5: U for Uranus Tilt
+Letter 6: N for Neptune Blue
+Letter 7: M for Mercury Crater
+Letter 8: P for Pluto Heart
+Letter 9: S for Sun Core
+Letter 10: T for Titan Lakes
+Letter 11: E for Europa Ocean
+Letter 12: G for Great Red Spot
+Letter 13: I for Io Volcano
+Letter 14: C for Cassini Gap
+Letter 15: R for Ring System
+Letter 16: A for Aurora
+Letter 17: D for Dark Side Moon
+Letter 18: K for Kepler Planet
+Letter 19: L for Lunar Surface
+Letter 20: O for Olympus Mons
+Letter 21: B for Binary Star
+Letter 22: H for Habitable Zone
+Letter 23: W for Water on Mars
+Letter 24: F for Full Moon
+Letter 25: N for New Moon
+Letter 26: Q for Quarter Moon
+Letter 27: X for Xenon Planet
+Letter 28: Y for Young Star
+Letter 29: Z for Zero Gravity
+
+PLAIN TEXT:
+E for Earth
+M for Mars Colony
+V for Venus Surface
+J for Jupiter Storm
+S for Saturn Rings
+U for Uranus Tilt
+N for Neptune Blue
+M for Mercury Crater
+P for Pluto Heart
+S for Sun Core
+T for Titan Lakes
+E for Europa Ocean
+G for Great Red Spot
+I for Io Volcano
+C for Cassini Gap
+R for Ring System
+A for Aurora
+D for Dark Side Moon
+K for Kepler Planet
+L for Lunar Surface
+O for Olympus Mons
+B for Binary Star
+H for Habitable Zone
+W for Water on Mars
+F for Full Moon
+N for New Moon
+Q for Quarter Moon
+X for Xenon Planet
+Y for Young Star
+Z for Zero Gravity
+
+
+----------------------------------------------------------------------
+#4. Stars & Galaxies - Part 1 (space-stars-galaxies-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-stars-galaxies-1-audio/
+
+Letter 0: S for Sun
+Letter 1: S for Sirius
+Letter 2: P for Polaris
+Letter 3: B for Betelgeuse
+Letter 4: R for Rigel
+Letter 5: A for Aldebaran
+Letter 6: V for Vega
+Letter 7: C for Canopus
+Letter 8: A for Antares
+Letter 9: D for Deneb
+Letter 10: F for Fomalhaut
+Letter 11: P for Procyon
+Letter 12: S for Spica
+Letter 13: A for Arcturus
+Letter 14: C for Capella
+Letter 15: M for Mira
+Letter 16: R for Regulus
+Letter 17: A for Achernar
+Letter 18: H for Hadar
+Letter 19: M for Mimosa
+Letter 20: N for North Star
+Letter 21: W for Wolf Star
+Letter 22: E for Eta Carinae
+Letter 23: T for Tau Ceti
+Letter 24: G for Gamma Ray
+Letter 25: K for Kepler Star
+Letter 26: L for Luyten Star
+Letter 27: O for Omega Star
+Letter 28: I for Indian Star
+Letter 29: J for Jewel Star
+
+PLAIN TEXT:
+S for Sun
+S for Sirius
+P for Polaris
+B for Betelgeuse
+R for Rigel
+A for Aldebaran
+V for Vega
+C for Canopus
+A for Antares
+D for Deneb
+F for Fomalhaut
+P for Procyon
+S for Spica
+A for Arcturus
+C for Capella
+M for Mira
+R for Regulus
+A for Achernar
+H for Hadar
+M for Mimosa
+N for North Star
+W for Wolf Star
+E for Eta Carinae
+T for Tau Ceti
+G for Gamma Ray
+K for Kepler Star
+L for Luyten Star
+O for Omega Star
+I for Indian Star
+J for Jewel Star
+
+
+----------------------------------------------------------------------
+#5. Stars & Galaxies - Part 2 (space-stars-galaxies-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-stars-galaxies-2-audio/
+
+Letter 0: M for Milky Way
+Letter 1: A for Andromeda
+Letter 2: S for Spiral Galaxy
+Letter 3: E for Elliptical Galaxy
+Letter 4: I for Irregular Galaxy
+Letter 5: B for Barred Spiral
+Letter 6: D for Dwarf Galaxy
+Letter 7: L for Lenticular Galaxy
+Letter 8: S for Starburst Galaxy
+Letter 9: C for Centaurus A
+Letter 10: W for Whirlpool Galaxy
+Letter 11: S for Sombrero Galaxy
+Letter 12: P for Pinwheel Galaxy
+Letter 13: T for Triangulum Galaxy
+Letter 14: N for NGC Galaxy
+Letter 15: M for Magellanic Cloud
+Letter 16: C for Cartwheel Galaxy
+Letter 17: G for Galaxy Cluster
+Letter 18: H for Hubble Deep
+Letter 19: R for Radio Galaxy
+Letter 20: K for Kepler Galaxy
+Letter 21: F for Fornax Cluster
+Letter 22: O for Observable Universe
+Letter 23: V for Virgo Cluster
+Letter 24: U for Ultra Deep Field
+Letter 25: J for James Webb
+Letter 26: X for X-ray Galaxy
+Letter 27: Y for Young Galaxy
+Letter 28: Z for Zenith Galaxy
+Letter 29: Q for Quasar Galaxy
+
+PLAIN TEXT:
+M for Milky Way
+A for Andromeda
+S for Spiral Galaxy
+E for Elliptical Galaxy
+I for Irregular Galaxy
+B for Barred Spiral
+D for Dwarf Galaxy
+L for Lenticular Galaxy
+S for Starburst Galaxy
+C for Centaurus A
+W for Whirlpool Galaxy
+S for Sombrero Galaxy
+P for Pinwheel Galaxy
+T for Triangulum Galaxy
+N for NGC Galaxy
+M for Magellanic Cloud
+C for Cartwheel Galaxy
+G for Galaxy Cluster
+H for Hubble Deep
+R for Radio Galaxy
+K for Kepler Galaxy
+F for Fornax Cluster
+O for Observable Universe
+V for Virgo Cluster
+U for Ultra Deep Field
+J for James Webb
+X for X-ray Galaxy
+Y for Young Galaxy
+Z for Zenith Galaxy
+Q for Quasar Galaxy
+
+
+----------------------------------------------------------------------
+#6. Stars & Galaxies - Part 3 (space-stars-galaxies-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-stars-galaxies-3-audio/
+
+Letter 0: N for Nebula
+Letter 1: O for Orion Nebula
+Letter 2: E for Eagle Nebula
+Letter 3: C for Crab Nebula
+Letter 4: R for Ring Nebula
+Letter 5: H for Horsehead Nebula
+Letter 6: P for Planetary Nebula
+Letter 7: S for Supernova Remnant
+Letter 8: D for Dark Nebula
+Letter 9: E for Emission Nebula
+Letter 10: R for Reflection Nebula
+Letter 11: B for Bubble Nebula
+Letter 12: L for Lagoon Nebula
+Letter 13: T for Tarantula Nebula
+Letter 14: C for Cat Eye Nebula
+Letter 15: W for Witch Head
+Letter 16: F for Flame Nebula
+Letter 17: V for Veil Nebula
+Letter 18: A for Ant Nebula
+Letter 19: M for Mystic Mountain
+Letter 20: K for Keyhole Nebula
+Letter 21: G for Ghost Nebula
+Letter 22: I for Iris Nebula
+Letter 23: S for Skull Nebula
+Letter 24: U for Unicorn Nebula
+Letter 25: J for Jellyfish Nebula
+Letter 26: X for X-ray Nebula
+Letter 27: Y for Young Nebula
+Letter 28: Z for Zeta Nebula
+Letter 29: Q for Quantum Nebula
+
+PLAIN TEXT:
+N for Nebula
+O for Orion Nebula
+E for Eagle Nebula
+C for Crab Nebula
+R for Ring Nebula
+H for Horsehead Nebula
+P for Planetary Nebula
+S for Supernova Remnant
+D for Dark Nebula
+E for Emission Nebula
+R for Reflection Nebula
+B for Bubble Nebula
+L for Lagoon Nebula
+T for Tarantula Nebula
+C for Cat Eye Nebula
+W for Witch Head
+F for Flame Nebula
+V for Veil Nebula
+A for Ant Nebula
+M for Mystic Mountain
+K for Keyhole Nebula
+G for Ghost Nebula
+I for Iris Nebula
+S for Skull Nebula
+U for Unicorn Nebula
+J for Jellyfish Nebula
+X for X-ray Nebula
+Y for Young Nebula
+Z for Zeta Nebula
+Q for Quantum Nebula
+
+
+----------------------------------------------------------------------
+#7. Rockets & Missions - Part 1 (space-rockets-missions-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-rockets-missions-1-audio/
+
+Letter 0: I for ISRO
+Letter 1: C for Chandrayaan
+Letter 2: M for Mangalyaan
+Letter 3: G for Gaganyaan
+Letter 4: P for PSLV
+Letter 5: G for GSLV
+Letter 6: A for Aryabhata Satellite
+Letter 7: S for SLV
+Letter 8: R for Rohini Satellite
+Letter 9: N for NASA
+Letter 10: S for SpaceX
+Letter 11: F for Falcon 9
+Letter 12: S for Starship
+Letter 13: A for Apollo
+Letter 14: G for Gemini
+Letter 15: M for Mercury Program
+Letter 16: S for Saturn V
+Letter 17: C for Columbia
+Letter 18: D for Discovery
+Letter 19: E for Endeavour
+Letter 20: A for Atlantis
+Letter 21: C for Challenger
+Letter 22: H for Hubble
+Letter 23: J for James Webb
+Letter 24: V for Voyager
+Letter 25: P for Pioneer
+Letter 26: N for New Horizons
+Letter 27: M for Mars Rover
+Letter 28: C for Curiosity
+Letter 29: P for Perseverance
+
+PLAIN TEXT:
+I for ISRO
+C for Chandrayaan
+M for Mangalyaan
+G for Gaganyaan
+P for PSLV
+G for GSLV
+A for Aryabhata Satellite
+S for SLV
+R for Rohini Satellite
+N for NASA
+S for SpaceX
+F for Falcon 9
+S for Starship
+A for Apollo
+G for Gemini
+M for Mercury Program
+S for Saturn V
+C for Columbia
+D for Discovery
+E for Endeavour
+A for Atlantis
+C for Challenger
+H for Hubble
+J for James Webb
+V for Voyager
+P for Pioneer
+N for New Horizons
+M for Mars Rover
+C for Curiosity
+P for Perseverance
+
+
+----------------------------------------------------------------------
+#8. Rockets & Missions - Part 2 (space-rockets-missions-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-rockets-missions-2-audio/
+
+Letter 0: S for Soyuz
+Letter 1: A for Ariane
+Letter 2: V for Vostok
+Letter 3: L for Long March
+Letter 4: H for H-IIA
+Letter 5: E for Electron
+Letter 6: R for RLV
+Letter 7: B for Blue Origin
+Letter 8: N for New Shepard
+Letter 9: V for Virgin Galactic
+Letter 10: D for Delta
+Letter 11: A for Atlas
+Letter 12: T for Titan Rocket
+Letter 13: P for Proton
+Letter 14: Z for Zenit
+Letter 15: M for Minotaur
+Letter 16: C for Centaur
+Letter 17: S for Scout Rocket
+Letter 18: F for Firefly
+Letter 19: K for KSLV
+Letter 20: W for Wenchang
+Letter 21: G for Geosync Rocket
+Letter 22: I for IRNSS
+Letter 23: O for Orbital Rocket
+Letter 24: J for JAXA Rocket
+Letter 25: U for ULA Rocket
+Letter 26: X for X-33
+Letter 27: Y for Yuanzheng
+Letter 28: Q for Quick Launch
+Letter 29: R for Reusable Rocket
+
+PLAIN TEXT:
+S for Soyuz
+A for Ariane
+V for Vostok
+L for Long March
+H for H-IIA
+E for Electron
+R for RLV
+B for Blue Origin
+N for New Shepard
+V for Virgin Galactic
+D for Delta
+A for Atlas
+T for Titan Rocket
+P for Proton
+Z for Zenit
+M for Minotaur
+C for Centaur
+S for Scout Rocket
+F for Firefly
+K for KSLV
+W for Wenchang
+G for Geosync Rocket
+I for IRNSS
+O for Orbital Rocket
+J for JAXA Rocket
+U for ULA Rocket
+X for X-33
+Y for Yuanzheng
+Q for Quick Launch
+R for Reusable Rocket
+
+
+----------------------------------------------------------------------
+#9. Rockets & Missions - Part 3 (space-rockets-missions-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-rockets-missions-3-audio/
+
+Letter 0: S for Space Shuttle
+Letter 1: I for ISS
+Letter 2: M for Mir Station
+Letter 3: T for Tiangong
+Letter 4: S for Skylab
+Letter 5: H for HST Hubble
+Letter 6: C for Chandra
+Letter 7: J for JWST
+Letter 8: K for Kepler Telescope
+Letter 9: S for Spitzer
+Letter 10: G for GPS Satellite
+Letter 11: C for Communication Sat
+Letter 12: W for Weather Satellite
+Letter 13: R for Remote Sensing
+Letter 14: N for Navigation Sat
+Letter 15: L for Lunar Module
+Letter 16: M for Mars Lander
+Letter 17: V for Venus Probe
+Letter 18: P for Parker Probe
+Letter 19: D for Deep Space
+Letter 20: A for Aditya L1
+Letter 21: E for EVA Spacewalk
+Letter 22: B for Booster
+Letter 23: F for Fuel Tank
+Letter 24: O for Orbit Module
+Letter 25: I for Indian Satellite
+Letter 26: U for Unmanned Craft
+Letter 27: X for X-Ray Telescope
+Letter 28: Y for Year in Space
+Letter 29: Z for Zero Gravity Lab
+
+PLAIN TEXT:
+S for Space Shuttle
+I for ISS
+M for Mir Station
+T for Tiangong
+S for Skylab
+H for HST Hubble
+C for Chandra
+J for JWST
+K for Kepler Telescope
+S for Spitzer
+G for GPS Satellite
+C for Communication Sat
+W for Weather Satellite
+R for Remote Sensing
+N for Navigation Sat
+L for Lunar Module
+M for Mars Lander
+V for Venus Probe
+P for Parker Probe
+D for Deep Space
+A for Aditya L1
+E for EVA Spacewalk
+B for Booster
+F for Fuel Tank
+O for Orbit Module
+I for Indian Satellite
+U for Unmanned Craft
+X for X-Ray Telescope
+Y for Year in Space
+Z for Zero Gravity Lab
+
+
+----------------------------------------------------------------------
+#10. Astronauts & Space Travel - Part 1 (space-astronauts-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-astronauts-1-audio/
+
+Letter 0: R for Rakesh Sharma
+Letter 1: K for Kalpana Chawla
+Letter 2: S for Sunita Williams
+Letter 3: N for Neil Armstrong
+Letter 4: B for Buzz Aldrin
+Letter 5: Y for Yuri Gagarin
+Letter 6: V for Valentina
+Letter 7: J for John Glenn
+Letter 8: A for Alan Shepard
+Letter 9: S for Sally Ride
+Letter 10: C for Chris Hadfield
+Letter 11: T for Tim Peake
+Letter 12: M for Mae Jemison
+Letter 13: P for Peggy Whitson
+Letter 14: S for Scott Kelly
+Letter 15: E for Eileen Collins
+Letter 16: G for Gus Grissom
+Letter 17: D for Dennis Tito
+Letter 18: L for Laika Dog
+Letter 19: H for Ham Chimp
+Letter 20: W for Wally Funk
+Letter 21: F for Frank Borman
+Letter 22: I for Indian Astronaut
+Letter 23: O for Oleg Kononenko
+Letter 24: U for Unni Krishnan
+Letter 25: X for X-15 Pilot
+Letter 26: Z for Zhai Zhigang
+Letter 27: Q for Queen of Space
+Letter 28: N for NASA Astronaut
+Letter 29: R for Russian Cosmonaut
+
+PLAIN TEXT:
+R for Rakesh Sharma
+K for Kalpana Chawla
+S for Sunita Williams
+N for Neil Armstrong
+B for Buzz Aldrin
+Y for Yuri Gagarin
+V for Valentina
+J for John Glenn
+A for Alan Shepard
+S for Sally Ride
+C for Chris Hadfield
+T for Tim Peake
+M for Mae Jemison
+P for Peggy Whitson
+S for Scott Kelly
+E for Eileen Collins
+G for Gus Grissom
+D for Dennis Tito
+L for Laika Dog
+H for Ham Chimp
+W for Wally Funk
+F for Frank Borman
+I for Indian Astronaut
+O for Oleg Kononenko
+U for Unni Krishnan
+X for X-15 Pilot
+Z for Zhai Zhigang
+Q for Queen of Space
+N for NASA Astronaut
+R for Russian Cosmonaut
+
+
+----------------------------------------------------------------------
+#11. Astronauts & Space Travel - Part 2 (space-astronauts-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-astronauts-2-audio/
+
+Letter 0: S for Space Suit
+Letter 1: H for Helmet
+Letter 2: G for Gloves
+Letter 3: B for Boots
+Letter 4: O for Oxygen Tank
+Letter 5: J for Jet Pack
+Letter 6: T for Tether
+Letter 7: V for Visor
+Letter 8: C for Communication
+Letter 9: L for Life Support
+Letter 10: M for Mission Control
+Letter 11: R for Re-entry
+Letter 12: S for Spacewalk
+Letter 13: D for Docking
+Letter 14: L for Landing
+Letter 15: A for Airlock
+Letter 16: P for Parachute
+Letter 17: E for EVA
+Letter 18: F for Food in Space
+Letter 19: W for Water in Space
+Letter 20: S for Sleep in Space
+Letter 21: K for Kitchen ISS
+Letter 22: G for Gym in Space
+Letter 23: N for Navigation
+Letter 24: I for Instrument Panel
+Letter 25: U for Undocking
+Letter 26: X for X-Ray Vision
+Letter 27: Y for Yoga in Space
+Letter 28: Z for Zero Gravity Fun
+Letter 29: Q for Quick Launch
+
+PLAIN TEXT:
+S for Space Suit
+H for Helmet
+G for Gloves
+B for Boots
+O for Oxygen Tank
+J for Jet Pack
+T for Tether
+V for Visor
+C for Communication
+L for Life Support
+M for Mission Control
+R for Re-entry
+S for Spacewalk
+D for Docking
+L for Landing
+A for Airlock
+P for Parachute
+E for EVA
+F for Food in Space
+W for Water in Space
+S for Sleep in Space
+K for Kitchen ISS
+G for Gym in Space
+N for Navigation
+I for Instrument Panel
+U for Undocking
+X for X-Ray Vision
+Y for Yoga in Space
+Z for Zero Gravity Fun
+Q for Quick Launch
+
+
+----------------------------------------------------------------------
+#12. Astronauts & Space Travel - Part 3 (space-astronauts-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-astronauts-3-audio/
+
+Letter 0: M for Moon Landing
+Letter 1: M for Mars Mission
+Letter 2: S for Space Station
+Letter 3: O for Orbital Flight
+Letter 4: L for Lunar Orbit
+Letter 5: G for Gravity
+Letter 6: A for Atmosphere
+Letter 7: V for Vacuum Space
+Letter 8: R for Radiation
+Letter 9: S for Solar Wind
+Letter 10: C for Cosmic Ray
+Letter 11: D for Dark Matter
+Letter 12: E for Dark Energy
+Letter 13: T for Time Dilation
+Letter 14: W for Wormhole
+Letter 15: B for Big Bang
+Letter 16: P for Parallel Universe
+Letter 17: N for Neutron Star
+Letter 18: F for Future Space
+Letter 19: H for Hyperdrive
+Letter 20: I for Interstellar
+Letter 21: K for Kepler Discover
+Letter 22: J for Jupiter Flyby
+Letter 23: U for UFO
+Letter 24: X for Xeno Planet
+Letter 25: Y for Year Light
+Letter 26: Z for Zodiac Star
+Letter 27: Q for Quantum Space
+Letter 28: L for Light Speed
+Letter 29: S for Space Frontier
+
+PLAIN TEXT:
+M for Moon Landing
+M for Mars Mission
+S for Space Station
+O for Orbital Flight
+L for Lunar Orbit
+G for Gravity
+A for Atmosphere
+V for Vacuum Space
+R for Radiation
+S for Solar Wind
+C for Cosmic Ray
+D for Dark Matter
+E for Dark Energy
+T for Time Dilation
+W for Wormhole
+B for Big Bang
+P for Parallel Universe
+N for Neutron Star
+F for Future Space
+H for Hyperdrive
+I for Interstellar
+K for Kepler Discover
+J for Jupiter Flyby
+U for UFO
+X for Xeno Planet
+Y for Year Light
+Z for Zodiac Star
+Q for Quantum Space
+L for Light Speed
+S for Space Frontier
+
+
+----------------------------------------------------------------------
+#13. Constellations - Part 1 (space-constellations-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-constellations-1-audio/
+
+Letter 0: O for Orion
+Letter 1: U for Ursa Major
+Letter 2: U for Ursa Minor
+Letter 3: C for Cassiopeia
+Letter 4: L for Leo
+Letter 5: S for Scorpius
+Letter 6: G for Gemini
+Letter 7: A for Aquarius
+Letter 8: P for Pisces
+Letter 9: V for Virgo
+Letter 10: T for Taurus
+Letter 11: C for Cancer
+Letter 12: S for Sagittarius
+Letter 13: C for Capricorn
+Letter 14: A for Aries
+Letter 15: L for Libra
+Letter 16: D for Draco
+Letter 17: P for Perseus
+Letter 18: A for Andromeda
+Letter 19: H for Hercules
+Letter 20: C for Cygnus
+Letter 21: L for Lyra
+Letter 22: A for Aquila
+Letter 23: P for Pegasus
+Letter 24: B for Bootes
+Letter 25: C for Corona
+Letter 26: E for Eridanus
+Letter 27: O for Ophiuchus
+Letter 28: S for Serpens
+Letter 29: C for Centaurus
+
+PLAIN TEXT:
+O for Orion
+U for Ursa Major
+U for Ursa Minor
+C for Cassiopeia
+L for Leo
+S for Scorpius
+G for Gemini
+A for Aquarius
+P for Pisces
+V for Virgo
+T for Taurus
+C for Cancer
+S for Sagittarius
+C for Capricorn
+A for Aries
+L for Libra
+D for Draco
+P for Perseus
+A for Andromeda
+H for Hercules
+C for Cygnus
+L for Lyra
+A for Aquila
+P for Pegasus
+B for Bootes
+C for Corona
+E for Eridanus
+O for Ophiuchus
+S for Serpens
+C for Centaurus
+
+
+----------------------------------------------------------------------
+#14. Constellations - Part 2 (space-constellations-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-constellations-2-audio/
+
+Letter 0: C for Canis Major
+Letter 1: C for Canis Minor
+Letter 2: L for Lepus
+Letter 3: M for Monoceros
+Letter 4: P for Puppis
+Letter 5: V for Vela
+Letter 6: C for Columba
+Letter 7: P for Pictor
+Letter 8: D for Dorado
+Letter 9: R for Reticulum
+Letter 10: H for Hydra
+Letter 11: C for Corvus
+Letter 12: C for Crater
+Letter 13: S for Sextans
+Letter 14: A for Antlia
+Letter 15: P for Pyxis
+Letter 16: C for Carina
+Letter 17: V for Volans
+Letter 18: C for Chameleon
+Letter 19: M for Musca
+Letter 20: C for Crux
+Letter 21: T for Triangulum
+Letter 22: N for Norma
+Letter 23: L for Lupus
+Letter 24: A for Ara
+Letter 25: T for Telescopium
+Letter 26: P for Pavo
+Letter 27: I for Indus
+Letter 28: G for Grus
+Letter 29: S for Sculptor
+
+PLAIN TEXT:
+C for Canis Major
+C for Canis Minor
+L for Lepus
+M for Monoceros
+P for Puppis
+V for Vela
+C for Columba
+P for Pictor
+D for Dorado
+R for Reticulum
+H for Hydra
+C for Corvus
+C for Crater
+S for Sextans
+A for Antlia
+P for Pyxis
+C for Carina
+V for Volans
+C for Chameleon
+M for Musca
+C for Crux
+T for Triangulum
+N for Norma
+L for Lupus
+A for Ara
+T for Telescopium
+P for Pavo
+I for Indus
+G for Grus
+S for Sculptor
+
+
+----------------------------------------------------------------------
+#15. Constellations - Part 3 (space-constellations-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-constellations-3-audio/
+
+Letter 0: P for Phoenix
+Letter 1: F for Fornax
+Letter 2: H for Horologium
+Letter 3: C for Caelum
+Letter 4: M for Mensa
+Letter 5: O for Octans
+Letter 6: A for Apus
+Letter 7: T for Tucana
+Letter 8: S for Southern Cross
+Letter 9: N for North Star
+Letter 10: B for Big Dipper
+Letter 11: L for Little Dipper
+Letter 12: P for Pleiades
+Letter 13: H for Hyades
+Letter 14: B for Beehive Cluster
+Letter 15: D for Double Cluster
+Letter 16: G for Globular Cluster
+Letter 17: O for Open Cluster
+Letter 18: S for Star Cluster
+Letter 19: W for Winter Triangle
+Letter 20: S for Summer Triangle
+Letter 21: A for Asterism
+Letter 22: Z for Zodiac Belt
+Letter 23: R for Rashi Star
+Letter 24: I for Indian Nakshatra
+Letter 25: K for Krittika
+Letter 26: M for Mrigashira
+Letter 27: V for Vishakha
+Letter 28: C for Chitra Star
+Letter 29: U for Uttara Star
+
+PLAIN TEXT:
+P for Phoenix
+F for Fornax
+H for Horologium
+C for Caelum
+M for Mensa
+O for Octans
+A for Apus
+T for Tucana
+S for Southern Cross
+N for North Star
+B for Big Dipper
+L for Little Dipper
+P for Pleiades
+H for Hyades
+B for Beehive Cluster
+D for Double Cluster
+G for Globular Cluster
+O for Open Cluster
+S for Star Cluster
+W for Winter Triangle
+S for Summer Triangle
+A for Asterism
+Z for Zodiac Belt
+R for Rashi Star
+I for Indian Nakshatra
+K for Krittika
+M for Mrigashira
+V for Vishakha
+C for Chitra Star
+U for Uttara Star
+
+
+----------------------------------------------------------------------
+#16. Solar System - Part 1 (space-solar-system-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-solar-system-1-audio/
+
+Letter 0: M for Mercury
+Letter 1: V for Venus
+Letter 2: E for Earth
+Letter 3: M for Mars
+Letter 4: J for Jupiter
+Letter 5: S for Saturn
+Letter 6: U for Uranus
+Letter 7: N for Neptune
+Letter 8: O for Orbit
+Letter 9: R for Revolution
+Letter 10: G for Gravity
+Letter 11: T for Tilt
+Letter 12: A for Axis
+Letter 13: P for Poles
+Letter 14: Z for Zone
+Letter 15: D for Distance
+Letter 16: S for Sun
+Letter 17: C for Comet
+Letter 18: A for Asteroid
+Letter 19: M for Moon
+Letter 20: B for Belt
+Letter 21: H for Halo
+Letter 22: L for Light
+Letter 23: R for Radiation
+Letter 24: W for Wave
+Letter 25: X for X-ray
+Letter 26: Y for Year
+Letter 27: I for ISRO
+Letter 28: C for Chandrayaan
+Letter 29: K for Kaleidoscope
+
+PLAIN TEXT:
+M for Mercury
+V for Venus
+E for Earth
+M for Mars
+J for Jupiter
+S for Saturn
+U for Uranus
+N for Neptune
+O for Orbit
+R for Revolution
+G for Gravity
+T for Tilt
+A for Axis
+P for Poles
+Z for Zone
+D for Distance
+S for Sun
+C for Comet
+A for Asteroid
+M for Moon
+B for Belt
+H for Halo
+L for Light
+R for Radiation
+W for Wave
+X for X-ray
+Y for Year
+I for ISRO
+C for Chandrayaan
+K for Kaleidoscope
+
+
+----------------------------------------------------------------------
+#17. Solar System - Part 2 (space-solar-system-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-solar-system-2-audio/
+
+Letter 0: P for Pluto
+Letter 1: C for Ceres
+Letter 2: E for Europa
+Letter 3: G for Ganymede
+Letter 4: I for Io
+Letter 5: T for Titan
+Letter 6: R for Rings
+Letter 7: S for Spot
+Letter 8: A for Atmosphere
+Letter 9: C for Core
+Letter 10: M for Mantle
+Letter 11: V for Volcano
+Letter 12: C for Crater
+Letter 13: F for Field
+Letter 14: P for Plasma
+Letter 15: S for Solar Wind
+Letter 16: F for Flare
+Letter 17: P for Prominence
+Letter 18: Q for Quarter
+Letter 19: W for Waning
+Letter 20: W for Waxing
+Letter 21: N for New Moon
+Letter 22: F for Full Moon
+Letter 23: M for Mangalyaan
+Letter 24: R for Rakesh Sharma
+Letter 25: K for Kalpana Chawla
+Letter 26: S for Space Station
+Letter 27: O for Orbit
+Letter 28: D for Docking
+Letter 29: E for EVA
+
+PLAIN TEXT:
+P for Pluto
+C for Ceres
+E for Europa
+G for Ganymede
+I for Io
+T for Titan
+R for Rings
+S for Spot
+A for Atmosphere
+C for Core
+M for Mantle
+V for Volcano
+C for Crater
+F for Field
+P for Plasma
+S for Solar Wind
+F for Flare
+P for Prominence
+Q for Quarter
+W for Waning
+W for Waxing
+N for New Moon
+F for Full Moon
+M for Mangalyaan
+R for Rakesh Sharma
+K for Kalpana Chawla
+S for Space Station
+O for Orbit
+D for Docking
+E for EVA
+
+
+----------------------------------------------------------------------
+#18. Solar System - Part 3 (space-solar-system-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-solar-system-3-audio/
+
+Letter 0: A for Aurora
+Letter 1: B for Binary Star
+Letter 2: B for Black Hole
+Letter 3: N for Neutron Star
+Letter 4: P for Pulsar
+Letter 5: Q for Quasar
+Letter 6: W for White Dwarf
+Letter 7: R for Red Giant
+Letter 8: S for Supernova
+Letter 9: S for Supergiant
+Letter 10: M for Meteor
+Letter 11: M for Meteorite
+Letter 12: M for Meteoroid
+Letter 13: D for Dust Cloud
+Letter 14: G for Galaxy
+Letter 15: L for Light Year
+Letter 16: P for Parallax
+Letter 17: S for Spectral
+Letter 18: R for Redshift
+Letter 19: B for Blueshift
+Letter 20: C for Cosmic
+Letter 21: U for Universe
+Letter 22: E for Expansion
+Letter 23: V for Void
+Letter 24: F for Formation
+Letter 25: E for Evolution
+Letter 26: A for Age
+Letter 27: B for Big Bang
+Letter 28: H for Hubble
+Letter 29: I for India Space
+
+PLAIN TEXT:
+A for Aurora
+B for Binary Star
+B for Black Hole
+N for Neutron Star
+P for Pulsar
+Q for Quasar
+W for White Dwarf
+R for Red Giant
+S for Supernova
+S for Supergiant
+M for Meteor
+M for Meteorite
+M for Meteoroid
+D for Dust Cloud
+G for Galaxy
+L for Light Year
+P for Parallax
+S for Spectral
+R for Redshift
+B for Blueshift
+C for Cosmic
+U for Universe
+E for Expansion
+V for Void
+F for Formation
+E for Evolution
+A for Age
+B for Big Bang
+H for Hubble
+I for India Space
+
+
+----------------------------------------------------------------------
+#19. Space Technology - Part 1 (space-space-tech-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-space-tech-1-audio/
+
+Letter 0: R for Rocket
+Letter 1: S for Satellite
+Letter 2: T for Telescope
+Letter 3: P for Probe
+Letter 4: O for Orbiter
+Letter 5: L for Lander
+Letter 6: R for Rover
+Letter 7: C for Capsule
+Letter 8: M for Module
+Letter 9: E for Engine
+Letter 10: F for Fuel
+Letter 11: T for Thruster
+Letter 12: P for Payload
+Letter 13: S for Sensor
+Letter 14: C for Camera
+Letter 15: S for Spectrometer
+Letter 16: R for Radar
+Letter 17: L for Laser
+Letter 18: A for Antenna
+Letter 19: B for Battery
+Letter 20: S for Solar Panel
+Letter 21: C for Computer
+Letter 22: D for Data
+Letter 23: T for Transmission
+Letter 24: S for Signal
+Letter 25: C for Communication
+Letter 26: N for Navigation
+Letter 27: G for GPS
+Letter 28: I for ISRO Tech
+Letter 29: I for Innovation
+
+PLAIN TEXT:
+R for Rocket
+S for Satellite
+T for Telescope
+P for Probe
+O for Orbiter
+L for Lander
+R for Rover
+C for Capsule
+M for Module
+E for Engine
+F for Fuel
+T for Thruster
+P for Payload
+S for Sensor
+C for Camera
+S for Spectrometer
+R for Radar
+L for Laser
+A for Antenna
+B for Battery
+S for Solar Panel
+C for Computer
+D for Data
+T for Transmission
+S for Signal
+C for Communication
+N for Navigation
+G for GPS
+I for ISRO Tech
+I for Innovation
+
+
+----------------------------------------------------------------------
+#20. Space Technology - Part 2 (space-space-tech-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-space-tech-2-audio/
+
+Letter 0: M for Meteorology
+Letter 1: W for Weather
+Letter 2: C for Climate
+Letter 3: O for Observation
+Letter 4: M for Mapping
+Letter 5: S for Survey
+Letter 6: R for Remote Sensing
+Letter 7: E for Earth
+Letter 8: A for Atmosphere
+Letter 9: O for Ocean
+Letter 10: I for Ionosphere
+Letter 11: M for Magnetosphere
+Letter 12: P for Plasma
+Letter 13: S for Solar Radiation
+Letter 14: U for UV Light
+Letter 15: I for IR Imaging
+Letter 16: M for Microwave
+Letter 17: R for Radio Wave
+Letter 18: X for X-Ray
+Letter 19: G for Gamma Ray
+Letter 20: L for Lidar
+Letter 21: S for Sonar
+Letter 22: V for Vision
+Letter 23: I for Imaging
+Letter 24: S for Spectroscopy
+Letter 25: P for Photometry
+Letter 26: A for Analysis
+Letter 27: C for Calibration
+Letter 28: T for Testing
+Letter 29: V for Validation
+
+PLAIN TEXT:
+M for Meteorology
+W for Weather
+C for Climate
+O for Observation
+M for Mapping
+S for Survey
+R for Remote Sensing
+E for Earth
+A for Atmosphere
+O for Ocean
+I for Ionosphere
+M for Magnetosphere
+P for Plasma
+S for Solar Radiation
+U for UV Light
+I for IR Imaging
+M for Microwave
+R for Radio Wave
+X for X-Ray
+G for Gamma Ray
+L for Lidar
+S for Sonar
+V for Vision
+I for Imaging
+S for Spectroscopy
+P for Photometry
+A for Analysis
+C for Calibration
+T for Testing
+V for Validation
+
+
+----------------------------------------------------------------------
+#21. Space Technology - Part 3 (space-space-tech-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-space-tech-3-audio/
+
+Letter 0: S for Spacecraft
+Letter 1: A for Avionics
+Letter 2: S for Systems
+Letter 3: H for Hardware
+Letter 4: S for Software
+Letter 5: P for Programming
+Letter 6: A for Algorithm
+Letter 7: O for Operation
+Letter 8: M for Maintenance
+Letter 9: U for Upgrade
+Letter 10: I for Integration
+Letter 11: T for Testing
+Letter 12: Q for Quality
+Letter 13: S for Safety
+Letter 14: R for Reliability
+Letter 15: E for Efficiency
+Letter 16: P for Performance
+Letter 17: O for Optimization
+Letter 18: M for Monitoring
+Letter 19: C for Control
+Letter 20: A for Automation
+Letter 21: I for Intelligence
+Letter 22: M for Machine Learning
+Letter 23: A for AI
+Letter 24: N for Network
+Letter 25: C for Cybersecurity
+Letter 26: E for Encryption
+Letter 27: I for ISRO Systems
+Letter 28: I for India Tech
+Letter 29: F for Future Tech
+
+PLAIN TEXT:
+S for Spacecraft
+A for Avionics
+S for Systems
+H for Hardware
+S for Software
+P for Programming
+A for Algorithm
+O for Operation
+M for Maintenance
+U for Upgrade
+I for Integration
+T for Testing
+Q for Quality
+S for Safety
+R for Reliability
+E for Efficiency
+P for Performance
+O for Optimization
+M for Monitoring
+C for Control
+A for Automation
+I for Intelligence
+M for Machine Learning
+A for AI
+N for Network
+C for Cybersecurity
+E for Encryption
+I for ISRO Systems
+I for India Tech
+F for Future Tech
+
+
+----------------------------------------------------------------------
+#22. Moon Missions - Part 1 (space-moon-missions-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-moon-missions-1-audio/
+
+Letter 0: M for Moon
+Letter 1: L for Luna
+Letter 2: S for Satellite
+Letter 3: A for Apollo
+Letter 4: C for Chandrayaan
+Letter 5: O for Orbiter
+Letter 6: I for Impactor
+Letter 7: R for Rover
+Letter 8: L for Lander
+Letter 9: C for Crater
+Letter 10: S for Surface
+Letter 11: R for Regolith
+Letter 12: D for Dust
+Letter 13: R for Rock
+Letter 14: M for Maria
+Letter 15: H for Highlands
+Letter 16: V for Valley
+Letter 17: P for Peak
+Letter 18: S for Seismic
+Letter 19: G for Gravity
+Letter 20: M for Magnetic
+Letter 21: T for Temperature
+Letter 22: R for Radiation
+Letter 23: W for Water
+Letter 24: I for Ice
+Letter 25: O for Oxygen
+Letter 26: H for Helium
+Letter 27: S for Science
+Letter 28: R for Research
+Letter 29: E for Exploration
+
+PLAIN TEXT:
+M for Moon
+L for Luna
+S for Satellite
+A for Apollo
+C for Chandrayaan
+O for Orbiter
+I for Impactor
+R for Rover
+L for Lander
+C for Crater
+S for Surface
+R for Regolith
+D for Dust
+R for Rock
+M for Maria
+H for Highlands
+V for Valley
+P for Peak
+S for Seismic
+G for Gravity
+M for Magnetic
+T for Temperature
+R for Radiation
+W for Water
+I for Ice
+O for Oxygen
+H for Helium
+S for Science
+R for Research
+E for Exploration
+
+
+----------------------------------------------------------------------
+#23. Moon Missions - Part 2 (space-moon-missions-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-moon-missions-2-audio/
+
+Letter 0: M for Mission
+Letter 1: O for Objective
+Letter 2: G for Goal
+Letter 3: P for Plan
+Letter 4: S for Schedule
+Letter 5: L for Launch
+Letter 6: T for Trajectory
+Letter 7: D for Descent
+Letter 8: L for Landing
+Letter 9: D for Deployment
+Letter 10: O for Operation
+Letter 11: C for Collection
+Letter 12: S for Sample
+Letter 13: A for Analysis
+Letter 14: R for Result
+Letter 15: D for Discovery
+Letter 16: F for Finding
+Letter 17: E for Evidence
+Letter 18: D for Data
+Letter 19: I for Information
+Letter 20: K for Knowledge
+Letter 21: U for Understanding
+Letter 22: I for Insight
+Letter 23: C for Conclusion
+Letter 24: S for Success
+Letter 25: A for Achievement
+Letter 26: P for Progress
+Letter 27: A for Advancement
+Letter 28: I for ISRO Mission
+Letter 29: H for Historic
+
+PLAIN TEXT:
+M for Mission
+O for Objective
+G for Goal
+P for Plan
+S for Schedule
+L for Launch
+T for Trajectory
+D for Descent
+L for Landing
+D for Deployment
+O for Operation
+C for Collection
+S for Sample
+A for Analysis
+R for Result
+D for Discovery
+F for Finding
+E for Evidence
+D for Data
+I for Information
+K for Knowledge
+U for Understanding
+I for Insight
+C for Conclusion
+S for Success
+A for Achievement
+P for Progress
+A for Advancement
+I for ISRO Mission
+H for Historic
+
+
+----------------------------------------------------------------------
+#24. Moon Missions - Part 3 (space-moon-missions-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-moon-missions-3-audio/
+
+Letter 0: A for Astronaut
+Letter 1: C for Cosmonaut
+Letter 2: T for Taikonaut
+Letter 3: P for Pilot
+Letter 4: C for Commander
+Letter 5: M for Mission Specialist
+Letter 6: P for Payload Specialist
+Letter 7: E for EVA
+Letter 8: S for Suit
+Letter 9: H for Helmet
+Letter 10: G for Gloves
+Letter 11: B for Boots
+Letter 12: O for Oxygen
+Letter 13: T for Tank
+Letter 14: R for Respirator
+Letter 15: V for Visor
+Letter 16: C for Communication
+Letter 17: H for Headset
+Letter 18: M for Microphone
+Letter 19: T for Transmitter
+Letter 20: R for Receiver
+Letter 21: S for Signal
+Letter 22: T for Training
+Letter 23: S for Simulation
+Letter 24: P for Preparation
+Letter 25: E for Experience
+Letter 26: S for Skill
+Letter 27: K for Knowledge
+Letter 28: C for Courage
+Letter 29: D for Dedication
+
+PLAIN TEXT:
+A for Astronaut
+C for Cosmonaut
+T for Taikonaut
+P for Pilot
+C for Commander
+M for Mission Specialist
+P for Payload Specialist
+E for EVA
+S for Suit
+H for Helmet
+G for Gloves
+B for Boots
+O for Oxygen
+T for Tank
+R for Respirator
+V for Visor
+C for Communication
+H for Headset
+M for Microphone
+T for Transmitter
+R for Receiver
+S for Signal
+T for Training
+S for Simulation
+P for Preparation
+E for Experience
+S for Skill
+K for Knowledge
+C for Courage
+D for Dedication
+
+
+----------------------------------------------------------------------
+#25. Mars Exploration - Part 1 (space-mars-exploration-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-mars-exploration-1-audio/
+
+Letter 0: M for Mars
+Letter 1: R for Red Planet
+Letter 2: P for Planet
+Letter 3: O for Orbit
+Letter 4: A for Atmosphere
+Letter 5: C for Carbon Dioxide
+Letter 6: S for Surface
+Letter 7: D for Desert
+Letter 8: D for Dune
+Letter 9: R for Rock
+Letter 10: S for Soil
+Letter 11: D for Dust Storm
+Letter 12: W for Wind
+Letter 13: T for Temperature
+Letter 14: I for Ice
+Letter 15: W for Water
+Letter 16: M for Methane
+Letter 17: V for Volcano
+Letter 18: O for Olympus Mons
+Letter 19: V for Valles Marineris
+Letter 20: C for Canyon
+Letter 21: G for Gully
+Letter 22: P for Polar Cap
+Letter 23: M for Mangalyaan
+Letter 24: O for Orbiter
+Letter 25: I for Instrument
+Letter 26: S for Sensor
+Letter 27: C for Camera
+Letter 28: M for Methane Mapper
+Letter 29: I for ISRO
+
+PLAIN TEXT:
+M for Mars
+R for Red Planet
+P for Planet
+O for Orbit
+A for Atmosphere
+C for Carbon Dioxide
+S for Surface
+D for Desert
+D for Dune
+R for Rock
+S for Soil
+D for Dust Storm
+W for Wind
+T for Temperature
+I for Ice
+W for Water
+M for Methane
+V for Volcano
+O for Olympus Mons
+V for Valles Marineris
+C for Canyon
+G for Gully
+P for Polar Cap
+M for Mangalyaan
+O for Orbiter
+I for Instrument
+S for Sensor
+C for Camera
+M for Methane Mapper
+I for ISRO
+
+
+----------------------------------------------------------------------
+#26. Mars Exploration - Part 2 (space-mars-exploration-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-mars-exploration-2-audio/
+
+Letter 0: E for Exploration
+Letter 1: R for Rover
+Letter 2: L for Lander
+Letter 3: M for Mission
+Letter 4: O for Objective
+Letter 5: S for Sample
+Letter 6: C for Collection
+Letter 7: A for Analysis
+Letter 8: S for Science
+Letter 9: B for Biology
+Letter 10: G for Geology
+Letter 11: C for Chemistry
+Letter 12: P for Physics
+Letter 13: A for Astrobiology
+Letter 14: L for Life
+Letter 15: O for Organism
+Letter 16: M for Microbe
+Letter 17: B for Bacteria
+Letter 18: F for Fossil
+Letter 19: T for Trace
+Letter 20: E for Evidence
+Letter 21: C for Colony
+Letter 22: H for Habitat
+Letter 23: B for Base
+Letter 24: S for Settlement
+Letter 25: C for Colonization
+Letter 26: F for Future
+Letter 27: P for Possibility
+Letter 28: P for Potential
+Letter 29: D for Dream
+
+PLAIN TEXT:
+E for Exploration
+R for Rover
+L for Lander
+M for Mission
+O for Objective
+S for Sample
+C for Collection
+A for Analysis
+S for Science
+B for Biology
+G for Geology
+C for Chemistry
+P for Physics
+A for Astrobiology
+L for Life
+O for Organism
+M for Microbe
+B for Bacteria
+F for Fossil
+T for Trace
+E for Evidence
+C for Colony
+H for Habitat
+B for Base
+S for Settlement
+C for Colonization
+F for Future
+P for Possibility
+P for Potential
+D for Dream
+
+
+----------------------------------------------------------------------
+#27. Mars Exploration - Part 3 (space-mars-exploration-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-mars-exploration-3-audio/
+
+Letter 0: T for Technology
+Letter 1: I for Innovation
+Letter 2: R for Research
+Letter 3: D for Development
+Letter 4: E for Engineering
+Letter 5: D for Design
+Letter 6: B for Build
+Letter 7: C for Construction
+Letter 8: M for Manufacturing
+Letter 9: P for Production
+Letter 10: A for Assembly
+Letter 11: T for Testing
+Letter 12: V for Validation
+Letter 13: V for Verification
+Letter 14: Q for Quality
+Letter 15: S for Safety
+Letter 16: R for Reliability
+Letter 17: D for Durability
+Letter 18: L for Longevity
+Letter 19: P for Performance
+Letter 20: E for Efficiency
+Letter 21: O for Optimization
+Letter 22: I for Improvement
+Letter 23: E for Enhancement
+Letter 24: U for Upgrade
+Letter 25: M for Modification
+Letter 26: A for Adaptation
+Letter 27: E for Evolution
+Letter 28: I for India Leadership
+Letter 29: V for Vision
+
+PLAIN TEXT:
+T for Technology
+I for Innovation
+R for Research
+D for Development
+E for Engineering
+D for Design
+B for Build
+C for Construction
+M for Manufacturing
+P for Production
+A for Assembly
+T for Testing
+V for Validation
+V for Verification
+Q for Quality
+S for Safety
+R for Reliability
+D for Durability
+L for Longevity
+P for Performance
+E for Efficiency
+O for Optimization
+I for Improvement
+E for Enhancement
+U for Upgrade
+M for Modification
+A for Adaptation
+E for Evolution
+I for India Leadership
+V for Vision
+
+
+----------------------------------------------------------------------
+#28. Amazing Space Facts - Part 1 (space-amazing-space-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-amazing-space-1-audio/
+
+Letter 0: F for Fact
+Letter 1: K for Knowledge
+Letter 2: I for Information
+Letter 3: D for Discovery
+Letter 4: W for Wonder
+Letter 5: M for Mystery
+Letter 6: S for Secret
+Letter 7: H for Hidden
+Letter 8: U for Unknown
+Letter 9: C for Curious
+Letter 10: I for Interesting
+Letter 11: A for Amazing
+Letter 12: S for Surprising
+Letter 13: U for Unbelievable
+Letter 14: I for Incredible
+Letter 15: A for Astonishing
+Letter 16: R for Remarkable
+Letter 17: E for Extraordinary
+Letter 18: F for Fascinating
+Letter 19: M for Marvelous
+Letter 20: S for Spectacular
+Letter 21: M for Magnificent
+Letter 22: S for Spectacular
+Letter 23: G for Grand
+Letter 24: V for Vast
+Letter 25: E for Enormous
+Letter 26: H for Huge
+Letter 27: I for Infinite
+Letter 28: E for Eternal
+Letter 29: T for Timeless
+
+PLAIN TEXT:
+F for Fact
+K for Knowledge
+I for Information
+D for Discovery
+W for Wonder
+M for Mystery
+S for Secret
+H for Hidden
+U for Unknown
+C for Curious
+I for Interesting
+A for Amazing
+S for Surprising
+U for Unbelievable
+I for Incredible
+A for Astonishing
+R for Remarkable
+E for Extraordinary
+F for Fascinating
+M for Marvelous
+S for Spectacular
+M for Magnificent
+S for Spectacular
+G for Grand
+V for Vast
+E for Enormous
+H for Huge
+I for Infinite
+E for Eternal
+T for Timeless
+
+
+----------------------------------------------------------------------
+#29. Amazing Space Facts - Part 2 (space-amazing-space-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-amazing-space-2-audio/
+
+Letter 0: B for Black Hole
+Letter 1: S for Supernova
+Letter 2: P for Pulsar
+Letter 3: Q for Quasar
+Letter 4: N for Neutron Star
+Letter 5: W for White Dwarf
+Letter 6: R for Red Giant
+Letter 7: B for Binary Star
+Letter 8: T for Triple Star
+Letter 9: C for Cluster
+Letter 10: N for Nebula
+Letter 11: D for Dark Matter
+Letter 12: D for Dark Energy
+Letter 13: A for Antimatter
+Letter 14: P for Plasma
+Letter 15: B for Big Bang
+Letter 16: E for Expansion
+Letter 17: R for Redshift
+Letter 18: B for Blueshift
+Letter 19: D for Doppler Effect
+Letter 20: G for Gravitational Lens
+Letter 21: W for Wormhole
+Letter 22: P for Parallel Universe
+Letter 23: M for Multiverse
+Letter 24: D for Dimension
+Letter 25: T for Time Dilation
+Letter 26: S for Spacetime
+Letter 27: R for Relativity
+Letter 28: Q for Quantum
+Letter 29: P for Probability
+
+PLAIN TEXT:
+B for Black Hole
+S for Supernova
+P for Pulsar
+Q for Quasar
+N for Neutron Star
+W for White Dwarf
+R for Red Giant
+B for Binary Star
+T for Triple Star
+C for Cluster
+N for Nebula
+D for Dark Matter
+D for Dark Energy
+A for Antimatter
+P for Plasma
+B for Big Bang
+E for Expansion
+R for Redshift
+B for Blueshift
+D for Doppler Effect
+G for Gravitational Lens
+W for Wormhole
+P for Parallel Universe
+M for Multiverse
+D for Dimension
+T for Time Dilation
+S for Spacetime
+R for Relativity
+Q for Quantum
+P for Probability
+
+
+----------------------------------------------------------------------
+#30. Amazing Space Facts - Part 3 (space-amazing-space-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/space-amazing-space-3-audio/
+
+Letter 0: E for Exoplanet
+Letter 1: H for Habitable Zone
+Letter 2: B for Biosignature
+Letter 3: A for Alien Life
+Letter 4: E for Extraterrestrial
+Letter 5: U for Universe
+Letter 6: C for Cosmos
+Letter 7: G for Galaxy
+Letter 8: S for Star Field
+Letter 9: C for Celestial
+Letter 10: C for Cosmic Ray
+Letter 11: S for Solar Flare
+Letter 12: C for Coronal Mass Ejection
+Letter 13: S for Solar Wind
+Letter 14: M for Magnetic Field
+Letter 15: A for Aurora
+Letter 16: N for Northern Lights
+Letter 17: S for Southern Lights
+Letter 18: P for Polar
+Letter 19: E for Eclipse
+Letter 20: T for Transit
+Letter 21: C for Conjunction
+Letter 22: O for Opposition
+Letter 23: A for Alignment
+Letter 24: R for Rotation
+Letter 25: R for Revolution
+Letter 26: P for Precession
+Letter 27: N for Nutation
+Letter 28: I for India's Pride
+Letter 29: S for Space Wonder
+
+PLAIN TEXT:
+E for Exoplanet
+H for Habitable Zone
+B for Biosignature
+A for Alien Life
+E for Extraterrestrial
+U for Universe
+C for Cosmos
+G for Galaxy
+S for Star Field
+C for Celestial
+C for Cosmic Ray
+S for Solar Flare
+C for Coronal Mass Ejection
+S for Solar Wind
+M for Magnetic Field
+A for Aurora
+N for Northern Lights
+S for Southern Lights
+P for Polar
+E for Eclipse
+T for Transit
+C for Conjunction
+O for Opposition
+A for Alignment
+R for Rotation
+R for Revolution
+P for Precession
+N for Nutation
+I for India's Pride
+S for Space Wonder
+

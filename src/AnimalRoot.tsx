@@ -1,0 +1,5982 @@
+import "./index.css";
+import { Composition } from "remotion";
+import { AlphabetShortsTemplate } from "./AlphabetShortsTemplate";
+import type { AlphabetShortsProps } from "./AlphabetShortsTemplate";
+import React from "react";
+
+export const AnimalRemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Composition
+        id="AnimalsIndianWildlife1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Wildlife - Part 1",
+          videoId: "animals-indian-wildlife-1",
+          bgGradient: ["#FF8F00","#FFE082"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock",
+          "emoji": "🦚",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey",
+          "emoji": "🐒",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard",
+          "emoji": "🐆",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "R",
+          "word": "Rhinoceros",
+          "emoji": "🦏",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "D",
+          "word": "Deer",
+          "emoji": "🦌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "B",
+          "word": "Bear",
+          "emoji": "🐻",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "C",
+          "word": "Crocodile",
+          "emoji": "🐊",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "P",
+          "word": "Parrot",
+          "emoji": "🦜",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Camel",
+          "emoji": "🐪",
+          "bgColor": "#F4511E"
+          },
+          {
+          "letter": "T",
+          "word": "Turtle",
+          "emoji": "🐢",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "G",
+          "word": "Gaur",
+          "emoji": "🐂",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "K",
+          "word": "Kingfisher",
+          "emoji": "🐦",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "S",
+          "word": "Sambar",
+          "emoji": "🦌",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgai",
+          "emoji": "🦬",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "L",
+          "word": "Lion",
+          "emoji": "🦁",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "W",
+          "word": "Wolf",
+          "emoji": "🐺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "A",
+          "word": "Antelope",
+          "emoji": "🦌",
+          "bgColor": "#EF6C00"
+          },
+          {
+          "letter": "H",
+          "word": "Hornbill",
+          "emoji": "🐦",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "O",
+          "word": "Otter",
+          "emoji": "🦦",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "F",
+          "word": "Flamingo",
+          "emoji": "🦩",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "I",
+          "word": "Ibis",
+          "emoji": "🐦",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "S",
+          "word": "Sloth Bear",
+          "emoji": "🐻",
+          "bgColor": "#212121"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsIndianWildlife2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Wildlife - Part 2",
+          videoId: "animals-indian-wildlife-2",
+          bgGradient: ["#F57C00","#FFB74D"] as [string, string],
+          accentColor: "#BF360C",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "P",
+          "word": "Python",
+          "emoji": "🐍",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "M",
+          "word": "Mongoose",
+          "emoji": "🦡",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Chital",
+          "emoji": "🦌",
+          "bgColor": "#EF6C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pangolin",
+          "emoji": "🦔",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Leopard",
+          "emoji": "🐆",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Red Panda",
+          "emoji": "🐼",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Blackbuck",
+          "emoji": "🦌",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "K",
+          "word": "King Cobra",
+          "emoji": "🐍",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "L",
+          "word": "Langur",
+          "emoji": "🐒",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Boar",
+          "emoji": "🐗",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "G",
+          "word": "Gharial",
+          "emoji": "🐊",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "F",
+          "word": "Fox",
+          "emoji": "🦊",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "H",
+          "word": "Hyena",
+          "emoji": "🐺",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "A",
+          "word": "Asiatic Lion",
+          "emoji": "🦁",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "C",
+          "word": "Crane",
+          "emoji": "🦩",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Star Tortoise",
+          "emoji": "🐢",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "N",
+          "word": "Neelgai",
+          "emoji": "🦬",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Owl",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "U",
+          "word": "Urial",
+          "emoji": "🐏",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "V",
+          "word": "Viper",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Cat",
+          "emoji": "🐱",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra",
+          "emoji": "🦓",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "T",
+          "word": "Takin",
+          "emoji": "🐂",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "S",
+          "word": "Stork",
+          "emoji": "🦩",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "B",
+          "word": "Barasingha",
+          "emoji": "🦌",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "M",
+          "word": "Myna",
+          "emoji": "🐦",
+          "bgColor": "#FF6F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsIndianWildlife3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Wildlife - Part 3",
+          videoId: "animals-indian-wildlife-3",
+          bgGradient: ["#EF6C00","#FFCC80"] as [string, string],
+          accentColor: "#D84315",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock",
+          "emoji": "🦚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "M",
+          "word": "Macaque",
+          "emoji": "🐒",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Clouded Leopard",
+          "emoji": "🐆",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "S",
+          "word": "Sambar Deer",
+          "emoji": "🦌",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Langur",
+          "emoji": "🐒",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "R",
+          "word": "Russell Viper",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "B",
+          "word": "Bison",
+          "emoji": "🦬",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "H",
+          "word": "Hog Deer",
+          "emoji": "🦌",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Loris",
+          "emoji": "🐒",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Dog",
+          "emoji": "🐕",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "K",
+          "word": "Krait",
+          "emoji": "🐍",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "F",
+          "word": "Fishing Cat",
+          "emoji": "🐱",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "A",
+          "word": "Asiatic Elephant",
+          "emoji": "🐘",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "D",
+          "word": "Dhole",
+          "emoji": "🐕",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgiri Tahr",
+          "emoji": "🐐",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "O",
+          "word": "Olive Ridley Turtle",
+          "emoji": "🐢",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "J",
+          "word": "Jerdon Courser",
+          "emoji": "🐦",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Pangolin",
+          "emoji": "🦔",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "U",
+          "word": "Upland Buzzard",
+          "emoji": "🦅",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "V",
+          "word": "Vine Snake",
+          "emoji": "🐍",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Monitor",
+          "emoji": "🦎",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zeren",
+          "emoji": "🦌",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "T",
+          "word": "Tragopan",
+          "emoji": "🐦",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "C",
+          "word": "Chousingha",
+          "emoji": "🦌",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "S",
+          "word": "Swamp Deer",
+          "emoji": "🦌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "B",
+          "word": "Barn Owl",
+          "emoji": "🦉",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "M",
+          "word": "Malabar Giant Squirrel",
+          "emoji": "🐿️",
+          "bgColor": "#AD1457"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsJungleSafari1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Jungle Safari - Part 1",
+          videoId: "animals-jungle-safari-1",
+          bgGradient: ["#2E7D32","#A5D6A7"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "G",
+          "word": "Gorilla",
+          "emoji": "🦍",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard",
+          "emoji": "🐆",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "C",
+          "word": "Chimpanzee",
+          "emoji": "🐒",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "J",
+          "word": "Jaguar",
+          "emoji": "🐆",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "P",
+          "word": "Panther",
+          "emoji": "🐈‍⬛",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey",
+          "emoji": "🐒",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Snake",
+          "emoji": "🐍",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "T",
+          "word": "Toucan",
+          "emoji": "🐦",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "C",
+          "word": "Chameleon",
+          "emoji": "🦎",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "B",
+          "word": "Bear",
+          "emoji": "🐻",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "R",
+          "word": "Rhinoceros",
+          "emoji": "🦏",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "H",
+          "word": "Hippo",
+          "emoji": "🦛",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "O",
+          "word": "Orangutan",
+          "emoji": "🦧",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "A",
+          "word": "Anaconda",
+          "emoji": "🐍",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "K",
+          "word": "Koala",
+          "emoji": "🐨",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Deer",
+          "emoji": "🦌",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "P",
+          "word": "Parrot",
+          "emoji": "🦜",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "I",
+          "word": "Iguana",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Boar",
+          "emoji": "🐗",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "F",
+          "word": "Frog",
+          "emoji": "🐸",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "C",
+          "word": "Crocodile",
+          "emoji": "🐊",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgai",
+          "emoji": "🦬",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "G",
+          "word": "Gibbon",
+          "emoji": "🐒",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "B",
+          "word": "Butterfly",
+          "emoji": "🦋",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "U",
+          "word": "Uakari",
+          "emoji": "🐒",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Sloth",
+          "emoji": "🦥",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "L",
+          "word": "Lemur",
+          "emoji": "🐒",
+          "bgColor": "#00695C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsJungleSafari2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Jungle Safari - Part 2",
+          videoId: "animals-jungle-safari-2",
+          bgGradient: ["#388E3C","#81C784"] as [string, string],
+          accentColor: "#2E7D32",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock",
+          "emoji": "🦚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "A",
+          "word": "Anteater",
+          "emoji": "🐜",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "T",
+          "word": "Tapir",
+          "emoji": "🐂",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "M",
+          "word": "Mandrill",
+          "emoji": "🐒",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "O",
+          "word": "Ocelot",
+          "emoji": "🐆",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "H",
+          "word": "Hornbill",
+          "emoji": "🐦",
+          "bgColor": "#EF6C00"
+          },
+          {
+          "letter": "B",
+          "word": "Boa",
+          "emoji": "🐍",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "S",
+          "word": "Spider Monkey",
+          "emoji": "🐒",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "K",
+          "word": "Kingfisher",
+          "emoji": "🐦",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "P",
+          "word": "Pangolin",
+          "emoji": "🦔",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "G",
+          "word": "Gecko",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "L",
+          "word": "Langur",
+          "emoji": "🐒",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "R",
+          "word": "Red Panda",
+          "emoji": "🐼",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "D",
+          "word": "Dragonfly",
+          "emoji": "🐉",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "W",
+          "word": "Woodpecker",
+          "emoji": "🐦",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Fox",
+          "emoji": "🦇",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "N",
+          "word": "Nightjar",
+          "emoji": "🐦",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Cobra",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "V",
+          "word": "Viper",
+          "emoji": "🐍",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "C",
+          "word": "Civet",
+          "emoji": "🐱",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Bird",
+          "emoji": "🐦",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra",
+          "emoji": "🦓",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Baboon",
+          "emoji": "🐒",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "Q",
+          "word": "Quetzal",
+          "emoji": "🐦",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "S",
+          "word": "Sambar",
+          "emoji": "🦌",
+          "bgColor": "#9E9D24"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsJungleSafari3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Jungle Safari - Part 3",
+          videoId: "animals-jungle-safari-3",
+          bgGradient: ["#43A047","#C8E6C9"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "P",
+          "word": "Python",
+          "emoji": "🐍",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "M",
+          "word": "Macaw",
+          "emoji": "🦜",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "G",
+          "word": "Gaur",
+          "emoji": "🐂",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "S",
+          "word": "Sunbird",
+          "emoji": "🐦",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "C",
+          "word": "Capybara",
+          "emoji": "🐹",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Cat",
+          "emoji": "🐱",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "H",
+          "word": "Howler Monkey",
+          "emoji": "🐒",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "A",
+          "word": "Armadillo",
+          "emoji": "🦔",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Binturong",
+          "emoji": "🐻",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "K",
+          "word": "Komodo Dragon",
+          "emoji": "🦎",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "R",
+          "word": "River Otter",
+          "emoji": "🦦",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "D",
+          "word": "Dhole",
+          "emoji": "🐕",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "F",
+          "word": "Falcon",
+          "emoji": "🦅",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Okapi",
+          "emoji": "🦒",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "W",
+          "word": "Water Monitor",
+          "emoji": "🦎",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "N",
+          "word": "Naja",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Roller",
+          "emoji": "🐦",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "U",
+          "word": "Uromastyx",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "V",
+          "word": "Vervet Monkey",
+          "emoji": "🐒",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Q",
+          "word": "Quoll",
+          "emoji": "🐱",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Throated Marten",
+          "emoji": "🦡",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebu",
+          "emoji": "🐄",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "T",
+          "word": "Tarsier",
+          "emoji": "🐒",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Caracal",
+          "emoji": "🐱",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "B",
+          "word": "Baboon",
+          "emoji": "🐒",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "S",
+          "word": "Stag",
+          "emoji": "🦌",
+          "bgColor": "#00695C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsFarmFriends1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Farm Friends - Part 1",
+          videoId: "animals-farm-friends-1",
+          bgGradient: ["#795548","#BCAAA4"] as [string, string],
+          accentColor: "#4E342E",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "G",
+          "word": "Goat",
+          "emoji": "🐐",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Sheep",
+          "emoji": "🐑",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "H",
+          "word": "Horse",
+          "emoji": "🐴",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "D",
+          "word": "Donkey",
+          "emoji": "🫏",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "P",
+          "word": "Pig",
+          "emoji": "🐷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "C",
+          "word": "Chicken",
+          "emoji": "🐔",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "D",
+          "word": "Duck",
+          "emoji": "🦆",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "R",
+          "word": "Rooster",
+          "emoji": "🐓",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "T",
+          "word": "Turkey",
+          "emoji": "🦃",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "G",
+          "word": "Goose",
+          "emoji": "🪿",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Rabbit",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          },
+          {
+          "letter": "C",
+          "word": "Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "D",
+          "word": "Dog",
+          "emoji": "🐕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Ox",
+          "emoji": "🐂",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "C",
+          "word": "Camel",
+          "emoji": "🐪",
+          "bgColor": "#F4511E"
+          },
+          {
+          "letter": "P",
+          "word": "Parrot",
+          "emoji": "🦜",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "P",
+          "word": "Pigeon",
+          "emoji": "🕊️",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "L",
+          "word": "Llama",
+          "emoji": "🦙",
+          "bgColor": "#FFD54F"
+          },
+          {
+          "letter": "M",
+          "word": "Mule",
+          "emoji": "🐴",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "B",
+          "word": "Bull",
+          "emoji": "🐂",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "H",
+          "word": "Hen",
+          "emoji": "🐔",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "E",
+          "word": "Emu",
+          "emoji": "🐦",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "A",
+          "word": "Alpaca",
+          "emoji": "🦙",
+          "bgColor": "#FFAB00"
+          },
+          {
+          "letter": "S",
+          "word": "Sparrow",
+          "emoji": "🐦",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "T",
+          "word": "Tortoise",
+          "emoji": "🐢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "M",
+          "word": "Mynah",
+          "emoji": "🐦",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "F",
+          "word": "Fish",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsFarmFriends2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Farm Friends - Part 2",
+          videoId: "animals-farm-friends-2",
+          bgGradient: ["#6D4C41","#D7CCC8"] as [string, string],
+          accentColor: "#3E2723",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "G",
+          "word": "Goat",
+          "emoji": "🐐",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "H",
+          "word": "Horse",
+          "emoji": "🐴",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Swan",
+          "emoji": "🦢",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock",
+          "emoji": "🦚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "D",
+          "word": "Deer",
+          "emoji": "🦌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Crow",
+          "emoji": "🐦",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "L",
+          "word": "Lamb",
+          "emoji": "🐑",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "M",
+          "word": "Mouse",
+          "emoji": "🐭",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "R",
+          "word": "Ram",
+          "emoji": "🐏",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "F",
+          "word": "Ferret",
+          "emoji": "🐹",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "T",
+          "word": "Turkey",
+          "emoji": "🦃",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quail",
+          "emoji": "🐦",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "E",
+          "word": "Egret",
+          "emoji": "🦩",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "W",
+          "word": "Water Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "K",
+          "word": "Kid Goat",
+          "emoji": "🐐",
+          "bgColor": "#EF6C00"
+          },
+          {
+          "letter": "O",
+          "word": "Ostrich",
+          "emoji": "🐦",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "A",
+          "word": "Ass",
+          "emoji": "🫏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "N",
+          "word": "Nightingale",
+          "emoji": "🐦",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Runner Duck",
+          "emoji": "🦆",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "J",
+          "word": "Jersey Cow",
+          "emoji": "🐄",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "U",
+          "word": "Udad",
+          "emoji": "🐏",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "V",
+          "word": "Vole",
+          "emoji": "🐭",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebu",
+          "emoji": "🐄",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "B",
+          "word": "Bee",
+          "emoji": "🐝",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "C",
+          "word": "Calf",
+          "emoji": "🐄",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Pony",
+          "emoji": "🐴",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "S",
+          "word": "Silkworm",
+          "emoji": "🐛",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "H",
+          "word": "Hamster",
+          "emoji": "🐹",
+          "bgColor": "#AD1457"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsFarmFriends3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Farm Friends - Part 3",
+          videoId: "animals-farm-friends-3",
+          bgGradient: ["#8D6E63","#EFEBE9"] as [string, string],
+          accentColor: "#4E342E",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#FFB300"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "H",
+          "word": "Horse",
+          "emoji": "🐴",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Guinea Pig",
+          "emoji": "🐹",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "S",
+          "word": "Sheep",
+          "emoji": "🐑",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "D",
+          "word": "Dove",
+          "emoji": "🕊️",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "R",
+          "word": "Rooster",
+          "emoji": "🐓",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "P",
+          "word": "Pig",
+          "emoji": "🐷",
+          "bgColor": "#EC407A"
+          },
+          {
+          "letter": "T",
+          "word": "Toad",
+          "emoji": "🐸",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "C",
+          "word": "Canary",
+          "emoji": "🐦",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "G",
+          "word": "Goldfish",
+          "emoji": "🐠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "L",
+          "word": "Lovebird",
+          "emoji": "🐦",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "M",
+          "word": "Mare",
+          "emoji": "🐴",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "O",
+          "word": "Owl",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "F",
+          "word": "Foal",
+          "emoji": "🐴",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "A",
+          "word": "Angora Rabbit",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          },
+          {
+          "letter": "E",
+          "word": "Earthworm",
+          "emoji": "🪱",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "K",
+          "word": "Koel",
+          "emoji": "🐦",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "W",
+          "word": "Wasp",
+          "emoji": "🐝",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "N",
+          "word": "Newt",
+          "emoji": "🦎",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Bulbul",
+          "emoji": "🐦",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "J",
+          "word": "Jay",
+          "emoji": "🐦",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "U",
+          "word": "Uguisu",
+          "emoji": "🐦",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Dove",
+          "emoji": "🕊️",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Bullock",
+          "emoji": "🐂",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "D",
+          "word": "Dragonfly",
+          "emoji": "🐉",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "S",
+          "word": "Squirrel",
+          "emoji": "🐿️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "P",
+          "word": "Parakeet",
+          "emoji": "🦜",
+          "bgColor": "#388E3C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsPetAnimals1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Pet Animals - Part 1",
+          videoId: "animals-pet-animals-1",
+          bgGradient: ["#E91E63","#F48FB1"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dog",
+          "emoji": "🐕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "R",
+          "word": "Rabbit",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          },
+          {
+          "letter": "H",
+          "word": "Hamster",
+          "emoji": "🐹",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "G",
+          "word": "Goldfish",
+          "emoji": "🐠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "P",
+          "word": "Parrot",
+          "emoji": "🦜",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "T",
+          "word": "Turtle",
+          "emoji": "🐢",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "C",
+          "word": "Canary",
+          "emoji": "🐦",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "G",
+          "word": "Guinea Pig",
+          "emoji": "🐹",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "P",
+          "word": "Poodle",
+          "emoji": "🐩",
+          "bgColor": "#EC407A"
+          },
+          {
+          "letter": "B",
+          "word": "Budgie",
+          "emoji": "🦜",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "K",
+          "word": "Kitten",
+          "emoji": "🐱",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Puppy",
+          "emoji": "🐶",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "F",
+          "word": "Ferret",
+          "emoji": "🐹",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "M",
+          "word": "Mouse",
+          "emoji": "🐭",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "C",
+          "word": "Cockatiel",
+          "emoji": "🦜",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "L",
+          "word": "Labrador",
+          "emoji": "🐕",
+          "bgColor": "#FFD54F"
+          },
+          {
+          "letter": "S",
+          "word": "Siamese Cat",
+          "emoji": "🐱",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ringneck",
+          "emoji": "🦜",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "A",
+          "word": "Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "G",
+          "word": "German Shepherd",
+          "emoji": "🐕",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "P",
+          "word": "Persian Cat",
+          "emoji": "🐱",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "T",
+          "word": "Tortoise",
+          "emoji": "🐢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#FFB300"
+          },
+          {
+          "letter": "D",
+          "word": "Dove",
+          "emoji": "🕊️",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "L",
+          "word": "Lovebird",
+          "emoji": "🐦",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "H",
+          "word": "Husky",
+          "emoji": "🐕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Beagle",
+          "emoji": "🐕",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "S",
+          "word": "Spaniel",
+          "emoji": "🐕",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "R",
+          "word": "Retriever",
+          "emoji": "🐕",
+          "bgColor": "#F57F17"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsPetAnimals2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Pet Animals - Part 2",
+          videoId: "animals-pet-animals-2",
+          bgGradient: ["#EC407A","#F8BBD0"] as [string, string],
+          accentColor: "#AD1457",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dalmatian",
+          "emoji": "🐕",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "C",
+          "word": "Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "P",
+          "word": "Pigeon",
+          "emoji": "🕊️",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "G",
+          "word": "Guppy",
+          "emoji": "🐠",
+          "bgColor": "#0097A7"
+          },
+          {
+          "letter": "R",
+          "word": "Rabbit",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          },
+          {
+          "letter": "B",
+          "word": "Bulldog",
+          "emoji": "🐕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "S",
+          "word": "Snail",
+          "emoji": "🐌",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "H",
+          "word": "Hermit Crab",
+          "emoji": "🦀",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "T",
+          "word": "Terrapin",
+          "emoji": "🐢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "M",
+          "word": "Macaw",
+          "emoji": "🦜",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "P",
+          "word": "Pomeranian",
+          "emoji": "🐕",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "C",
+          "word": "Chinchilla",
+          "emoji": "🐭",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "L",
+          "word": "Lhasa Apso",
+          "emoji": "🐕",
+          "bgColor": "#FFD54F"
+          },
+          {
+          "letter": "A",
+          "word": "Aquarium Fish",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "K",
+          "word": "Koi Fish",
+          "emoji": "🐟",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "F",
+          "word": "Finch",
+          "emoji": "🐦",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "N",
+          "word": "Neon Tetra",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "W",
+          "word": "White Mouse",
+          "emoji": "🐭",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "O",
+          "word": "Oscar Fish",
+          "emoji": "🐟",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Spitz",
+          "emoji": "🐕",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "E",
+          "word": "English Bulldog",
+          "emoji": "🐕",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "J",
+          "word": "Jack Russell",
+          "emoji": "🐕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Cockatoo",
+          "emoji": "🦜",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "V",
+          "word": "Vizsla",
+          "emoji": "🐕",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yorkshire Terrier",
+          "emoji": "🐕",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Finch",
+          "emoji": "🐦",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Dachshund",
+          "emoji": "🐕",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Retriever",
+          "emoji": "🐕",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "B",
+          "word": "Betta Fish",
+          "emoji": "🐟",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "T",
+          "word": "Tabby Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsPetAnimals3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Pet Animals - Part 3",
+          videoId: "animals-pet-animals-3",
+          bgGradient: ["#D81B60","#FCE4EC"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dog",
+          "emoji": "🐕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "P",
+          "word": "Parakeet",
+          "emoji": "🦜",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "R",
+          "word": "Rottweiler",
+          "emoji": "🐕",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "G",
+          "word": "Gecko",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "H",
+          "word": "Holland Lop",
+          "emoji": "🐰",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Shih Tzu",
+          "emoji": "🐕",
+          "bgColor": "#FFD54F"
+          },
+          {
+          "letter": "T",
+          "word": "Tropical Fish",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "B",
+          "word": "Boxer",
+          "emoji": "🐕",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "M",
+          "word": "Mudhol Hound",
+          "emoji": "🐕",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "L",
+          "word": "Lorikeet",
+          "emoji": "🦜",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "A",
+          "word": "African Grey",
+          "emoji": "🦜",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "C",
+          "word": "Cockatoo",
+          "emoji": "🦜",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "F",
+          "word": "French Bulldog",
+          "emoji": "🐕",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "P",
+          "word": "Pug",
+          "emoji": "🐕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "K",
+          "word": "King Charles Spaniel",
+          "emoji": "🐕",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "N",
+          "word": "Newfoundland",
+          "emoji": "🐕",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Pariah Dog",
+          "emoji": "🐕",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "W",
+          "word": "Whippet",
+          "emoji": "🐕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "O",
+          "word": "Oranda Goldfish",
+          "emoji": "🐠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "E",
+          "word": "English Setter",
+          "emoji": "🐕",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Chin",
+          "emoji": "🐕",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "U",
+          "word": "Uromastyx Lizard",
+          "emoji": "🦎",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "V",
+          "word": "Veiltail",
+          "emoji": "🐟",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Lab",
+          "emoji": "🐕",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Danio",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "D",
+          "word": "Doberman",
+          "emoji": "🐕",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "G",
+          "word": "Great Dane",
+          "emoji": "🐕",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "B",
+          "word": "Budgerigar",
+          "emoji": "🦜",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "S",
+          "word": "Spitz",
+          "emoji": "🐕",
+          "bgColor": "#FFAB00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsWildCats1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wild Cats - Part 1",
+          videoId: "animals-wild-cats-1",
+          bgGradient: ["#FF6F00","#FFD54F"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "L",
+          "word": "Lion",
+          "emoji": "🦁",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard",
+          "emoji": "🐆",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "C",
+          "word": "Cheetah",
+          "emoji": "🐆",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "J",
+          "word": "Jaguar",
+          "emoji": "🐆",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "P",
+          "word": "Panther",
+          "emoji": "🐈‍⬛",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Leopard",
+          "emoji": "🐆",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "C",
+          "word": "Cougar",
+          "emoji": "🐱",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lynx",
+          "emoji": "🐱",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "C",
+          "word": "Caracal",
+          "emoji": "🐱",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "O",
+          "word": "Ocelot",
+          "emoji": "🐆",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "B",
+          "word": "Bobcat",
+          "emoji": "🐱",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "S",
+          "word": "Serval",
+          "emoji": "🐱",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "W",
+          "word": "Wildcat",
+          "emoji": "🐱",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "C",
+          "word": "Clouded Leopard",
+          "emoji": "🐆",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "F",
+          "word": "Fishing Cat",
+          "emoji": "🐱",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "M",
+          "word": "Margay",
+          "emoji": "🐱",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "P",
+          "word": "Pallas Cat",
+          "emoji": "🐱",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Cat",
+          "emoji": "🐱",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "S",
+          "word": "Sand Cat",
+          "emoji": "🐱",
+          "bgColor": "#FFD600"
+          },
+          {
+          "letter": "R",
+          "word": "Rusty Spotted Cat",
+          "emoji": "🐱",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "A",
+          "word": "African Wildcat",
+          "emoji": "🐱",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "I",
+          "word": "Iberian Lynx",
+          "emoji": "🐱",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "K",
+          "word": "Kodkod",
+          "emoji": "🐱",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "B",
+          "word": "Bay Cat",
+          "emoji": "🐱",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "G",
+          "word": "Golden Cat",
+          "emoji": "🐱",
+          "bgColor": "#FFAB00"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "D",
+          "word": "Deer",
+          "emoji": "🦌",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgai",
+          "emoji": "🦬",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "H",
+          "word": "Hare",
+          "emoji": "🐇",
+          "bgColor": "#AD1457"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsWildCats2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wild Cats - Part 2",
+          videoId: "animals-wild-cats-2",
+          bgGradient: ["#FF8F00","#FFE082"] as [string, string],
+          accentColor: "#F57F17",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "L",
+          "word": "Lion",
+          "emoji": "🦁",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "C",
+          "word": "Cheetah",
+          "emoji": "🐆",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard",
+          "emoji": "🐆",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "P",
+          "word": "Puma",
+          "emoji": "🐱",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "J",
+          "word": "Jaguarundi",
+          "emoji": "🐱",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Civet Cat",
+          "emoji": "🐱",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Lion",
+          "emoji": "🐱",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "O",
+          "word": "Oncilla",
+          "emoji": "🐱",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "B",
+          "word": "Black Panther",
+          "emoji": "🐈‍⬛",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "S",
+          "word": "Sunda Clouded Leopard",
+          "emoji": "🐆",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "W",
+          "word": "White Tiger",
+          "emoji": "🐯",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "A",
+          "word": "Asiatic Cheetah",
+          "emoji": "🐆",
+          "bgColor": "#FFAB00"
+          },
+          {
+          "letter": "F",
+          "word": "Flat Headed Cat",
+          "emoji": "🐱",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Royal Bengal Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "K",
+          "word": "King Cheetah",
+          "emoji": "🐆",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "G",
+          "word": "Geoffrey Cat",
+          "emoji": "🐱",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "N",
+          "word": "Nebulous Leopard",
+          "emoji": "🐆",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Cat",
+          "emoji": "🐱",
+          "bgColor": "#FFD600"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "H",
+          "word": "Himalayan Cat",
+          "emoji": "🐱",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Leopard",
+          "emoji": "🐆",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Lynx",
+          "emoji": "🐱",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "V",
+          "word": "Viverrid Cat",
+          "emoji": "🐱",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Mongoose",
+          "emoji": "🦡",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra",
+          "emoji": "🦓",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock",
+          "emoji": "🦚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey",
+          "emoji": "🐒",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Bear",
+          "emoji": "🐻",
+          "bgColor": "#C62828"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsWildCats3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Wild Cats - Part 3",
+          videoId: "animals-wild-cats-3",
+          bgGradient: ["#FFA000","#FFECB3"] as [string, string],
+          accentColor: "#FF6F00",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "L",
+          "word": "Lion",
+          "emoji": "🦁",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Leopard",
+          "emoji": "🐆",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "C",
+          "word": "Caracal",
+          "emoji": "🐱",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "P",
+          "word": "Panther",
+          "emoji": "🐈‍⬛",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "O",
+          "word": "Ocelot",
+          "emoji": "🐆",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Cat",
+          "emoji": "🐱",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Siberian Tiger",
+          "emoji": "🐯",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "M",
+          "word": "Marbled Cat",
+          "emoji": "🐱",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "B",
+          "word": "Bengal Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Lynx",
+          "emoji": "🐱",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Chinese Mountain Cat",
+          "emoji": "🐱",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "A",
+          "word": "Andean Cat",
+          "emoji": "🐱",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Cat",
+          "emoji": "🐱",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "R",
+          "word": "Rusty Cat",
+          "emoji": "🐱",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "F",
+          "word": "Florida Panther",
+          "emoji": "🐱",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "K",
+          "word": "Kaffir Cat",
+          "emoji": "🐱",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "G",
+          "word": "Gir Lion",
+          "emoji": "🦁",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "D",
+          "word": "Deer",
+          "emoji": "🦌",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle",
+          "emoji": "🦅",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "H",
+          "word": "Hyena",
+          "emoji": "🐺",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Tiger",
+          "emoji": "🐯",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgai",
+          "emoji": "🦬",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "U",
+          "word": "Uncia",
+          "emoji": "🐆",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra",
+          "emoji": "🦓",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock",
+          "emoji": "🦚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#AD1457"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsOceanLife1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Life - Part 1",
+          videoId: "animals-ocean-life-1",
+          bgGradient: ["#0077B6","#00B4D8"] as [string, string],
+          accentColor: "#023E8A",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "W",
+          "word": "Whale",
+          "emoji": "🐋",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "S",
+          "word": "Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Octopus",
+          "emoji": "🐙",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "S",
+          "word": "Starfish",
+          "emoji": "⭐",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "J",
+          "word": "Jellyfish",
+          "emoji": "🪼",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "T",
+          "word": "Turtle",
+          "emoji": "🐢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "C",
+          "word": "Clownfish",
+          "emoji": "🐟",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Seahorse",
+          "emoji": "🐟",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "R",
+          "word": "Ray",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Crab",
+          "emoji": "🦀",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "L",
+          "word": "Lobster",
+          "emoji": "🦞",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "W",
+          "word": "Walrus",
+          "emoji": "🦭",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "S",
+          "word": "Seal",
+          "emoji": "🦭",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "M",
+          "word": "Manatee",
+          "emoji": "🐋",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "H",
+          "word": "Hammerhead Shark",
+          "emoji": "🦈",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "P",
+          "word": "Pufferfish",
+          "emoji": "🐡",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "A",
+          "word": "Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "E",
+          "word": "Eel",
+          "emoji": "🐍",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "K",
+          "word": "Killer Whale",
+          "emoji": "🐋",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Fish",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "G",
+          "word": "Giant Squid",
+          "emoji": "🦑",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Mackerel",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin",
+          "emoji": "🦔",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "V",
+          "word": "Viperfish",
+          "emoji": "🐟",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowfin Tuna",
+          "emoji": "🐟",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Fish",
+          "emoji": "🐟",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Shark",
+          "emoji": "🦈",
+          "bgColor": "#D84315"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsOceanLife2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Life - Part 2",
+          videoId: "animals-ocean-life-2",
+          bgGradient: ["#0096C7","#48CAE4"] as [string, string],
+          accentColor: "#0077B6",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dugong",
+          "emoji": "🐋",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Shark",
+          "emoji": "🦈",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "S",
+          "word": "Swordfish",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Orca",
+          "emoji": "🐋",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🪸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "H",
+          "word": "Hermit Crab",
+          "emoji": "🦀",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "P",
+          "word": "Penguin",
+          "emoji": "🐧",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "M",
+          "word": "Manta Ray",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "T",
+          "word": "Triggerfish",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "B",
+          "word": "Barracuda",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Lion",
+          "emoji": "🦭",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Anemone",
+          "emoji": "🪸",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "L",
+          "word": "Lionfish",
+          "emoji": "🐟",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "R",
+          "word": "Remora",
+          "emoji": "🐟",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "N",
+          "word": "Nautilus",
+          "emoji": "🐚",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "F",
+          "word": "Flounder",
+          "emoji": "🐟",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Grouper",
+          "emoji": "🐟",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "K",
+          "word": "King Crab",
+          "emoji": "🦀",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Eel",
+          "emoji": "🐍",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Spider Crab",
+          "emoji": "🦀",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ocean Tuna",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "V",
+          "word": "Vampire Squid",
+          "emoji": "🦑",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Tang",
+          "emoji": "🐟",
+          "bgColor": "#FFAB00"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Moray",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "C",
+          "word": "Catfish",
+          "emoji": "🐟",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "W",
+          "word": "Wrasse",
+          "emoji": "🐟",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Prawn",
+          "emoji": "🦐",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "P",
+          "word": "Pomfret",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "S",
+          "word": "Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsOceanLife3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Life - Part 3",
+          videoId: "animals-ocean-life-3",
+          bgGradient: ["#00B4D8","#90E0EF"] as [string, string],
+          accentColor: "#0096C7",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Turtle",
+          "emoji": "🐢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "W",
+          "word": "White Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Oyster",
+          "emoji": "🦪",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "C",
+          "word": "Clam",
+          "emoji": "🐚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "H",
+          "word": "Humpback Whale",
+          "emoji": "🐋",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "P",
+          "word": "Prawn",
+          "emoji": "🦐",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "M",
+          "word": "Moray Eel",
+          "emoji": "🐍",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "B",
+          "word": "Beluga Whale",
+          "emoji": "🐋",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "T",
+          "word": "Tang Fish",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "A",
+          "word": "Albatross",
+          "emoji": "🐦",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "R",
+          "word": "Rohu",
+          "emoji": "🐟",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Leatherback Turtle",
+          "emoji": "🐢",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "F",
+          "word": "Fugu",
+          "emoji": "🐡",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "N",
+          "word": "Nurse Shark",
+          "emoji": "🦈",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "G",
+          "word": "Ganges Shark",
+          "emoji": "🦈",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "K",
+          "word": "Krill",
+          "emoji": "🦐",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Penguin",
+          "emoji": "🐧",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Hilsa",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "J",
+          "word": "John Dory",
+          "emoji": "🐟",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "U",
+          "word": "Upside Down Catfish",
+          "emoji": "🐟",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "V",
+          "word": "Vaquita",
+          "emoji": "🐬",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Boxfish",
+          "emoji": "🐟",
+          "bgColor": "#FFD600"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Shark",
+          "emoji": "🦈",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "S",
+          "word": "Surmai",
+          "emoji": "🐟",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "C",
+          "word": "Cuttlefish",
+          "emoji": "🦑",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Calf",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "P",
+          "word": "Pelican",
+          "emoji": "🐦",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "T",
+          "word": "Trevally",
+          "emoji": "🐟",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "M",
+          "word": "Mackerel",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsDesertAnimals1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Desert Animals - Part 1",
+          videoId: "animals-desert-animals-1",
+          bgGradient: ["#F9A825","#FFF9C4"] as [string, string],
+          accentColor: "#F57F17",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Camel",
+          "emoji": "🐪",
+          "bgColor": "#F4511E"
+          },
+          {
+          "letter": "S",
+          "word": "Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "R",
+          "word": "Rattlesnake",
+          "emoji": "🐍",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "F",
+          "word": "Fennec Fox",
+          "emoji": "🦊",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "L",
+          "word": "Lizard",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture",
+          "emoji": "🦅",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "T",
+          "word": "Tortoise",
+          "emoji": "🐢",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "S",
+          "word": "Sidewinder",
+          "emoji": "🐍",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "G",
+          "word": "Gazelle",
+          "emoji": "🦌",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "H",
+          "word": "Horned Viper",
+          "emoji": "🐍",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "M",
+          "word": "Meerkat",
+          "emoji": "🦡",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Arabian Oryx",
+          "emoji": "🦌",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Fox",
+          "emoji": "🦊",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "C",
+          "word": "Chinkara",
+          "emoji": "🦌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "K",
+          "word": "Kangaroo Rat",
+          "emoji": "🐭",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Oryx",
+          "emoji": "🦌",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "B",
+          "word": "Bustard",
+          "emoji": "🐦",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Ass",
+          "emoji": "🫏",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "P",
+          "word": "Pronghorn",
+          "emoji": "🦌",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle",
+          "emoji": "🦅",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgai",
+          "emoji": "🦬",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Desert Cat",
+          "emoji": "🐱",
+          "bgColor": "#FFD600"
+          },
+          {
+          "letter": "U",
+          "word": "Uromastyx",
+          "emoji": "🦎",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Tailed Lizard",
+          "emoji": "🦎",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "T",
+          "word": "Thar",
+          "emoji": "🐐",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "R",
+          "word": "Roadrunner",
+          "emoji": "🐦",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "S",
+          "word": "Sand Grouse",
+          "emoji": "🐦",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "B",
+          "word": "Blackbuck",
+          "emoji": "🦌",
+          "bgColor": "#1A237E"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsDesertAnimals2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Desert Animals - Part 2",
+          videoId: "animals-desert-animals-2",
+          bgGradient: ["#FBC02D","#FFF59D"] as [string, string],
+          accentColor: "#F9A825",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Camel",
+          "emoji": "🐪",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Sand Cat",
+          "emoji": "🐱",
+          "bgColor": "#FFD600"
+          },
+          {
+          "letter": "G",
+          "word": "Gerbil",
+          "emoji": "🐭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Gecko",
+          "emoji": "🦎",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Hare",
+          "emoji": "🐇",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "H",
+          "word": "Hedgehog",
+          "emoji": "🦔",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Addax",
+          "emoji": "🦌",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "T",
+          "word": "Thorny Devil",
+          "emoji": "🦎",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "F",
+          "word": "Fat Tailed Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "K",
+          "word": "Kit Fox",
+          "emoji": "🦊",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "M",
+          "word": "Monitor Lizard",
+          "emoji": "🦎",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "R",
+          "word": "Ratel",
+          "emoji": "🦡",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "B",
+          "word": "Bearded Dragon",
+          "emoji": "🦎",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "W",
+          "word": "Wadi Frog",
+          "emoji": "🐸",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "O",
+          "word": "Ostrich",
+          "emoji": "🐦",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "P",
+          "word": "Peregrine Falcon",
+          "emoji": "🦅",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "J",
+          "word": "Jerboa",
+          "emoji": "🐭",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "N",
+          "word": "Nubian Ibex",
+          "emoji": "🐐",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "E",
+          "word": "Egyptian Cobra",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Spiny Tailed Lizard",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "V",
+          "word": "Viper",
+          "emoji": "🐍",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Thorn Acacia Ant",
+          "emoji": "🐜",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Mongoose",
+          "emoji": "🦡",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zorilla",
+          "emoji": "🦨",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "S",
+          "word": "Spiny Mouse",
+          "emoji": "🐭",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "D",
+          "word": "Dromedary",
+          "emoji": "🐪",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "L",
+          "word": "Long Eared Hedgehog",
+          "emoji": "🦔",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "G",
+          "word": "Great Indian Bustard",
+          "emoji": "🐦",
+          "bgColor": "#AD1457"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsDesertAnimals3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Desert Animals - Part 3",
+          videoId: "animals-desert-animals-3",
+          bgGradient: ["#FFD600","#FFFF8D"] as [string, string],
+          accentColor: "#FBC02D",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Camel",
+          "emoji": "🐪",
+          "bgColor": "#F4511E"
+          },
+          {
+          "letter": "S",
+          "word": "Sidewinder Rattlesnake",
+          "emoji": "🐍",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "A",
+          "word": "Armadillo Lizard",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "R",
+          "word": "Red Fox",
+          "emoji": "🦊",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "G",
+          "word": "Gila Monster",
+          "emoji": "🦎",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "H",
+          "word": "Hawk",
+          "emoji": "🦅",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Tortoise",
+          "emoji": "🐢",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Gazelle",
+          "emoji": "🦌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "T",
+          "word": "Tarantula",
+          "emoji": "🕷️",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "F",
+          "word": "Falcon",
+          "emoji": "🦅",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Agama",
+          "emoji": "🦎",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "L",
+          "word": "Lappet Faced Vulture",
+          "emoji": "🦅",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "K",
+          "word": "Khur",
+          "emoji": "🫏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Goat",
+          "emoji": "🐐",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Onager",
+          "emoji": "🫏",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "P",
+          "word": "Painted Stork",
+          "emoji": "🦩",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Jackrabbit",
+          "emoji": "🐇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "N",
+          "word": "Nilgai",
+          "emoji": "🦬",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "E",
+          "word": "Elf Owl",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Gazelle",
+          "emoji": "🦌",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "V",
+          "word": "Varan",
+          "emoji": "🦎",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "U",
+          "word": "Urial Sheep",
+          "emoji": "🐏",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Mouse",
+          "emoji": "🐭",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "C",
+          "word": "Chinkara",
+          "emoji": "🦌",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "S",
+          "word": "Spiny Lizard",
+          "emoji": "🦎",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "B",
+          "word": "Bactrian Camel",
+          "emoji": "🐫",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Eagle Owl",
+          "emoji": "🦉",
+          "bgColor": "#1A237E"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsArcticAnimals1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Arctic Animals - Part 1",
+          videoId: "animals-arctic-animals-1",
+          bgGradient: ["#1565C0","#BBDEFB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "P",
+          "word": "Polar Bear",
+          "emoji": "🐻‍❄️",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "P",
+          "word": "Penguin",
+          "emoji": "🐧",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "A",
+          "word": "Arctic Fox",
+          "emoji": "🦊",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "W",
+          "word": "Walrus",
+          "emoji": "🦭",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "S",
+          "word": "Snowy Owl",
+          "emoji": "🦉",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "R",
+          "word": "Reindeer",
+          "emoji": "🦌",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Seal",
+          "emoji": "🦭",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "B",
+          "word": "Beluga Whale",
+          "emoji": "🐋",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "M",
+          "word": "Musk Ox",
+          "emoji": "🐂",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "A",
+          "word": "Arctic Hare",
+          "emoji": "🐇",
+          "bgColor": "#E0E0E0"
+          },
+          {
+          "letter": "L",
+          "word": "Lemming",
+          "emoji": "🐭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "E",
+          "word": "Ermine",
+          "emoji": "🐁",
+          "bgColor": "#EEEEEE"
+          },
+          {
+          "letter": "K",
+          "word": "Killer Whale",
+          "emoji": "🐋",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "H",
+          "word": "Harp Seal",
+          "emoji": "🦭",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "G",
+          "word": "Grey Wolf",
+          "emoji": "🐺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Caribou",
+          "emoji": "🦌",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Orca",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "D",
+          "word": "Dall Sheep",
+          "emoji": "🐏",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "F",
+          "word": "Fin Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "I",
+          "word": "Ivory Gull",
+          "emoji": "🐦",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "J",
+          "word": "Jaeger",
+          "emoji": "🐦",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "V",
+          "word": "Vole",
+          "emoji": "🐭",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra",
+          "emoji": "🦓",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Seal",
+          "emoji": "🦭",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "P",
+          "word": "Puffin",
+          "emoji": "🐦",
+          "bgColor": "#FF6F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsArcticAnimals2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Arctic Animals - Part 2",
+          videoId: "animals-arctic-animals-2",
+          bgGradient: ["#1976D2","#90CAF9"] as [string, string],
+          accentColor: "#1565C0",
+          letters: [
+          {
+          "letter": "P",
+          "word": "Polar Bear",
+          "emoji": "🐻‍❄️",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "A",
+          "word": "Arctic Wolf",
+          "emoji": "🐺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Goose",
+          "emoji": "🪿",
+          "bgColor": "#E0E0E0"
+          },
+          {
+          "letter": "W",
+          "word": "Wolverine",
+          "emoji": "🦡",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "R",
+          "word": "Ringed Seal",
+          "emoji": "🦭",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "M",
+          "word": "Moose",
+          "emoji": "🫎",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Fox",
+          "emoji": "🦊",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "L",
+          "word": "Lynx",
+          "emoji": "🐱",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "H",
+          "word": "Harbor Seal",
+          "emoji": "🦭",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "G",
+          "word": "Grizzly Bear",
+          "emoji": "🐻",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Caribou",
+          "emoji": "🦌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "D",
+          "word": "Dall Porpoise",
+          "emoji": "🐬",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Penguin",
+          "emoji": "🐧",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "K",
+          "word": "King Penguin",
+          "emoji": "🐧",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "O",
+          "word": "Orca",
+          "emoji": "🐋",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "F",
+          "word": "Fur Seal",
+          "emoji": "🦭",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "I",
+          "word": "Ice Fish",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "J",
+          "word": "Jackrabbit",
+          "emoji": "🐇",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Owl",
+          "emoji": "🦉",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Vervet",
+          "emoji": "🐒",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Bellied Marmot",
+          "emoji": "🐿️",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zooplankton Feeder",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "P",
+          "word": "Ptarmigan",
+          "emoji": "🐦",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "S",
+          "word": "Stoat",
+          "emoji": "🐁",
+          "bgColor": "#EEEEEE"
+          },
+          {
+          "letter": "A",
+          "word": "Albatross",
+          "emoji": "🐦",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "W",
+          "word": "Weddell Seal",
+          "emoji": "🦭",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#388E3C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsArcticAnimals3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Arctic Animals - Part 3",
+          videoId: "animals-arctic-animals-3",
+          bgGradient: ["#1E88E5","#64B5F6"] as [string, string],
+          accentColor: "#1976D2",
+          letters: [
+          {
+          "letter": "P",
+          "word": "Polar Bear",
+          "emoji": "🐻‍❄️",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "S",
+          "word": "Snowy Owl",
+          "emoji": "🦉",
+          "bgColor": "#E0E0E0"
+          },
+          {
+          "letter": "A",
+          "word": "Arctic Tern",
+          "emoji": "🐦",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "W",
+          "word": "White Whale",
+          "emoji": "🐋",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "R",
+          "word": "Reindeer",
+          "emoji": "🦌",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Goat",
+          "emoji": "🐐",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "N",
+          "word": "Northern Fur Seal",
+          "emoji": "🦭",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "B",
+          "word": "Bowhead Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Seal",
+          "emoji": "🦭",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "H",
+          "word": "Hooded Seal",
+          "emoji": "🦭",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "G",
+          "word": "Greenland Shark",
+          "emoji": "🦈",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "C",
+          "word": "Caribou",
+          "emoji": "🦌",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "E",
+          "word": "Elk",
+          "emoji": "🫎",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "K",
+          "word": "King Eider",
+          "emoji": "🦆",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "O",
+          "word": "Osprey",
+          "emoji": "🦅",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "F",
+          "word": "Fox",
+          "emoji": "🦊",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "I",
+          "word": "Ibex",
+          "emoji": "🐐",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "J",
+          "word": "Jay",
+          "emoji": "🐦",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "U",
+          "word": "Upland Goose",
+          "emoji": "🪿",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "V",
+          "word": "Vole",
+          "emoji": "🐭",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak",
+          "emoji": "🐂",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebu",
+          "emoji": "🐄",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "P",
+          "word": "Puffin",
+          "emoji": "🐦",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Bunting",
+          "emoji": "🐦",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "C",
+          "word": "Cow",
+          "emoji": "🐄",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey",
+          "emoji": "🐒",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo",
+          "emoji": "🐃",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle",
+          "emoji": "🦅",
+          "bgColor": "#880E4F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsBabyAnimals1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Baby Animals - Part 1",
+          videoId: "animals-baby-animals-1",
+          bgGradient: ["#EC407A","#F8BBD0"] as [string, string],
+          accentColor: "#AD1457",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cub",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "C",
+          "word": "Calf",
+          "emoji": "🐄",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "P",
+          "word": "Puppy",
+          "emoji": "🐶",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "K",
+          "word": "Kitten",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "L",
+          "word": "Lamb",
+          "emoji": "🐑",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "F",
+          "word": "Foal",
+          "emoji": "🐴",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Chick",
+          "emoji": "🐥",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "D",
+          "word": "Duckling",
+          "emoji": "🐤",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "J",
+          "word": "Joey",
+          "emoji": "🦘",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "F",
+          "word": "Fawn",
+          "emoji": "🦌",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "G",
+          "word": "Gosling",
+          "emoji": "🐤",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "P",
+          "word": "Piglet",
+          "emoji": "🐷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "K",
+          "word": "Kid",
+          "emoji": "🐐",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "E",
+          "word": "Eaglet",
+          "emoji": "🦅",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "B",
+          "word": "Bunny",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Cub",
+          "emoji": "🐯",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Calf",
+          "emoji": "🐘",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "L",
+          "word": "Lion Cub",
+          "emoji": "🦁",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "P",
+          "word": "Pup",
+          "emoji": "🐕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "O",
+          "word": "Owlet",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "H",
+          "word": "Hatchling",
+          "emoji": "🐣",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "W",
+          "word": "Whelp",
+          "emoji": "🐺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Squab",
+          "emoji": "🕊️",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey Baby",
+          "emoji": "🐒",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "N",
+          "word": "Nestling",
+          "emoji": "🐦",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "R",
+          "word": "Rhinoceros Calf",
+          "emoji": "🦏",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "A",
+          "word": "Alligator Hatchling",
+          "emoji": "🐊",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "I",
+          "word": "Infant Gorilla",
+          "emoji": "🦍",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "V",
+          "word": "Vixen Pup",
+          "emoji": "🦊",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Foal",
+          "emoji": "🦓",
+          "bgColor": "#AD1457"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsBabyAnimals2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Baby Animals - Part 2",
+          videoId: "animals-baby-animals-2",
+          bgGradient: ["#AB47BC","#E1BEE7"] as [string, string],
+          accentColor: "#7B1FA2",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cub",
+          "emoji": "🐻",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "P",
+          "word": "Puppy",
+          "emoji": "🐶",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "K",
+          "word": "Kitten",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "L",
+          "word": "Lamb",
+          "emoji": "🐑",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "T",
+          "word": "Tadpole",
+          "emoji": "🐸",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "F",
+          "word": "Fingerling",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "H",
+          "word": "Hatchling Turtle",
+          "emoji": "🐢",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "C",
+          "word": "Caterpillar",
+          "emoji": "🐛",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "B",
+          "word": "Baby Elephant",
+          "emoji": "🐘",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "D",
+          "word": "Deer Fawn",
+          "emoji": "🦌",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "G",
+          "word": "Grub",
+          "emoji": "🐛",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "P",
+          "word": "Parrot Chick",
+          "emoji": "🦜",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "S",
+          "word": "Seal Pup",
+          "emoji": "🦭",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "W",
+          "word": "Wolf Pup",
+          "emoji": "🐺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "M",
+          "word": "Mouse Pup",
+          "emoji": "🐭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "R",
+          "word": "Rabbit Kit",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          },
+          {
+          "letter": "N",
+          "word": "Nymph",
+          "emoji": "🦗",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "O",
+          "word": "Ostrich Chick",
+          "emoji": "🐦",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "A",
+          "word": "Antelope Calf",
+          "emoji": "🦌",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "E",
+          "word": "Emu Chick",
+          "emoji": "🐦",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal Pup",
+          "emoji": "🐺",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "I",
+          "word": "Ibis Chick",
+          "emoji": "🐦",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin Baby",
+          "emoji": "🦔",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "V",
+          "word": "Vulture Chick",
+          "emoji": "🦅",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak Calf",
+          "emoji": "🐂",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebrafish Fry",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Cub",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "C",
+          "word": "Camel Calf",
+          "emoji": "🐪",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "B",
+          "word": "Buffalo Calf",
+          "emoji": "🐃",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Cub",
+          "emoji": "🐆",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsBabyAnimals3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Baby Animals - Part 3",
+          videoId: "animals-baby-animals-3",
+          bgGradient: ["#7E57C2","#D1C4E9"] as [string, string],
+          accentColor: "#512DA8",
+          letters: [
+          {
+          "letter": "P",
+          "word": "Puppy",
+          "emoji": "🐶",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "K",
+          "word": "Kitten",
+          "emoji": "🐱",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "C",
+          "word": "Cub",
+          "emoji": "🐻",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "L",
+          "word": "Larva",
+          "emoji": "🐛",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "F",
+          "word": "Fledgling",
+          "emoji": "🐦",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "D",
+          "word": "Duckling",
+          "emoji": "🐤",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "T",
+          "word": "Toddler Monkey",
+          "emoji": "🐒",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Gecko Baby",
+          "emoji": "🦎",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "C",
+          "word": "Cockatiel Chick",
+          "emoji": "🦜",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "B",
+          "word": "Bear Cub",
+          "emoji": "🐻",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "S",
+          "word": "Swan Cygnet",
+          "emoji": "🦢",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "H",
+          "word": "Hippo Calf",
+          "emoji": "🦛",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock Chick",
+          "emoji": "🦚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Calf",
+          "emoji": "🐘",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Calf",
+          "emoji": "🐋",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "O",
+          "word": "Otter Pup",
+          "emoji": "🦦",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "M",
+          "word": "Mongoose Kit",
+          "emoji": "🦡",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "A",
+          "word": "Alpaca Cria",
+          "emoji": "🦙",
+          "bgColor": "#FFAB00"
+          },
+          {
+          "letter": "R",
+          "word": "Rhino Calf",
+          "emoji": "🦏",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "N",
+          "word": "Newborn Panda",
+          "emoji": "🐼",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Jay Chick",
+          "emoji": "🐦",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Parrot Chick",
+          "emoji": "🦜",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish Fry",
+          "emoji": "🐟",
+          "bgColor": "#00BCD4"
+          },
+          {
+          "letter": "V",
+          "word": "Vole Baby",
+          "emoji": "🐭",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "Y",
+          "word": "Young Cobra",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Foal",
+          "emoji": "🦓",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Cub",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "C",
+          "word": "Cow Calf",
+          "emoji": "🐄",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "D",
+          "word": "Dog Puppy",
+          "emoji": "🐕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Bunny Kit",
+          "emoji": "🐰",
+          "bgColor": "#AB47BC"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsNocturnal1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Nocturnal Animals - Part 1",
+          videoId: "animals-nocturnal-1",
+          bgGradient: ["#1A237E","#7986CB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "O",
+          "word": "Owl",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "B",
+          "word": "Bat",
+          "emoji": "🦇",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "F",
+          "word": "Fox",
+          "emoji": "🦊",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "H",
+          "word": "Hedgehog",
+          "emoji": "🦔",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Raccoon",
+          "emoji": "🦝",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Moth",
+          "emoji": "🦋",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard",
+          "emoji": "🐆",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "C",
+          "word": "Civet",
+          "emoji": "🐱",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "P",
+          "word": "Pangolin",
+          "emoji": "🦔",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "S",
+          "word": "Sloth Bear",
+          "emoji": "🐻",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "F",
+          "word": "Firefly",
+          "emoji": "🐛",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "G",
+          "word": "Gecko",
+          "emoji": "🦎",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "N",
+          "word": "Nightjar",
+          "emoji": "🐦",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "K",
+          "word": "Kinkajou",
+          "emoji": "🐒",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "A",
+          "word": "Aardvark",
+          "emoji": "🐜",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Cobra",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "W",
+          "word": "Wolf",
+          "emoji": "🐺",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Dhole",
+          "emoji": "🐕",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle Owl",
+          "emoji": "🦉",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Flying Fox",
+          "emoji": "🦇",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "U",
+          "word": "Uakari",
+          "emoji": "🐒",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "V",
+          "word": "Viper",
+          "emoji": "🐍",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Bat",
+          "emoji": "🦇",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zorilla",
+          "emoji": "🦨",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "T",
+          "word": "Tarsier",
+          "emoji": "🐒",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "S",
+          "word": "Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "B",
+          "word": "Barn Owl",
+          "emoji": "🦉",
+          "bgColor": "#BDBDBD"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsNocturnal2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Nocturnal Animals - Part 2",
+          videoId: "animals-nocturnal-2",
+          bgGradient: ["#283593","#9FA8DA"] as [string, string],
+          accentColor: "#1A237E",
+          letters: [
+          {
+          "letter": "O",
+          "word": "Owl",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "B",
+          "word": "Bat",
+          "emoji": "🦇",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "L",
+          "word": "Loris",
+          "emoji": "🐒",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "H",
+          "word": "Hyena",
+          "emoji": "🐺",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "M",
+          "word": "Mouse",
+          "emoji": "🐭",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "C",
+          "word": "Cricket",
+          "emoji": "🦗",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "R",
+          "word": "Rat",
+          "emoji": "🐀",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "K",
+          "word": "Kakapo",
+          "emoji": "🦜",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "S",
+          "word": "Sugar Glider",
+          "emoji": "🐿️",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "F",
+          "word": "Fishing Cat",
+          "emoji": "🐱",
+          "bgColor": "#006064"
+          },
+          {
+          "letter": "P",
+          "word": "Python",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "A",
+          "word": "Aye Aye",
+          "emoji": "🐒",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "G",
+          "word": "Genet",
+          "emoji": "🐱",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "N",
+          "word": "Night Heron",
+          "emoji": "🐦",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "W",
+          "word": "Wombat",
+          "emoji": "🐻",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "D",
+          "word": "Dormouse",
+          "emoji": "🐭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "J",
+          "word": "Jungle Cat",
+          "emoji": "🐱",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "V",
+          "word": "Vampire Bat",
+          "emoji": "🦇",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "U",
+          "word": "Ural Owl",
+          "emoji": "🦉",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Mongoose",
+          "emoji": "🦡",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Spider",
+          "emoji": "🕷️",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "C",
+          "word": "Caracal",
+          "emoji": "🐱",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "T",
+          "word": "Tarantula",
+          "emoji": "🕷️",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Binturong",
+          "emoji": "🐻",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "S",
+          "word": "Slow Loris",
+          "emoji": "🐒",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "P",
+          "word": "Pangolin",
+          "emoji": "🦔",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "L",
+          "word": "Langur",
+          "emoji": "🐒",
+          "bgColor": "#F9A825"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="AnimalsNocturnal3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Nocturnal Animals - Part 3",
+          videoId: "animals-nocturnal-3",
+          bgGradient: ["#303F9F","#C5CAE9"] as [string, string],
+          accentColor: "#283593",
+          letters: [
+          {
+          "letter": "O",
+          "word": "Owl",
+          "emoji": "🦉",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "B",
+          "word": "Bat",
+          "emoji": "🦇",
+          "bgColor": "#212121"
+          },
+          {
+          "letter": "M",
+          "word": "Mongoose",
+          "emoji": "🦡",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Chameleon",
+          "emoji": "🦎",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger",
+          "emoji": "🐯",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "R",
+          "word": "Red Fox",
+          "emoji": "🦊",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "S",
+          "word": "Skunk",
+          "emoji": "🦨",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Cat",
+          "emoji": "🐱",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "H",
+          "word": "Horseshoe Bat",
+          "emoji": "🦇",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "F",
+          "word": "Fruit Bat",
+          "emoji": "🦇",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "P",
+          "word": "Possum",
+          "emoji": "🐭",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "K",
+          "word": "Krait",
+          "emoji": "🐍",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "G",
+          "word": "Glider",
+          "emoji": "🐿️",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "A",
+          "word": "Armadillo",
+          "emoji": "🦔",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "N",
+          "word": "Nighthawk",
+          "emoji": "🐦",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "W",
+          "word": "Wild Cat",
+          "emoji": "🐱",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "D",
+          "word": "Desert Fox",
+          "emoji": "🦊",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant",
+          "emoji": "🐘",
+          "bgColor": "#388E3C"
+          },
+          {
+          "letter": "J",
+          "word": "Jackal",
+          "emoji": "🐺",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Nightjar",
+          "emoji": "🐦",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "U",
+          "word": "Uakari",
+          "emoji": "🐒",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "V",
+          "word": "Viper",
+          "emoji": "🐍",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Throated Marten",
+          "emoji": "🦡",
+          "bgColor": "#F57F17"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Tarantula",
+          "emoji": "🕷️",
+          "bgColor": "#424242"
+          },
+          {
+          "letter": "C",
+          "word": "Civet Cat",
+          "emoji": "🐱",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupine",
+          "emoji": "🦔",
+          "bgColor": "#9E9D24"
+          },
+          {
+          "letter": "T",
+          "word": "Tokay Gecko",
+          "emoji": "🦎",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "S",
+          "word": "Scorpion",
+          "emoji": "🦂",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "B",
+          "word": "Brown Fish Owl",
+          "emoji": "🦉",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "M",
+          "word": "Malabar Civet",
+          "emoji": "🐱",
+          "bgColor": "#F9A825"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+    </>
+  );
+};

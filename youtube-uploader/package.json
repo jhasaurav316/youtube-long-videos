@@ -1,0 +1,14 @@
+{
+  "name": "youtube-shorts-uploader",
+  "version": "1.0.0",
+  "description": "Auto-upload YouTube Shorts with generated titles & descriptions",
+  "type": "module",
+  "scripts": {
+    "auth": "node auth.js",
+    "upload": "node upload.js",
+    "preview": "node upload.js --dry-run"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}

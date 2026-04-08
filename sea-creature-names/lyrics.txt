@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: SEA CREATURE NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Deep Sea Creatures - Part 1 (sea-deep-sea-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-deep-sea-1-audio/
+
+Letter 0: A for Anglerfish
+Letter 1: B for Blobfish
+Letter 2: C for Cuttlefish
+Letter 3: D for Dumbo Octopus
+Letter 4: E for Electric Eel
+Letter 5: F for Fangtooth
+Letter 6: G for Giant Squid
+Letter 7: H for Hagfish
+Letter 8: I for Isopod
+Letter 9: J for Jellyfish
+Letter 10: K for King Crab
+Letter 11: L for Lanternfish
+Letter 12: M for Mantis Shrimp
+Letter 13: N for Nautilus
+Letter 14: O for Oarfish
+Letter 15: P for Pelican Eel
+Letter 16: Q for Queen Conch
+Letter 17: R for Ratfish
+Letter 18: S for Sea Spider
+Letter 19: T for Tube Worm
+Letter 20: U for Umbrella Octopus
+Letter 21: V for Vampire Squid
+Letter 22: W for Wolffish
+Letter 23: X for Xiphias
+Letter 24: Y for Yeti Crab
+Letter 25: Z for Zooplankton
+Letter 26: S for Starfish
+Letter 27: C for Coral
+Letter 28: M for Moray Eel
+Letter 29: P for Pufferfish
+
+PLAIN TEXT:
+A for Anglerfish
+B for Blobfish
+C for Cuttlefish
+D for Dumbo Octopus
+E for Electric Eel
+F for Fangtooth
+G for Giant Squid
+H for Hagfish
+I for Isopod
+J for Jellyfish
+K for King Crab
+L for Lanternfish
+M for Mantis Shrimp
+N for Nautilus
+O for Oarfish
+P for Pelican Eel
+Q for Queen Conch
+R for Ratfish
+S for Sea Spider
+T for Tube Worm
+U for Umbrella Octopus
+V for Vampire Squid
+W for Wolffish
+X for Xiphias
+Y for Yeti Crab
+Z for Zooplankton
+S for Starfish
+C for Coral
+M for Moray Eel
+P for Pufferfish
+
+
+----------------------------------------------------------------------
+#2. Deep Sea Creatures - Part 2 (sea-deep-sea-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-deep-sea-2-audio/
+
+Letter 0: S for Seahorse
+Letter 1: O for Octopus
+Letter 2: D for Dolphin
+Letter 3: W for Whale
+Letter 4: T for Turtle
+Letter 5: C for Clam
+Letter 6: L for Lobster
+Letter 7: S for Shrimp
+Letter 8: A for Anemone
+Letter 9: R for Ray
+Letter 10: B for Barnacle
+Letter 11: N for Nudibranch
+Letter 12: F for Flounder
+Letter 13: G for Grouper
+Letter 14: H for Herring
+Letter 15: I for Icefish
+Letter 16: J for John Dory
+Letter 17: K for Krill
+Letter 18: M for Mackerel
+Letter 19: P for Plankton
+Letter 20: E for Emperor Shrimp
+Letter 21: U for Urchin
+Letter 22: V for Viperfish
+Letter 23: X for X-ray Fish
+Letter 24: Y for Yellowfin Tuna
+Letter 25: Z for Zebra Moray
+Letter 26: Q for Quahog
+Letter 27: C for Conch
+Letter 28: W for Walrus
+Letter 29: D for Dugong
+
+PLAIN TEXT:
+S for Seahorse
+O for Octopus
+D for Dolphin
+W for Whale
+T for Turtle
+C for Clam
+L for Lobster
+S for Shrimp
+A for Anemone
+R for Ray
+B for Barnacle
+N for Nudibranch
+F for Flounder
+G for Grouper
+H for Herring
+I for Icefish
+J for John Dory
+K for Krill
+M for Mackerel
+P for Plankton
+E for Emperor Shrimp
+U for Urchin
+V for Viperfish
+X for X-ray Fish
+Y for Yellowfin Tuna
+Z for Zebra Moray
+Q for Quahog
+C for Conch
+W for Walrus
+D for Dugong
+
+
+----------------------------------------------------------------------
+#3. Deep Sea Creatures - Part 3 (sea-deep-sea-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-deep-sea-3-audio/
+
+Letter 0: M for Manatee
+Letter 1: S for Swordfish
+Letter 2: B for Blue Whale
+Letter 3: H for Hammerhead
+Letter 4: N for Narwhal
+Letter 5: P for Porpoise
+Letter 6: T for Tiger Shark
+Letter 7: A for Albatross Fish
+Letter 8: C for Clownfish
+Letter 9: E for Eagle Ray
+Letter 10: F for Flying Fish
+Letter 11: G for Ghost Shark
+Letter 12: I for Indian Mackerel
+Letter 13: J for Jawfish
+Letter 14: K for Kelp Crab
+Letter 15: L for Leafy Seadragon
+Letter 16: O for Ocean Sunfish
+Letter 17: R for Remora
+Letter 18: D for Dragonfish
+Letter 19: U for Unicornfish
+Letter 20: V for Velvet Crab
+Letter 21: W for Whale Shark
+Letter 22: X for Xanthid Crab
+Letter 23: Y for Yellow Tang
+Letter 24: Z for Zebra Shark
+Letter 25: Q for Queen Angelfish
+Letter 26: S for Sea Lion
+Letter 27: P for Penguin
+Letter 28: C for Crab
+Letter 29: M for Manta Ray
+
+PLAIN TEXT:
+M for Manatee
+S for Swordfish
+B for Blue Whale
+H for Hammerhead
+N for Narwhal
+P for Porpoise
+T for Tiger Shark
+A for Albatross Fish
+C for Clownfish
+E for Eagle Ray
+F for Flying Fish
+G for Ghost Shark
+I for Indian Mackerel
+J for Jawfish
+K for Kelp Crab
+L for Leafy Seadragon
+O for Ocean Sunfish
+R for Remora
+D for Dragonfish
+U for Unicornfish
+V for Velvet Crab
+W for Whale Shark
+X for Xanthid Crab
+Y for Yellow Tang
+Z for Zebra Shark
+Q for Queen Angelfish
+S for Sea Lion
+P for Penguin
+C for Crab
+M for Manta Ray
+
+
+----------------------------------------------------------------------
+#4. Coral Reef Life - Part 1 (sea-coral-reef-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-coral-reef-1-audio/
+
+Letter 0: C for Clownfish
+Letter 1: A for Angelfish
+Letter 2: B for Butterflyfish
+Letter 3: T for Tang
+Letter 4: P for Parrotfish
+Letter 5: S for Sea Anemone
+Letter 6: D for Damselfish
+Letter 7: G for Goby
+Letter 8: H for Hawkfish
+Letter 9: L for Lionfish
+Letter 10: M for Moray Eel
+Letter 11: N for Nudibranch
+Letter 12: O for Octopus
+Letter 13: R for Royal Gramma
+Letter 14: W for Wrasse
+Letter 15: E for Emperor Fish
+Letter 16: F for Filefish
+Letter 17: I for Idol Fish
+Letter 18: J for Jawfish
+Letter 19: K for Koran Angel
+Letter 20: U for Unicornfish
+Letter 21: V for Velvet Fish
+Letter 22: X for Xanthid Crab
+Letter 23: Y for Yellow Boxfish
+Letter 24: Z for Zebra Fish
+Letter 25: Q for Queen Trigger
+Letter 26: C for Coral
+Letter 27: S for Starfish
+Letter 28: T for Trigger Fish
+Letter 29: P for Pipefish
+
+PLAIN TEXT:
+C for Clownfish
+A for Angelfish
+B for Butterflyfish
+T for Tang
+P for Parrotfish
+S for Sea Anemone
+D for Damselfish
+G for Goby
+H for Hawkfish
+L for Lionfish
+M for Moray Eel
+N for Nudibranch
+O for Octopus
+R for Royal Gramma
+W for Wrasse
+E for Emperor Fish
+F for Filefish
+I for Idol Fish
+J for Jawfish
+K for Koran Angel
+U for Unicornfish
+V for Velvet Fish
+X for Xanthid Crab
+Y for Yellow Boxfish
+Z for Zebra Fish
+Q for Queen Trigger
+C for Coral
+S for Starfish
+T for Trigger Fish
+P for Pipefish
+
+
+----------------------------------------------------------------------
+#5. Coral Reef Life - Part 2 (sea-coral-reef-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-coral-reef-2-audio/
+
+Letter 0: S for Sea Horse
+Letter 1: C for Cowrie Shell
+Letter 2: B for Barracuda
+Letter 3: M for Mandarin Fish
+Letter 4: T for Trumpetfish
+Letter 5: D for Dottyback
+Letter 6: A for Anthias
+Letter 7: G for Garden Eel
+Letter 8: L for Leaf Scorpion
+Letter 9: N for Neon Goby
+Letter 10: P for Porcupinefish
+Letter 11: R for Ribbon Eel
+Letter 12: W for Wobbegong
+Letter 13: F for Frogfish
+Letter 14: H for Harlequin Shrimp
+Letter 15: I for Indian Ocean Fish
+Letter 16: J for Jewel Damsel
+Letter 17: K for Kuda Seahorse
+Letter 18: O for Orange Clown
+Letter 19: E for Electric Clam
+Letter 20: U for Undulate Ray
+Letter 21: V for Vermillion Snapper
+Letter 22: X for Xenia Coral
+Letter 23: Y for Yellow Goatfish
+Letter 24: Z for Zoanthid
+Letter 25: Q for Queen Coris
+Letter 26: S for Sponge
+Letter 27: C for Cleaner Wrasse
+Letter 28: T for Tridacna Clam
+Letter 29: P for Peppermint Shrimp
+
+PLAIN TEXT:
+S for Sea Horse
+C for Cowrie Shell
+B for Barracuda
+M for Mandarin Fish
+T for Trumpetfish
+D for Dottyback
+A for Anthias
+G for Garden Eel
+L for Leaf Scorpion
+N for Neon Goby
+P for Porcupinefish
+R for Ribbon Eel
+W for Wobbegong
+F for Frogfish
+H for Harlequin Shrimp
+I for Indian Ocean Fish
+J for Jewel Damsel
+K for Kuda Seahorse
+O for Orange Clown
+E for Electric Clam
+U for Undulate Ray
+V for Vermillion Snapper
+X for Xenia Coral
+Y for Yellow Goatfish
+Z for Zoanthid
+Q for Queen Coris
+S for Sponge
+C for Cleaner Wrasse
+T for Tridacna Clam
+P for Peppermint Shrimp
+
+
+----------------------------------------------------------------------
+#6. Coral Reef Life - Part 3 (sea-coral-reef-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-coral-reef-3-audio/
+
+Letter 0: F for Flame Angel
+Letter 1: B for Blue Tang
+Letter 2: C for Crown Fish
+Letter 3: D for Dartfish
+Letter 4: E for Emperor Angel
+Letter 5: G for Glass Fish
+Letter 6: H for Humbug Damsel
+Letter 7: I for Indian Damsel
+Letter 8: J for Juvenile Angel
+Letter 9: K for Keyhole Angel
+Letter 10: L for Lemon Damsel
+Letter 11: M for Moon Wrasse
+Letter 12: N for Naso Tang
+Letter 13: O for Orbicular Batfish
+Letter 14: P for Powder Blue Tang
+Letter 15: R for Red Sea Clown
+Letter 16: S for Sailfin Tang
+Letter 17: T for Threadfin
+Letter 18: U for Unicorn Tang
+Letter 19: V for Vagabond Butterfly
+Letter 20: W for Watchman Goby
+Letter 21: A for Anemone Shrimp
+Letter 22: X for Xanthurus Angel
+Letter 23: Y for Yellow Wrasse
+Letter 24: Z for Zebra Blenny
+Letter 25: Q for Queen Angel
+Letter 26: R for Regal Tang
+Letter 27: C for Chromis
+Letter 28: B for Bannerfish
+Letter 29: M for Mandarinfish
+
+PLAIN TEXT:
+F for Flame Angel
+B for Blue Tang
+C for Crown Fish
+D for Dartfish
+E for Emperor Angel
+G for Glass Fish
+H for Humbug Damsel
+I for Indian Damsel
+J for Juvenile Angel
+K for Keyhole Angel
+L for Lemon Damsel
+M for Moon Wrasse
+N for Naso Tang
+O for Orbicular Batfish
+P for Powder Blue Tang
+R for Red Sea Clown
+S for Sailfin Tang
+T for Threadfin
+U for Unicorn Tang
+V for Vagabond Butterfly
+W for Watchman Goby
+A for Anemone Shrimp
+X for Xanthurus Angel
+Y for Yellow Wrasse
+Z for Zebra Blenny
+Q for Queen Angel
+R for Regal Tang
+C for Chromis
+B for Bannerfish
+M for Mandarinfish
+
+
+----------------------------------------------------------------------
+#7. Sharks & Rays - Part 1 (sea-sharks-rays-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-sharks-rays-1-audio/
+
+Letter 0: G for Great White Shark
+Letter 1: H for Hammerhead Shark
+Letter 2: T for Tiger Shark
+Letter 3: B for Bull Shark
+Letter 4: M for Mako Shark
+Letter 5: W for Whale Shark
+Letter 6: N for Nurse Shark
+Letter 7: L for Lemon Shark
+Letter 8: S for Sand Tiger
+Letter 9: R for Reef Shark
+Letter 10: A for Angel Shark
+Letter 11: C for Cookie Cutter
+Letter 12: D for Dogfish
+Letter 13: E for Epaulette Shark
+Letter 14: F for Frilled Shark
+Letter 15: P for Port Jackson
+Letter 16: I for Indian Shark
+Letter 17: J for Japanese Shark
+Letter 18: K for Kitefin Shark
+Letter 19: O for Oceanic Whitetip
+Letter 20: U for Undulate Ray
+Letter 21: V for Velvet Belly
+Letter 22: X for Xiphias Shark
+Letter 23: Y for Yellow Fin Shark
+Letter 24: Z for Zebra Shark
+Letter 25: Q for Queensland Shark
+Letter 26: S for Shortfin Mako
+Letter 27: B for Basking Shark
+Letter 28: C for Carpet Shark
+Letter 29: T for Thresher Shark
+
+PLAIN TEXT:
+G for Great White Shark
+H for Hammerhead Shark
+T for Tiger Shark
+B for Bull Shark
+M for Mako Shark
+W for Whale Shark
+N for Nurse Shark
+L for Lemon Shark
+S for Sand Tiger
+R for Reef Shark
+A for Angel Shark
+C for Cookie Cutter
+D for Dogfish
+E for Epaulette Shark
+F for Frilled Shark
+P for Port Jackson
+I for Indian Shark
+J for Japanese Shark
+K for Kitefin Shark
+O for Oceanic Whitetip
+U for Undulate Ray
+V for Velvet Belly
+X for Xiphias Shark
+Y for Yellow Fin Shark
+Z for Zebra Shark
+Q for Queensland Shark
+S for Shortfin Mako
+B for Basking Shark
+C for Carpet Shark
+T for Thresher Shark
+
+
+----------------------------------------------------------------------
+#8. Sharks & Rays - Part 2 (sea-sharks-rays-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-sharks-rays-2-audio/
+
+Letter 0: S for Stingray
+Letter 1: M for Manta Ray
+Letter 2: E for Electric Ray
+Letter 3: B for Bat Ray
+Letter 4: C for Cownose Ray
+Letter 5: D for Devil Ray
+Letter 6: G for Guitar Shark
+Letter 7: H for Horn Shark
+Letter 8: I for Indian Stingray
+Letter 9: J for Japanese Ray
+Letter 10: K for King Skate
+Letter 11: L for Leopard Shark
+Letter 12: N for Numbray
+Letter 13: O for Ornate Eagle Ray
+Letter 14: P for Pacific Ray
+Letter 15: R for Round Stingray
+Letter 16: T for Torpedo Ray
+Letter 17: A for Atlantic Stingray
+Letter 18: F for Freshwater Ray
+Letter 19: W for Whiptail Ray
+Letter 20: U for Undulate Skate
+Letter 21: V for Violin Ray
+Letter 22: X for Xingu River Ray
+Letter 23: Y for Yellow Stingray
+Letter 24: Z for Zapteryx Ray
+Letter 25: Q for Queensland Ray
+Letter 26: S for Sawfish
+Letter 27: C for Catshark
+Letter 28: M for Marble Ray
+Letter 29: B for Blue Spotted Ray
+
+PLAIN TEXT:
+S for Stingray
+M for Manta Ray
+E for Electric Ray
+B for Bat Ray
+C for Cownose Ray
+D for Devil Ray
+G for Guitar Shark
+H for Horn Shark
+I for Indian Stingray
+J for Japanese Ray
+K for King Skate
+L for Leopard Shark
+N for Numbray
+O for Ornate Eagle Ray
+P for Pacific Ray
+R for Round Stingray
+T for Torpedo Ray
+A for Atlantic Stingray
+F for Freshwater Ray
+W for Whiptail Ray
+U for Undulate Skate
+V for Violin Ray
+X for Xingu River Ray
+Y for Yellow Stingray
+Z for Zapteryx Ray
+Q for Queensland Ray
+S for Sawfish
+C for Catshark
+M for Marble Ray
+B for Blue Spotted Ray
+
+
+----------------------------------------------------------------------
+#9. Sharks & Rays - Part 3 (sea-sharks-rays-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-sharks-rays-3-audio/
+
+Letter 0: W for Wobbegong Shark
+Letter 1: S for Silky Shark
+Letter 2: B for Blacktip Shark
+Letter 3: G for Goblin Shark
+Letter 4: P for Porbeagle
+Letter 5: L for Lantern Shark
+Letter 6: D for Dusky Shark
+Letter 7: H for Houndhark
+Letter 8: R for Ragged Tooth
+Letter 9: T for Tope Shark
+Letter 10: C for Cookiecutter
+Letter 11: N for Night Shark
+Letter 12: A for Azurite Shark
+Letter 13: F for Fox Shark
+Letter 14: I for Iridescent Shark
+Letter 15: J for Jaws Fish
+Letter 16: K for Keeltail Shark
+Letter 17: M for Megamouth
+Letter 18: O for Oceanic Shark
+Letter 19: E for Epaulette Ray
+Letter 20: U for Umbrella Ray
+Letter 21: V for Viper Shark
+Letter 22: X for Xtreme Shark
+Letter 23: Y for Yellowtail Shark
+Letter 24: Z for Zambezi Shark
+Letter 25: Q for Quagga Catshark
+Letter 26: S for Spinner Shark
+Letter 27: W for White Pointer
+Letter 28: B for Bronze Whaler
+Letter 29: T for Tiger Catshark
+
+PLAIN TEXT:
+W for Wobbegong Shark
+S for Silky Shark
+B for Blacktip Shark
+G for Goblin Shark
+P for Porbeagle
+L for Lantern Shark
+D for Dusky Shark
+H for Houndhark
+R for Ragged Tooth
+T for Tope Shark
+C for Cookiecutter
+N for Night Shark
+A for Azurite Shark
+F for Fox Shark
+I for Iridescent Shark
+J for Jaws Fish
+K for Keeltail Shark
+M for Megamouth
+O for Oceanic Shark
+E for Epaulette Ray
+U for Umbrella Ray
+V for Viper Shark
+X for Xtreme Shark
+Y for Yellowtail Shark
+Z for Zambezi Shark
+Q for Quagga Catshark
+S for Spinner Shark
+W for White Pointer
+B for Bronze Whaler
+T for Tiger Catshark
+
+
+----------------------------------------------------------------------
+#10. Ocean Giants - Part 1 (sea-ocean-giants-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-ocean-giants-1-audio/
+
+Letter 0: B for Blue Whale
+Letter 1: H for Humpback Whale
+Letter 2: S for Sperm Whale
+Letter 3: O for Orca
+Letter 4: G for Gray Whale
+Letter 5: N for Narwhal
+Letter 6: D for Dolphin
+Letter 7: W for Walrus
+Letter 8: M for Manatee
+Letter 9: E for Elephant Seal
+Letter 10: T for Tiger Whale
+Letter 11: L for Leopard Seal
+Letter 12: P for Pilot Whale
+Letter 13: R for Right Whale
+Letter 14: A for Antarctic Whale
+Letter 15: F for Fin Whale
+Letter 16: C for Colossal Squid
+Letter 17: K for Killer Whale
+Letter 18: I for Indian Whale
+Letter 19: J for Japanese Whale
+Letter 20: U for Urchin Giant
+Letter 21: V for Vaquita
+Letter 22: X for Xiphactinus
+Letter 23: Y for Yellowfin Dolphin
+Letter 24: Z for Ziphius Whale
+Letter 25: Q for Queen Conch Giant
+Letter 26: S for Sea Elephant
+Letter 27: B for Beluga
+Letter 28: M for Minke Whale
+Letter 29: D for Dugong
+
+PLAIN TEXT:
+B for Blue Whale
+H for Humpback Whale
+S for Sperm Whale
+O for Orca
+G for Gray Whale
+N for Narwhal
+D for Dolphin
+W for Walrus
+M for Manatee
+E for Elephant Seal
+T for Tiger Whale
+L for Leopard Seal
+P for Pilot Whale
+R for Right Whale
+A for Antarctic Whale
+F for Fin Whale
+C for Colossal Squid
+K for Killer Whale
+I for Indian Whale
+J for Japanese Whale
+U for Urchin Giant
+V for Vaquita
+X for Xiphactinus
+Y for Yellowfin Dolphin
+Z for Ziphius Whale
+Q for Queen Conch Giant
+S for Sea Elephant
+B for Beluga
+M for Minke Whale
+D for Dugong
+
+
+----------------------------------------------------------------------
+#11. Ocean Giants - Part 2 (sea-ocean-giants-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-ocean-giants-2-audio/
+
+Letter 0: B for Bottlenose Dolphin
+Letter 1: S for Sei Whale
+Letter 2: R for Risso Dolphin
+Letter 3: C for Common Dolphin
+Letter 4: P for Pacific Dolphin
+Letter 5: M for Melon Head Whale
+Letter 6: F for False Killer Whale
+Letter 7: T for Tucuxi Dolphin
+Letter 8: I for Irrawaddy Dolphin
+Letter 9: G for Ganges Dolphin
+Letter 10: H for Harbor Porpoise
+Letter 11: L for Long Finned Whale
+Letter 12: K for Komodo Dragon Sea
+Letter 13: A for Amazon Dolphin
+Letter 14: N for North Sea Whale
+Letter 15: O for Ocean Dolphin
+Letter 16: D for Dwarf Whale
+Letter 17: E for Eastern Dolphin
+Letter 18: J for Jade Dolphin
+Letter 19: W for White Whale
+Letter 20: U for Unicorn Whale
+Letter 21: V for Velvet Whale
+Letter 22: X for Xenobalanus
+Letter 23: Y for Yellow Fin Whale
+Letter 24: Z for Ziphidae
+Letter 25: Q for Queensland Dolphin
+Letter 26: S for Striped Dolphin
+Letter 27: B for Bowhead Whale
+Letter 28: R for Rough Tooth Dolphin
+Letter 29: M for Mesoplodon
+
+PLAIN TEXT:
+B for Bottlenose Dolphin
+S for Sei Whale
+R for Risso Dolphin
+C for Common Dolphin
+P for Pacific Dolphin
+M for Melon Head Whale
+F for False Killer Whale
+T for Tucuxi Dolphin
+I for Irrawaddy Dolphin
+G for Ganges Dolphin
+H for Harbor Porpoise
+L for Long Finned Whale
+K for Komodo Dragon Sea
+A for Amazon Dolphin
+N for North Sea Whale
+O for Ocean Dolphin
+D for Dwarf Whale
+E for Eastern Dolphin
+J for Jade Dolphin
+W for White Whale
+U for Unicorn Whale
+V for Velvet Whale
+X for Xenobalanus
+Y for Yellow Fin Whale
+Z for Ziphidae
+Q for Queensland Dolphin
+S for Striped Dolphin
+B for Bowhead Whale
+R for Rough Tooth Dolphin
+M for Mesoplodon
+
+
+----------------------------------------------------------------------
+#12. Ocean Giants - Part 3 (sea-ocean-giants-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-ocean-giants-3-audio/
+
+Letter 0: S for Southern Whale
+Letter 1: A for Atlantic Dolphin
+Letter 2: C for Cuvier Whale
+Letter 3: D for Dall Porpoise
+Letter 4: F for Fraser Dolphin
+Letter 5: G for Ginkgo Whale
+Letter 6: H for Hourglass Dolphin
+Letter 7: I for Indo Dolphin
+Letter 8: K for Killer Whale
+Letter 9: L for Longman Whale
+Letter 10: M for Monkey Faced Eel
+Letter 11: N for North Pacific Whale
+Letter 12: O for Omura Whale
+Letter 13: P for Pygmy Whale
+Letter 14: R for River Dolphin
+Letter 15: T for True Whale
+Letter 16: W for Western Whale
+Letter 17: B for Beaked Whale
+Letter 18: E for Emerald Whale
+Letter 19: J for Jubarte
+Letter 20: U for Unicorn Fish
+Letter 21: V for Vagrant Dolphin
+Letter 22: X for Xavier Dolphin
+Letter 23: Y for Yangtze Dolphin
+Letter 24: Z for Zenith Whale
+Letter 25: Q for Queen Whale
+Letter 26: S for Spinner Dolphin
+Letter 27: C for Chinese Dolphin
+Letter 28: P for Pink Dolphin
+Letter 29: B for Bryde Whale
+
+PLAIN TEXT:
+S for Southern Whale
+A for Atlantic Dolphin
+C for Cuvier Whale
+D for Dall Porpoise
+F for Fraser Dolphin
+G for Ginkgo Whale
+H for Hourglass Dolphin
+I for Indo Dolphin
+K for Killer Whale
+L for Longman Whale
+M for Monkey Faced Eel
+N for North Pacific Whale
+O for Omura Whale
+P for Pygmy Whale
+R for River Dolphin
+T for True Whale
+W for Western Whale
+B for Beaked Whale
+E for Emerald Whale
+J for Jubarte
+U for Unicorn Fish
+V for Vagrant Dolphin
+X for Xavier Dolphin
+Y for Yangtze Dolphin
+Z for Zenith Whale
+Q for Queen Whale
+S for Spinner Dolphin
+C for Chinese Dolphin
+P for Pink Dolphin
+B for Bryde Whale
+
+
+----------------------------------------------------------------------
+#13. Tropical Fish - Part 1 (sea-tropical-fish-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-tropical-fish-1-audio/
+
+Letter 0: C for Clownfish
+Letter 1: B for Blue Tang
+Letter 2: A for Angelfish
+Letter 3: D for Discus
+Letter 4: G for Guppy
+Letter 5: N for Neon Tetra
+Letter 6: T for Tetra
+Letter 7: S for Swordtail
+Letter 8: P for Platy
+Letter 9: M for Molly
+Letter 10: R for Rainbow Fish
+Letter 11: L for Lionfish
+Letter 12: H for Hatchetfish
+Letter 13: F for Firefish
+Letter 14: K for Killifish
+Letter 15: W for Wrasse
+Letter 16: O for Oscar Fish
+Letter 17: E for Electric Blue
+Letter 18: I for Indian Gourami
+Letter 19: J for Jewel Cichlid
+Letter 20: U for Unicornfish
+Letter 21: V for Violet Goby
+Letter 22: X for X-ray Tetra
+Letter 23: Y for Yellow Lab
+Letter 24: Z for Zebra Danio
+Letter 25: Q for Queen Trigger
+Letter 26: C for Cardinal Tetra
+Letter 27: B for Betta Fish
+Letter 28: S for Silver Dollar
+Letter 29: P for Parrotfish
+
+PLAIN TEXT:
+C for Clownfish
+B for Blue Tang
+A for Angelfish
+D for Discus
+G for Guppy
+N for Neon Tetra
+T for Tetra
+S for Swordtail
+P for Platy
+M for Molly
+R for Rainbow Fish
+L for Lionfish
+H for Hatchetfish
+F for Firefish
+K for Killifish
+W for Wrasse
+O for Oscar Fish
+E for Electric Blue
+I for Indian Gourami
+J for Jewel Cichlid
+U for Unicornfish
+V for Violet Goby
+X for X-ray Tetra
+Y for Yellow Lab
+Z for Zebra Danio
+Q for Queen Trigger
+C for Cardinal Tetra
+B for Betta Fish
+S for Silver Dollar
+P for Parrotfish
+
+
+----------------------------------------------------------------------
+#14. Tropical Fish - Part 2 (sea-tropical-fish-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-tropical-fish-2-audio/
+
+Letter 0: G for Goldfish
+Letter 1: K for Koi Fish
+Letter 2: A for Arowana
+Letter 3: S for Siamese Fighter
+Letter 4: C for Catfish
+Letter 5: P for Piranha
+Letter 6: T for Tiger Barb
+Letter 7: D for Dwarf Gourami
+Letter 8: R for Ram Cichlid
+Letter 9: M for Moonlight Gourami
+Letter 10: L for Loach
+Letter 11: B for Bristlenose Pleco
+Letter 12: H for Honey Gourami
+Letter 13: N for Neon Rainbow
+Letter 14: F for Flowerhorn
+Letter 15: O for Otocinclus
+Letter 16: E for Emperor Tetra
+Letter 17: W for Weather Loach
+Letter 18: I for Indian Glass Fish
+Letter 19: J for Jack Dempsey
+Letter 20: U for Upside Down Catfish
+Letter 21: V for Vampire Tetra
+Letter 22: X for Xingu Pleco
+Letter 23: Y for Yellow Tail Rasbora
+Letter 24: Z for Zebra Pleco
+Letter 25: Q for Queen Loach
+Letter 26: C for Cherry Barb
+Letter 27: S for Serpae Tetra
+Letter 28: P for Pearl Gourami
+Letter 29: T for Tinfoil Barb
+
+PLAIN TEXT:
+G for Goldfish
+K for Koi Fish
+A for Arowana
+S for Siamese Fighter
+C for Catfish
+P for Piranha
+T for Tiger Barb
+D for Dwarf Gourami
+R for Ram Cichlid
+M for Moonlight Gourami
+L for Loach
+B for Bristlenose Pleco
+H for Honey Gourami
+N for Neon Rainbow
+F for Flowerhorn
+O for Otocinclus
+E for Emperor Tetra
+W for Weather Loach
+I for Indian Glass Fish
+J for Jack Dempsey
+U for Upside Down Catfish
+V for Vampire Tetra
+X for Xingu Pleco
+Y for Yellow Tail Rasbora
+Z for Zebra Pleco
+Q for Queen Loach
+C for Cherry Barb
+S for Serpae Tetra
+P for Pearl Gourami
+T for Tinfoil Barb
+
+
+----------------------------------------------------------------------
+#15. Tropical Fish - Part 3 (sea-tropical-fish-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-tropical-fish-3-audio/
+
+Letter 0: B for Bichir
+Letter 1: C for Convict Cichlid
+Letter 2: D for Danio
+Letter 3: E for Electric Yellow
+Letter 4: F for Figure Eight Puffer
+Letter 5: G for Green Terror
+Letter 6: H for Harlequin Rasbora
+Letter 7: I for Indian Knife Fish
+Letter 8: J for Jelly Bean Parrot
+Letter 9: K for Keyhole Cichlid
+Letter 10: L for Lemon Tetra
+Letter 11: M for Marble Angelfish
+Letter 12: N for Niger Trigger
+Letter 13: O for Orange Chromide
+Letter 14: P for Peacock Cichlid
+Letter 15: R for Red Parrot
+Letter 16: S for Silver Arowana
+Letter 17: T for Texas Cichlid
+Letter 18: A for African Cichlid
+Letter 19: U for Uaru Cichlid
+Letter 20: V for Venustus
+Letter 21: W for Wolf Cichlid
+Letter 22: X for Xiphophorus
+Letter 23: Y for Yellow Acei
+Letter 24: Z for Zebra Tilapia
+Letter 25: Q for Queen Cichlid
+Letter 26: B for Blood Parrot
+Letter 27: C for Cory Catfish
+Letter 28: S for Sunset Gourami
+Letter 29: M for Malawi Cichlid
+
+PLAIN TEXT:
+B for Bichir
+C for Convict Cichlid
+D for Danio
+E for Electric Yellow
+F for Figure Eight Puffer
+G for Green Terror
+H for Harlequin Rasbora
+I for Indian Knife Fish
+J for Jelly Bean Parrot
+K for Keyhole Cichlid
+L for Lemon Tetra
+M for Marble Angelfish
+N for Niger Trigger
+O for Orange Chromide
+P for Peacock Cichlid
+R for Red Parrot
+S for Silver Arowana
+T for Texas Cichlid
+A for African Cichlid
+U for Uaru Cichlid
+V for Venustus
+W for Wolf Cichlid
+X for Xiphophorus
+Y for Yellow Acei
+Z for Zebra Tilapia
+Q for Queen Cichlid
+B for Blood Parrot
+C for Cory Catfish
+S for Sunset Gourami
+M for Malawi Cichlid
+
+
+----------------------------------------------------------------------
+#16. Arctic Sea Life - Part 1 (sea-arctic-sea-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-arctic-sea-1-audio/
+
+Letter 0: A for Arctic Cod
+Letter 1: B for Bearded Seal
+Letter 2: C for Clownfish
+Letter 3: D for Dolphin
+Letter 4: E for Emperor Penguin
+Letter 5: F for Flounder
+Letter 6: G for Greenland Shark
+Letter 7: H for Halibut
+Letter 8: I for Ice Krill
+Letter 9: J for Jellyfish
+Letter 10: K for Killer Whale
+Letter 11: L for Leopard Seal
+Letter 12: M for Musk Ox
+Letter 13: N for Narwhal
+Letter 14: O for Orca
+Letter 15: P for Polar Bear
+Letter 16: Q for Queen Crab
+Letter 17: R for Ringed Seal
+Letter 18: S for Sea Urchin
+Letter 19: T for Tern
+Letter 20: U for Unicorn Fish
+Letter 21: V for Viperfish
+Letter 22: W for Whale Shark
+Letter 23: X for Xiphias
+Letter 24: Y for Yellow Coral
+Letter 25: Z for Zooplankton
+Letter 26: A for Angelfish
+Letter 27: B for Barracuda
+Letter 28: C for Coral Polyp
+Letter 29: D for Dragonfish
+
+PLAIN TEXT:
+A for Arctic Cod
+B for Bearded Seal
+C for Clownfish
+D for Dolphin
+E for Emperor Penguin
+F for Flounder
+G for Greenland Shark
+H for Halibut
+I for Ice Krill
+J for Jellyfish
+K for Killer Whale
+L for Leopard Seal
+M for Musk Ox
+N for Narwhal
+O for Orca
+P for Polar Bear
+Q for Queen Crab
+R for Ringed Seal
+S for Sea Urchin
+T for Tern
+U for Unicorn Fish
+V for Viperfish
+W for Whale Shark
+X for Xiphias
+Y for Yellow Coral
+Z for Zooplankton
+A for Angelfish
+B for Barracuda
+C for Coral Polyp
+D for Dragonfish
+
+
+----------------------------------------------------------------------
+#17. Arctic Sea Life - Part 2 (sea-arctic-sea-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-arctic-sea-2-audio/
+
+Letter 0: A for Anemone
+Letter 1: B for Blue Whale
+Letter 2: C for Crustacean
+Letter 3: D for Diatom
+Letter 4: E for Eider Duck
+Letter 5: F for Fish Eagle
+Letter 6: G for Gulper Eel
+Letter 7: H for Horseshoe Crab
+Letter 8: I for Icefish
+Letter 9: J for Jellyfish Bloom
+Letter 10: K for Kelp Fish
+Letter 11: L for Lumpfish
+Letter 12: M for Mollusc
+Letter 13: N for Nautilus
+Letter 14: O for Octopod
+Letter 15: P for Puffin
+Letter 16: Q for Quahog
+Letter 17: R for Rosette Tern
+Letter 18: S for Snow Crab
+Letter 19: T for Tube Worm
+Letter 20: U for Urchin
+Letter 21: V for Vole
+Letter 22: W for Walrus
+Letter 23: X for Xeme Gull
+Letter 24: Y for Yak Whale
+Letter 25: Z for Zoea
+Letter 26: A for Arctic Char
+Letter 27: B for Bowhead Whale
+Letter 28: C for Copepod
+Letter 29: D for Deep Trout
+
+PLAIN TEXT:
+A for Anemone
+B for Blue Whale
+C for Crustacean
+D for Diatom
+E for Eider Duck
+F for Fish Eagle
+G for Gulper Eel
+H for Horseshoe Crab
+I for Icefish
+J for Jellyfish Bloom
+K for Kelp Fish
+L for Lumpfish
+M for Mollusc
+N for Nautilus
+O for Octopod
+P for Puffin
+Q for Quahog
+R for Rosette Tern
+S for Snow Crab
+T for Tube Worm
+U for Urchin
+V for Vole
+W for Walrus
+X for Xeme Gull
+Y for Yak Whale
+Z for Zoea
+A for Arctic Char
+B for Bowhead Whale
+C for Copepod
+D for Deep Trout
+
+
+----------------------------------------------------------------------
+#18. Arctic Sea Life - Part 3 (sea-arctic-sea-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-arctic-sea-3-audio/
+
+Letter 0: A for Arctic Tern
+Letter 1: B for Baleen Whale
+Letter 2: C for Capelin
+Letter 3: D for Demoiselle
+Letter 4: E for Eelpout
+Letter 5: F for Foraminifera
+Letter 6: G for Ghost Shrimp
+Letter 7: H for Hyperiid
+Letter 8: I for Icy Sculpin
+Letter 9: J for Jelly Bloom
+Letter 10: K for Krill Swarm
+Letter 11: L for Lumpsucker
+Letter 12: M for Medusa
+Letter 13: N for Nudibranchs
+Letter 14: O for Ostracode
+Letter 15: P for Pteropod
+Letter 16: Q for Quillfish
+Letter 17: R for Ramphichthys
+Letter 18: S for Sea Spider
+Letter 19: T for Topminnow
+Letter 20: U for Unicellular
+Letter 21: V for Velella
+Letter 22: W for Whale Louse
+Letter 23: X for Xiphosura
+Letter 24: Y for Yolky Larva
+Letter 25: Z for Zooid
+Letter 26: A for Algae Bloom
+Letter 27: B for Barnacle
+Letter 28: C for Ctenophore
+Letter 29: D for Detritus Feeder
+
+PLAIN TEXT:
+A for Arctic Tern
+B for Baleen Whale
+C for Capelin
+D for Demoiselle
+E for Eelpout
+F for Foraminifera
+G for Ghost Shrimp
+H for Hyperiid
+I for Icy Sculpin
+J for Jelly Bloom
+K for Krill Swarm
+L for Lumpsucker
+M for Medusa
+N for Nudibranchs
+O for Ostracode
+P for Pteropod
+Q for Quillfish
+R for Ramphichthys
+S for Sea Spider
+T for Topminnow
+U for Unicellular
+V for Velella
+W for Whale Louse
+X for Xiphosura
+Y for Yolky Larva
+Z for Zooid
+A for Algae Bloom
+B for Barnacle
+C for Ctenophore
+D for Detritus Feeder
+
+
+----------------------------------------------------------------------
+#19. Tidal Pool - Part 1 (sea-tidal-pool-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-tidal-pool-1-audio/
+
+Letter 0: A for Anemone
+Letter 1: B for Blenny
+Letter 2: C for Crab
+Letter 3: D for Diatom
+Letter 4: E for Echinoid
+Letter 5: F for Fiddler Crab
+Letter 6: G for Goby
+Letter 7: H for Hermit Crab
+Letter 8: I for Isopod
+Letter 9: J for Jellyfish
+Letter 10: K for Killifish
+Letter 11: L for Limpet
+Letter 12: M for Mussel
+Letter 13: N for Nudibranch
+Letter 14: O for Octopus
+Letter 15: P for Periwinkle
+Letter 16: Q for Quahog
+Letter 17: R for Rockpool Fish
+Letter 18: S for Sculpin
+Letter 19: T for Turban Snail
+Letter 20: U for Urchin
+Letter 21: V for Velvet Crab
+Letter 22: W for Whelk
+Letter 23: X for Xestus Crab
+Letter 24: Y for Yolk Sac
+Letter 25: Z for Zoaea
+Letter 26: A for Acorn Barnacle
+Letter 27: B for Beadle Mite
+Letter 28: C for Coralline Algae
+Letter 29: D for Dorsal Fin
+
+PLAIN TEXT:
+A for Anemone
+B for Blenny
+C for Crab
+D for Diatom
+E for Echinoid
+F for Fiddler Crab
+G for Goby
+H for Hermit Crab
+I for Isopod
+J for Jellyfish
+K for Killifish
+L for Limpet
+M for Mussel
+N for Nudibranch
+O for Octopus
+P for Periwinkle
+Q for Quahog
+R for Rockpool Fish
+S for Sculpin
+T for Turban Snail
+U for Urchin
+V for Velvet Crab
+W for Whelk
+X for Xestus Crab
+Y for Yolk Sac
+Z for Zoaea
+A for Acorn Barnacle
+B for Beadle Mite
+C for Coralline Algae
+D for Dorsal Fin
+
+
+----------------------------------------------------------------------
+#20. Tidal Pool - Part 2 (sea-tidal-pool-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-tidal-pool-2-audio/
+
+Letter 0: A for Algae
+Letter 1: B for Brittle Star
+Letter 2: C for Chiton
+Letter 3: D for Detritus
+Letter 4: E for Eurypterids
+Letter 5: F for Feather Duster
+Letter 6: G for Gastropod
+Letter 7: H for Harpacticoid
+Letter 8: I for Inachus Crab
+Letter 9: J for Jujubes Sea
+Letter 10: K for Kelpfish
+Letter 11: L for Littorina Snail
+Letter 12: M for Migratory Fish
+Letter 13: N for Nemertean
+Letter 14: O for Ostracod
+Letter 15: P for Pholad Clam
+Letter 16: Q for Queen Anemone
+Letter 17: R for Rosette Worm
+Letter 18: S for Sea Lettuce
+Letter 19: T for Tidal Snail
+Letter 20: U for Ulva
+Letter 21: V for Valve Clam
+Letter 22: W for Wave Pounding
+Letter 23: X for Xenophora Snail
+Letter 24: Y for Yellow Sea Slug
+Letter 25: Z for Zoaea Larva
+Letter 26: A for Annelid Worm
+Letter 27: B for Bubble Shell
+Letter 28: C for Copepod
+Letter 29: D for Dunlin
+
+PLAIN TEXT:
+A for Algae
+B for Brittle Star
+C for Chiton
+D for Detritus
+E for Eurypterids
+F for Feather Duster
+G for Gastropod
+H for Harpacticoid
+I for Inachus Crab
+J for Jujubes Sea
+K for Kelpfish
+L for Littorina Snail
+M for Migratory Fish
+N for Nemertean
+O for Ostracod
+P for Pholad Clam
+Q for Queen Anemone
+R for Rosette Worm
+S for Sea Lettuce
+T for Tidal Snail
+U for Ulva
+V for Valve Clam
+W for Wave Pounding
+X for Xenophora Snail
+Y for Yellow Sea Slug
+Z for Zoaea Larva
+A for Annelid Worm
+B for Bubble Shell
+C for Copepod
+D for Dunlin
+
+
+----------------------------------------------------------------------
+#21. Tidal Pool - Part 3 (sea-tidal-pool-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-tidal-pool-3-audio/
+
+Letter 0: A for Abalone
+Letter 1: B for Barnacle
+Letter 2: C for Coral
+Letter 3: D for Dorid Nudibranch
+Letter 4: E for Eel Larva
+Letter 5: F for Fleshy Algae
+Letter 6: G for Graceful Dancer
+Letter 7: H for Hydrozoan
+Letter 8: I for Interstitial Fauna
+Letter 9: J for Juvenile Fish
+Letter 10: K for Keyhole Limpet
+Letter 11: L for Littoral Zone
+Letter 12: M for Mantle Tissue
+Letter 13: N for Neap Tide
+Letter 14: O for Orange Starfish
+Letter 15: P for Pedicellaria
+Letter 16: Q for Quiet Pool
+Letter 17: R for Rocky Habitat
+Letter 18: S for Sea Urchin
+Letter 19: T for Tide Line
+Letter 20: U for Urchin Roe
+Letter 21: V for Vertical Gradient
+Letter 22: W for Water Column
+Letter 23: X for Xenon Lighting
+Letter 24: Y for Year-round
+Letter 25: Z for Zoeae Release
+Letter 26: A for Arthropod
+Letter 27: B for Bladderwrack
+Letter 28: C for Cryptic Fauna
+Letter 29: D for Drying Stress
+
+PLAIN TEXT:
+A for Abalone
+B for Barnacle
+C for Coral
+D for Dorid Nudibranch
+E for Eel Larva
+F for Fleshy Algae
+G for Graceful Dancer
+H for Hydrozoan
+I for Interstitial Fauna
+J for Juvenile Fish
+K for Keyhole Limpet
+L for Littoral Zone
+M for Mantle Tissue
+N for Neap Tide
+O for Orange Starfish
+P for Pedicellaria
+Q for Quiet Pool
+R for Rocky Habitat
+S for Sea Urchin
+T for Tide Line
+U for Urchin Roe
+V for Vertical Gradient
+W for Water Column
+X for Xenon Lighting
+Y for Year-round
+Z for Zoeae Release
+A for Arthropod
+B for Bladderwrack
+C for Cryptic Fauna
+D for Drying Stress
+
+
+----------------------------------------------------------------------
+#22. Ocean Predators - Part 1 (sea-ocean-predators-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-ocean-predators-1-audio/
+
+Letter 0: A for Anglerfish
+Letter 1: B for Barracuda
+Letter 2: C for Conger Eel
+Letter 3: D for Dolphin Fish
+Letter 4: E for Electric Ray
+Letter 5: F for Fangtooth
+Letter 6: G for Giant Squid
+Letter 7: H for Hammerhead
+Letter 8: I for Indian Ocean Shark
+Letter 9: J for Jewfish
+Letter 10: K for King Shark
+Letter 11: L for Lionfish
+Letter 12: M for Marlin
+Letter 13: N for Needlefish
+Letter 14: O for Orange Roughy
+Letter 15: P for Pufferfish
+Letter 16: Q for Quarrelsome Fish
+Letter 17: R for Rattail Fish
+Letter 18: S for Sixgill Shark
+Letter 19: T for Tiger Shark
+Letter 20: U for Unicorn Fish
+Letter 21: V for Viper Shark
+Letter 22: W for Wahoo
+Letter 23: X for Xiphias
+Letter 24: Y for Yellowfin Tuna
+Letter 25: Z for Zigzag Eel
+Letter 26: A for Atoll Predator
+Letter 27: B for Big Eye Tuna
+Letter 28: C for Cookie Cutter Shark
+Letter 29: D for Deepwater Shark
+
+PLAIN TEXT:
+A for Anglerfish
+B for Barracuda
+C for Conger Eel
+D for Dolphin Fish
+E for Electric Ray
+F for Fangtooth
+G for Giant Squid
+H for Hammerhead
+I for Indian Ocean Shark
+J for Jewfish
+K for King Shark
+L for Lionfish
+M for Marlin
+N for Needlefish
+O for Orange Roughy
+P for Pufferfish
+Q for Quarrelsome Fish
+R for Rattail Fish
+S for Sixgill Shark
+T for Tiger Shark
+U for Unicorn Fish
+V for Viper Shark
+W for Wahoo
+X for Xiphias
+Y for Yellowfin Tuna
+Z for Zigzag Eel
+A for Atoll Predator
+B for Big Eye Tuna
+C for Cookie Cutter Shark
+D for Deepwater Shark
+
+
+----------------------------------------------------------------------
+#23. Ocean Predators - Part 2 (sea-ocean-predators-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-ocean-predators-2-audio/
+
+Letter 0: A for Arctic Shark
+Letter 1: B for Bull Shark
+Letter 2: C for Caribbean Reef
+Letter 3: D for Dusky Shark
+Letter 4: E for Eel-like Predator
+Letter 5: F for Flapjack Octopus
+Letter 6: G for Goblin Shark
+Letter 7: H for Houndfish
+Letter 8: I for Indian Spotted
+Letter 9: J for Jaws Predator
+Letter 10: K for Keyhole Shark
+Letter 11: L for Lemon Shark
+Letter 12: M for Megalodon
+Letter 13: N for Nurse Shark
+Letter 14: O for Oceanic Whiptail
+Letter 15: P for Pacific Shark
+Letter 16: Q for Quick Strike
+Letter 17: R for Reef Predator
+Letter 18: S for Sawfish
+Letter 19: T for Thresher Shark
+Letter 20: U for Undersea Hunter
+Letter 21: V for Vicious Tuna
+Letter 22: W for Whale Killer
+Letter 23: X for X-ray Predator
+Letter 24: Y for Yangtze Finless
+Letter 25: Z for Zigzag Hunter
+Letter 26: A for Aggressive Fish
+Letter 27: B for Bite Force
+Letter 28: C for Carnivorous Squid
+Letter 29: D for Dark Ocean
+
+PLAIN TEXT:
+A for Arctic Shark
+B for Bull Shark
+C for Caribbean Reef
+D for Dusky Shark
+E for Eel-like Predator
+F for Flapjack Octopus
+G for Goblin Shark
+H for Houndfish
+I for Indian Spotted
+J for Jaws Predator
+K for Keyhole Shark
+L for Lemon Shark
+M for Megalodon
+N for Nurse Shark
+O for Oceanic Whiptail
+P for Pacific Shark
+Q for Quick Strike
+R for Reef Predator
+S for Sawfish
+T for Thresher Shark
+U for Undersea Hunter
+V for Vicious Tuna
+W for Whale Killer
+X for X-ray Predator
+Y for Yangtze Finless
+Z for Zigzag Hunter
+A for Aggressive Fish
+B for Bite Force
+C for Carnivorous Squid
+D for Dark Ocean
+
+
+----------------------------------------------------------------------
+#24. Ocean Predators - Part 3 (sea-ocean-predators-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-ocean-predators-3-audio/
+
+Letter 0: A for Apex Predator
+Letter 1: B for Bioluminescent
+Letter 2: C for Carcharhinus
+Letter 3: D for Deep Hunter
+Letter 4: E for Elasmobranch
+Letter 5: F for Formidable Beast
+Letter 6: G for Great White
+Letter 7: H for Hunter Tactics
+Letter 8: I for Intelligent Squid
+Letter 9: J for Jaw Strength
+Letter 10: K for Keen Senses
+Letter 11: L for Lethal Predator
+Letter 12: M for Mako Shark
+Letter 13: N for Nocturnal Hunter
+Letter 14: O for Orca Attack
+Letter 15: P for Pack Hunter
+Letter 16: Q for Quiet Stalker
+Letter 17: R for Ruthless Hunter
+Letter 18: S for Speed Demon
+Letter 19: T for Top Predator
+Letter 20: U for Unstoppable Force
+Letter 21: V for Vampire Squid
+Letter 22: W for White Shark
+Letter 23: X for X-Ray Vision
+Letter 24: Y for Yearning Hunter
+Letter 25: Z for Zero Escape
+Letter 26: A for Abyssal Killer
+Letter 27: B for Beastly Teeth
+Letter 28: C for Cruel Seas
+Letter 29: D for Dominant Species
+
+PLAIN TEXT:
+A for Apex Predator
+B for Bioluminescent
+C for Carcharhinus
+D for Deep Hunter
+E for Elasmobranch
+F for Formidable Beast
+G for Great White
+H for Hunter Tactics
+I for Intelligent Squid
+J for Jaw Strength
+K for Keen Senses
+L for Lethal Predator
+M for Mako Shark
+N for Nocturnal Hunter
+O for Orca Attack
+P for Pack Hunter
+Q for Quiet Stalker
+R for Ruthless Hunter
+S for Speed Demon
+T for Top Predator
+U for Unstoppable Force
+V for Vampire Squid
+W for White Shark
+X for X-Ray Vision
+Y for Yearning Hunter
+Z for Zero Escape
+A for Abyssal Killer
+B for Beastly Teeth
+C for Cruel Seas
+D for Dominant Species
+
+
+----------------------------------------------------------------------
+#25. Beautiful Sea Life - Part 1 (sea-beautiful-sea-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-beautiful-sea-1-audio/
+
+Letter 0: A for Angelfish
+Letter 1: B for Blue Tang
+Letter 2: C for Clownfish
+Letter 3: D for Damselfish
+Letter 4: E for Emperor Fish
+Letter 5: F for Flamingo Tongue
+Letter 6: G for Goby
+Letter 7: H for Hawkfish
+Letter 8: I for Imperial Fish
+Letter 9: J for Jackfish
+Letter 10: K for Kingfish
+Letter 11: L for Lionfish
+Letter 12: M for Mandarin Fish
+Letter 13: N for Nudibranch
+Letter 14: O for Ornate Fish
+Letter 15: P for Parrotfish
+Letter 16: Q for Queen Angelfish
+Letter 17: R for Rainbow Fish
+Letter 18: S for Sea Dragon
+Letter 19: T for Trumpetfish
+Letter 20: U for Unicorn Fish
+Letter 21: V for Violet Sea
+Letter 22: W for Wrasse
+Letter 23: X for Xenia Coral
+Letter 24: Y for Yellow Coral
+Letter 25: Z for Zulu Hud Fish
+Letter 26: A for Anemone Beauty
+Letter 27: B for Beautiful Coral
+Letter 28: C for Coral Polyp
+Letter 29: D for Delicate Beauty
+
+PLAIN TEXT:
+A for Angelfish
+B for Blue Tang
+C for Clownfish
+D for Damselfish
+E for Emperor Fish
+F for Flamingo Tongue
+G for Goby
+H for Hawkfish
+I for Imperial Fish
+J for Jackfish
+K for Kingfish
+L for Lionfish
+M for Mandarin Fish
+N for Nudibranch
+O for Ornate Fish
+P for Parrotfish
+Q for Queen Angelfish
+R for Rainbow Fish
+S for Sea Dragon
+T for Trumpetfish
+U for Unicorn Fish
+V for Violet Sea
+W for Wrasse
+X for Xenia Coral
+Y for Yellow Coral
+Z for Zulu Hud Fish
+A for Anemone Beauty
+B for Beautiful Coral
+C for Coral Polyp
+D for Delicate Beauty
+
+
+----------------------------------------------------------------------
+#26. Beautiful Sea Life - Part 2 (sea-beautiful-sea-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-beautiful-sea-2-audio/
+
+Letter 0: A for Adorable Sea
+Letter 1: B for Bright Colors
+Letter 2: C for Colorful Reef
+Letter 3: D for Dazzling Fish
+Letter 4: E for Elegant Beauty
+Letter 5: F for Fin Stripes
+Letter 6: G for Glittering Scales
+Letter 7: H for Harmony Colors
+Letter 8: I for Iridescent
+Letter 9: J for Jewel Tones
+Letter 10: K for Kaleidoscope
+Letter 11: L for Luminous Fish
+Letter 12: M for Mesmerizing
+Letter 13: N for Noble Stripes
+Letter 14: O for Opulent Colors
+Letter 15: P for Perfect Pattern
+Letter 16: Q for Quiet Beauty
+Letter 17: R for Regal Fish
+Letter 18: S for Stunning Colors
+Letter 19: T for Tropical Bloom
+Letter 20: U for Unique Patterns
+Letter 21: V for Vibrant Hues
+Letter 22: W for Wondrous Sight
+Letter 23: X for X-marks Beauty
+Letter 24: Y for Yellow Bright
+Letter 25: Z for Zenith Beauty
+Letter 26: A for Azure Tones
+Letter 27: B for Bioluminescent
+Letter 28: C for Chromatic
+Letter 29: D for Dainty Fins
+
+PLAIN TEXT:
+A for Adorable Sea
+B for Bright Colors
+C for Colorful Reef
+D for Dazzling Fish
+E for Elegant Beauty
+F for Fin Stripes
+G for Glittering Scales
+H for Harmony Colors
+I for Iridescent
+J for Jewel Tones
+K for Kaleidoscope
+L for Luminous Fish
+M for Mesmerizing
+N for Noble Stripes
+O for Opulent Colors
+P for Perfect Pattern
+Q for Quiet Beauty
+R for Regal Fish
+S for Stunning Colors
+T for Tropical Bloom
+U for Unique Patterns
+V for Vibrant Hues
+W for Wondrous Sight
+X for X-marks Beauty
+Y for Yellow Bright
+Z for Zenith Beauty
+A for Azure Tones
+B for Bioluminescent
+C for Chromatic
+D for Dainty Fins
+
+
+----------------------------------------------------------------------
+#27. Beautiful Sea Life - Part 3 (sea-beautiful-sea-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-beautiful-sea-3-audio/
+
+Letter 0: A for Arcane Beauty
+Letter 1: B for Blaze of Color
+Letter 2: C for Cosmic Stripes
+Letter 3: D for Divine Scales
+Letter 4: E for Ethereal Fish
+Letter 5: F for Flamboyant Fins
+Letter 6: G for Gossamer Wings
+Letter 7: H for Heavenly Glow
+Letter 8: I for Infinite Hues
+Letter 9: J for Jeweled Beauty
+Letter 10: K for Kingdom Colors
+Letter 11: L for Living Artwork
+Letter 12: M for Magical Fins
+Letter 13: N for Nautical Beauty
+Letter 14: O for Opal Shimmer
+Letter 15: P for Paradise Found
+Letter 16: Q for Quartz Glow
+Letter 17: R for Radiant Fish
+Letter 18: S for Sublime Beauty
+Letter 19: T for Treasured Gem
+Letter 20: U for Unforgettable
+Letter 21: V for Vivid Paradise
+Letter 22: W for Whimsical Fish
+Letter 23: X for Xenial Beauty
+Letter 24: Y for Yearning Eyes
+Letter 25: Z for Zodiac Fish
+Letter 26: A for Angelic Glow
+Letter 27: B for Breathtaking
+Letter 28: C for Celestial
+Letter 29: D for Dreamy Sight
+
+PLAIN TEXT:
+A for Arcane Beauty
+B for Blaze of Color
+C for Cosmic Stripes
+D for Divine Scales
+E for Ethereal Fish
+F for Flamboyant Fins
+G for Gossamer Wings
+H for Heavenly Glow
+I for Infinite Hues
+J for Jeweled Beauty
+K for Kingdom Colors
+L for Living Artwork
+M for Magical Fins
+N for Nautical Beauty
+O for Opal Shimmer
+P for Paradise Found
+Q for Quartz Glow
+R for Radiant Fish
+S for Sublime Beauty
+T for Treasured Gem
+U for Unforgettable
+V for Vivid Paradise
+W for Whimsical Fish
+X for Xenial Beauty
+Y for Yearning Eyes
+Z for Zodiac Fish
+A for Angelic Glow
+B for Breathtaking
+C for Celestial
+D for Dreamy Sight
+
+
+----------------------------------------------------------------------
+#28. Mysterious Deep - Part 1 (sea-mysterious-deep-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-mysterious-deep-1-audio/
+
+Letter 0: A for Abyssal Fish
+Letter 1: B for Bioluminescent
+Letter 2: C for Cryptic Creature
+Letter 3: D for Dark Depths
+Letter 4: E for Elusive Beast
+Letter 5: F for Fanged Terror
+Letter 6: G for Ghostly Pale
+Letter 7: H for Hidden Depths
+Letter 8: I for Invisible Hunter
+Letter 9: J for Jellyfish Glow
+Letter 10: K for Keeper Secrets
+Letter 11: L for Luminous Eyes
+Letter 12: M for Mysterious Call
+Letter 13: N for Night Creature
+Letter 14: O for Ominous Shadow
+Letter 15: P for Phantom Fish
+Letter 16: Q for Quiet Terror
+Letter 17: R for Rare Species
+Letter 18: S for Silent Stalker
+Letter 19: T for Terrifying Teeth
+Letter 20: U for Unknown Beast
+Letter 21: V for Veil of Darkness
+Letter 22: W for Weird Form
+Letter 23: X for X-ray Eyes
+Letter 24: Y for Yawning Abyss
+Letter 25: Z for Zero Light
+Letter 26: A for Alien Like
+Letter 27: B for Bottomless Pit
+Letter 28: C for Creature Deep
+Letter 29: D for Darkness Rules
+
+PLAIN TEXT:
+A for Abyssal Fish
+B for Bioluminescent
+C for Cryptic Creature
+D for Dark Depths
+E for Elusive Beast
+F for Fanged Terror
+G for Ghostly Pale
+H for Hidden Depths
+I for Invisible Hunter
+J for Jellyfish Glow
+K for Keeper Secrets
+L for Luminous Eyes
+M for Mysterious Call
+N for Night Creature
+O for Ominous Shadow
+P for Phantom Fish
+Q for Quiet Terror
+R for Rare Species
+S for Silent Stalker
+T for Terrifying Teeth
+U for Unknown Beast
+V for Veil of Darkness
+W for Weird Form
+X for X-ray Eyes
+Y for Yawning Abyss
+Z for Zero Light
+A for Alien Like
+B for Bottomless Pit
+C for Creature Deep
+D for Darkness Rules
+
+
+----------------------------------------------------------------------
+#29. Mysterious Deep - Part 2 (sea-mysterious-deep-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-mysterious-deep-2-audio/
+
+Letter 0: A for Ancient Deep
+Letter 1: B for Before Time
+Letter 2: C for Conspiracy
+Letter 3: D for Dread Beast
+Letter 4: E for Eerie Sound
+Letter 5: F for Fear Itself
+Letter 6: G for Gloomy Realm
+Letter 7: H for Haunting Song
+Letter 8: I for Inky Waters
+Letter 9: J for Jaws Snap
+Letter 10: K for Kingdom Dark
+Letter 11: L for Lost World
+Letter 12: M for Moving Shadow
+Letter 13: N for No Escape
+Letter 14: O for Ominous Call
+Letter 15: P for Predator Waits
+Letter 16: Q for Quest Unknown
+Letter 17: R for Relentless Hunt
+Letter 18: S for Secret Lair
+Letter 19: T for Twisted Form
+Letter 20: U for Uncharted Deep
+Letter 21: V for Vault Sealed
+Letter 22: W for Whispers Dark
+Letter 23: X for Xenophobic
+Letter 24: Y for Yonder Deep
+Letter 25: Z for Zone Forbidden
+Letter 26: A for Abyss Calls
+Letter 27: B for Beyond Reach
+Letter 28: C for Cosmic Horror
+Letter 29: D for Descent Below
+
+PLAIN TEXT:
+A for Ancient Deep
+B for Before Time
+C for Conspiracy
+D for Dread Beast
+E for Eerie Sound
+F for Fear Itself
+G for Gloomy Realm
+H for Haunting Song
+I for Inky Waters
+J for Jaws Snap
+K for Kingdom Dark
+L for Lost World
+M for Moving Shadow
+N for No Escape
+O for Ominous Call
+P for Predator Waits
+Q for Quest Unknown
+R for Relentless Hunt
+S for Secret Lair
+T for Twisted Form
+U for Uncharted Deep
+V for Vault Sealed
+W for Whispers Dark
+X for Xenophobic
+Y for Yonder Deep
+Z for Zone Forbidden
+A for Abyss Calls
+B for Beyond Reach
+C for Cosmic Horror
+D for Descent Below
+
+
+----------------------------------------------------------------------
+#30. Mysterious Deep - Part 3 (sea-mysterious-deep-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sea-mysterious-deep-3-audio/
+
+Letter 0: A for Aura Mystery
+Letter 1: B for Buried Deep
+Letter 2: C for Chasm Below
+Letter 3: D for Dimly Lit
+Letter 4: E for Eternal Night
+Letter 5: F for Fathomless
+Letter 6: G for Gloom Deep
+Letter 7: H for Hollow Dark
+Letter 8: I for Immense Void
+Letter 9: J for Journey Lost
+Letter 10: K for Keep Silent
+Letter 11: L for Linger Dark
+Letter 12: M for Murky Realm
+Letter 13: N for Never Seen
+Letter 14: O for Obscure Place
+Letter 15: P for Pressure Great
+Letter 16: Q for Quiet Grave
+Letter 17: R for Resting Place
+Letter 18: S for Sunless Sea
+Letter 19: T for Timeless Dark
+Letter 20: U for Unseen Force
+Letter 21: V for Vast Darkness
+Letter 22: W for Where Lost
+Letter 23: X for X Never
+Letter 24: Y for Yearning Void
+Letter 25: Z for Zone Terror
+Letter 26: A for Amplified Dread
+Letter 27: B for Black Water
+Letter 28: C for Cryptic Path
+Letter 29: D for Desolate Deep
+
+PLAIN TEXT:
+A for Aura Mystery
+B for Buried Deep
+C for Chasm Below
+D for Dimly Lit
+E for Eternal Night
+F for Fathomless
+G for Gloom Deep
+H for Hollow Dark
+I for Immense Void
+J for Journey Lost
+K for Keep Silent
+L for Linger Dark
+M for Murky Realm
+N for Never Seen
+O for Obscure Place
+P for Pressure Great
+Q for Quiet Grave
+R for Resting Place
+S for Sunless Sea
+T for Timeless Dark
+U for Unseen Force
+V for Vast Darkness
+W for Where Lost
+X for X Never
+Y for Yearning Void
+Z for Zone Terror
+A for Amplified Dread
+B for Black Water
+C for Cryptic Path
+D for Desolate Deep
+

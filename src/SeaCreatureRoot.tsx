@@ -1,0 +1,5982 @@
+import "./index.css";
+import { Composition } from "remotion";
+import { AlphabetShortsTemplate } from "./AlphabetShortsTemplate";
+import type { AlphabetShortsProps } from "./AlphabetShortsTemplate";
+import React from "react";
+
+export const SeaCreatureRemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Composition
+        id="SeaDeepSea1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Deep Sea Creatures - Part 1",
+          videoId: "sea-deep-sea-1",
+          bgGradient: ["#01579B","#B3E5FC"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anglerfish",
+          "emoji": "🐟",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "B",
+          "word": "Blobfish",
+          "emoji": "🐟",
+          "bgColor": "#9E9E9E"
+          },
+          {
+          "letter": "C",
+          "word": "Cuttlefish",
+          "emoji": "🦑",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "D",
+          "word": "Dumbo Octopus",
+          "emoji": "🐙",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Eel",
+          "emoji": "🐍",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "F",
+          "word": "Fangtooth",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "G",
+          "word": "Giant Squid",
+          "emoji": "🦑",
+          "bgColor": "#4A148C"
+          },
+          {
+          "letter": "H",
+          "word": "Hagfish",
+          "emoji": "🐟",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "I",
+          "word": "Isopod",
+          "emoji": "🦐",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "J",
+          "word": "Jellyfish",
+          "emoji": "🪼",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "K",
+          "word": "King Crab",
+          "emoji": "🦀",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "L",
+          "word": "Lanternfish",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "M",
+          "word": "Mantis Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "N",
+          "word": "Nautilus",
+          "emoji": "🐚",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "O",
+          "word": "Oarfish",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Pelican Eel",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Conch",
+          "emoji": "🐚",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "R",
+          "word": "Ratfish",
+          "emoji": "🐟",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Spider",
+          "emoji": "🕷️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "T",
+          "word": "Tube Worm",
+          "emoji": "🪱",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Octopus",
+          "emoji": "🐙",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "V",
+          "word": "Vampire Squid",
+          "emoji": "🦑",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "W",
+          "word": "Wolffish",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphias",
+          "emoji": "🐟",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "Y",
+          "word": "Yeti Crab",
+          "emoji": "🦀",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "Z",
+          "word": "Zooplankton",
+          "emoji": "🦠",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "S",
+          "word": "Starfish",
+          "emoji": "⭐",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🪸",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Moray Eel",
+          "emoji": "🐍",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "P",
+          "word": "Pufferfish",
+          "emoji": "🐡",
+          "bgColor": "#FFC107"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaDeepSea2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Deep Sea Creatures - Part 2",
+          videoId: "sea-deep-sea-2",
+          bgGradient: ["#0277BD","#81D4FA"] as [string, string],
+          accentColor: "#01579B",
+          letters: [
+          {
+          "letter": "S",
+          "word": "Seahorse",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "O",
+          "word": "Octopus",
+          "emoji": "🐙",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "W",
+          "word": "Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "T",
+          "word": "Turtle",
+          "emoji": "🐢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "C",
+          "word": "Clam",
+          "emoji": "🐚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Lobster",
+          "emoji": "🦞",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "A",
+          "word": "Anemone",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "R",
+          "word": "Ray",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "B",
+          "word": "Barnacle",
+          "emoji": "🐚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "N",
+          "word": "Nudibranch",
+          "emoji": "🐌",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "F",
+          "word": "Flounder",
+          "emoji": "🐟",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Grouper",
+          "emoji": "🐟",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "H",
+          "word": "Herring",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "I",
+          "word": "Icefish",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "J",
+          "word": "John Dory",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "K",
+          "word": "Krill",
+          "emoji": "🦐",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "M",
+          "word": "Mackerel",
+          "emoji": "🐟",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "P",
+          "word": "Plankton",
+          "emoji": "🦠",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin",
+          "emoji": "🦔",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "V",
+          "word": "Viperfish",
+          "emoji": "🐟",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Fish",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowfin Tuna",
+          "emoji": "🐟",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Moray",
+          "emoji": "🐍",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Quahog",
+          "emoji": "🐚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Conch",
+          "emoji": "🐚",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "W",
+          "word": "Walrus",
+          "emoji": "🦭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "D",
+          "word": "Dugong",
+          "emoji": "🐋",
+          "bgColor": "#607D8B"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaDeepSea3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Deep Sea Creatures - Part 3",
+          videoId: "sea-deep-sea-3",
+          bgGradient: ["#0288D1","#4FC3F7"] as [string, string],
+          accentColor: "#0277BD",
+          letters: [
+          {
+          "letter": "M",
+          "word": "Manatee",
+          "emoji": "🐋",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "S",
+          "word": "Swordfish",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "H",
+          "word": "Hammerhead",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "P",
+          "word": "Porpoise",
+          "emoji": "🐬",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Shark",
+          "emoji": "🦈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "A",
+          "word": "Albatross Fish",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "C",
+          "word": "Clownfish",
+          "emoji": "🐠",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "E",
+          "word": "Eagle Ray",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Fish",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "G",
+          "word": "Ghost Shark",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Mackerel",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "J",
+          "word": "Jawfish",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "K",
+          "word": "Kelp Crab",
+          "emoji": "🦀",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "L",
+          "word": "Leafy Seadragon",
+          "emoji": "🐟",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean Sunfish",
+          "emoji": "🐟",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "R",
+          "word": "Remora",
+          "emoji": "🐟",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "D",
+          "word": "Dragonfish",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "U",
+          "word": "Unicornfish",
+          "emoji": "🐟",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "V",
+          "word": "Velvet Crab",
+          "emoji": "🦀",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Shark",
+          "emoji": "🦈",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthid Crab",
+          "emoji": "🦀",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Tang",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Shark",
+          "emoji": "🦈",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Lion",
+          "emoji": "🦭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Penguin",
+          "emoji": "🐧",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Crab",
+          "emoji": "🦀",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "M",
+          "word": "Manta Ray",
+          "emoji": "🐟",
+          "bgColor": "#0D47A1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaCoralReef1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Coral Reef Life - Part 1",
+          videoId: "sea-coral-reef-1",
+          bgGradient: ["#00897B","#B2DFDB"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Clownfish",
+          "emoji": "🐠",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "A",
+          "word": "Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "B",
+          "word": "Butterflyfish",
+          "emoji": "🐠",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "T",
+          "word": "Tang",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Parrotfish",
+          "emoji": "🐠",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Anemone",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "D",
+          "word": "Damselfish",
+          "emoji": "🐠",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "G",
+          "word": "Goby",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "H",
+          "word": "Hawkfish",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "L",
+          "word": "Lionfish",
+          "emoji": "🐟",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "M",
+          "word": "Moray Eel",
+          "emoji": "🐍",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "N",
+          "word": "Nudibranch",
+          "emoji": "🐌",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "O",
+          "word": "Octopus",
+          "emoji": "🐙",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "R",
+          "word": "Royal Gramma",
+          "emoji": "🐟",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "W",
+          "word": "Wrasse",
+          "emoji": "🐟",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Fish",
+          "emoji": "🐟",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "F",
+          "word": "Filefish",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "I",
+          "word": "Idol Fish",
+          "emoji": "🐟",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "J",
+          "word": "Jawfish",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "K",
+          "word": "Koran Angel",
+          "emoji": "🐠",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "U",
+          "word": "Unicornfish",
+          "emoji": "🐟",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "V",
+          "word": "Velvet Fish",
+          "emoji": "🐟",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthid Crab",
+          "emoji": "🦀",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Boxfish",
+          "emoji": "🐟",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Fish",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Trigger",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🪸",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "S",
+          "word": "Starfish",
+          "emoji": "⭐",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "T",
+          "word": "Trigger Fish",
+          "emoji": "🐟",
+          "bgColor": "#EF6C00"
+          },
+          {
+          "letter": "P",
+          "word": "Pipefish",
+          "emoji": "🐟",
+          "bgColor": "#689F38"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaCoralReef2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Coral Reef Life - Part 2",
+          videoId: "sea-coral-reef-2",
+          bgGradient: ["#00796B","#80CBC4"] as [string, string],
+          accentColor: "#00695C",
+          letters: [
+          {
+          "letter": "S",
+          "word": "Sea Horse",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "C",
+          "word": "Cowrie Shell",
+          "emoji": "🐚",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "B",
+          "word": "Barracuda",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Mandarin Fish",
+          "emoji": "🐟",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "T",
+          "word": "Trumpetfish",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "D",
+          "word": "Dottyback",
+          "emoji": "🐟",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "A",
+          "word": "Anthias",
+          "emoji": "🐟",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "G",
+          "word": "Garden Eel",
+          "emoji": "🐍",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "L",
+          "word": "Leaf Scorpion",
+          "emoji": "🐟",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "N",
+          "word": "Neon Goby",
+          "emoji": "🐟",
+          "bgColor": "#00E676"
+          },
+          {
+          "letter": "P",
+          "word": "Porcupinefish",
+          "emoji": "🐡",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Ribbon Eel",
+          "emoji": "🐍",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "W",
+          "word": "Wobbegong",
+          "emoji": "🦈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "F",
+          "word": "Frogfish",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "H",
+          "word": "Harlequin Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ocean Fish",
+          "emoji": "🐟",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel Damsel",
+          "emoji": "🐠",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "K",
+          "word": "Kuda Seahorse",
+          "emoji": "🐟",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Clown",
+          "emoji": "🐠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Clam",
+          "emoji": "🐚",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "U",
+          "word": "Undulate Ray",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "V",
+          "word": "Vermillion Snapper",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "X",
+          "word": "Xenia Coral",
+          "emoji": "🪸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Goatfish",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoanthid",
+          "emoji": "🪸",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Coris",
+          "emoji": "🐟",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "S",
+          "word": "Sponge",
+          "emoji": "🧽",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "C",
+          "word": "Cleaner Wrasse",
+          "emoji": "🐟",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Tridacna Clam",
+          "emoji": "🐚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Peppermint Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#E91E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaCoralReef3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Coral Reef Life - Part 3",
+          videoId: "sea-coral-reef-3",
+          bgGradient: ["#00695C","#4DB6AC"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "F",
+          "word": "Flame Angel",
+          "emoji": "🐠",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Tang",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Crown Fish",
+          "emoji": "🐠",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "D",
+          "word": "Dartfish",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Angel",
+          "emoji": "🐠",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "G",
+          "word": "Glass Fish",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "H",
+          "word": "Humbug Damsel",
+          "emoji": "🐠",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Damsel",
+          "emoji": "🐠",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "J",
+          "word": "Juvenile Angel",
+          "emoji": "🐠",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "K",
+          "word": "Keyhole Angel",
+          "emoji": "🐠",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "L",
+          "word": "Lemon Damsel",
+          "emoji": "🐠",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "M",
+          "word": "Moon Wrasse",
+          "emoji": "🐟",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "N",
+          "word": "Naso Tang",
+          "emoji": "🐟",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "O",
+          "word": "Orbicular Batfish",
+          "emoji": "🐟",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "P",
+          "word": "Powder Blue Tang",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "R",
+          "word": "Red Sea Clown",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Sailfin Tang",
+          "emoji": "🐟",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "T",
+          "word": "Threadfin",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Tang",
+          "emoji": "🐟",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "V",
+          "word": "Vagabond Butterfly",
+          "emoji": "🐠",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "W",
+          "word": "Watchman Goby",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "A",
+          "word": "Anemone Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "X",
+          "word": "Xanthurus Angel",
+          "emoji": "🐠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Wrasse",
+          "emoji": "🐟",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Blenny",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Angel",
+          "emoji": "🐠",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "R",
+          "word": "Regal Tang",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "C",
+          "word": "Chromis",
+          "emoji": "🐠",
+          "bgColor": "#00E676"
+          },
+          {
+          "letter": "B",
+          "word": "Bannerfish",
+          "emoji": "🐟",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "M",
+          "word": "Mandarinfish",
+          "emoji": "🐟",
+          "bgColor": "#FF5722"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaSharksRays1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Sharks & Rays - Part 1",
+          videoId: "sea-sharks-rays-1",
+          bgGradient: ["#37474F","#90A4AE"] as [string, string],
+          accentColor: "#263238",
+          letters: [
+          {
+          "letter": "G",
+          "word": "Great White Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "H",
+          "word": "Hammerhead Shark",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Shark",
+          "emoji": "🦈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "B",
+          "word": "Bull Shark",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "M",
+          "word": "Mako Shark",
+          "emoji": "🦈",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Shark",
+          "emoji": "🦈",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "N",
+          "word": "Nurse Shark",
+          "emoji": "🦈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "L",
+          "word": "Lemon Shark",
+          "emoji": "🦈",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "S",
+          "word": "Sand Tiger",
+          "emoji": "🦈",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "R",
+          "word": "Reef Shark",
+          "emoji": "🦈",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "A",
+          "word": "Angel Shark",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "C",
+          "word": "Cookie Cutter",
+          "emoji": "🦈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "D",
+          "word": "Dogfish",
+          "emoji": "🦈",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "E",
+          "word": "Epaulette Shark",
+          "emoji": "🦈",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "F",
+          "word": "Frilled Shark",
+          "emoji": "🦈",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "P",
+          "word": "Port Jackson",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Shark",
+          "emoji": "🦈",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Shark",
+          "emoji": "🦈",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "K",
+          "word": "Kitefin Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Oceanic Whitetip",
+          "emoji": "🦈",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "U",
+          "word": "Undulate Ray",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "V",
+          "word": "Velvet Belly",
+          "emoji": "🦈",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphias Shark",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Fin Shark",
+          "emoji": "🦈",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Shark",
+          "emoji": "🦈",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Queensland Shark",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "S",
+          "word": "Shortfin Mako",
+          "emoji": "🦈",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "B",
+          "word": "Basking Shark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "C",
+          "word": "Carpet Shark",
+          "emoji": "🦈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Thresher Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaSharksRays2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Sharks & Rays - Part 2",
+          videoId: "sea-sharks-rays-2",
+          bgGradient: ["#455A64","#B0BEC5"] as [string, string],
+          accentColor: "#37474F",
+          letters: [
+          {
+          "letter": "S",
+          "word": "Stingray",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "M",
+          "word": "Manta Ray",
+          "emoji": "🐟",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Ray",
+          "emoji": "🐟",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "B",
+          "word": "Bat Ray",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cownose Ray",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "D",
+          "word": "Devil Ray",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "G",
+          "word": "Guitar Shark",
+          "emoji": "🦈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "H",
+          "word": "Horn Shark",
+          "emoji": "🦈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Stingray",
+          "emoji": "🐟",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Ray",
+          "emoji": "🐟",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "K",
+          "word": "King Skate",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Shark",
+          "emoji": "🦈",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "N",
+          "word": "Numbray",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "O",
+          "word": "Ornate Eagle Ray",
+          "emoji": "🐟",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "P",
+          "word": "Pacific Ray",
+          "emoji": "🐟",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "R",
+          "word": "Round Stingray",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "T",
+          "word": "Torpedo Ray",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "A",
+          "word": "Atlantic Stingray",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "F",
+          "word": "Freshwater Ray",
+          "emoji": "🐟",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "W",
+          "word": "Whiptail Ray",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "U",
+          "word": "Undulate Skate",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "V",
+          "word": "Violin Ray",
+          "emoji": "🐟",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "X",
+          "word": "Xingu River Ray",
+          "emoji": "🐟",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Stingray",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zapteryx Ray",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Queensland Ray",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "S",
+          "word": "Sawfish",
+          "emoji": "🐟",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "C",
+          "word": "Catshark",
+          "emoji": "🦈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Marble Ray",
+          "emoji": "🐟",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Spotted Ray",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaSharksRays3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Sharks & Rays - Part 3",
+          videoId: "sea-sharks-rays-3",
+          bgGradient: ["#546E7A","#CFD8DC"] as [string, string],
+          accentColor: "#455A64",
+          letters: [
+          {
+          "letter": "W",
+          "word": "Wobbegong Shark",
+          "emoji": "🦈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Silky Shark",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "B",
+          "word": "Blacktip Shark",
+          "emoji": "🦈",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "G",
+          "word": "Goblin Shark",
+          "emoji": "🦈",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Porbeagle",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "L",
+          "word": "Lantern Shark",
+          "emoji": "🦈",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "D",
+          "word": "Dusky Shark",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "H",
+          "word": "Houndhark",
+          "emoji": "🦈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Ragged Tooth",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "T",
+          "word": "Tope Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Cookiecutter",
+          "emoji": "🦈",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "N",
+          "word": "Night Shark",
+          "emoji": "🦈",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "A",
+          "word": "Azurite Shark",
+          "emoji": "🦈",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "F",
+          "word": "Fox Shark",
+          "emoji": "🦈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "I",
+          "word": "Iridescent Shark",
+          "emoji": "🦈",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "J",
+          "word": "Jaws Fish",
+          "emoji": "🦈",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "K",
+          "word": "Keeltail Shark",
+          "emoji": "🦈",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "M",
+          "word": "Megamouth",
+          "emoji": "🦈",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "O",
+          "word": "Oceanic Shark",
+          "emoji": "🦈",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "E",
+          "word": "Epaulette Ray",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "U",
+          "word": "Umbrella Ray",
+          "emoji": "🐟",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "V",
+          "word": "Viper Shark",
+          "emoji": "🦈",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "X",
+          "word": "Xtreme Shark",
+          "emoji": "🦈",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowtail Shark",
+          "emoji": "🦈",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "Z",
+          "word": "Zambezi Shark",
+          "emoji": "🦈",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quagga Catshark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "S",
+          "word": "Spinner Shark",
+          "emoji": "🦈",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "W",
+          "word": "White Pointer",
+          "emoji": "🦈",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze Whaler",
+          "emoji": "🦈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Catshark",
+          "emoji": "🦈",
+          "bgColor": "#E65100"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaOceanGiants1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Giants - Part 1",
+          videoId: "sea-ocean-giants-1",
+          bgGradient: ["#1565C0","#BBDEFB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Blue Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "H",
+          "word": "Humpback Whale",
+          "emoji": "🐋",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "S",
+          "word": "Sperm Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Orca",
+          "emoji": "🐋",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "G",
+          "word": "Gray Whale",
+          "emoji": "🐋",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "W",
+          "word": "Walrus",
+          "emoji": "🦭",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "M",
+          "word": "Manatee",
+          "emoji": "🐋",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "E",
+          "word": "Elephant Seal",
+          "emoji": "🦭",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Whale",
+          "emoji": "🐋",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Seal",
+          "emoji": "🦭",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "P",
+          "word": "Pilot Whale",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Right Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "A",
+          "word": "Antarctic Whale",
+          "emoji": "🐋",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "F",
+          "word": "Fin Whale",
+          "emoji": "🐋",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "C",
+          "word": "Colossal Squid",
+          "emoji": "🦑",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "K",
+          "word": "Killer Whale",
+          "emoji": "🐋",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Whale",
+          "emoji": "🐋",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "J",
+          "word": "Japanese Whale",
+          "emoji": "🐋",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin Giant",
+          "emoji": "🦔",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "V",
+          "word": "Vaquita",
+          "emoji": "🐬",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphactinus",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowfin Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Ziphius Whale",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Conch Giant",
+          "emoji": "🐚",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Elephant",
+          "emoji": "🦭",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "B",
+          "word": "Beluga",
+          "emoji": "🐋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Minke Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "D",
+          "word": "Dugong",
+          "emoji": "🐋",
+          "bgColor": "#8D6E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaOceanGiants2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Giants - Part 2",
+          videoId: "sea-ocean-giants-2",
+          bgGradient: ["#1976D2","#90CAF9"] as [string, string],
+          accentColor: "#1565C0",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Bottlenose Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "S",
+          "word": "Sei Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "R",
+          "word": "Risso Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "C",
+          "word": "Common Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "P",
+          "word": "Pacific Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Melon Head Whale",
+          "emoji": "🐋",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "F",
+          "word": "False Killer Whale",
+          "emoji": "🐋",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "T",
+          "word": "Tucuxi Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "I",
+          "word": "Irrawaddy Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "G",
+          "word": "Ganges Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "H",
+          "word": "Harbor Porpoise",
+          "emoji": "🐬",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "L",
+          "word": "Long Finned Whale",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "K",
+          "word": "Komodo Dragon Sea",
+          "emoji": "🐉",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "A",
+          "word": "Amazon Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "N",
+          "word": "North Sea Whale",
+          "emoji": "🐋",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "D",
+          "word": "Dwarf Whale",
+          "emoji": "🐋",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "E",
+          "word": "Eastern Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "J",
+          "word": "Jade Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "W",
+          "word": "White Whale",
+          "emoji": "🐋",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Whale",
+          "emoji": "🐋",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "V",
+          "word": "Velvet Whale",
+          "emoji": "🐋",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "X",
+          "word": "Xenobalanus",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Fin Whale",
+          "emoji": "🐋",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "Z",
+          "word": "Ziphidae",
+          "emoji": "🐋",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Q",
+          "word": "Queensland Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Striped Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "B",
+          "word": "Bowhead Whale",
+          "emoji": "🐋",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "R",
+          "word": "Rough Tooth Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "M",
+          "word": "Mesoplodon",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaOceanGiants3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Giants - Part 3",
+          videoId: "sea-ocean-giants-3",
+          bgGradient: ["#1E88E5","#64B5F6"] as [string, string],
+          accentColor: "#1976D2",
+          letters: [
+          {
+          "letter": "S",
+          "word": "Southern Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "A",
+          "word": "Atlantic Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "C",
+          "word": "Cuvier Whale",
+          "emoji": "🐋",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "D",
+          "word": "Dall Porpoise",
+          "emoji": "🐬",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "F",
+          "word": "Fraser Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "G",
+          "word": "Ginkgo Whale",
+          "emoji": "🐋",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "H",
+          "word": "Hourglass Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "I",
+          "word": "Indo Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "K",
+          "word": "Killer Whale",
+          "emoji": "🐋",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "L",
+          "word": "Longman Whale",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "M",
+          "word": "Monkey Faced Eel",
+          "emoji": "🐍",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "N",
+          "word": "North Pacific Whale",
+          "emoji": "🐋",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "O",
+          "word": "Omura Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "P",
+          "word": "Pygmy Whale",
+          "emoji": "🐋",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "R",
+          "word": "River Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "True Whale",
+          "emoji": "🐋",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "W",
+          "word": "Western Whale",
+          "emoji": "🐋",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "B",
+          "word": "Beaked Whale",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "E",
+          "word": "Emerald Whale",
+          "emoji": "🐋",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "J",
+          "word": "Jubarte",
+          "emoji": "🐋",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐟",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "V",
+          "word": "Vagrant Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "X",
+          "word": "Xavier Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yangtze Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "Z",
+          "word": "Zenith Whale",
+          "emoji": "🐋",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Whale",
+          "emoji": "🐋",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "S",
+          "word": "Spinner Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#00E676"
+          },
+          {
+          "letter": "C",
+          "word": "Chinese Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pink Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#F48FB1"
+          },
+          {
+          "letter": "B",
+          "word": "Bryde Whale",
+          "emoji": "🐋",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaTropicalFish1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tropical Fish - Part 1",
+          videoId: "sea-tropical-fish-1",
+          bgGradient: ["#FF6F00","#FFE0B2"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Clownfish",
+          "emoji": "🐠",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Tang",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "A",
+          "word": "Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "D",
+          "word": "Discus",
+          "emoji": "🐟",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "G",
+          "word": "Guppy",
+          "emoji": "🐟",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "N",
+          "word": "Neon Tetra",
+          "emoji": "🐟",
+          "bgColor": "#00E676"
+          },
+          {
+          "letter": "T",
+          "word": "Tetra",
+          "emoji": "🐟",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Swordtail",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "P",
+          "word": "Platy",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Molly",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "R",
+          "word": "Rainbow Fish",
+          "emoji": "🐟",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "L",
+          "word": "Lionfish",
+          "emoji": "🐟",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "H",
+          "word": "Hatchetfish",
+          "emoji": "🐟",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "F",
+          "word": "Firefish",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "K",
+          "word": "Killifish",
+          "emoji": "🐟",
+          "bgColor": "#FFC107"
+          },
+          {
+          "letter": "W",
+          "word": "Wrasse",
+          "emoji": "🐟",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "O",
+          "word": "Oscar Fish",
+          "emoji": "🐟",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Blue",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Gourami",
+          "emoji": "🐟",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "U",
+          "word": "Unicornfish",
+          "emoji": "🐟",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "V",
+          "word": "Violet Goby",
+          "emoji": "🐟",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Tetra",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Lab",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Danio",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Trigger",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "C",
+          "word": "Cardinal Tetra",
+          "emoji": "🐟",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "B",
+          "word": "Betta Fish",
+          "emoji": "🐟",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "S",
+          "word": "Silver Dollar",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "P",
+          "word": "Parrotfish",
+          "emoji": "🐠",
+          "bgColor": "#4CAF50"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaTropicalFish2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tropical Fish - Part 2",
+          videoId: "sea-tropical-fish-2",
+          bgGradient: ["#FF8F00","#FFF3E0"] as [string, string],
+          accentColor: "#FF6F00",
+          letters: [
+          {
+          "letter": "G",
+          "word": "Goldfish",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "K",
+          "word": "Koi Fish",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "A",
+          "word": "Arowana",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "S",
+          "word": "Siamese Fighter",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Catfish",
+          "emoji": "🐟",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "P",
+          "word": "Piranha",
+          "emoji": "🐟",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Barb",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "D",
+          "word": "Dwarf Gourami",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "R",
+          "word": "Ram Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "M",
+          "word": "Moonlight Gourami",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "L",
+          "word": "Loach",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "B",
+          "word": "Bristlenose Pleco",
+          "emoji": "🐟",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "H",
+          "word": "Honey Gourami",
+          "emoji": "🐟",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "N",
+          "word": "Neon Rainbow",
+          "emoji": "🐟",
+          "bgColor": "#00E676"
+          },
+          {
+          "letter": "F",
+          "word": "Flowerhorn",
+          "emoji": "🐟",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "O",
+          "word": "Otocinclus",
+          "emoji": "🐟",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Tetra",
+          "emoji": "🐟",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "W",
+          "word": "Weather Loach",
+          "emoji": "🐟",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Glass Fish",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "J",
+          "word": "Jack Dempsey",
+          "emoji": "🐟",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "U",
+          "word": "Upside Down Catfish",
+          "emoji": "🐟",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "V",
+          "word": "Vampire Tetra",
+          "emoji": "🐟",
+          "bgColor": "#880E4F"
+          },
+          {
+          "letter": "X",
+          "word": "Xingu Pleco",
+          "emoji": "🐟",
+          "bgColor": "#4E342E"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Tail Rasbora",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Pleco",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Loach",
+          "emoji": "🐟",
+          "bgColor": "#9C27B0"
+          },
+          {
+          "letter": "C",
+          "word": "Cherry Barb",
+          "emoji": "🐟",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Serpae Tetra",
+          "emoji": "🐟",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "P",
+          "word": "Pearl Gourami",
+          "emoji": "🐟",
+          "bgColor": "#F5F5F5"
+          },
+          {
+          "letter": "T",
+          "word": "Tinfoil Barb",
+          "emoji": "🐟",
+          "bgColor": "#CFD8DC"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaTropicalFish3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tropical Fish - Part 3",
+          videoId: "sea-tropical-fish-3",
+          bgGradient: ["#FFA000","#FFECB3"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Bichir",
+          "emoji": "🐟",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "C",
+          "word": "Convict Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "D",
+          "word": "Danio",
+          "emoji": "🐟",
+          "bgColor": "#00E676"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Yellow",
+          "emoji": "🐟",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "F",
+          "word": "Figure Eight Puffer",
+          "emoji": "🐡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "G",
+          "word": "Green Terror",
+          "emoji": "🐟",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "H",
+          "word": "Harlequin Rasbora",
+          "emoji": "🐟",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Knife Fish",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "J",
+          "word": "Jelly Bean Parrot",
+          "emoji": "🐠",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "K",
+          "word": "Keyhole Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "L",
+          "word": "Lemon Tetra",
+          "emoji": "🐟",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "M",
+          "word": "Marble Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "N",
+          "word": "Niger Trigger",
+          "emoji": "🐟",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Chromide",
+          "emoji": "🐟",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Peacock Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "R",
+          "word": "Red Parrot",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Silver Arowana",
+          "emoji": "🐟",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "T",
+          "word": "Texas Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "African Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "U",
+          "word": "Uaru Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "V",
+          "word": "Venustus",
+          "emoji": "🐟",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "W",
+          "word": "Wolf Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphophorus",
+          "emoji": "🐟",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Acei",
+          "emoji": "🐟",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebra Tilapia",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "B",
+          "word": "Blood Parrot",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "C",
+          "word": "Cory Catfish",
+          "emoji": "🐟",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset Gourami",
+          "emoji": "🐟",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Malawi Cichlid",
+          "emoji": "🐟",
+          "bgColor": "#0288D1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaArcticSea1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Arctic Sea Life - Part 1",
+          videoId: "sea-arctic-sea-1",
+          bgGradient: ["#1A237E","#7986CB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arctic Cod",
+          "emoji": "🐟",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "B",
+          "word": "Bearded Seal",
+          "emoji": "🦭",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "C",
+          "word": "Clownfish",
+          "emoji": "🐠",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "D",
+          "word": "Dolphin",
+          "emoji": "🐬",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Penguin",
+          "emoji": "🐧",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "F",
+          "word": "Flounder",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "G",
+          "word": "Greenland Shark",
+          "emoji": "🦈",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "H",
+          "word": "Halibut",
+          "emoji": "🐟",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "I",
+          "word": "Ice Krill",
+          "emoji": "🦐",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "J",
+          "word": "Jellyfish",
+          "emoji": "🪼",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "K",
+          "word": "Killer Whale",
+          "emoji": "🐋",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Leopard Seal",
+          "emoji": "🦭",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "M",
+          "word": "Musk Ox",
+          "emoji": "🦀",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "N",
+          "word": "Narwhal",
+          "emoji": "🐋",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "O",
+          "word": "Orca",
+          "emoji": "🐋",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Polar Bear",
+          "emoji": "🦭",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Crab",
+          "emoji": "🦀",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "R",
+          "word": "Ringed Seal",
+          "emoji": "🦭",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Urchin",
+          "emoji": "🦐",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "T",
+          "word": "Tern",
+          "emoji": "🐧",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐟",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "V",
+          "word": "Viperfish",
+          "emoji": "🐟",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Shark",
+          "emoji": "🦈",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphias",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Coral",
+          "emoji": "🪸",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "Z",
+          "word": "Zooplankton",
+          "emoji": "🦐",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "A",
+          "word": "Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "B",
+          "word": "Barracuda",
+          "emoji": "🦈",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "C",
+          "word": "Coral Polyp",
+          "emoji": "🪸",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "D",
+          "word": "Dragonfish",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaArcticSea2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Arctic Sea Life - Part 2",
+          videoId: "sea-arctic-sea-2",
+          bgGradient: ["#283593","#9FA8DA"] as [string, string],
+          accentColor: "#1A237E",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anemone",
+          "emoji": "🪸",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Whale",
+          "emoji": "🐋",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "C",
+          "word": "Crustacean",
+          "emoji": "🦀",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "D",
+          "word": "Diatom",
+          "emoji": "🦐",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Eider Duck",
+          "emoji": "🐧",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "F",
+          "word": "Fish Eagle",
+          "emoji": "🐧",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "G",
+          "word": "Gulper Eel",
+          "emoji": "🐟",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "H",
+          "word": "Horseshoe Crab",
+          "emoji": "🦀",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "I",
+          "word": "Icefish",
+          "emoji": "🐟",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "J",
+          "word": "Jellyfish Bloom",
+          "emoji": "🪼",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "K",
+          "word": "Kelp Fish",
+          "emoji": "🐟",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "L",
+          "word": "Lumpfish",
+          "emoji": "🐠",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "M",
+          "word": "Mollusc",
+          "emoji": "🐙",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "N",
+          "word": "Nautilus",
+          "emoji": "🐚",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "O",
+          "word": "Octopod",
+          "emoji": "🐙",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "P",
+          "word": "Puffin",
+          "emoji": "🐧",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "Q",
+          "word": "Quahog",
+          "emoji": "🐚",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "R",
+          "word": "Rosette Tern",
+          "emoji": "🐧",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Snow Crab",
+          "emoji": "🦀",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "T",
+          "word": "Tube Worm",
+          "emoji": "🦑",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin",
+          "emoji": "🦐",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "V",
+          "word": "Vole",
+          "emoji": "🦭",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "W",
+          "word": "Walrus",
+          "emoji": "🦭",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "X",
+          "word": "Xeme Gull",
+          "emoji": "🐧",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak Whale",
+          "emoji": "🐋",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoea",
+          "emoji": "🦐",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "A",
+          "word": "Arctic Char",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "B",
+          "word": "Bowhead Whale",
+          "emoji": "🐋",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "C",
+          "word": "Copepod",
+          "emoji": "🦐",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "D",
+          "word": "Deep Trout",
+          "emoji": "🐟",
+          "bgColor": "#90CAF9"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaArcticSea3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Arctic Sea Life - Part 3",
+          videoId: "sea-arctic-sea-3",
+          bgGradient: ["#303F9F","#C5CAE9"] as [string, string],
+          accentColor: "#283593",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arctic Tern",
+          "emoji": "🐧",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "B",
+          "word": "Baleen Whale",
+          "emoji": "🐋",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "C",
+          "word": "Capelin",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "D",
+          "word": "Demoiselle",
+          "emoji": "🐠",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "E",
+          "word": "Eelpout",
+          "emoji": "🐟",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "F",
+          "word": "Foraminifera",
+          "emoji": "🦐",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "G",
+          "word": "Ghost Shrimp",
+          "emoji": "🦐",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "H",
+          "word": "Hyperiid",
+          "emoji": "🦐",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "I",
+          "word": "Icy Sculpin",
+          "emoji": "🐟",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "J",
+          "word": "Jelly Bloom",
+          "emoji": "🪼",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "K",
+          "word": "Krill Swarm",
+          "emoji": "🦐",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "L",
+          "word": "Lumpsucker",
+          "emoji": "🐠",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "M",
+          "word": "Medusa",
+          "emoji": "🪼",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "N",
+          "word": "Nudibranchs",
+          "emoji": "🐙",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "O",
+          "word": "Ostracode",
+          "emoji": "🦐",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "P",
+          "word": "Pteropod",
+          "emoji": "🦑",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "Q",
+          "word": "Quillfish",
+          "emoji": "🐟",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "R",
+          "word": "Ramphichthys",
+          "emoji": "🐟",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Spider",
+          "emoji": "🦀",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "T",
+          "word": "Topminnow",
+          "emoji": "🐠",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "U",
+          "word": "Unicellular",
+          "emoji": "🦐",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "V",
+          "word": "Velella",
+          "emoji": "🪼",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Louse",
+          "emoji": "🦐",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphosura",
+          "emoji": "🦀",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yolky Larva",
+          "emoji": "🐟",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "Z",
+          "word": "Zooid",
+          "emoji": "🪼",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "A",
+          "word": "Algae Bloom",
+          "emoji": "🪸",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "B",
+          "word": "Barnacle",
+          "emoji": "🦐",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "C",
+          "word": "Ctenophore",
+          "emoji": "🪼",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "D",
+          "word": "Detritus Feeder",
+          "emoji": "🦀",
+          "bgColor": "#9FA8DA"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaTidalPool1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tidal Pool - Part 1",
+          videoId: "sea-tidal-pool-1",
+          bgGradient: ["#00897B","#B2DFDB"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anemone",
+          "emoji": "🪸",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "B",
+          "word": "Blenny",
+          "emoji": "🐟",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "C",
+          "word": "Crab",
+          "emoji": "🦀",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "D",
+          "word": "Diatom",
+          "emoji": "🦐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "E",
+          "word": "Echinoid",
+          "emoji": "🦐",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "F",
+          "word": "Fiddler Crab",
+          "emoji": "🦀",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "G",
+          "word": "Goby",
+          "emoji": "🐠",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "H",
+          "word": "Hermit Crab",
+          "emoji": "🦀",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "I",
+          "word": "Isopod",
+          "emoji": "🦐",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "J",
+          "word": "Jellyfish",
+          "emoji": "🪼",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "K",
+          "word": "Killifish",
+          "emoji": "🐠",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "L",
+          "word": "Limpet",
+          "emoji": "🐚",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "M",
+          "word": "Mussel",
+          "emoji": "🐚",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "N",
+          "word": "Nudibranch",
+          "emoji": "🐙",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "O",
+          "word": "Octopus",
+          "emoji": "🐙",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "P",
+          "word": "Periwinkle",
+          "emoji": "🐚",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quahog",
+          "emoji": "🐚",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "R",
+          "word": "Rockpool Fish",
+          "emoji": "🐠",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "S",
+          "word": "Sculpin",
+          "emoji": "🐟",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "T",
+          "word": "Turban Snail",
+          "emoji": "🐌",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin",
+          "emoji": "🦐",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "V",
+          "word": "Velvet Crab",
+          "emoji": "🦀",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "W",
+          "word": "Whelk",
+          "emoji": "🐚",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "X",
+          "word": "Xestus Crab",
+          "emoji": "🦀",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "Y",
+          "word": "Yolk Sac",
+          "emoji": "🐟",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoaea",
+          "emoji": "🦐",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "A",
+          "word": "Acorn Barnacle",
+          "emoji": "🦐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "B",
+          "word": "Beadle Mite",
+          "emoji": "🦀",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "C",
+          "word": "Coralline Algae",
+          "emoji": "🪸",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "D",
+          "word": "Dorsal Fin",
+          "emoji": "🐠",
+          "bgColor": "#00897B"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaTidalPool2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tidal Pool - Part 2",
+          videoId: "sea-tidal-pool-2",
+          bgGradient: ["#00796B","#80CBC4"] as [string, string],
+          accentColor: "#00695C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Algae",
+          "emoji": "🪸",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "B",
+          "word": "Brittle Star",
+          "emoji": "🦐",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "C",
+          "word": "Chiton",
+          "emoji": "🐚",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "D",
+          "word": "Detritus",
+          "emoji": "🦀",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "E",
+          "word": "Eurypterids",
+          "emoji": "🦐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "F",
+          "word": "Feather Duster",
+          "emoji": "🪸",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "G",
+          "word": "Gastropod",
+          "emoji": "🐌",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "H",
+          "word": "Harpacticoid",
+          "emoji": "🦐",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "I",
+          "word": "Inachus Crab",
+          "emoji": "🦀",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "J",
+          "word": "Jujubes Sea",
+          "emoji": "🪼",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "K",
+          "word": "Kelpfish",
+          "emoji": "🐠",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "L",
+          "word": "Littorina Snail",
+          "emoji": "🐚",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "M",
+          "word": "Migratory Fish",
+          "emoji": "🐟",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "N",
+          "word": "Nemertean",
+          "emoji": "🦑",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "O",
+          "word": "Ostracod",
+          "emoji": "🦐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "P",
+          "word": "Pholad Clam",
+          "emoji": "🐚",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Anemone",
+          "emoji": "🪸",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "R",
+          "word": "Rosette Worm",
+          "emoji": "🦑",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Lettuce",
+          "emoji": "🪸",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "T",
+          "word": "Tidal Snail",
+          "emoji": "🐌",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "U",
+          "word": "Ulva",
+          "emoji": "🪸",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "V",
+          "word": "Valve Clam",
+          "emoji": "🐚",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "W",
+          "word": "Wave Pounding",
+          "emoji": "🐟",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "X",
+          "word": "Xenophora Snail",
+          "emoji": "🐚",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Sea Slug",
+          "emoji": "🐙",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoaea Larva",
+          "emoji": "🦐",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "A",
+          "word": "Annelid Worm",
+          "emoji": "🦑",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "B",
+          "word": "Bubble Shell",
+          "emoji": "🐚",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "C",
+          "word": "Copepod",
+          "emoji": "🦐",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "D",
+          "word": "Dunlin",
+          "emoji": "🐧",
+          "bgColor": "#009688"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaTidalPool3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Tidal Pool - Part 3",
+          videoId: "sea-tidal-pool-3",
+          bgGradient: ["#00695C","#4DB6AC"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Abalone",
+          "emoji": "🐚",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "B",
+          "word": "Barnacle",
+          "emoji": "🦐",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🪸",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "D",
+          "word": "Dorid Nudibranch",
+          "emoji": "🐙",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "E",
+          "word": "Eel Larva",
+          "emoji": "🐟",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "F",
+          "word": "Fleshy Algae",
+          "emoji": "🪸",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "G",
+          "word": "Graceful Dancer",
+          "emoji": "🐠",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "H",
+          "word": "Hydrozoan",
+          "emoji": "🪼",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "I",
+          "word": "Interstitial Fauna",
+          "emoji": "🦐",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "J",
+          "word": "Juvenile Fish",
+          "emoji": "🐠",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "K",
+          "word": "Keyhole Limpet",
+          "emoji": "🐚",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "L",
+          "word": "Littoral Zone",
+          "emoji": "🪸",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "M",
+          "word": "Mantle Tissue",
+          "emoji": "🐚",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "N",
+          "word": "Neap Tide",
+          "emoji": "🦀",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Starfish",
+          "emoji": "🦐",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "P",
+          "word": "Pedicellaria",
+          "emoji": "🦀",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Pool",
+          "emoji": "🐟",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "R",
+          "word": "Rocky Habitat",
+          "emoji": "🪸",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Urchin",
+          "emoji": "🦐",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "T",
+          "word": "Tide Line",
+          "emoji": "🐌",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "U",
+          "word": "Urchin Roe",
+          "emoji": "🦐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "V",
+          "word": "Vertical Gradient",
+          "emoji": "🪸",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "W",
+          "word": "Water Column",
+          "emoji": "🐠",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "X",
+          "word": "Xenon Lighting",
+          "emoji": "💡",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "Y",
+          "word": "Year-round",
+          "emoji": "🐟",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoeae Release",
+          "emoji": "🦐",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "A",
+          "word": "Arthropod",
+          "emoji": "🦀",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "B",
+          "word": "Bladderwrack",
+          "emoji": "🪸",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "C",
+          "word": "Cryptic Fauna",
+          "emoji": "🐙",
+          "bgColor": "#B2DFDB"
+          },
+          {
+          "letter": "D",
+          "word": "Drying Stress",
+          "emoji": "🐚",
+          "bgColor": "#80CBC4"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaOceanPredators1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Predators - Part 1",
+          videoId: "sea-ocean-predators-1",
+          bgGradient: ["#37474F","#90A4AE"] as [string, string],
+          accentColor: "#263238",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Anglerfish",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "B",
+          "word": "Barracuda",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Conger Eel",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Dolphin Fish",
+          "emoji": "🐬",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Ray",
+          "emoji": "🦑",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "F",
+          "word": "Fangtooth",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "G",
+          "word": "Giant Squid",
+          "emoji": "🦑",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "H",
+          "word": "Hammerhead",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Ocean Shark",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "J",
+          "word": "Jewfish",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "K",
+          "word": "King Shark",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "L",
+          "word": "Lionfish",
+          "emoji": "🐠",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Marlin",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "N",
+          "word": "Needlefish",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "O",
+          "word": "Orange Roughy",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "P",
+          "word": "Pufferfish",
+          "emoji": "🐡",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quarrelsome Fish",
+          "emoji": "🐠",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "R",
+          "word": "Rattail Fish",
+          "emoji": "🐟",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "S",
+          "word": "Sixgill Shark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Shark",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Viper Shark",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "W",
+          "word": "Wahoo",
+          "emoji": "🐟",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "X",
+          "word": "Xiphias",
+          "emoji": "🐟",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellowfin Tuna",
+          "emoji": "🐟",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag Eel",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "A",
+          "word": "Atoll Predator",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "B",
+          "word": "Big Eye Tuna",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "C",
+          "word": "Cookie Cutter Shark",
+          "emoji": "🦈",
+          "bgColor": "#BDBDBD"
+          },
+          {
+          "letter": "D",
+          "word": "Deepwater Shark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaOceanPredators2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Predators - Part 2",
+          videoId: "sea-ocean-predators-2",
+          bgGradient: ["#455A64","#B0BEC5"] as [string, string],
+          accentColor: "#37474F",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arctic Shark",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "B",
+          "word": "Bull Shark",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "C",
+          "word": "Caribbean Reef",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "D",
+          "word": "Dusky Shark",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "E",
+          "word": "Eel-like Predator",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "F",
+          "word": "Flapjack Octopus",
+          "emoji": "🐙",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "G",
+          "word": "Goblin Shark",
+          "emoji": "🦈",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "H",
+          "word": "Houndfish",
+          "emoji": "🐟",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Spotted",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "J",
+          "word": "Jaws Predator",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "K",
+          "word": "Keyhole Shark",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "L",
+          "word": "Lemon Shark",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "M",
+          "word": "Megalodon",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "N",
+          "word": "Nurse Shark",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "O",
+          "word": "Oceanic Whiptail",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "P",
+          "word": "Pacific Shark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Strike",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "R",
+          "word": "Reef Predator",
+          "emoji": "🦈",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "S",
+          "word": "Sawfish",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "T",
+          "word": "Thresher Shark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "U",
+          "word": "Undersea Hunter",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "V",
+          "word": "Vicious Tuna",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "W",
+          "word": "Whale Killer",
+          "emoji": "🐋",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Predator",
+          "emoji": "🦈",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Y",
+          "word": "Yangtze Finless",
+          "emoji": "🐬",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag Hunter",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "A",
+          "word": "Aggressive Fish",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "B",
+          "word": "Bite Force",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "C",
+          "word": "Carnivorous Squid",
+          "emoji": "🦑",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "D",
+          "word": "Dark Ocean",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaOceanPredators3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Ocean Predators - Part 3",
+          videoId: "sea-ocean-predators-3",
+          bgGradient: ["#546E7A","#CFD8DC"] as [string, string],
+          accentColor: "#455A64",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Apex Predator",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Bioluminescent",
+          "emoji": "🐟",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "C",
+          "word": "Carcharhinus",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "D",
+          "word": "Deep Hunter",
+          "emoji": "🐟",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "E",
+          "word": "Elasmobranch",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "F",
+          "word": "Formidable Beast",
+          "emoji": "🦈",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "G",
+          "word": "Great White",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "H",
+          "word": "Hunter Tactics",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "I",
+          "word": "Intelligent Squid",
+          "emoji": "🦑",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "J",
+          "word": "Jaw Strength",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "K",
+          "word": "Keen Senses",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "L",
+          "word": "Lethal Predator",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "M",
+          "word": "Mako Shark",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "N",
+          "word": "Nocturnal Hunter",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "O",
+          "word": "Orca Attack",
+          "emoji": "🐋",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "P",
+          "word": "Pack Hunter",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Stalker",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "R",
+          "word": "Ruthless Hunter",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "S",
+          "word": "Speed Demon",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "T",
+          "word": "Top Predator",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "U",
+          "word": "Unstoppable Force",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "V",
+          "word": "Vampire Squid",
+          "emoji": "🦑",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "W",
+          "word": "White Shark",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "X",
+          "word": "X-Ray Vision",
+          "emoji": "🦈",
+          "bgColor": "#CFD8DC"
+          },
+          {
+          "letter": "Y",
+          "word": "Yearning Hunter",
+          "emoji": "🦈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Escape",
+          "emoji": "🦈",
+          "bgColor": "#90A4AE"
+          },
+          {
+          "letter": "A",
+          "word": "Abyssal Killer",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          },
+          {
+          "letter": "B",
+          "word": "Beastly Teeth",
+          "emoji": "🦈",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "C",
+          "word": "Cruel Seas",
+          "emoji": "🦈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Dominant Species",
+          "emoji": "🦈",
+          "bgColor": "#78909C"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaBeautifulSea1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Beautiful Sea Life - Part 1",
+          videoId: "sea-beautiful-sea-1",
+          bgGradient: ["#AD1457","#F48FB1"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "B",
+          "word": "Blue Tang",
+          "emoji": "🐠",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "C",
+          "word": "Clownfish",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "D",
+          "word": "Damselfish",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "E",
+          "word": "Emperor Fish",
+          "emoji": "🐠",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "F",
+          "word": "Flamingo Tongue",
+          "emoji": "🐚",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "G",
+          "word": "Goby",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "H",
+          "word": "Hawkfish",
+          "emoji": "🐠",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "I",
+          "word": "Imperial Fish",
+          "emoji": "🐠",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "J",
+          "word": "Jackfish",
+          "emoji": "🐟",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "K",
+          "word": "Kingfish",
+          "emoji": "🐟",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "L",
+          "word": "Lionfish",
+          "emoji": "🐠",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "M",
+          "word": "Mandarin Fish",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "N",
+          "word": "Nudibranch",
+          "emoji": "🐙",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Ornate Fish",
+          "emoji": "🐠",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "P",
+          "word": "Parrotfish",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Angelfish",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "R",
+          "word": "Rainbow Fish",
+          "emoji": "🐠",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "S",
+          "word": "Sea Dragon",
+          "emoji": "🐟",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "T",
+          "word": "Trumpetfish",
+          "emoji": "🐟",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "U",
+          "word": "Unicorn Fish",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "V",
+          "word": "Violet Sea",
+          "emoji": "🪼",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "W",
+          "word": "Wrasse",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "X",
+          "word": "Xenia Coral",
+          "emoji": "🪸",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Coral",
+          "emoji": "🪸",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "Z",
+          "word": "Zulu Hud Fish",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "A",
+          "word": "Anemone Beauty",
+          "emoji": "🪸",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "B",
+          "word": "Beautiful Coral",
+          "emoji": "🪸",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "C",
+          "word": "Coral Polyp",
+          "emoji": "🪸",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "D",
+          "word": "Delicate Beauty",
+          "emoji": "🐠",
+          "bgColor": "#F8BBD0"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaBeautifulSea2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Beautiful Sea Life - Part 2",
+          videoId: "sea-beautiful-sea-2",
+          bgGradient: ["#C2185B","#F8BBD0"] as [string, string],
+          accentColor: "#AD1457",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Adorable Sea",
+          "emoji": "🐠",
+          "bgColor": "#C2185B"
+          },
+          {
+          "letter": "B",
+          "word": "Bright Colors",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "C",
+          "word": "Colorful Reef",
+          "emoji": "🪸",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "D",
+          "word": "Dazzling Fish",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "E",
+          "word": "Elegant Beauty",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Fin Stripes",
+          "emoji": "🐠",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "G",
+          "word": "Glittering Scales",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "H",
+          "word": "Harmony Colors",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "I",
+          "word": "Iridescent",
+          "emoji": "🐠",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel Tones",
+          "emoji": "🐠",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "K",
+          "word": "Kaleidoscope",
+          "emoji": "🐠",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "L",
+          "word": "Luminous Fish",
+          "emoji": "🐠",
+          "bgColor": "#C2185B"
+          },
+          {
+          "letter": "M",
+          "word": "Mesmerizing",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "N",
+          "word": "Noble Stripes",
+          "emoji": "🐠",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "O",
+          "word": "Opulent Colors",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "P",
+          "word": "Perfect Pattern",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Beauty",
+          "emoji": "🐠",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "R",
+          "word": "Regal Fish",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Stunning Colors",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "T",
+          "word": "Tropical Bloom",
+          "emoji": "🐠",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "U",
+          "word": "Unique Patterns",
+          "emoji": "🐠",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant Hues",
+          "emoji": "🐠",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "W",
+          "word": "Wondrous Sight",
+          "emoji": "🐠",
+          "bgColor": "#C2185B"
+          },
+          {
+          "letter": "X",
+          "word": "X-marks Beauty",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Bright",
+          "emoji": "🐠",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "Z",
+          "word": "Zenith Beauty",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "A",
+          "word": "Azure Tones",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Bioluminescent",
+          "emoji": "🐙",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "C",
+          "word": "Chromatic",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "D",
+          "word": "Dainty Fins",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaBeautifulSea3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Beautiful Sea Life - Part 3",
+          videoId: "sea-beautiful-sea-3",
+          bgGradient: ["#D81B60","#FCE4EC"] as [string, string],
+          accentColor: "#C2185B",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Arcane Beauty",
+          "emoji": "🐠",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "B",
+          "word": "Blaze of Color",
+          "emoji": "🐠",
+          "bgColor": "#C2185B"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmic Stripes",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "D",
+          "word": "Divine Scales",
+          "emoji": "🐠",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "E",
+          "word": "Ethereal Fish",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "F",
+          "word": "Flamboyant Fins",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "G",
+          "word": "Gossamer Wings",
+          "emoji": "🐠",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "H",
+          "word": "Heavenly Glow",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "I",
+          "word": "Infinite Hues",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "J",
+          "word": "Jeweled Beauty",
+          "emoji": "🐠",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "K",
+          "word": "Kingdom Colors",
+          "emoji": "🐠",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "L",
+          "word": "Living Artwork",
+          "emoji": "🐠",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "M",
+          "word": "Magical Fins",
+          "emoji": "🐠",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "N",
+          "word": "Nautical Beauty",
+          "emoji": "🐠",
+          "bgColor": "#C2185B"
+          },
+          {
+          "letter": "O",
+          "word": "Opal Shimmer",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "P",
+          "word": "Paradise Found",
+          "emoji": "🐠",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quartz Glow",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "R",
+          "word": "Radiant Fish",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Sublime Beauty",
+          "emoji": "🐠",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "T",
+          "word": "Treasured Gem",
+          "emoji": "🐠",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "U",
+          "word": "Unforgettable",
+          "emoji": "🐠",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "V",
+          "word": "Vivid Paradise",
+          "emoji": "🐠",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "W",
+          "word": "Whimsical Fish",
+          "emoji": "🐠",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "X",
+          "word": "Xenial Beauty",
+          "emoji": "🐠",
+          "bgColor": "#F8BBD0"
+          },
+          {
+          "letter": "Y",
+          "word": "Yearning Eyes",
+          "emoji": "🐠",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "Z",
+          "word": "Zodiac Fish",
+          "emoji": "🐠",
+          "bgColor": "#C2185B"
+          },
+          {
+          "letter": "A",
+          "word": "Angelic Glow",
+          "emoji": "🐠",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "B",
+          "word": "Breathtaking",
+          "emoji": "🪸",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "C",
+          "word": "Celestial",
+          "emoji": "🐠",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "D",
+          "word": "Dreamy Sight",
+          "emoji": "🐠",
+          "bgColor": "#D32F2F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaMysteriousDeep1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Mysterious Deep - Part 1",
+          videoId: "sea-mysterious-deep-1",
+          bgGradient: ["#1A237E","#5C6BC0"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Abyssal Fish",
+          "emoji": "🐟",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "B",
+          "word": "Bioluminescent",
+          "emoji": "🐟",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "C",
+          "word": "Cryptic Creature",
+          "emoji": "🦑",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "D",
+          "word": "Dark Depths",
+          "emoji": "🐟",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "E",
+          "word": "Elusive Beast",
+          "emoji": "🦈",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "F",
+          "word": "Fanged Terror",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "G",
+          "word": "Ghostly Pale",
+          "emoji": "🐟",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "H",
+          "word": "Hidden Depths",
+          "emoji": "🐙",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "I",
+          "word": "Invisible Hunter",
+          "emoji": "🦑",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "J",
+          "word": "Jellyfish Glow",
+          "emoji": "🪼",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "K",
+          "word": "Keeper Secrets",
+          "emoji": "🐟",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "L",
+          "word": "Luminous Eyes",
+          "emoji": "🐟",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "M",
+          "word": "Mysterious Call",
+          "emoji": "🦑",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "N",
+          "word": "Night Creature",
+          "emoji": "🐟",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "O",
+          "word": "Ominous Shadow",
+          "emoji": "🦈",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Phantom Fish",
+          "emoji": "🐟",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Terror",
+          "emoji": "🐙",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "R",
+          "word": "Rare Species",
+          "emoji": "🐟",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "S",
+          "word": "Silent Stalker",
+          "emoji": "🦑",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "T",
+          "word": "Terrifying Teeth",
+          "emoji": "🐟",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "U",
+          "word": "Unknown Beast",
+          "emoji": "🦈",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "V",
+          "word": "Veil of Darkness",
+          "emoji": "🐙",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "W",
+          "word": "Weird Form",
+          "emoji": "🦑",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "X",
+          "word": "X-ray Eyes",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yawning Abyss",
+          "emoji": "🐟",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Light",
+          "emoji": "🦈",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "A",
+          "word": "Alien Like",
+          "emoji": "🐙",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "B",
+          "word": "Bottomless Pit",
+          "emoji": "🦑",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "C",
+          "word": "Creature Deep",
+          "emoji": "🐟",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "D",
+          "word": "Darkness Rules",
+          "emoji": "🦈",
+          "bgColor": "#9FA8DA"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaMysteriousDeep2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Mysterious Deep - Part 2",
+          videoId: "sea-mysterious-deep-2",
+          bgGradient: ["#283593","#7986CB"] as [string, string],
+          accentColor: "#1A237E",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Ancient Deep",
+          "emoji": "🐟",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "B",
+          "word": "Before Time",
+          "emoji": "🦑",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "C",
+          "word": "Conspiracy",
+          "emoji": "🐙",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "D",
+          "word": "Dread Beast",
+          "emoji": "🦈",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "E",
+          "word": "Eerie Sound",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "F",
+          "word": "Fear Itself",
+          "emoji": "🦑",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "G",
+          "word": "Gloomy Realm",
+          "emoji": "🐙",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "H",
+          "word": "Haunting Song",
+          "emoji": "🐋",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "I",
+          "word": "Inky Waters",
+          "emoji": "🐟",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "J",
+          "word": "Jaws Snap",
+          "emoji": "🦈",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "K",
+          "word": "Kingdom Dark",
+          "emoji": "🐙",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "L",
+          "word": "Lost World",
+          "emoji": "🦑",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "M",
+          "word": "Moving Shadow",
+          "emoji": "🐟",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "N",
+          "word": "No Escape",
+          "emoji": "🦈",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "O",
+          "word": "Ominous Call",
+          "emoji": "🐙",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "P",
+          "word": "Predator Waits",
+          "emoji": "🦈",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "Q",
+          "word": "Quest Unknown",
+          "emoji": "🐟",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "R",
+          "word": "Relentless Hunt",
+          "emoji": "🦑",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Secret Lair",
+          "emoji": "🐙",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "T",
+          "word": "Twisted Form",
+          "emoji": "🦑",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "U",
+          "word": "Uncharted Deep",
+          "emoji": "🦈",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "V",
+          "word": "Vault Sealed",
+          "emoji": "🐟",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "W",
+          "word": "Whispers Dark",
+          "emoji": "🐙",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "X",
+          "word": "Xenophobic",
+          "emoji": "🐙",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "Y",
+          "word": "Yonder Deep",
+          "emoji": "🦑",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone Forbidden",
+          "emoji": "🦈",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "A",
+          "word": "Abyss Calls",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "B",
+          "word": "Beyond Reach",
+          "emoji": "🐙",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmic Horror",
+          "emoji": "🦑",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "D",
+          "word": "Descent Below",
+          "emoji": "🦈",
+          "bgColor": "#90CAF9"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="SeaMysteriousDeep3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Mysterious Deep - Part 3",
+          videoId: "sea-mysterious-deep-3",
+          bgGradient: ["#303F9F","#9FA8DA"] as [string, string],
+          accentColor: "#283593",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Aura Mystery",
+          "emoji": "🐟",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "B",
+          "word": "Buried Deep",
+          "emoji": "🦑",
+          "bgColor": "#3949AB"
+          },
+          {
+          "letter": "C",
+          "word": "Chasm Below",
+          "emoji": "🐙",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "D",
+          "word": "Dimly Lit",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "E",
+          "word": "Eternal Night",
+          "emoji": "🦈",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "F",
+          "word": "Fathomless",
+          "emoji": "🐙",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "G",
+          "word": "Gloom Deep",
+          "emoji": "🦑",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "H",
+          "word": "Hollow Dark",
+          "emoji": "🐟",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "I",
+          "word": "Immense Void",
+          "emoji": "🦈",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "J",
+          "word": "Journey Lost",
+          "emoji": "🐙",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "K",
+          "word": "Keep Silent",
+          "emoji": "🦑",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "L",
+          "word": "Linger Dark",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "M",
+          "word": "Murky Realm",
+          "emoji": "🦈",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "N",
+          "word": "Never Seen",
+          "emoji": "🐙",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "O",
+          "word": "Obscure Place",
+          "emoji": "🦑",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "P",
+          "word": "Pressure Great",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "Q",
+          "word": "Quiet Grave",
+          "emoji": "🦈",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "R",
+          "word": "Resting Place",
+          "emoji": "🐙",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Sunless Sea",
+          "emoji": "🦑",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "T",
+          "word": "Timeless Dark",
+          "emoji": "🐟",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "U",
+          "word": "Unseen Force",
+          "emoji": "🦈",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "V",
+          "word": "Vast Darkness",
+          "emoji": "🐙",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "W",
+          "word": "Where Lost",
+          "emoji": "🦑",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "X",
+          "word": "X Never",
+          "emoji": "🐟",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yearning Void",
+          "emoji": "🦈",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone Terror",
+          "emoji": "🐙",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "A",
+          "word": "Amplified Dread",
+          "emoji": "🦑",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "B",
+          "word": "Black Water",
+          "emoji": "🐟",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "C",
+          "word": "Cryptic Path",
+          "emoji": "🦈",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "D",
+          "word": "Desolate Deep",
+          "emoji": "🐙",
+          "bgColor": "#9FA8DA"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+    </>
+  );
+};

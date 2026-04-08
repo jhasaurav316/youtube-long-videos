@@ -1,0 +1,5982 @@
+import "./index.css";
+import { Composition } from "remotion";
+import { AlphabetShortsTemplate } from "./AlphabetShortsTemplate";
+import type { AlphabetShortsProps } from "./AlphabetShortsTemplate";
+import React from "react";
+
+export const VehicleRemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Composition
+        id="VehiclesCityVehicles1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "City Vehicles - Part 1",
+          videoId: "vehicles-city-vehicles-1",
+          bgGradient: ["#1565C0","#BBDEFB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Car",
+          "emoji": "🚗",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Bus",
+          "emoji": "🚌",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "A",
+          "word": "Auto Rickshaw",
+          "emoji": "🛺",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "T",
+          "word": "Taxi",
+          "emoji": "🚕",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "M",
+          "word": "Motorcycle",
+          "emoji": "🏍️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "S",
+          "word": "Scooter",
+          "emoji": "🛵",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "R",
+          "word": "Rickshaw",
+          "emoji": "🛺",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "B",
+          "word": "Bicycle",
+          "emoji": "🚲",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "V",
+          "word": "Van",
+          "emoji": "🚐",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Truck",
+          "emoji": "🚚",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "J",
+          "word": "Jeep",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "H",
+          "word": "Hatchback",
+          "emoji": "🚗",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "SUV",
+          "emoji": "🚙",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "P",
+          "word": "Police Car",
+          "emoji": "🚓",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "L",
+          "word": "Limousine",
+          "emoji": "🚗",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Car",
+          "emoji": "🚗",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "M",
+          "word": "Metro",
+          "emoji": "🚇",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "T",
+          "word": "Tram",
+          "emoji": "🚋",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "C",
+          "word": "Cycle Rickshaw",
+          "emoji": "🛺",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "D",
+          "word": "Delivery Van",
+          "emoji": "🚐",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "W",
+          "word": "Wagon",
+          "emoji": "🚗",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "K",
+          "word": "Kart",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "N",
+          "word": "Nano Car",
+          "emoji": "🚗",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "O",
+          "word": "Omni Bus",
+          "emoji": "🚌",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "F",
+          "word": "Four Wheeler",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "G",
+          "word": "Golf Cart",
+          "emoji": "🚗",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "I",
+          "word": "Ice Cream Truck",
+          "emoji": "🚚",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "U",
+          "word": "Uber Car",
+          "emoji": "🚗",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "X",
+          "word": "XUV Car",
+          "emoji": "🚙",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Z",
+          "word": "Zip Car",
+          "emoji": "🚗",
+          "bgColor": "#1E88E5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesCityVehicles2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "City Vehicles - Part 2",
+          videoId: "vehicles-city-vehicles-2",
+          bgGradient: ["#1976D2","#90CAF9"] as [string, string],
+          accentColor: "#1565C0",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tempo",
+          "emoji": "🚐",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "M",
+          "word": "Minibus",
+          "emoji": "🚌",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "A",
+          "word": "Ambulance",
+          "emoji": "🚑",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Fire Truck",
+          "emoji": "🚒",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "P",
+          "word": "Pickup Truck",
+          "emoji": "🚚",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cab",
+          "emoji": "🚕",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "S",
+          "word": "School Bus",
+          "emoji": "🚌",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "D",
+          "word": "Double Decker",
+          "emoji": "🚌",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "R",
+          "word": "Road Roller",
+          "emoji": "🚜",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "B",
+          "word": "Bulldozer",
+          "emoji": "🚜",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "H",
+          "word": "Hearse",
+          "emoji": "🚗",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "L",
+          "word": "Loader",
+          "emoji": "🚜",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "G",
+          "word": "Garbage Truck",
+          "emoji": "🚚",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "W",
+          "word": "Water Tanker",
+          "emoji": "🚚",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "K",
+          "word": "Kenworth Truck",
+          "emoji": "🚚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "N",
+          "word": "Night Bus",
+          "emoji": "🚌",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "O",
+          "word": "Oil Tanker",
+          "emoji": "🚚",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "E",
+          "word": "Express Bus",
+          "emoji": "🚌",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Bus",
+          "emoji": "🚌",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "J",
+          "word": "Jonga",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Volvo Bus",
+          "emoji": "🚌",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "X",
+          "word": "Xylo SUV",
+          "emoji": "🚙",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Cab",
+          "emoji": "🚕",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Turn Mower",
+          "emoji": "🚜",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "Q",
+          "word": "Quad Bike",
+          "emoji": "🏍️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "T",
+          "word": "Tata Truck",
+          "emoji": "🚚",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Mail Van",
+          "emoji": "🚐",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Sleeper Bus",
+          "emoji": "🚌",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "C",
+          "word": "Container Truck",
+          "emoji": "🚚",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesCityVehicles3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "City Vehicles - Part 3",
+          videoId: "vehicles-city-vehicles-3",
+          bgGradient: ["#1E88E5","#64B5F6"] as [string, string],
+          accentColor: "#1976D2",
+          letters: [
+          {
+          "letter": "E",
+          "word": "E-Rickshaw",
+          "emoji": "🛺",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Tuk Tuk",
+          "emoji": "🛺",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "S",
+          "word": "Smart Car",
+          "emoji": "🚗",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Hybrid Car",
+          "emoji": "🚗",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "C",
+          "word": "Convertible",
+          "emoji": "🚗",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "M",
+          "word": "MUV",
+          "emoji": "🚙",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "P",
+          "word": "Pedicab",
+          "emoji": "🛺",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "B",
+          "word": "Bike",
+          "emoji": "🏍️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "A",
+          "word": "Airport Shuttle",
+          "emoji": "🚐",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "D",
+          "word": "Diesel Bus",
+          "emoji": "🚌",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "R",
+          "word": "Royal Enfield",
+          "emoji": "🏍️",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "L",
+          "word": "Luna Moped",
+          "emoji": "🛵",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "G",
+          "word": "Goods Carrier",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "W",
+          "word": "Winger Van",
+          "emoji": "🚐",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "K",
+          "word": "Kinetic Scooter",
+          "emoji": "🛵",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "N",
+          "word": "Night Rider",
+          "emoji": "🏍️",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "O",
+          "word": "Open Top Bus",
+          "emoji": "🚌",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "F",
+          "word": "Food Truck",
+          "emoji": "🚚",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "I",
+          "word": "Innova Car",
+          "emoji": "🚙",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "J",
+          "word": "Jugaad Vehicle",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "U",
+          "word": "Urban Bus",
+          "emoji": "🚌",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "V",
+          "word": "Vintage Car",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "X",
+          "word": "Xpulse Bike",
+          "emoji": "🏍️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yamaha Bike",
+          "emoji": "🏍️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "Z",
+          "word": "Zen Car",
+          "emoji": "🚗",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Ride",
+          "emoji": "🚗",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "T",
+          "word": "Three Wheeler",
+          "emoji": "🛺",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "S",
+          "word": "State Bus",
+          "emoji": "🚌",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bolero",
+          "emoji": "🚙",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "C",
+          "word": "Creta SUV",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesEmergency1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Emergency Vehicles - Part 1",
+          videoId: "vehicles-emergency-1",
+          bgGradient: ["#D32F2F","#FFCDD2"] as [string, string],
+          accentColor: "#B71C1C",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Ambulance",
+          "emoji": "🚑",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Fire Engine",
+          "emoji": "🚒",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "P",
+          "word": "Police Car",
+          "emoji": "🚓",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "R",
+          "word": "Rescue Van",
+          "emoji": "🚐",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "H",
+          "word": "Helicopter",
+          "emoji": "🚁",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Coast Guard",
+          "emoji": "🚤",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "T",
+          "word": "Tow Truck",
+          "emoji": "🚚",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "M",
+          "word": "Medical Van",
+          "emoji": "🚐",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Siren Car",
+          "emoji": "🚓",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "D",
+          "word": "Disaster Relief",
+          "emoji": "🚚",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "E",
+          "word": "Emergency Van",
+          "emoji": "🚐",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "B",
+          "word": "Blood Bank Van",
+          "emoji": "🚐",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "L",
+          "word": "Ladder Truck",
+          "emoji": "🚒",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "W",
+          "word": "Water Rescue",
+          "emoji": "🚤",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "N",
+          "word": "NDRF Vehicle",
+          "emoji": "🚚",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "G",
+          "word": "Gas Leak Unit",
+          "emoji": "🚚",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "K",
+          "word": "K9 Unit",
+          "emoji": "🚓",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "I",
+          "word": "ICU Ambulance",
+          "emoji": "🚑",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "O",
+          "word": "Off Road Rescue",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "J",
+          "word": "Jet Ski Rescue",
+          "emoji": "🚤",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Rescue",
+          "emoji": "🚙",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Volunteer Van",
+          "emoji": "🚐",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "X",
+          "word": "X-Ray Mobile",
+          "emoji": "🚐",
+          "bgColor": "#7C4DFF"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Alert Van",
+          "emoji": "🚐",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone Patrol",
+          "emoji": "🚓",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Response",
+          "emoji": "🚑",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "First Aid Car",
+          "emoji": "🚗",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "A",
+          "word": "Air Ambulance",
+          "emoji": "🚁",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Paramedic Bike",
+          "emoji": "🏍️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "S",
+          "word": "SWAT Van",
+          "emoji": "🚐",
+          "bgColor": "#263238"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesEmergency2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Emergency Vehicles - Part 2",
+          videoId: "vehicles-emergency-2",
+          bgGradient: ["#C62828","#EF9A9A"] as [string, string],
+          accentColor: "#B71C1C",
+          letters: [
+          {
+          "letter": "F",
+          "word": "Fire Truck",
+          "emoji": "🚒",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Search Rescue",
+          "emoji": "🚁",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Mountain Rescue",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "C",
+          "word": "Crash Tender",
+          "emoji": "🚒",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "P",
+          "word": "Patrol Boat",
+          "emoji": "🚤",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "R",
+          "word": "Recovery Vehicle",
+          "emoji": "🚚",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "D",
+          "word": "Decontamination",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "T",
+          "word": "Trauma Unit",
+          "emoji": "🚑",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "A",
+          "word": "Aerial Ladder",
+          "emoji": "🚒",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "B",
+          "word": "Bomb Squad",
+          "emoji": "🚐",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "H",
+          "word": "Hazmat Truck",
+          "emoji": "🚚",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "E",
+          "word": "EMS Vehicle",
+          "emoji": "🚑",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "L",
+          "word": "Life Guard",
+          "emoji": "🚤",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "W",
+          "word": "Wildfire Truck",
+          "emoji": "🚒",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Rescue",
+          "emoji": "🚤",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "G",
+          "word": "Ground Ambulance",
+          "emoji": "🚑",
+          "bgColor": "#B71C1C"
+          },
+          {
+          "letter": "K",
+          "word": "K9 Patrol",
+          "emoji": "🚓",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "I",
+          "word": "Incident Command",
+          "emoji": "🚐",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "O",
+          "word": "Oxygen Supply",
+          "emoji": "🚐",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "J",
+          "word": "Jaws of Life",
+          "emoji": "🚒",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "U",
+          "word": "Urban Search",
+          "emoji": "🚙",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "V",
+          "word": "Ventilation Unit",
+          "emoji": "🚚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "X",
+          "word": "X-Country Rescue",
+          "emoji": "🚙",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Fire",
+          "emoji": "🚒",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zone Emergency",
+          "emoji": "🚑",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "Q",
+          "word": "Quint Fire",
+          "emoji": "🚒",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "S",
+          "word": "Snorkel Truck",
+          "emoji": "🚒",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "M",
+          "word": "Mobile Hospital",
+          "emoji": "🚐",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "T",
+          "word": "Technical Rescue",
+          "emoji": "🚚",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "F",
+          "word": "Foam Tender",
+          "emoji": "🚒",
+          "bgColor": "#FF6F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesEmergency3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Emergency Vehicles - Part 3",
+          videoId: "vehicles-emergency-3",
+          bgGradient: ["#E53935","#FFEBEE"] as [string, string],
+          accentColor: "#C62828",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Army Truck",
+          "emoji": "🚚",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "B",
+          "word": "Battle Tank",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "R",
+          "word": "Riot Control",
+          "emoji": "🚐",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Police Van",
+          "emoji": "🚓",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "S",
+          "word": "Siren Vehicle",
+          "emoji": "🚓",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "T",
+          "word": "Traffic Police",
+          "emoji": "🏍️",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Commando Car",
+          "emoji": "🚙",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "H",
+          "word": "Highway Patrol",
+          "emoji": "🚓",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "D",
+          "word": "Detective Car",
+          "emoji": "🚗",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "M",
+          "word": "Military Jeep",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "F",
+          "word": "Force One",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "G",
+          "word": "Guard Van",
+          "emoji": "🚐",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "E",
+          "word": "Escort Vehicle",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Law Vehicle",
+          "emoji": "🚓",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Car",
+          "emoji": "🚗",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "W",
+          "word": "War Vehicle",
+          "emoji": "🚚",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "K",
+          "word": "K9 Van",
+          "emoji": "🚐",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "I",
+          "word": "Intel Vehicle",
+          "emoji": "🚗",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "O",
+          "word": "Operations Van",
+          "emoji": "🚐",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "J",
+          "word": "Jawan Transport",
+          "emoji": "🚚",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "U",
+          "word": "Undercover Car",
+          "emoji": "🚗",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "V",
+          "word": "VIP Escort",
+          "emoji": "🚗",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "X",
+          "word": "X-Special Force",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Beacon",
+          "emoji": "🚓",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Dark Car",
+          "emoji": "🚗",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Patrol",
+          "emoji": "🏍️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "T",
+          "word": "Tank Carrier",
+          "emoji": "🚚",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "BSF Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "S",
+          "word": "Security Van",
+          "emoji": "🚐",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "M",
+          "word": "Marine Vehicle",
+          "emoji": "🚤",
+          "bgColor": "#0277BD"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesConstruction1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Construction Vehicles - Part 1",
+          videoId: "vehicles-construction-1",
+          bgGradient: ["#FF6F00","#FFE0B2"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Crane",
+          "emoji": "🏗️",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "B",
+          "word": "Bulldozer",
+          "emoji": "🚜",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "E",
+          "word": "Excavator",
+          "emoji": "🚜",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "D",
+          "word": "Dump Truck",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "L",
+          "word": "Loader",
+          "emoji": "🚜",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "R",
+          "word": "Road Roller",
+          "emoji": "🚜",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "M",
+          "word": "Mixer Truck",
+          "emoji": "🚚",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "F",
+          "word": "Forklift",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "P",
+          "word": "Paver",
+          "emoji": "🚜",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "G",
+          "word": "Grader",
+          "emoji": "🚜",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "T",
+          "word": "Tower Crane",
+          "emoji": "🏗️",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Scraper",
+          "emoji": "🚜",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "H",
+          "word": "Hammer Crane",
+          "emoji": "🏗️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "W",
+          "word": "Wheel Loader",
+          "emoji": "🚜",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "K",
+          "word": "Knuckle Boom",
+          "emoji": "🏗️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "A",
+          "word": "Asphalt Paver",
+          "emoji": "🚜",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "N",
+          "word": "New Holland",
+          "emoji": "🚜",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "J",
+          "word": "JCB",
+          "emoji": "🚜",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "O",
+          "word": "Overhead Crane",
+          "emoji": "🏗️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "I",
+          "word": "Industrial Truck",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Crane",
+          "emoji": "🏗️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Vibro Roller",
+          "emoji": "🚜",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "X",
+          "word": "XL Excavator",
+          "emoji": "🚜",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Crane",
+          "emoji": "🏗️",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoom Boom",
+          "emoji": "🏗️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "Q",
+          "word": "Quarry Truck",
+          "emoji": "🚚",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Compactor",
+          "emoji": "🚜",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "B",
+          "word": "Backhoe",
+          "emoji": "🚜",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "D",
+          "word": "Digger",
+          "emoji": "🚜",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "T",
+          "word": "Tractor",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesConstruction2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Construction Vehicles - Part 2",
+          videoId: "vehicles-construction-2",
+          bgGradient: ["#FF8F00","#FFF3E0"] as [string, string],
+          accentColor: "#FF6F00",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tractor",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "P",
+          "word": "Pile Driver",
+          "emoji": "🏗️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Concrete Pump",
+          "emoji": "🚚",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "S",
+          "word": "Skid Steer",
+          "emoji": "🚜",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "M",
+          "word": "Mini Excavator",
+          "emoji": "🚜",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "B",
+          "word": "Boom Lift",
+          "emoji": "🏗️",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "D",
+          "word": "Dragline",
+          "emoji": "🏗️",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "A",
+          "word": "Articulated Truck",
+          "emoji": "🚚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Rigid Dump",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "L",
+          "word": "Log Loader",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "G",
+          "word": "Gantry Crane",
+          "emoji": "🏗️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "H",
+          "word": "Hydraulic Crane",
+          "emoji": "🏗️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "F",
+          "word": "Flat Bed Truck",
+          "emoji": "🚚",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "W",
+          "word": "Winch Truck",
+          "emoji": "🚚",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "N",
+          "word": "Narrow Gauge",
+          "emoji": "🚂",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "K",
+          "word": "Kato Crane",
+          "emoji": "🏗️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "E",
+          "word": "Earth Mover",
+          "emoji": "🚜",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "J",
+          "word": "JCB Mini",
+          "emoji": "🚜",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "O",
+          "word": "Off Highway",
+          "emoji": "🚚",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "I",
+          "word": "Industrial Crane",
+          "emoji": "🏗️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "U",
+          "word": "Underground Loader",
+          "emoji": "🚜",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "V",
+          "word": "Vibratory Hammer",
+          "emoji": "🏗️",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "X",
+          "word": "XL Crane",
+          "emoji": "🏗️",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "Y",
+          "word": "Yard Crane",
+          "emoji": "🏗️",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Tail Excavator",
+          "emoji": "🚜",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "Q",
+          "word": "Quarry Loader",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "T",
+          "word": "Telescopic Handler",
+          "emoji": "🏗️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "S",
+          "word": "Screener",
+          "emoji": "🚜",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Crawler Crane",
+          "emoji": "🏗️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "B",
+          "word": "Breaker",
+          "emoji": "🏗️",
+          "bgColor": "#D32F2F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesConstruction3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Construction Vehicles - Part 3",
+          videoId: "vehicles-construction-3",
+          bgGradient: ["#FFA000","#FFECB3"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "W",
+          "word": "Wrecking Ball",
+          "emoji": "🏗️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "C",
+          "word": "Compressor",
+          "emoji": "🚜",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "T",
+          "word": "Trencher",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "P",
+          "word": "Platform Lift",
+          "emoji": "🏗️",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "S",
+          "word": "Scissor Lift",
+          "emoji": "🏗️",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "M",
+          "word": "Mobile Crane",
+          "emoji": "🏗️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "B",
+          "word": "Boring Machine",
+          "emoji": "🚜",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "D",
+          "word": "Dredger",
+          "emoji": "🚢",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "A",
+          "word": "Aerial Work",
+          "emoji": "🏗️",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "R",
+          "word": "Rock Breaker",
+          "emoji": "🏗️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "L",
+          "word": "Lift Crane",
+          "emoji": "🏗️",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "G",
+          "word": "Generator Truck",
+          "emoji": "🚚",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "H",
+          "word": "Hot Mix Plant",
+          "emoji": "🚜",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "F",
+          "word": "Fuel Tanker",
+          "emoji": "🚚",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "K",
+          "word": "Kobelco",
+          "emoji": "🚜",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "N",
+          "word": "New Excavator",
+          "emoji": "🚜",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "E",
+          "word": "Elevator Crane",
+          "emoji": "🏗️",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "J",
+          "word": "Jib Crane",
+          "emoji": "🏗️",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "O",
+          "word": "Off Road Truck",
+          "emoji": "🚚",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "I",
+          "word": "Impact Hammer",
+          "emoji": "🏗️",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "U",
+          "word": "Ultra Crane",
+          "emoji": "🏗️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "V",
+          "word": "Vacuum Truck",
+          "emoji": "🚚",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "X",
+          "word": "XL Loader",
+          "emoji": "🚜",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Digger",
+          "emoji": "🚜",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zoomlion Crane",
+          "emoji": "🏗️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Lift",
+          "emoji": "🏗️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "T",
+          "word": "Tower Hoist",
+          "emoji": "🏗️",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Stone Crusher",
+          "emoji": "🚜",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Cable Crane",
+          "emoji": "🏗️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "M",
+          "word": "Mixer Plant",
+          "emoji": "🚜",
+          "bgColor": "#8D6E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesMilitary1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Military Vehicles - Part 1",
+          videoId: "vehicles-military-1",
+          bgGradient: ["#37474F","#90A4AE"] as [string, string],
+          accentColor: "#263238",
+          letters: [
+          {
+          "letter": "T",
+          "word": "Tank",
+          "emoji": "🚜",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "J",
+          "word": "Jet Fighter",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "H",
+          "word": "Helicopter",
+          "emoji": "🚁",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "S",
+          "word": "Submarine",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "A",
+          "word": "Aircraft Carrier",
+          "emoji": "🚢",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "B",
+          "word": "Battleship",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "C",
+          "word": "Cruiser",
+          "emoji": "🚢",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "D",
+          "word": "Destroyer",
+          "emoji": "🚢",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "F",
+          "word": "Fighter Jet",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "G",
+          "word": "Gunship",
+          "emoji": "🚁",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "K",
+          "word": "Kayak Military",
+          "emoji": "🚤",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "L",
+          "word": "Landing Craft",
+          "emoji": "🚤",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "M",
+          "word": "Missile Truck",
+          "emoji": "🚚",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Ship",
+          "emoji": "🚢",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "O",
+          "word": "Operations Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "P",
+          "word": "Patrol Vehicle",
+          "emoji": "🚓",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "R",
+          "word": "Radar Vehicle",
+          "emoji": "🚐",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "W",
+          "word": "Warship",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "E",
+          "word": "Engineering Vehicle",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "I",
+          "word": "Infantry Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "U",
+          "word": "Unmanned Drone",
+          "emoji": "✈️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Victory Ship",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "X",
+          "word": "Xpedition Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak Fighter",
+          "emoji": "✈️",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Z",
+          "word": "Zeppelin",
+          "emoji": "🎈",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Strike",
+          "emoji": "🚤",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "T",
+          "word": "Transport Plane",
+          "emoji": "✈️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Stealth Bomber",
+          "emoji": "✈️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "A",
+          "word": "Armored Car",
+          "emoji": "🚙",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "B",
+          "word": "Bomber",
+          "emoji": "✈️",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesMilitary2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Military Vehicles - Part 2",
+          videoId: "vehicles-military-2",
+          bgGradient: ["#455A64","#B0BEC5"] as [string, string],
+          accentColor: "#37474F",
+          letters: [
+          {
+          "letter": "A",
+          "word": "APC",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "B",
+          "word": "Binoculars Van",
+          "emoji": "🚐",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Convoy Truck",
+          "emoji": "🚚",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "D",
+          "word": "Drone",
+          "emoji": "✈️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "E",
+          "word": "Electronic War",
+          "emoji": "🚐",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "F",
+          "word": "Frigate",
+          "emoji": "🚢",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "G",
+          "word": "Gunboat",
+          "emoji": "🚤",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "H",
+          "word": "Humvee",
+          "emoji": "🚙",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "I",
+          "word": "Intelligence Van",
+          "emoji": "🚐",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "J",
+          "word": "Jeep Military",
+          "emoji": "🚙",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "K",
+          "word": "Kamov Helicopter",
+          "emoji": "🚁",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "L",
+          "word": "Light Tank",
+          "emoji": "🚜",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "M",
+          "word": "Mine Sweeper",
+          "emoji": "🚢",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "N",
+          "word": "Nuclear Sub",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "O",
+          "word": "Osprey",
+          "emoji": "✈️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Patrol Boat",
+          "emoji": "🚤",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "R",
+          "word": "Reconnaissance",
+          "emoji": "✈️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "S",
+          "word": "Spy Plane",
+          "emoji": "✈️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "T",
+          "word": "Torpedo Boat",
+          "emoji": "🚤",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Helo",
+          "emoji": "🚁",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "V",
+          "word": "VTOL Craft",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "W",
+          "word": "Warplane",
+          "emoji": "✈️",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "X",
+          "word": "Xperimental Craft",
+          "emoji": "✈️",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "Y",
+          "word": "Yak Transport",
+          "emoji": "✈️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "Z",
+          "word": "Zodiac Boat",
+          "emoji": "🚤",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Response Craft",
+          "emoji": "🚤",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Supply Ship",
+          "emoji": "🚢",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Assault Boat",
+          "emoji": "🚤",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "B",
+          "word": "Battle Cruiser",
+          "emoji": "🚢",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Cargo Plane",
+          "emoji": "✈️",
+          "bgColor": "#455A64"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesMilitary3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Military Vehicles - Part 3",
+          videoId: "vehicles-military-3",
+          bgGradient: ["#546E7A","#CFD8DC"] as [string, string],
+          accentColor: "#455A64",
+          letters: [
+          {
+          "letter": "H",
+          "word": "Helicopter Gunship",
+          "emoji": "🚁",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "T",
+          "word": "Troop Carrier",
+          "emoji": "🚚",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "M",
+          "word": "Mortar Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "S",
+          "word": "Scout Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "P",
+          "word": "Patrol Craft",
+          "emoji": "🚤",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "A",
+          "word": "Anti Aircraft",
+          "emoji": "🚚",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Bridge Layer",
+          "emoji": "🚚",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "C",
+          "word": "Command Vehicle",
+          "emoji": "🚐",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Defense Drone",
+          "emoji": "✈️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "F",
+          "word": "Flag Ship",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "G",
+          "word": "Guard Ship",
+          "emoji": "🚢",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "I",
+          "word": "Infantry Tank",
+          "emoji": "🚜",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "J",
+          "word": "Joint Strike",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "K",
+          "word": "Kavach Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "L",
+          "word": "Landing Ship",
+          "emoji": "🚢",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "N",
+          "word": "Naval Craft",
+          "emoji": "🚤",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "O",
+          "word": "Observer Plane",
+          "emoji": "✈️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "R",
+          "word": "Rocket Launcher",
+          "emoji": "🚚",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "W",
+          "word": "War Truck",
+          "emoji": "🚚",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "E",
+          "word": "Ejector Seat",
+          "emoji": "✈️",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "U",
+          "word": "UAV Drone",
+          "emoji": "✈️",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "V",
+          "word": "Victory Tank",
+          "emoji": "🚜",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "X",
+          "word": "Xplorer Craft",
+          "emoji": "🚤",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow Sub",
+          "emoji": "🚢",
+          "bgColor": "#F9A825"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Fighter",
+          "emoji": "✈️",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "Q",
+          "word": "Quick Deploy",
+          "emoji": "🚁",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "T",
+          "word": "Tiger Helo",
+          "emoji": "🚁",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "S",
+          "word": "Seabee Vehicle",
+          "emoji": "🚙",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Mobile Launcher",
+          "emoji": "🚚",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "P",
+          "word": "Penguin Ship",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesWaterVehicles1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Water Vehicles - Part 1",
+          videoId: "vehicles-water-vehicles-1",
+          bgGradient: ["#0277BD","#B3E5FC"] as [string, string],
+          accentColor: "#01579B",
+          letters: [
+          {
+          "letter": "S",
+          "word": "Ship",
+          "emoji": "🚢",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "B",
+          "word": "Boat",
+          "emoji": "🚤",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "Y",
+          "word": "Yacht",
+          "emoji": "🛥️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "F",
+          "word": "Ferry",
+          "emoji": "⛴️",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "C",
+          "word": "Canoe",
+          "emoji": "🛶",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "K",
+          "word": "Kayak",
+          "emoji": "🛶",
+          "bgColor": "#43A047"
+          },
+          {
+          "letter": "S",
+          "word": "Speedboat",
+          "emoji": "🚤",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "H",
+          "word": "Houseboat",
+          "emoji": "🛥️",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "J",
+          "word": "Jet Ski",
+          "emoji": "🚤",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Tugboat",
+          "emoji": "🚤",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "S",
+          "word": "Sailboat",
+          "emoji": "⛵",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Catamaran",
+          "emoji": "⛵",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "D",
+          "word": "Dhow",
+          "emoji": "⛵",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Gondola",
+          "emoji": "🛶",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "L",
+          "word": "Lifeboat",
+          "emoji": "🚤",
+          "bgColor": "#FF5722"
+          },
+          {
+          "letter": "M",
+          "word": "Motor Boat",
+          "emoji": "🚤",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "N",
+          "word": "Narrow Boat",
+          "emoji": "🛥️",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "P",
+          "word": "Pontoon",
+          "emoji": "🚤",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "R",
+          "word": "Raft",
+          "emoji": "🛶",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "W",
+          "word": "Watercraft",
+          "emoji": "🚤",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "A",
+          "word": "Anchor Ship",
+          "emoji": "🚢",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean Liner",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "E",
+          "word": "Express Boat",
+          "emoji": "🚤",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Boat",
+          "emoji": "🚤",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "U",
+          "word": "Utility Boat",
+          "emoji": "🚤",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "V",
+          "word": "Vessel",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "X",
+          "word": "Xebec",
+          "emoji": "⛵",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "Z",
+          "word": "Zodiac",
+          "emoji": "🚤",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Ship",
+          "emoji": "🚢",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "T",
+          "word": "Trawler",
+          "emoji": "🚤",
+          "bgColor": "#5D4037"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesWaterVehicles2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Water Vehicles - Part 2",
+          videoId: "vehicles-water-vehicles-2",
+          bgGradient: ["#0288D1","#81D4FA"] as [string, string],
+          accentColor: "#0277BD",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cruise Ship",
+          "emoji": "🚢",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "S",
+          "word": "Submarine",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "A",
+          "word": "Aircraft Carrier",
+          "emoji": "🚢",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "B",
+          "word": "Barge",
+          "emoji": "🚢",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "D",
+          "word": "Dinghy",
+          "emoji": "🚤",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "F",
+          "word": "Fishing Boat",
+          "emoji": "🚤",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "G",
+          "word": "Galleon",
+          "emoji": "⛵",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "H",
+          "word": "Hydrofoil",
+          "emoji": "🚤",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "I",
+          "word": "Inflatable Boat",
+          "emoji": "🚤",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Junk Boat",
+          "emoji": "⛵",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "K",
+          "word": "Ketch",
+          "emoji": "⛵",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "L",
+          "word": "Landing Craft",
+          "emoji": "🚤",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "M",
+          "word": "Merchant Ship",
+          "emoji": "🚢",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "N",
+          "word": "Naval Ship",
+          "emoji": "🚢",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "O",
+          "word": "Oil Tanker",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "P",
+          "word": "Paddle Boat",
+          "emoji": "🚤",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "R",
+          "word": "Row Boat",
+          "emoji": "🛶",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "T",
+          "word": "Tanker",
+          "emoji": "🚢",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "W",
+          "word": "War Ship",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "E",
+          "word": "Express Ferry",
+          "emoji": "⛴️",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "U",
+          "word": "U-Boat",
+          "emoji": "🚢",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "V",
+          "word": "Viking Ship",
+          "emoji": "⛵",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "X",
+          "word": "Xpress Boat",
+          "emoji": "🚤",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Y",
+          "word": "Yawl",
+          "emoji": "⛵",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "Z",
+          "word": "Zulu Canoe",
+          "emoji": "🛶",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "Q",
+          "word": "Quarter Ship",
+          "emoji": "🚢",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "S",
+          "word": "Steam Ship",
+          "emoji": "🚢",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Container Ship",
+          "emoji": "🚢",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "B",
+          "word": "Battleship",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "F",
+          "word": "Frigate",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesWaterVehicles3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Water Vehicles - Part 3",
+          videoId: "vehicles-water-vehicles-3",
+          bgGradient: ["#039BE5","#4FC3F7"] as [string, string],
+          accentColor: "#0288D1",
+          letters: [
+          {
+          "letter": "P",
+          "word": "Pirate Ship",
+          "emoji": "🏴‍☠️",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "S",
+          "word": "Schooner",
+          "emoji": "⛵",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Clipper Ship",
+          "emoji": "⛵",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "T",
+          "word": "Trimaran",
+          "emoji": "⛵",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "M",
+          "word": "Motor Yacht",
+          "emoji": "🛥️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "A",
+          "word": "Amphibious Vehicle",
+          "emoji": "🚤",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "B",
+          "word": "Bumboat",
+          "emoji": "🚤",
+          "bgColor": "#FF9800"
+          },
+          {
+          "letter": "D",
+          "word": "Dragon Boat",
+          "emoji": "🛶",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "F",
+          "word": "Flying Boat",
+          "emoji": "✈️",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "G",
+          "word": "Glass Bottom",
+          "emoji": "🚤",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "H",
+          "word": "Hovecraft",
+          "emoji": "🚤",
+          "bgColor": "#607D8B"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Shikara",
+          "emoji": "🛶",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "J",
+          "word": "Jangada",
+          "emoji": "🛶",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "K",
+          "word": "Kite Boat",
+          "emoji": "⛵",
+          "bgColor": "#4CAF50"
+          },
+          {
+          "letter": "L",
+          "word": "Log Boat",
+          "emoji": "🛶",
+          "bgColor": "#5D4037"
+          },
+          {
+          "letter": "N",
+          "word": "Nautical Vessel",
+          "emoji": "🚢",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "O",
+          "word": "Outrigger",
+          "emoji": "🛶",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "R",
+          "word": "River Boat",
+          "emoji": "🚤",
+          "bgColor": "#827717"
+          },
+          {
+          "letter": "W",
+          "word": "Water Taxi",
+          "emoji": "🚤",
+          "bgColor": "#FFEB3B"
+          },
+          {
+          "letter": "E",
+          "word": "Electric Boat",
+          "emoji": "🚤",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "U",
+          "word": "Underwater Vessel",
+          "emoji": "🚢",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "V",
+          "word": "Vaporetto",
+          "emoji": "⛴️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "X",
+          "word": "Xebec Sailing",
+          "emoji": "⛵",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "Y",
+          "word": "Yacht Racing",
+          "emoji": "🛥️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "Z",
+          "word": "Zebec",
+          "emoji": "⛵",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "Q",
+          "word": "Queen Mary",
+          "emoji": "🚢",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "S",
+          "word": "Swan Boat",
+          "emoji": "🛶",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Torpedo Boat",
+          "emoji": "🚤",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Cargo Ship",
+          "emoji": "🚢",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "M",
+          "word": "Mine Sweeper",
+          "emoji": "🚢",
+          "bgColor": "#546E7A"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesAirVehicles1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Air Vehicles - Part 1",
+          videoId: "vehicles-air-vehicles-1",
+          bgGradient: ["#1565C0","#BBDEFB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Airplane",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "H",
+          "word": "Helicopter",
+          "emoji": "🛩️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "D",
+          "word": "Drone",
+          "emoji": "🚁",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "B",
+          "word": "Biplane",
+          "emoji": "✈️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "G",
+          "word": "Glider",
+          "emoji": "🛩️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Cessna",
+          "emoji": "✈️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "S",
+          "word": "Seaplane",
+          "emoji": "🛩️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "J",
+          "word": "Jet",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "T",
+          "word": "Turboprop",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "C",
+          "word": "Cargo Plane",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "F",
+          "word": "Fighter Jet",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "A",
+          "word": "Apache Chopper",
+          "emoji": "🛩️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "C",
+          "word": "Chinook",
+          "emoji": "🛩️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "W",
+          "word": "Wings",
+          "emoji": "✈️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Sky Crane",
+          "emoji": "🛩️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "H",
+          "word": "Hangar",
+          "emoji": "✈️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "R",
+          "word": "Runway",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "T",
+          "word": "Takeoff",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "L",
+          "word": "Landing",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Pilot",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "S",
+          "word": "Stewardess",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "S",
+          "word": "Sparrow",
+          "emoji": "🛩️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Chopper",
+          "emoji": "🛩️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "A",
+          "word": "Air Show",
+          "emoji": "✈️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "S",
+          "word": "Sky Patrol",
+          "emoji": "✈️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "A",
+          "word": "Aerobatics",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "I",
+          "word": "Instruments",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "A",
+          "word": "Airspeed",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Cockpit",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "C",
+          "word": "Cabin",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesAirVehicles2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Air Vehicles - Part 2",
+          videoId: "vehicles-air-vehicles-2",
+          bgGradient: ["#1976D2","#90CAF9"] as [string, string],
+          accentColor: "#1565C0",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Airplane",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "H",
+          "word": "Helicopter",
+          "emoji": "🛩️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "D",
+          "word": "Drone",
+          "emoji": "🚁",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "B",
+          "word": "Biplane",
+          "emoji": "✈️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "G",
+          "word": "Glider",
+          "emoji": "🛩️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Cessna",
+          "emoji": "✈️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "S",
+          "word": "Seaplane",
+          "emoji": "🛩️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "J",
+          "word": "Jet",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "T",
+          "word": "Turboprop",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "C",
+          "word": "Cargo Plane",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "F",
+          "word": "Fighter Jet",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "A",
+          "word": "Apache Chopper",
+          "emoji": "🛩️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "C",
+          "word": "Chinook",
+          "emoji": "🛩️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "W",
+          "word": "Wings",
+          "emoji": "✈️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Sky Crane",
+          "emoji": "🛩️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "H",
+          "word": "Hangar",
+          "emoji": "✈️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "R",
+          "word": "Runway",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "T",
+          "word": "Takeoff",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "L",
+          "word": "Landing",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Pilot",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "S",
+          "word": "Stewardess",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "S",
+          "word": "Sparrow",
+          "emoji": "🛩️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Chopper",
+          "emoji": "🛩️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "A",
+          "word": "Air Show",
+          "emoji": "✈️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "S",
+          "word": "Sky Patrol",
+          "emoji": "✈️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "A",
+          "word": "Aerobatics",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "I",
+          "word": "Instruments",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "A",
+          "word": "Airspeed",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Cockpit",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "C",
+          "word": "Cabin",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesAirVehicles3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Air Vehicles - Part 3",
+          videoId: "vehicles-air-vehicles-3",
+          bgGradient: ["#1E88E5","#64B5F6"] as [string, string],
+          accentColor: "#1976D2",
+          letters: [
+          {
+          "letter": "A",
+          "word": "Airplane",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "H",
+          "word": "Helicopter",
+          "emoji": "🛩️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "D",
+          "word": "Drone",
+          "emoji": "🚁",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "B",
+          "word": "Biplane",
+          "emoji": "✈️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "G",
+          "word": "Glider",
+          "emoji": "🛩️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "C",
+          "word": "Cessna",
+          "emoji": "✈️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "S",
+          "word": "Seaplane",
+          "emoji": "🛩️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "J",
+          "word": "Jet",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "T",
+          "word": "Turboprop",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "C",
+          "word": "Cargo Plane",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "F",
+          "word": "Fighter Jet",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "A",
+          "word": "Apache Chopper",
+          "emoji": "🛩️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "C",
+          "word": "Chinook",
+          "emoji": "🛩️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "W",
+          "word": "Wings",
+          "emoji": "✈️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "S",
+          "word": "Sky Crane",
+          "emoji": "🛩️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "H",
+          "word": "Hangar",
+          "emoji": "✈️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "R",
+          "word": "Runway",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "T",
+          "word": "Takeoff",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "L",
+          "word": "Landing",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "P",
+          "word": "Pilot",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "S",
+          "word": "Stewardess",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          },
+          {
+          "letter": "S",
+          "word": "Sparrow",
+          "emoji": "🛩️",
+          "bgColor": "#2196F3"
+          },
+          {
+          "letter": "N",
+          "word": "Navy Chopper",
+          "emoji": "🛩️",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "A",
+          "word": "Air Show",
+          "emoji": "✈️",
+          "bgColor": "#64B5F6"
+          },
+          {
+          "letter": "S",
+          "word": "Sky Patrol",
+          "emoji": "✈️",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "A",
+          "word": "Aerobatics",
+          "emoji": "✈️",
+          "bgColor": "#BBDEFB"
+          },
+          {
+          "letter": "I",
+          "word": "Instruments",
+          "emoji": "✈️",
+          "bgColor": "#E3F2FD"
+          },
+          {
+          "letter": "A",
+          "word": "Airspeed",
+          "emoji": "✈️",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "C",
+          "word": "Cockpit",
+          "emoji": "✈️",
+          "bgColor": "#1976D2"
+          },
+          {
+          "letter": "C",
+          "word": "Cabin",
+          "emoji": "✈️",
+          "bgColor": "#1E88E5"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesRacing1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Racing Vehicles - Part 1",
+          videoId: "vehicles-racing-1",
+          bgGradient: ["#D32F2F","#FFCDD2"] as [string, string],
+          accentColor: "#B71C1C",
+          letters: [
+          {
+          "letter": "F",
+          "word": "Formula 1",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "R",
+          "word": "Race Car",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Stock Car",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "D",
+          "word": "Drag Racer",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "I",
+          "word": "Indy Car",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "N",
+          "word": "NASCAR",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "L",
+          "word": "Le Mans",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "R",
+          "word": "Rally Car",
+          "emoji": "🏎️",
+          "bgColor": "#F8A5A5"
+          },
+          {
+          "letter": "S",
+          "word": "Sports Car",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "T",
+          "word": "Time Trial",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "C",
+          "word": "Champ Car",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "A",
+          "word": "Autocross",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "D",
+          "word": "Drifting",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Sprint",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "C",
+          "word": "Circuit",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "P",
+          "word": "Pit Stop",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "T",
+          "word": "Track",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "G",
+          "word": "Grand Prix",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "W",
+          "word": "Wheel",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "E",
+          "word": "Engine",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "A",
+          "word": "Acceleration",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Speed",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "F",
+          "word": "Finish",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "P",
+          "word": "Podium",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "V",
+          "word": "Victory",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "C",
+          "word": "Champion",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "R",
+          "word": "Racer",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "D",
+          "word": "Driver",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "F",
+          "word": "Flag",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "C",
+          "word": "Chequered",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesRacing2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Racing Vehicles - Part 2",
+          videoId: "vehicles-racing-2",
+          bgGradient: ["#C62828","#EF9A9A"] as [string, string],
+          accentColor: "#B71C1C",
+          letters: [
+          {
+          "letter": "F",
+          "word": "Formula 1",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "R",
+          "word": "Race Car",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Stock Car",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "D",
+          "word": "Drag Racer",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "I",
+          "word": "Indy Car",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "N",
+          "word": "NASCAR",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "L",
+          "word": "Le Mans",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "R",
+          "word": "Rally Car",
+          "emoji": "🏎️",
+          "bgColor": "#F8A5A5"
+          },
+          {
+          "letter": "S",
+          "word": "Sports Car",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "T",
+          "word": "Time Trial",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "C",
+          "word": "Champ Car",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "A",
+          "word": "Autocross",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "D",
+          "word": "Drifting",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Sprint",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "C",
+          "word": "Circuit",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "P",
+          "word": "Pit Stop",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "T",
+          "word": "Track",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "G",
+          "word": "Grand Prix",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "W",
+          "word": "Wheel",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "E",
+          "word": "Engine",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "A",
+          "word": "Acceleration",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Speed",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "F",
+          "word": "Finish",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "P",
+          "word": "Podium",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "V",
+          "word": "Victory",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "C",
+          "word": "Champion",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "R",
+          "word": "Racer",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "D",
+          "word": "Driver",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "F",
+          "word": "Flag",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "C",
+          "word": "Chequered",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesRacing3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Racing Vehicles - Part 3",
+          videoId: "vehicles-racing-3",
+          bgGradient: ["#E53935","#FFEBEE"] as [string, string],
+          accentColor: "#C62828",
+          letters: [
+          {
+          "letter": "F",
+          "word": "Formula 1",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "R",
+          "word": "Race Car",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "S",
+          "word": "Stock Car",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "D",
+          "word": "Drag Racer",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "I",
+          "word": "Indy Car",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "N",
+          "word": "NASCAR",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "L",
+          "word": "Le Mans",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "R",
+          "word": "Rally Car",
+          "emoji": "🏎️",
+          "bgColor": "#F8A5A5"
+          },
+          {
+          "letter": "S",
+          "word": "Sports Car",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "T",
+          "word": "Time Trial",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "C",
+          "word": "Champ Car",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "A",
+          "word": "Autocross",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "D",
+          "word": "Drifting",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Sprint",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "C",
+          "word": "Circuit",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "P",
+          "word": "Pit Stop",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "T",
+          "word": "Track",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "G",
+          "word": "Grand Prix",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "W",
+          "word": "Wheel",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "E",
+          "word": "Engine",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "A",
+          "word": "Acceleration",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "S",
+          "word": "Speed",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          },
+          {
+          "letter": "F",
+          "word": "Finish",
+          "emoji": "🏎️",
+          "bgColor": "#E57373"
+          },
+          {
+          "letter": "P",
+          "word": "Podium",
+          "emoji": "🏎️",
+          "bgColor": "#EF9A9A"
+          },
+          {
+          "letter": "V",
+          "word": "Victory",
+          "emoji": "🏎️",
+          "bgColor": "#FFCDD2"
+          },
+          {
+          "letter": "C",
+          "word": "Champion",
+          "emoji": "🏎️",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "R",
+          "word": "Racer",
+          "emoji": "🏎️",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "D",
+          "word": "Driver",
+          "emoji": "🏎️",
+          "bgColor": "#E53935"
+          },
+          {
+          "letter": "F",
+          "word": "Flag",
+          "emoji": "🏎️",
+          "bgColor": "#F44336"
+          },
+          {
+          "letter": "C",
+          "word": "Chequered",
+          "emoji": "🏎️",
+          "bgColor": "#EF5350"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesPublicTransport1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Public Transport - Part 1",
+          videoId: "vehicles-public-transport-1",
+          bgGradient: ["#00897B","#B2DFDB"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "M",
+          "word": "Metro",
+          "emoji": "🚂",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Train",
+          "emoji": "🚃",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "B",
+          "word": "Bus",
+          "emoji": "🚌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "T",
+          "word": "Tram",
+          "emoji": "🚂",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "M",
+          "word": "Minibus",
+          "emoji": "🚐",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "C",
+          "word": "Coach",
+          "emoji": "🚌",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "D",
+          "word": "Double Decker",
+          "emoji": "🚌",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "E",
+          "word": "Express Bus",
+          "emoji": "🚌",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "S",
+          "word": "School Bus",
+          "emoji": "🚌",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Tourist Bus",
+          "emoji": "🚌",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Railway",
+          "emoji": "🚂",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "L",
+          "word": "Light Rail",
+          "emoji": "🚃",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "M",
+          "word": "Monorail",
+          "emoji": "🚂",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "A",
+          "word": "Airport Shuttle",
+          "emoji": "🚐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "C",
+          "word": "Cable Car",
+          "emoji": "🚂",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "S",
+          "word": "Station",
+          "emoji": "🚂",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "P",
+          "word": "Platform",
+          "emoji": "🚃",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Ticket",
+          "emoji": "🎫",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "P",
+          "word": "Passenger",
+          "emoji": "👤",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "R",
+          "word": "Route",
+          "emoji": "🗺️",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "S",
+          "word": "Stop",
+          "emoji": "🛑",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "D",
+          "word": "Depot",
+          "emoji": "🚌",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "S",
+          "word": "Schedule",
+          "emoji": "📅",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "F",
+          "word": "Ferry",
+          "emoji": "🚢",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "T",
+          "word": "Transit",
+          "emoji": "🚌",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "J",
+          "word": "Journey",
+          "emoji": "🚂",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "C",
+          "word": "Commute",
+          "emoji": "🚌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "D",
+          "word": "Destination",
+          "emoji": "📍",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "O",
+          "word": "Operator",
+          "emoji": "👨‍💼",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "N",
+          "word": "Network",
+          "emoji": "🕸️",
+          "bgColor": "#4DB6AC"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesPublicTransport2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Public Transport - Part 2",
+          videoId: "vehicles-public-transport-2",
+          bgGradient: ["#00796B","#80CBC4"] as [string, string],
+          accentColor: "#00695C",
+          letters: [
+          {
+          "letter": "M",
+          "word": "Metro",
+          "emoji": "🚂",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Train",
+          "emoji": "🚃",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "B",
+          "word": "Bus",
+          "emoji": "🚌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "T",
+          "word": "Tram",
+          "emoji": "🚂",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "M",
+          "word": "Minibus",
+          "emoji": "🚐",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "C",
+          "word": "Coach",
+          "emoji": "🚌",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "D",
+          "word": "Double Decker",
+          "emoji": "🚌",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "E",
+          "word": "Express Bus",
+          "emoji": "🚌",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "S",
+          "word": "School Bus",
+          "emoji": "🚌",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Tourist Bus",
+          "emoji": "🚌",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Railway",
+          "emoji": "🚂",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "L",
+          "word": "Light Rail",
+          "emoji": "🚃",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "M",
+          "word": "Monorail",
+          "emoji": "🚂",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "A",
+          "word": "Airport Shuttle",
+          "emoji": "🚐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "C",
+          "word": "Cable Car",
+          "emoji": "🚂",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "S",
+          "word": "Station",
+          "emoji": "🚂",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "P",
+          "word": "Platform",
+          "emoji": "🚃",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Ticket",
+          "emoji": "🎫",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "P",
+          "word": "Passenger",
+          "emoji": "👤",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "R",
+          "word": "Route",
+          "emoji": "🗺️",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "S",
+          "word": "Stop",
+          "emoji": "🛑",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "D",
+          "word": "Depot",
+          "emoji": "🚌",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "S",
+          "word": "Schedule",
+          "emoji": "📅",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "F",
+          "word": "Ferry",
+          "emoji": "🚢",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "T",
+          "word": "Transit",
+          "emoji": "🚌",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "J",
+          "word": "Journey",
+          "emoji": "🚂",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "C",
+          "word": "Commute",
+          "emoji": "🚌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "D",
+          "word": "Destination",
+          "emoji": "📍",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "O",
+          "word": "Operator",
+          "emoji": "👨‍💼",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "N",
+          "word": "Network",
+          "emoji": "🕸️",
+          "bgColor": "#4DB6AC"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesPublicTransport3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Public Transport - Part 3",
+          videoId: "vehicles-public-transport-3",
+          bgGradient: ["#00695C","#4DB6AC"] as [string, string],
+          accentColor: "#004D40",
+          letters: [
+          {
+          "letter": "M",
+          "word": "Metro",
+          "emoji": "🚂",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Train",
+          "emoji": "🚃",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "B",
+          "word": "Bus",
+          "emoji": "🚌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "T",
+          "word": "Tram",
+          "emoji": "🚂",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "M",
+          "word": "Minibus",
+          "emoji": "🚐",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "C",
+          "word": "Coach",
+          "emoji": "🚌",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "D",
+          "word": "Double Decker",
+          "emoji": "🚌",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "E",
+          "word": "Express Bus",
+          "emoji": "🚌",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "S",
+          "word": "School Bus",
+          "emoji": "🚌",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Tourist Bus",
+          "emoji": "🚌",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "I",
+          "word": "Indian Railway",
+          "emoji": "🚂",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "L",
+          "word": "Light Rail",
+          "emoji": "🚃",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "M",
+          "word": "Monorail",
+          "emoji": "🚂",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "A",
+          "word": "Airport Shuttle",
+          "emoji": "🚐",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "C",
+          "word": "Cable Car",
+          "emoji": "🚂",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "S",
+          "word": "Station",
+          "emoji": "🚂",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "P",
+          "word": "Platform",
+          "emoji": "🚃",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "T",
+          "word": "Ticket",
+          "emoji": "🎫",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "P",
+          "word": "Passenger",
+          "emoji": "👤",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "R",
+          "word": "Route",
+          "emoji": "🗺️",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "S",
+          "word": "Stop",
+          "emoji": "🛑",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "D",
+          "word": "Depot",
+          "emoji": "🚌",
+          "bgColor": "#4DB6AC"
+          },
+          {
+          "letter": "S",
+          "word": "Schedule",
+          "emoji": "📅",
+          "bgColor": "#26A69A"
+          },
+          {
+          "letter": "F",
+          "word": "Ferry",
+          "emoji": "🚢",
+          "bgColor": "#009688"
+          },
+          {
+          "letter": "T",
+          "word": "Transit",
+          "emoji": "🚌",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "J",
+          "word": "Journey",
+          "emoji": "🚂",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "C",
+          "word": "Commute",
+          "emoji": "🚌",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "D",
+          "word": "Destination",
+          "emoji": "📍",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "O",
+          "word": "Operator",
+          "emoji": "👨‍💼",
+          "bgColor": "#80CBC4"
+          },
+          {
+          "letter": "N",
+          "word": "Network",
+          "emoji": "🕸️",
+          "bgColor": "#4DB6AC"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesSpaceVehicles1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Space Vehicles - Part 1",
+          videoId: "vehicles-space-vehicles-1",
+          bgGradient: ["#1A237E","#7986CB"] as [string, string],
+          accentColor: "#0D47A1",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rocket",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "S",
+          "word": "Space Shuttle",
+          "emoji": "🛸",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "S",
+          "word": "Satellite",
+          "emoji": "🛰️",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "A",
+          "word": "Apollo",
+          "emoji": "🚀",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "L",
+          "word": "Lunar Module",
+          "emoji": "🛸",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "M",
+          "word": "Mars Rover",
+          "emoji": "🛸",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "I",
+          "word": "ISS",
+          "emoji": "🚀",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Soyuz",
+          "emoji": "🚀",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "O",
+          "word": "Orbiter",
+          "emoji": "🛸",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "C",
+          "word": "Capsule",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "T",
+          "word": "Telescope",
+          "emoji": "🔭",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "P",
+          "word": "Probe",
+          "emoji": "🛸",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "L",
+          "word": "Launch Pad",
+          "emoji": "🚀",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "M",
+          "word": "Mission Control",
+          "emoji": "🎛️",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "A",
+          "word": "Astronaut",
+          "emoji": "👨‍🚀",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmonaut",
+          "emoji": "👨‍🚀",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Gravity",
+          "emoji": "⚖️",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "S",
+          "word": "Space Walk",
+          "emoji": "👨‍🚀",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "D",
+          "word": "Docking",
+          "emoji": "🔗",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "O",
+          "word": "Orbit",
+          "emoji": "🌍",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "M",
+          "word": "Moon",
+          "emoji": "🌙",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "S",
+          "word": "Star",
+          "emoji": "⭐",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "P",
+          "word": "Planet",
+          "emoji": "🪐",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmos",
+          "emoji": "🌌",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "G",
+          "word": "Galaxy",
+          "emoji": "🌌",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "U",
+          "word": "Universe",
+          "emoji": "🌌",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "S",
+          "word": "Sun",
+          "emoji": "☀️",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "F",
+          "word": "Flight",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "L",
+          "word": "Liftoff",
+          "emoji": "🚀",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "E",
+          "word": "Exploration",
+          "emoji": "🔬",
+          "bgColor": "#303F9F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesSpaceVehicles2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Space Vehicles - Part 2",
+          videoId: "vehicles-space-vehicles-2",
+          bgGradient: ["#283593","#9FA8DA"] as [string, string],
+          accentColor: "#1A237E",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rocket",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "S",
+          "word": "Space Shuttle",
+          "emoji": "🛸",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "S",
+          "word": "Satellite",
+          "emoji": "🛰️",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "A",
+          "word": "Apollo",
+          "emoji": "🚀",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "L",
+          "word": "Lunar Module",
+          "emoji": "🛸",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "M",
+          "word": "Mars Rover",
+          "emoji": "🛸",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "I",
+          "word": "ISS",
+          "emoji": "🚀",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Soyuz",
+          "emoji": "🚀",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "O",
+          "word": "Orbiter",
+          "emoji": "🛸",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "C",
+          "word": "Capsule",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "T",
+          "word": "Telescope",
+          "emoji": "🔭",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "P",
+          "word": "Probe",
+          "emoji": "🛸",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "L",
+          "word": "Launch Pad",
+          "emoji": "🚀",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "M",
+          "word": "Mission Control",
+          "emoji": "🎛️",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "A",
+          "word": "Astronaut",
+          "emoji": "👨‍🚀",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmonaut",
+          "emoji": "👨‍🚀",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Gravity",
+          "emoji": "⚖️",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "S",
+          "word": "Space Walk",
+          "emoji": "👨‍🚀",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "D",
+          "word": "Docking",
+          "emoji": "🔗",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "O",
+          "word": "Orbit",
+          "emoji": "🌍",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "M",
+          "word": "Moon",
+          "emoji": "🌙",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "S",
+          "word": "Star",
+          "emoji": "⭐",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "P",
+          "word": "Planet",
+          "emoji": "🪐",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmos",
+          "emoji": "🌌",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "G",
+          "word": "Galaxy",
+          "emoji": "🌌",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "U",
+          "word": "Universe",
+          "emoji": "🌌",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "S",
+          "word": "Sun",
+          "emoji": "☀️",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "F",
+          "word": "Flight",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "L",
+          "word": "Liftoff",
+          "emoji": "🚀",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "E",
+          "word": "Exploration",
+          "emoji": "🔬",
+          "bgColor": "#303F9F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesSpaceVehicles3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Space Vehicles - Part 3",
+          videoId: "vehicles-space-vehicles-3",
+          bgGradient: ["#303F9F","#C5CAE9"] as [string, string],
+          accentColor: "#283593",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Rocket",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "S",
+          "word": "Space Shuttle",
+          "emoji": "🛸",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "S",
+          "word": "Satellite",
+          "emoji": "🛰️",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "A",
+          "word": "Apollo",
+          "emoji": "🚀",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "L",
+          "word": "Lunar Module",
+          "emoji": "🛸",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "M",
+          "word": "Mars Rover",
+          "emoji": "🛸",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "I",
+          "word": "ISS",
+          "emoji": "🚀",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "S",
+          "word": "Soyuz",
+          "emoji": "🚀",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "O",
+          "word": "Orbiter",
+          "emoji": "🛸",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "C",
+          "word": "Capsule",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "T",
+          "word": "Telescope",
+          "emoji": "🔭",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "P",
+          "word": "Probe",
+          "emoji": "🛸",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "L",
+          "word": "Launch Pad",
+          "emoji": "🚀",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "M",
+          "word": "Mission Control",
+          "emoji": "🎛️",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "A",
+          "word": "Astronaut",
+          "emoji": "👨‍🚀",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmonaut",
+          "emoji": "👨‍🚀",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "Z",
+          "word": "Zero Gravity",
+          "emoji": "⚖️",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "S",
+          "word": "Space Walk",
+          "emoji": "👨‍🚀",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "D",
+          "word": "Docking",
+          "emoji": "🔗",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "O",
+          "word": "Orbit",
+          "emoji": "🌍",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "M",
+          "word": "Moon",
+          "emoji": "🌙",
+          "bgColor": "#303F9F"
+          },
+          {
+          "letter": "S",
+          "word": "Star",
+          "emoji": "⭐",
+          "bgColor": "#3F51B5"
+          },
+          {
+          "letter": "P",
+          "word": "Planet",
+          "emoji": "🪐",
+          "bgColor": "#5C6BC0"
+          },
+          {
+          "letter": "C",
+          "word": "Cosmos",
+          "emoji": "🌌",
+          "bgColor": "#7986CB"
+          },
+          {
+          "letter": "G",
+          "word": "Galaxy",
+          "emoji": "🌌",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "U",
+          "word": "Universe",
+          "emoji": "🌌",
+          "bgColor": "#C5CAE9"
+          },
+          {
+          "letter": "S",
+          "word": "Sun",
+          "emoji": "☀️",
+          "bgColor": "#E8EAF6"
+          },
+          {
+          "letter": "F",
+          "word": "Flight",
+          "emoji": "🚀",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "L",
+          "word": "Liftoff",
+          "emoji": "🚀",
+          "bgColor": "#283593"
+          },
+          {
+          "letter": "E",
+          "word": "Exploration",
+          "emoji": "🔬",
+          "bgColor": "#303F9F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesClassicVehicles1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Classic Vehicles - Part 1",
+          videoId: "vehicles-classic-vehicles-1",
+          bgGradient: ["#795548","#D7CCC8"] as [string, string],
+          accentColor: "#4E342E",
+          letters: [
+          {
+          "letter": "V",
+          "word": "Vintage Car",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Classic",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "A",
+          "word": "Antique",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "R",
+          "word": "Roadster",
+          "emoji": "🏎️",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "C",
+          "word": "Coupe",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "S",
+          "word": "Sedan",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "T",
+          "word": "Touring Car",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "M",
+          "word": "Model T",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Austin",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Morris",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Studebaker",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "P",
+          "word": "Plymouth",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "D",
+          "word": "DeSoto",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "P",
+          "word": "Packard",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "D",
+          "word": "Duesenberg",
+          "emoji": "🏎️",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Cadillac",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Lincoln",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "I",
+          "word": "Imperial",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "C",
+          "word": "Chevrolet",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "F",
+          "word": "Ford",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "G",
+          "word": "Graham",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "H",
+          "word": "Hudson",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "N",
+          "word": "Nash",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Oldsmobile",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pontiac",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "R",
+          "word": "REO",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "W",
+          "word": "Willys",
+          "emoji": "🚙",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "C",
+          "word": "Chrysler",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "D",
+          "word": "Dodge",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "D",
+          "word": "DeSoto",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesClassicVehicles2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Classic Vehicles - Part 2",
+          videoId: "vehicles-classic-vehicles-2",
+          bgGradient: ["#6D4C41","#BCAAA4"] as [string, string],
+          accentColor: "#3E2723",
+          letters: [
+          {
+          "letter": "V",
+          "word": "Vintage Car",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Classic",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "A",
+          "word": "Antique",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "R",
+          "word": "Roadster",
+          "emoji": "🏎️",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "C",
+          "word": "Coupe",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "S",
+          "word": "Sedan",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "T",
+          "word": "Touring Car",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "M",
+          "word": "Model T",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Austin",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Morris",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Studebaker",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "P",
+          "word": "Plymouth",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "D",
+          "word": "DeSoto",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "P",
+          "word": "Packard",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "D",
+          "word": "Duesenberg",
+          "emoji": "🏎️",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Cadillac",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Lincoln",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "I",
+          "word": "Imperial",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "C",
+          "word": "Chevrolet",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "F",
+          "word": "Ford",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "G",
+          "word": "Graham",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "H",
+          "word": "Hudson",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "N",
+          "word": "Nash",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Oldsmobile",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pontiac",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "R",
+          "word": "REO",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "W",
+          "word": "Willys",
+          "emoji": "🚙",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "C",
+          "word": "Chrysler",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "D",
+          "word": "Dodge",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "D",
+          "word": "DeSoto",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="VehiclesClassicVehicles3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Classic Vehicles - Part 3",
+          videoId: "vehicles-classic-vehicles-3",
+          bgGradient: ["#8D6E63","#EFEBE9"] as [string, string],
+          accentColor: "#4E342E",
+          letters: [
+          {
+          "letter": "V",
+          "word": "Vintage Car",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Classic",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "A",
+          "word": "Antique",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "R",
+          "word": "Roadster",
+          "emoji": "🏎️",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "C",
+          "word": "Coupe",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "S",
+          "word": "Sedan",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "T",
+          "word": "Touring Car",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "M",
+          "word": "Model T",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "A",
+          "word": "Austin",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Morris",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "S",
+          "word": "Studebaker",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "P",
+          "word": "Plymouth",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "D",
+          "word": "DeSoto",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "P",
+          "word": "Packard",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "D",
+          "word": "Duesenberg",
+          "emoji": "🏎️",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "C",
+          "word": "Cadillac",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Lincoln",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "I",
+          "word": "Imperial",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "C",
+          "word": "Chevrolet",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "F",
+          "word": "Ford",
+          "emoji": "🚗",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "G",
+          "word": "Graham",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "H",
+          "word": "Hudson",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "N",
+          "word": "Nash",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "O",
+          "word": "Oldsmobile",
+          "emoji": "🚗",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pontiac",
+          "emoji": "🚗",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "R",
+          "word": "REO",
+          "emoji": "🚗",
+          "bgColor": "#BCAAA4"
+          },
+          {
+          "letter": "W",
+          "word": "Willys",
+          "emoji": "🚙",
+          "bgColor": "#D7CCC8"
+          },
+          {
+          "letter": "C",
+          "word": "Chrysler",
+          "emoji": "🚗",
+          "bgColor": "#EFEBE9"
+          },
+          {
+          "letter": "D",
+          "word": "Dodge",
+          "emoji": "🚗",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "D",
+          "word": "DeSoto",
+          "emoji": "🚗",
+          "bgColor": "#6D4C41"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+    </>
+  );
+};

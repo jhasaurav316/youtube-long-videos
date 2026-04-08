@@ -1,40 +1,86 @@
-# YouTube Long Videos - 1000 Landscape Compilations
+# YouTube Video Factory - 1440+ Videos
 
-1000 landscape (1920x1080) YouTube videos, 30-40 minutes each (varied lengths), compiled from A-to-Z learning shorts across 15 categories.
+All-in-one project for generating YouTube Shorts (440) + Long Videos (1000) with automated upload.
 
 ## Setup
 
 ```bash
 npm install
+cd youtube-uploader && npm install && cd ..
 ```
 
-## Usage (20 Phases, 50 videos each)
+## Project Structure
 
-### Step 1: Generate Audio (run before rendering)
+```
+├── src/
+│   ├── index.ts                          # Combined root (1440+ compositions)
+│   ├── AlphabetShortsTemplate.tsx        # Shorts template (1080x1920)
+│   ├── LandscapeCompilationTemplate.tsx  # Long video template (1920x1080)
+│   ├── LongVideoRoot.tsx                 # 1000 long video compositions
+│   ├── AnimalRoot.tsx                    # Shorts compositions (per category)
+│   ├── BirdRoot.tsx
+│   └── ... (15 category roots)
+│
+├── animal-names/                         # Category data (catalog.json per folder)
+├── bird-names/
+├── ... (15 category folders)
+│
+├── scripts/                              # Long video scripts (1000 videos)
+│   ├── phase1-audio.ps1 ... phase20-audio.ps1
+│   ├── phase1-render.ps1 ... phase20-render.ps1
+│   ├── render-parallel-3gpu.ps1          # 3x RTX 4090 parallel render
+│   ├── render-all-long-videos.ps1        # GPU-accelerated render
+│   ├── generate-all-audio.ps1
+│   ├── generate-catalog.js
+│   ├── register-compositions.js
+│   └── catalog.json                      # 1000 video definitions
+│
+├── shorts-scripts/                       # Shorts render scripts (440 videos)
+│   ├── render-phase1.ps1
+│   ├── run-phase1.ps1 ... run-phase9.ps1
+│   └── generate-audio-phase1.ps1
+│
+└── youtube-uploader/                     # Auto-upload to YouTube
+    ├── auth.js
+    ├── upload.js
+    └── generate-metadata.js
+```
+
+## Long Videos (1000 videos, 30-40 min each)
+
+### 3-GPU Parallel Render (fastest)
 ```powershell
-.\scripts\phase1-audio.ps1    # Videos 1-50
-.\scripts\phase2-audio.ps1    # Videos 51-100
-# ... up to phase20
+.\scripts\phase1-audio.ps1
+.\scripts\phase1-render.ps1 -Parallel     # Uses all 3 GPUs
 ```
 
-### Step 2: Render Videos
+### Single GPU
 ```powershell
-.\scripts\phase1-render.ps1                # Videos 1-50 (HD)
-.\scripts\phase1-render.ps1 -Quality max   # Videos 1-50 (Max quality)
-# ... up to phase20
+.\scripts\phase1-render.ps1               # HD quality
+.\scripts\phase1-render.ps1 -Quality max  # Max quality
 ```
 
-### Single video
+### All 1000 at once (3 GPUs)
 ```powershell
-.\scripts\render-all-long-videos.ps1 -Single 1
+.\scripts\render-parallel-3gpu.ps1
 ```
 
-### Preview
+## Shorts (440 videos)
+
+```powershell
+.\shorts-scripts\run-phase1.ps1    # Phase 1-9
+```
+
+## YouTube Upload
+
 ```bash
-npm run dev
+cd youtube-uploader
+node auth.js                                            # One-time auth
+node upload.js --all --dry-run                          # Preview
+node upload.js --folders animal-names --status public   # Upload
 ```
 
-## 20 Phases
+## 20 Phases (Long Videos)
 
 | Phase | Videos | Phase | Videos |
 |-------|--------|-------|--------|
@@ -50,14 +96,13 @@ npm run dev
 | 10 | 451-500 | 20 | 951-1000 |
 
 ## Stats
-- **1000 videos** with varied lengths (24-44 min)
-- **~557 hours** of total content
-- **11-15 chapters** per video (shuffled)
-- **4-5.5 sec** per item (varied)
+- **1440+ total videos** (440 shorts + 1000 long)
+- **~557 hours** of long video content
+- **30-40 min** per long video (shuffled lengths)
 - **15 categories**: Animals, Birds, Fruits, Vegetables, Flowers, Sea Creatures, Insects, Dinosaurs, Instruments, Vehicles, Countries, Sports, Foods, Colors & Shapes, Space
 
 ## Requirements
 - Node.js 18+
-- edge-tts (for voice narration)
-- ffmpeg (for BGM generation)
-- GPU recommended for faster rendering
+- edge-tts
+- ffmpeg
+- 3x RTX 4090 (recommended)

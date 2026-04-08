@@ -1,0 +1,2104 @@
+======================================================================
+LYRICS: DINOSAUR NAMES (30 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. Carnivore Dinosaurs - Part 1 (dino-carnivores-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-carnivores-1-audio/
+
+Letter 0: T for T-Rex
+Letter 1: V for Velociraptor
+Letter 2: S for Spinosaurus
+Letter 3: A for Allosaurus
+Letter 4: C for Carnotaurus
+Letter 5: G for Giganotosaurus
+Letter 6: D for Dilophosaurus
+Letter 7: M for Megalosaurus
+Letter 8: B for Baryonyx
+Letter 9: R for Rajasaurus
+Letter 10: U for Utahraptor
+Letter 11: O for Oviraptor
+Letter 12: P for Proceratosaurus
+Letter 13: N for Neovenator
+Letter 14: H for Herrerasaurus
+Letter 15: K for Kronosaurus
+Letter 16: L for Lythronax
+Letter 17: I for Indoraptor
+Letter 18: F for Fukuiraptor
+Letter 19: E for Eoraptor
+Letter 20: W for Wuerhosaurus
+Letter 21: J for Juravenator
+Letter 22: X for Xuanhanosaurus
+Letter 23: Y for Yangchuanosaurus
+Letter 24: Z for Zuolong
+Letter 25: Q for Quilmesaurus
+Letter 26: C for Ceratosaurus
+Letter 27: S for Suchomimus
+Letter 28: T for Tarbosaurus
+Letter 29: M for Mapusaurus
+
+PLAIN TEXT:
+T for T-Rex
+V for Velociraptor
+S for Spinosaurus
+A for Allosaurus
+C for Carnotaurus
+G for Giganotosaurus
+D for Dilophosaurus
+M for Megalosaurus
+B for Baryonyx
+R for Rajasaurus
+U for Utahraptor
+O for Oviraptor
+P for Proceratosaurus
+N for Neovenator
+H for Herrerasaurus
+K for Kronosaurus
+L for Lythronax
+I for Indoraptor
+F for Fukuiraptor
+E for Eoraptor
+W for Wuerhosaurus
+J for Juravenator
+X for Xuanhanosaurus
+Y for Yangchuanosaurus
+Z for Zuolong
+Q for Quilmesaurus
+C for Ceratosaurus
+S for Suchomimus
+T for Tarbosaurus
+M for Mapusaurus
+
+
+----------------------------------------------------------------------
+#2. Carnivore Dinosaurs - Part 2 (dino-carnivores-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-carnivores-2-audio/
+
+Letter 0: D for Deinonychus
+Letter 1: A for Acrocanthosaurus
+Letter 2: M for Megaraptor
+Letter 3: C for Coelophysis
+Letter 4: T for Torvosaurus
+Letter 5: S for Saurophaganax
+Letter 6: G for Guanlong
+Letter 7: B for Bahariasaurus
+Letter 8: R for Rugops
+Letter 9: P for Pyroraptor
+Letter 10: N for Nothronychus
+Letter 11: L for Liopleurodon
+Letter 12: K for Kryptops
+Letter 13: O for Oxalaia
+Letter 14: H for Hatzegopteryx
+Letter 15: F for Fruitadens
+Letter 16: I for Irritator
+Letter 17: E for Eocarcharia
+Letter 18: W for Wintonotitan
+Letter 19: J for Jianchangosaurus
+Letter 20: U for Unaysaurus
+Letter 21: V for Variraptor
+Letter 22: X for Xiongguanlong
+Letter 23: Y for Yixianosaurus
+Letter 24: Z for Zupaysaurus
+Letter 25: Q for Qianzhousaurus
+Letter 26: A for Abelisaurus
+Letter 27: D for Dryptosaurus
+Letter 28: S for Sinotyrannus
+Letter 29: T for Tyrannotitan
+
+PLAIN TEXT:
+D for Deinonychus
+A for Acrocanthosaurus
+M for Megaraptor
+C for Coelophysis
+T for Torvosaurus
+S for Saurophaganax
+G for Guanlong
+B for Bahariasaurus
+R for Rugops
+P for Pyroraptor
+N for Nothronychus
+L for Liopleurodon
+K for Kryptops
+O for Oxalaia
+H for Hatzegopteryx
+F for Fruitadens
+I for Irritator
+E for Eocarcharia
+W for Wintonotitan
+J for Jianchangosaurus
+U for Unaysaurus
+V for Variraptor
+X for Xiongguanlong
+Y for Yixianosaurus
+Z for Zupaysaurus
+Q for Qianzhousaurus
+A for Abelisaurus
+D for Dryptosaurus
+S for Sinotyrannus
+T for Tyrannotitan
+
+
+----------------------------------------------------------------------
+#3. Carnivore Dinosaurs - Part 3 (dino-carnivores-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-carnivores-3-audio/
+
+Letter 0: C for Carcharodontosaurus
+Letter 1: M for Monolophosaurus
+Letter 2: S for Sinraptor
+Letter 3: P for Piatnitzkysaurus
+Letter 4: A for Austroraptor
+Letter 5: R for Raptorex
+Letter 6: D for Dahalokely
+Letter 7: T for Troodon
+Letter 8: G for Gasosaurus
+Letter 9: B for Berberosaurus
+Letter 10: N for Nanuqsaurus
+Letter 11: L for Labocania
+Letter 12: K for Kileskus
+Letter 13: O for Ostafrikasaurus
+Letter 14: H for Huaxiagnathus
+Letter 15: F for Falcarius
+Letter 16: I for Ichthyovenator
+Letter 17: E for Elaphrosaurus
+Letter 18: W for Wiehenvenator
+Letter 19: J for Jubbulpuria
+Letter 20: U for Ulughbegsaurus
+Letter 21: V for Vespersaurus
+Letter 22: X for Xenotarsosaurus
+Letter 23: Y for Yutyrannus
+Letter 24: Z for Zhuchengtyrannus
+Letter 25: Q for Quaesitosaurus
+Letter 26: M for Masiakasaurus
+Letter 27: S for Skorpiovenator
+Letter 28: C for Chilantaisaurus
+Letter 29: T for Thanatotheristes
+
+PLAIN TEXT:
+C for Carcharodontosaurus
+M for Monolophosaurus
+S for Sinraptor
+P for Piatnitzkysaurus
+A for Austroraptor
+R for Raptorex
+D for Dahalokely
+T for Troodon
+G for Gasosaurus
+B for Berberosaurus
+N for Nanuqsaurus
+L for Labocania
+K for Kileskus
+O for Ostafrikasaurus
+H for Huaxiagnathus
+F for Falcarius
+I for Ichthyovenator
+E for Elaphrosaurus
+W for Wiehenvenator
+J for Jubbulpuria
+U for Ulughbegsaurus
+V for Vespersaurus
+X for Xenotarsosaurus
+Y for Yutyrannus
+Z for Zhuchengtyrannus
+Q for Quaesitosaurus
+M for Masiakasaurus
+S for Skorpiovenator
+C for Chilantaisaurus
+T for Thanatotheristes
+
+
+----------------------------------------------------------------------
+#4. Herbivore Dinosaurs - Part 1 (dino-herbivores-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-herbivores-1-audio/
+
+Letter 0: T for Triceratops
+Letter 1: S for Stegosaurus
+Letter 2: B for Brachiosaurus
+Letter 3: D for Diplodocus
+Letter 4: A for Ankylosaurus
+Letter 5: P for Parasaurolophus
+Letter 6: I for Iguanodon
+Letter 7: H for Hadrosaurus
+Letter 8: M for Maiasaura
+Letter 9: C for Corythosaurus
+Letter 10: G for Gigantspinosaurus
+Letter 11: L for Lambeosaurus
+Letter 12: N for Nigersaurus
+Letter 13: R for Rhabdodon
+Letter 14: K for Kentrosaurus
+Letter 15: O for Ouranosaurus
+Letter 16: F for Fabrosaurus
+Letter 17: W for Wuerhosaurus
+Letter 18: E for Edmontosaurus
+Letter 19: J for Jaxartosaurus
+Letter 20: U for Udanoceratops
+Letter 21: V for Vulcanodon
+Letter 22: X for Xiaosaurus
+Letter 23: Y for Yunnanosaurus
+Letter 24: Z for Zanabazar
+Letter 25: Q for Qantassaurus
+Letter 26: T for Titanosaurus
+Letter 27: S for Sauropelta
+Letter 28: B for Barosaurus
+Letter 29: P for Protoceratops
+
+PLAIN TEXT:
+T for Triceratops
+S for Stegosaurus
+B for Brachiosaurus
+D for Diplodocus
+A for Ankylosaurus
+P for Parasaurolophus
+I for Iguanodon
+H for Hadrosaurus
+M for Maiasaura
+C for Corythosaurus
+G for Gigantspinosaurus
+L for Lambeosaurus
+N for Nigersaurus
+R for Rhabdodon
+K for Kentrosaurus
+O for Ouranosaurus
+F for Fabrosaurus
+W for Wuerhosaurus
+E for Edmontosaurus
+J for Jaxartosaurus
+U for Udanoceratops
+V for Vulcanodon
+X for Xiaosaurus
+Y for Yunnanosaurus
+Z for Zanabazar
+Q for Qantassaurus
+T for Titanosaurus
+S for Sauropelta
+B for Barosaurus
+P for Protoceratops
+
+
+----------------------------------------------------------------------
+#5. Herbivore Dinosaurs - Part 2 (dino-herbivores-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-herbivores-2-audio/
+
+Letter 0: A for Apatosaurus
+Letter 1: C for Camarasaurus
+Letter 2: D for Dracorex
+Letter 3: E for Euoplocephalus
+Letter 4: G for Gastonia
+Letter 5: H for Huayangosaurus
+Letter 6: I for Isanosaurus
+Letter 7: J for Jobaria
+Letter 8: K for Kritosaurus
+Letter 9: L for Lesothosaurus
+Letter 10: M for Minmi
+Letter 11: N for Nodosaurus
+Letter 12: O for Othnielosaurus
+Letter 13: P for Pachycephalosaurus
+Letter 14: R for Rajasaurus
+Letter 15: S for Saltasaurus
+Letter 16: T for Therizinosaurus
+Letter 17: U for Unaysaurus
+Letter 18: V for Velafrons
+Letter 19: W for Wendiceratops
+Letter 20: F for Fukuisaurus
+Letter 21: X for Xenoceratops
+Letter 22: Y for Yamaceratops
+Letter 23: Z for Zalmoxes
+Letter 24: Q for Quaesitosaurus
+Letter 25: B for Borealopelta
+Letter 26: D for Dryosaurus
+Letter 27: C for Centrosaurus
+Letter 28: S for Scelidosaurus
+Letter 29: A for Amargasaurus
+
+PLAIN TEXT:
+A for Apatosaurus
+C for Camarasaurus
+D for Dracorex
+E for Euoplocephalus
+G for Gastonia
+H for Huayangosaurus
+I for Isanosaurus
+J for Jobaria
+K for Kritosaurus
+L for Lesothosaurus
+M for Minmi
+N for Nodosaurus
+O for Othnielosaurus
+P for Pachycephalosaurus
+R for Rajasaurus
+S for Saltasaurus
+T for Therizinosaurus
+U for Unaysaurus
+V for Velafrons
+W for Wendiceratops
+F for Fukuisaurus
+X for Xenoceratops
+Y for Yamaceratops
+Z for Zalmoxes
+Q for Quaesitosaurus
+B for Borealopelta
+D for Dryosaurus
+C for Centrosaurus
+S for Scelidosaurus
+A for Amargasaurus
+
+
+----------------------------------------------------------------------
+#6. Herbivore Dinosaurs - Part 3 (dino-herbivores-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-herbivores-3-audio/
+
+Letter 0: S for Supersaurus
+Letter 1: A for Argentinosaurus
+Letter 2: P for Patagotitan
+Letter 3: B for Brontosaurus
+Letter 4: M for Mamenchisaurus
+Letter 5: T for Torosaurus
+Letter 6: D for Dreadnoughtus
+Letter 7: G for Giraffatitan
+Letter 8: C for Chasmosaurus
+Letter 9: L for Lusotitan
+Letter 10: N for Nemegtosaurus
+Letter 11: R for Rapetosaurus
+Letter 12: H for Hypacrosaurus
+Letter 13: K for Kosmoceratops
+Letter 14: O for Opisthocoelicaudia
+Letter 15: F for Futalognkosaurus
+Letter 16: W for Wamweracaudia
+Letter 17: E for Erketu
+Letter 18: I for Indosaurus
+Letter 19: J for Jainosaurus
+Letter 20: U for Uberabatitan
+Letter 21: V for Venenosaurus
+Letter 22: X for Xianshanosaurus
+Letter 23: Y for Yingshanosaurus
+Letter 24: Z for Zuul
+Letter 25: Q for Quetzalcoatlus
+Letter 26: T for Tsintaosaurus
+Letter 27: S for Shantungosaurus
+Letter 28: P for Plateosaurus
+Letter 29: B for Bajadasaurus
+
+PLAIN TEXT:
+S for Supersaurus
+A for Argentinosaurus
+P for Patagotitan
+B for Brontosaurus
+M for Mamenchisaurus
+T for Torosaurus
+D for Dreadnoughtus
+G for Giraffatitan
+C for Chasmosaurus
+L for Lusotitan
+N for Nemegtosaurus
+R for Rapetosaurus
+H for Hypacrosaurus
+K for Kosmoceratops
+O for Opisthocoelicaudia
+F for Futalognkosaurus
+W for Wamweracaudia
+E for Erketu
+I for Indosaurus
+J for Jainosaurus
+U for Uberabatitan
+V for Venenosaurus
+X for Xianshanosaurus
+Y for Yingshanosaurus
+Z for Zuul
+Q for Quetzalcoatlus
+T for Tsintaosaurus
+S for Shantungosaurus
+P for Plateosaurus
+B for Bajadasaurus
+
+
+----------------------------------------------------------------------
+#7. Flying Dinosaurs - Part 1 (dino-flying-dinos-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-flying-dinos-1-audio/
+
+Letter 0: P for Pteranodon
+Letter 1: Q for Quetzalcoatlus
+Letter 2: R for Rhamphorhynchus
+Letter 3: D for Dimorphodon
+Letter 4: A for Anhanguera
+Letter 5: T for Tupuxuara
+Letter 6: S for Sordes
+Letter 7: C for Caulkicephalus
+Letter 8: H for Hatzegopteryx
+Letter 9: N for Nemicolopterus
+Letter 10: O for Ornithocheirus
+Letter 11: M for Moganopterus
+Letter 12: G for Gnathosaurus
+Letter 13: I for Istiodactylus
+Letter 14: L for Lonchodectes
+Letter 15: K for Kepodactylus
+Letter 16: B for Bakonydraco
+Letter 17: E for Eudimorphodon
+Letter 18: F for Feilongus
+Letter 19: W for Wellnhopterus
+Letter 20: J for Jeholopterus
+Letter 21: U for Unwindia
+Letter 22: V for Vectidraco
+Letter 23: X for Xericeps
+Letter 24: Y for Yixianopterus
+Letter 25: Z for Zhenyuanopterus
+Letter 26: P for Pterodactylus
+Letter 27: A for Arambourgiania
+Letter 28: T for Thalassodromeus
+Letter 29: S for Sinopterus
+
+PLAIN TEXT:
+P for Pteranodon
+Q for Quetzalcoatlus
+R for Rhamphorhynchus
+D for Dimorphodon
+A for Anhanguera
+T for Tupuxuara
+S for Sordes
+C for Caulkicephalus
+H for Hatzegopteryx
+N for Nemicolopterus
+O for Ornithocheirus
+M for Moganopterus
+G for Gnathosaurus
+I for Istiodactylus
+L for Lonchodectes
+K for Kepodactylus
+B for Bakonydraco
+E for Eudimorphodon
+F for Feilongus
+W for Wellnhopterus
+J for Jeholopterus
+U for Unwindia
+V for Vectidraco
+X for Xericeps
+Y for Yixianopterus
+Z for Zhenyuanopterus
+P for Pterodactylus
+A for Arambourgiania
+T for Thalassodromeus
+S for Sinopterus
+
+
+----------------------------------------------------------------------
+#8. Flying Dinosaurs - Part 2 (dino-flying-dinos-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-flying-dinos-2-audio/
+
+Letter 0: A for Archaeopteryx
+Letter 1: M for Microraptor
+Letter 2: C for Confuciusornis
+Letter 3: I for Iberomesornis
+Letter 4: S for Sharovipteryx
+Letter 5: P for Peteinosaurus
+Letter 6: T for Tapejara
+Letter 7: D for Darwinopterus
+Letter 8: G for Geosternbergia
+Letter 9: B for Brasileodactylus
+Letter 10: N for Nyctosaurus
+Letter 11: R for Raeticodactylus
+Letter 12: H for Haopterus
+Letter 13: L for Ludodactylus
+Letter 14: K for Kunpengopterus
+Letter 15: O for Ornithomimus
+Letter 16: F for Forfexopterus
+Letter 17: W for Wukongopterus
+Letter 18: E for Eoazhdarcho
+Letter 19: J for Jidapterus
+Letter 20: U for Uktenadactylus
+Letter 21: V for Volgadraco
+Letter 22: X for Xericeps
+Letter 23: Y for Yungavolucris
+Letter 24: Z for Zhejiangopterus
+Letter 25: Q for Quetzalcoatlus
+Letter 26: A for Aurorazhdarcho
+Letter 27: M for Muzquizopteryx
+Letter 28: T for Tropeognathus
+Letter 29: P for Phosphatodraco
+
+PLAIN TEXT:
+A for Archaeopteryx
+M for Microraptor
+C for Confuciusornis
+I for Iberomesornis
+S for Sharovipteryx
+P for Peteinosaurus
+T for Tapejara
+D for Darwinopterus
+G for Geosternbergia
+B for Brasileodactylus
+N for Nyctosaurus
+R for Raeticodactylus
+H for Haopterus
+L for Ludodactylus
+K for Kunpengopterus
+O for Ornithomimus
+F for Forfexopterus
+W for Wukongopterus
+E for Eoazhdarcho
+J for Jidapterus
+U for Uktenadactylus
+V for Volgadraco
+X for Xericeps
+Y for Yungavolucris
+Z for Zhejiangopterus
+Q for Quetzalcoatlus
+A for Aurorazhdarcho
+M for Muzquizopteryx
+T for Tropeognathus
+P for Phosphatodraco
+
+
+----------------------------------------------------------------------
+#9. Flying Dinosaurs - Part 3 (dino-flying-dinos-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-flying-dinos-3-audio/
+
+Letter 0: C for Cearadactylus
+Letter 1: D for Dsungaripterus
+Letter 2: G for Guidraco
+Letter 3: H for Hamipterus
+Letter 4: I for Ikrandraco
+Letter 5: K for Kariridraco
+Letter 6: L for Lacusovagus
+Letter 7: M for Mesadactylus
+Letter 8: N for Navajodactylus
+Letter 9: O for Oregoniterus
+Letter 10: P for Preondactylus
+Letter 11: R for Rhamphocephalus
+Letter 12: S for Scaphognathus
+Letter 13: T for Tropeognathus
+Letter 14: A for Aerodactylus
+Letter 15: B for Bennettazhia
+Letter 16: E for Eopteranodon
+Letter 17: F for Faxinalipterus
+Letter 18: W for Wendigo
+Letter 19: J for Jiufotang
+Letter 20: U for Urophonus
+Letter 21: V for Volaticotherium
+Letter 22: X for Xianglongus
+Letter 23: Y for Yixianopterus
+Letter 24: Z for Zhenyuan
+Letter 25: Q for Quetzal Wing
+Letter 26: D for Dorygnathus
+Letter 27: S for Scleromochlus
+Letter 28: A for Anurognathus
+Letter 29: P for Pterodaustro
+
+PLAIN TEXT:
+C for Cearadactylus
+D for Dsungaripterus
+G for Guidraco
+H for Hamipterus
+I for Ikrandraco
+K for Kariridraco
+L for Lacusovagus
+M for Mesadactylus
+N for Navajodactylus
+O for Oregoniterus
+P for Preondactylus
+R for Rhamphocephalus
+S for Scaphognathus
+T for Tropeognathus
+A for Aerodactylus
+B for Bennettazhia
+E for Eopteranodon
+F for Faxinalipterus
+W for Wendigo
+J for Jiufotang
+U for Urophonus
+V for Volaticotherium
+X for Xianglongus
+Y for Yixianopterus
+Z for Zhenyuan
+Q for Quetzal Wing
+D for Dorygnathus
+S for Scleromochlus
+A for Anurognathus
+P for Pterodaustro
+
+
+----------------------------------------------------------------------
+#10. Sea Dinosaurs - Part 1 (dino-sea-dinos-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-sea-dinos-1-audio/
+
+Letter 0: I for Ichthyosaurus
+Letter 1: P for Plesiosaurus
+Letter 2: M for Mosasaurus
+Letter 3: E for Elasmosaurus
+Letter 4: L for Liopleurodon
+Letter 5: K for Kronosaurus
+Letter 6: N for Nothosaurus
+Letter 7: T for Tylosaurus
+Letter 8: S for Shonisaurus
+Letter 9: D for Dolichorhynchops
+Letter 10: A for Albertonectes
+Letter 11: B for Basilosaurus
+Letter 12: C for Cryptoclidus
+Letter 13: G for Globidens
+Letter 14: H for Hainosaurus
+Letter 15: O for Ophthalmosaurus
+Letter 16: R for Rhomaleosaurus
+Letter 17: F for Futabasaurus
+Letter 18: W for Woolungasaurus
+Letter 19: J for Jurassic Shark
+Letter 20: U for Umoonasaurus
+Letter 21: V for Vancleavea
+Letter 22: X for Xinpusaurus
+Letter 23: Y for Yunguisaurus
+Letter 24: Z for Zarafasaura
+Letter 25: Q for Qianichthyosaurus
+Letter 26: P for Platecarpus
+Letter 27: M for Mixosaurus
+Letter 28: S for Styxosaurus
+Letter 29: T for Temnodontosaurus
+
+PLAIN TEXT:
+I for Ichthyosaurus
+P for Plesiosaurus
+M for Mosasaurus
+E for Elasmosaurus
+L for Liopleurodon
+K for Kronosaurus
+N for Nothosaurus
+T for Tylosaurus
+S for Shonisaurus
+D for Dolichorhynchops
+A for Albertonectes
+B for Basilosaurus
+C for Cryptoclidus
+G for Globidens
+H for Hainosaurus
+O for Ophthalmosaurus
+R for Rhomaleosaurus
+F for Futabasaurus
+W for Woolungasaurus
+J for Jurassic Shark
+U for Umoonasaurus
+V for Vancleavea
+X for Xinpusaurus
+Y for Yunguisaurus
+Z for Zarafasaura
+Q for Qianichthyosaurus
+P for Platecarpus
+M for Mixosaurus
+S for Styxosaurus
+T for Temnodontosaurus
+
+
+----------------------------------------------------------------------
+#11. Sea Dinosaurs - Part 2 (dino-sea-dinos-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-sea-dinos-2-audio/
+
+Letter 0: C for Clidastes
+Letter 1: D for Dakosaurus
+Letter 2: G for Goronyosaurus
+Letter 3: H for Hydrotherosaurus
+Letter 4: N for Nichollsia
+Letter 5: P for Prognathodon
+Letter 6: R for Russellosaurus
+Letter 7: T for Tanystropheus
+Letter 8: A for Attenborosaurus
+Letter 9: B for Brachauchenius
+Letter 10: E for Eurhinosaurus
+Letter 11: F for Funkei
+Letter 12: I for Irritator Aqua
+Letter 13: K for Kaika
+Letter 14: L for Libonectes
+Letter 15: M for Maresaurus
+Letter 16: O for Omphalosaurus
+Letter 17: S for Simolestes
+Letter 18: W for Westphaliasaurus
+Letter 19: J for Jormungandr
+Letter 20: U for Undorosaurus
+Letter 21: V for Vegasaurus
+Letter 22: X for Xiaolong
+Letter 23: Y for Yuzhousaurus
+Letter 24: Z for Zuolong Sea
+Letter 25: Q for Quaesitosaurus Aqua
+Letter 26: N for Namouni
+Letter 27: C for Colymbosaurus
+Letter 28: T for Thalassiodracon
+Letter 29: P for Pliosaur
+
+PLAIN TEXT:
+C for Clidastes
+D for Dakosaurus
+G for Goronyosaurus
+H for Hydrotherosaurus
+N for Nichollsia
+P for Prognathodon
+R for Russellosaurus
+T for Tanystropheus
+A for Attenborosaurus
+B for Brachauchenius
+E for Eurhinosaurus
+F for Funkei
+I for Irritator Aqua
+K for Kaika
+L for Libonectes
+M for Maresaurus
+O for Omphalosaurus
+S for Simolestes
+W for Westphaliasaurus
+J for Jormungandr
+U for Undorosaurus
+V for Vegasaurus
+X for Xiaolong
+Y for Yuzhousaurus
+Z for Zuolong Sea
+Q for Quaesitosaurus Aqua
+N for Namouni
+C for Colymbosaurus
+T for Thalassiodracon
+P for Pliosaur
+
+
+----------------------------------------------------------------------
+#12. Sea Dinosaurs - Part 3 (dino-sea-dinos-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-sea-dinos-3-audio/
+
+Letter 0: M for Megalodon
+Letter 1: D for Dunkleosteus
+Letter 2: S for Sarcosuchus
+Letter 3: T for Taniwhasaurus
+Letter 4: P for Plotosaurus
+Letter 5: A for Aristonectes
+Letter 6: B for Brancasaurus
+Letter 7: C for Callawayasaurus
+Letter 8: E for Edestus
+Letter 9: G for Giganotosaurus Sea
+Letter 10: H for Helicoprion
+Letter 11: I for Irritator Sea
+Letter 12: K for Kaikaifilu
+Letter 13: L for Leedsichthys
+Letter 14: N for Nothosaur
+Letter 15: O for Orthacanthus
+Letter 16: R for Reptile Sea
+Letter 17: F for Fossil Fish
+Letter 18: W for Whale Lizard
+Letter 19: J for Jurassic Sea
+Letter 20: U for Utatsusaurus
+Letter 21: V for Vancleavea
+Letter 22: X for Xiphactinus
+Letter 23: Y for Yaguarasaurus
+Letter 24: Z for Ziphactinus
+Letter 25: Q for Quenstedt
+Letter 26: M for Metriorhynchus
+Letter 27: S for Stethacanthus
+Letter 28: D for Dallasaurus
+Letter 29: P for Plesiosaur
+
+PLAIN TEXT:
+M for Megalodon
+D for Dunkleosteus
+S for Sarcosuchus
+T for Taniwhasaurus
+P for Plotosaurus
+A for Aristonectes
+B for Brancasaurus
+C for Callawayasaurus
+E for Edestus
+G for Giganotosaurus Sea
+H for Helicoprion
+I for Irritator Sea
+K for Kaikaifilu
+L for Leedsichthys
+N for Nothosaur
+O for Orthacanthus
+R for Reptile Sea
+F for Fossil Fish
+W for Whale Lizard
+J for Jurassic Sea
+U for Utatsusaurus
+V for Vancleavea
+X for Xiphactinus
+Y for Yaguarasaurus
+Z for Ziphactinus
+Q for Quenstedt
+M for Metriorhynchus
+S for Stethacanthus
+D for Dallasaurus
+P for Plesiosaur
+
+
+----------------------------------------------------------------------
+#13. Armored Dinosaurs - Part 1 (dino-armored-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-armored-1-audio/
+
+Letter 0: A for Ankylosaurus
+Letter 1: S for Stegosaurus
+Letter 2: E for Euoplocephalus
+Letter 3: N for Nodosaurus
+Letter 4: P for Polacanthus
+Letter 5: T for Tarchia
+Letter 6: G for Gastonia
+Letter 7: H for Hylaeosaurus
+Letter 8: M for Minmi
+Letter 9: K for Kentrosaurus
+Letter 10: D for Dacentrurus
+Letter 11: B for Borealopelta
+Letter 12: C for Crichtonsaurus
+Letter 13: L for Lexovisaurus
+Letter 14: R for Regnosaurus
+Letter 15: O for Othnielosaurus
+Letter 16: F for Fugalosaurus
+Letter 17: W for Wuerhosaurus
+Letter 18: I for Iguanodon Armored
+Letter 19: J for Jiangjunosaurus
+Letter 20: U for Urbacodon
+Letter 21: V for Vest Dino
+Letter 22: X for Xiaoyuanlong
+Letter 23: Y for Yangchuano Armored
+Letter 24: Z for Zuul Crurivastator
+Letter 25: Q for Qijianglong
+Letter 26: S for Sauropelta
+Letter 27: A for Animantarx
+Letter 28: T for Talarurus
+Letter 29: P for Pinacosaurus
+
+PLAIN TEXT:
+A for Ankylosaurus
+S for Stegosaurus
+E for Euoplocephalus
+N for Nodosaurus
+P for Polacanthus
+T for Tarchia
+G for Gastonia
+H for Hylaeosaurus
+M for Minmi
+K for Kentrosaurus
+D for Dacentrurus
+B for Borealopelta
+C for Crichtonsaurus
+L for Lexovisaurus
+R for Regnosaurus
+O for Othnielosaurus
+F for Fugalosaurus
+W for Wuerhosaurus
+I for Iguanodon Armored
+J for Jiangjunosaurus
+U for Urbacodon
+V for Vest Dino
+X for Xiaoyuanlong
+Y for Yangchuano Armored
+Z for Zuul Crurivastator
+Q for Qijianglong
+S for Sauropelta
+A for Animantarx
+T for Talarurus
+P for Pinacosaurus
+
+
+----------------------------------------------------------------------
+#14. Armored Dinosaurs - Part 2 (dino-armored-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-armored-2-audio/
+
+Letter 0: S for Saichania
+Letter 1: T for Tianchisaurus
+Letter 2: D for Dracopelta
+Letter 3: G for Gargoyleosaurus
+Letter 4: H for Hungarosaurus
+Letter 5: M for Mymoorapelta
+Letter 6: N for Niobrarasaurus
+Letter 7: P for Pawpawsaurus
+Letter 8: A for Acanthopholis
+Letter 9: B for Batrachotomus
+Letter 10: C for Cedarpelta
+Letter 11: E for Edmontonia
+Letter 12: K for Kunbarrasaurus
+Letter 13: L for Liaoningosaurus
+Letter 14: R for Ruehleia
+Letter 15: O for Oohkotokia
+Letter 16: F for Fossil Armored
+Letter 17: W for Woodwardian
+Letter 18: I for Indian Armored
+Letter 19: J for Jurassic Shield
+Letter 20: U for Ursa Armored
+Letter 21: V for Vectipelta
+Letter 22: X for Xenoposeidon
+Letter 23: Y for Yuxisaurus
+Letter 24: Z for Zhejiangosaurus
+Letter 25: Q for Qiupa
+Letter 26: S for Struthiosaurus
+Letter 27: A for Ahshislepelta
+Letter 28: T for Texasetes
+Letter 29: D for Denversaurus
+
+PLAIN TEXT:
+S for Saichania
+T for Tianchisaurus
+D for Dracopelta
+G for Gargoyleosaurus
+H for Hungarosaurus
+M for Mymoorapelta
+N for Niobrarasaurus
+P for Pawpawsaurus
+A for Acanthopholis
+B for Batrachotomus
+C for Cedarpelta
+E for Edmontonia
+K for Kunbarrasaurus
+L for Liaoningosaurus
+R for Ruehleia
+O for Oohkotokia
+F for Fossil Armored
+W for Woodwardian
+I for Indian Armored
+J for Jurassic Shield
+U for Ursa Armored
+V for Vectipelta
+X for Xenoposeidon
+Y for Yuxisaurus
+Z for Zhejiangosaurus
+Q for Qiupa
+S for Struthiosaurus
+A for Ahshislepelta
+T for Texasetes
+D for Denversaurus
+
+
+----------------------------------------------------------------------
+#15. Armored Dinosaurs - Part 3 (dino-armored-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-armored-3-audio/
+
+Letter 0: Z for Zuul
+Letter 1: A for Aletopelta
+Letter 2: B for Bumpy Dino
+Letter 3: C for Club Tail
+Letter 4: D for Dyoplosaurus
+Letter 5: E for Emausaurus
+Letter 6: F for Ford Armored
+Letter 7: G for Gobisaurus
+Letter 8: H for Hesperosaurus
+Letter 9: I for Invicta Armored
+Letter 10: J for Jinyunpelta
+Letter 11: K for Koreano Armored
+Letter 12: L for Loricatosaurus
+Letter 13: M for Maleev Armored
+Letter 14: N for Nopcsaspondylus
+Letter 15: O for Osmolskina
+Letter 16: P for Propanoplosaurus
+Letter 17: R for Rocky Armored
+Letter 18: S for Scutellosaurus
+Letter 19: T for Tatankacephalus
+Letter 20: U for Uintacrinus
+Letter 21: V for Victory Armored
+Letter 22: W for Willo Dino
+Letter 23: X for Xuanhua Armored
+Letter 24: Y for Yunnanosaur
+Letter 25: Q for Quilled Dino
+Letter 26: S for Shield Bearer
+Letter 27: A for Ancient Shield
+Letter 28: T for Tank Dino
+Letter 29: M for Mighty Armored
+
+PLAIN TEXT:
+Z for Zuul
+A for Aletopelta
+B for Bumpy Dino
+C for Club Tail
+D for Dyoplosaurus
+E for Emausaurus
+F for Ford Armored
+G for Gobisaurus
+H for Hesperosaurus
+I for Invicta Armored
+J for Jinyunpelta
+K for Koreano Armored
+L for Loricatosaurus
+M for Maleev Armored
+N for Nopcsaspondylus
+O for Osmolskina
+P for Propanoplosaurus
+R for Rocky Armored
+S for Scutellosaurus
+T for Tatankacephalus
+U for Uintacrinus
+V for Victory Armored
+W for Willo Dino
+X for Xuanhua Armored
+Y for Yunnanosaur
+Q for Quilled Dino
+S for Shield Bearer
+A for Ancient Shield
+T for Tank Dino
+M for Mighty Armored
+
+
+----------------------------------------------------------------------
+#16. Giant Dinosaurs - Part 1 (dino-giant-dinos-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-giant-dinos-1-audio/
+
+Letter 0: B for Brachiosaurus
+Letter 1: A for Argentinosaurus
+Letter 2: D for Diplodocus
+Letter 3: M for Mamenchisaurus
+Letter 4: T for Titanosaurus
+Letter 5: S for Sauropodomorph
+Letter 6: A for Apatosaurus
+Letter 7: C for Camarasaurus
+Letter 8: N for Nebrasketosaurus
+Letter 9: L for Lirainosaurus
+Letter 10: Q for Qinlingosaurus
+Letter 11: X for Xuanhanosaurus
+Letter 12: H for Haplocheirus
+Letter 13: P for Prosauropod
+Letter 14: S for Shantungosaurus
+Letter 15: L for Lexovisaurus
+Letter 16: E for Eoraptor
+Letter 17: H for Hypsilophodon
+Letter 18: O for Ouranosaurus
+Letter 19: R for Rhoetosaurus
+Letter 20: S for Saichania
+Letter 21: T for Therizinosaurus
+Letter 22: V for Vulcanodontosaurus
+Letter 23: W for Wamweracosaurus
+Letter 24: Y for Yinlong
+Letter 25: Z for Zigongosaurus
+Letter 26: I for Isisaurus
+Letter 27: K for Kronosaurus
+Letter 28: J for Jobaria
+Letter 29: U for Ultrasaurus
+
+PLAIN TEXT:
+B for Brachiosaurus
+A for Argentinosaurus
+D for Diplodocus
+M for Mamenchisaurus
+T for Titanosaurus
+S for Sauropodomorph
+A for Apatosaurus
+C for Camarasaurus
+N for Nebrasketosaurus
+L for Lirainosaurus
+Q for Qinlingosaurus
+X for Xuanhanosaurus
+H for Haplocheirus
+P for Prosauropod
+S for Shantungosaurus
+L for Lexovisaurus
+E for Eoraptor
+H for Hypsilophodon
+O for Ouranosaurus
+R for Rhoetosaurus
+S for Saichania
+T for Therizinosaurus
+V for Vulcanodontosaurus
+W for Wamweracosaurus
+Y for Yinlong
+Z for Zigongosaurus
+I for Isisaurus
+K for Kronosaurus
+J for Jobaria
+U for Ultrasaurus
+
+
+----------------------------------------------------------------------
+#17. Giant Dinosaurs - Part 2 (dino-giant-dinos-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-giant-dinos-2-audio/
+
+Letter 0: G for Gastrosaurus
+Letter 1: L for Loricosaurus
+Letter 2: M for Malawisaurus
+Letter 3: N for Nemegtosaurus
+Letter 4: O for Opisthocoelicaudia
+Letter 5: P for Phuwiangosaurus
+Letter 6: R for Ruyangosaurus
+Letter 7: S for Sonorosaurus
+Letter 8: T for Turiasaurus
+Letter 9: U for Ubirajara
+Letter 10: V for Venenosaurus
+Letter 11: W for Wintonotitan
+Letter 12: X for Xinjiangtitan
+Letter 13: Y for Yemenosaurus
+Letter 14: Z for Zapalasaurus
+Letter 15: A for Angolatitan
+Letter 16: B for Barosaurus
+Letter 17: C for Cetiosaurus
+Letter 18: D for Daxiatitan
+Letter 19: E for Erketu
+Letter 20: F for Fukuisaurus
+Letter 21: G for Gondwanatitan
+Letter 22: H for Huanghetitan
+Letter 23: I for Indosuchus
+Letter 24: J for Jaxartosaurus
+Letter 25: K for Kaijutitan
+Letter 26: L for Ligocristus
+Letter 27: M for Mansourasaurus
+Letter 28: N for Notocolossus
+Letter 29: O for Omeisaurus
+
+PLAIN TEXT:
+G for Gastrosaurus
+L for Loricosaurus
+M for Malawisaurus
+N for Nemegtosaurus
+O for Opisthocoelicaudia
+P for Phuwiangosaurus
+R for Ruyangosaurus
+S for Sonorosaurus
+T for Turiasaurus
+U for Ubirajara
+V for Venenosaurus
+W for Wintonotitan
+X for Xinjiangtitan
+Y for Yemenosaurus
+Z for Zapalasaurus
+A for Angolatitan
+B for Barosaurus
+C for Cetiosaurus
+D for Daxiatitan
+E for Erketu
+F for Fukuisaurus
+G for Gondwanatitan
+H for Huanghetitan
+I for Indosuchus
+J for Jaxartosaurus
+K for Kaijutitan
+L for Ligocristus
+M for Mansourasaurus
+N for Notocolossus
+O for Omeisaurus
+
+
+----------------------------------------------------------------------
+#18. Giant Dinosaurs - Part 3 (dino-giant-dinos-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-giant-dinos-3-audio/
+
+Letter 0: P for Paralititan
+Letter 1: Q for Qubbeosaurus
+Letter 2: R for Rapetosaurus
+Letter 3: S for Saltasaurus
+Letter 4: T for Tastavinsaurus
+Letter 5: U for Uberabatitan
+Letter 6: V for Valdoraptor
+Letter 7: W for Wamweracosaurus
+Letter 8: X for Xuanhanosaurus
+Letter 9: Y for Yongjuanosaurus
+Letter 10: Z for Zhejiangotitan
+Letter 11: A for Asiatosaurus
+Letter 12: B for Bactrosaurus
+Letter 13: C for Chubutosaurus
+Letter 14: D for Dinheirosaurus
+Letter 15: E for Europasaurus
+Letter 16: F for Futalognkosaurus
+Letter 17: G for Gobititan
+Letter 18: H for Hypselosaurus
+Letter 19: I for Inosaurus
+Letter 20: J for Jingshanosaurus
+Letter 21: K for Klamelisaurus
+Letter 22: L for Lirainosaurus
+Letter 23: M for Mendozasaurus
+Letter 24: N for Nanzhousaurus
+Letter 25: O for Ornithotitan
+Letter 26: P for Pernasaurus
+Letter 27: Q for Qiaowanlong
+Letter 28: R for Ribasaurus
+Letter 29: S for Savannasaurus
+
+PLAIN TEXT:
+P for Paralititan
+Q for Qubbeosaurus
+R for Rapetosaurus
+S for Saltasaurus
+T for Tastavinsaurus
+U for Uberabatitan
+V for Valdoraptor
+W for Wamweracosaurus
+X for Xuanhanosaurus
+Y for Yongjuanosaurus
+Z for Zhejiangotitan
+A for Asiatosaurus
+B for Bactrosaurus
+C for Chubutosaurus
+D for Dinheirosaurus
+E for Europasaurus
+F for Futalognkosaurus
+G for Gobititan
+H for Hypselosaurus
+I for Inosaurus
+J for Jingshanosaurus
+K for Klamelisaurus
+L for Lirainosaurus
+M for Mendozasaurus
+N for Nanzhousaurus
+O for Ornithotitan
+P for Pernasaurus
+Q for Qiaowanlong
+R for Ribasaurus
+S for Savannasaurus
+
+
+----------------------------------------------------------------------
+#19. Small Dinosaurs - Part 1 (dino-small-dinos-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-small-dinos-1-audio/
+
+Letter 0: C for Compsognathus
+Letter 1: M for Microraptor
+Letter 2: P for Parvicursor
+Letter 3: S for Sinosauropteryx
+Letter 4: J for Jeholosaurus
+Letter 5: H for Hesperonyx
+Letter 6: E for Epidexipteryx
+Letter 7: T for Theyronyx
+Letter 8: X for Xiaotingia
+Letter 9: N for Nanotyrannus
+Letter 10: O for Ornitholestes
+Letter 11: A for Archaeopteryx
+Letter 12: U for Urvogel
+Letter 13: F for Fruitadens
+Letter 14: L for Lesothosaurus
+Letter 15: T for Tugulutherium
+Letter 16: B for Bambiraptor
+Letter 17: D for Deinonychus
+Letter 18: P for Protarchaeopteryx
+Letter 19: G for Graciliraptor
+Letter 20: I for Inostrancevia
+Letter 21: C for Caudipteryx
+Letter 22: M for Mei
+Letter 23: T for Troodon
+Letter 24: S for Sinornithosaurus
+Letter 25: K for Koparion
+Letter 26: W for Wuerhosaurus
+Letter 27: Y for Yalvac
+Letter 28: Z for Zallisaurodon
+Letter 29: R for Raptorex
+
+PLAIN TEXT:
+C for Compsognathus
+M for Microraptor
+P for Parvicursor
+S for Sinosauropteryx
+J for Jeholosaurus
+H for Hesperonyx
+E for Epidexipteryx
+T for Theyronyx
+X for Xiaotingia
+N for Nanotyrannus
+O for Ornitholestes
+A for Archaeopteryx
+U for Urvogel
+F for Fruitadens
+L for Lesothosaurus
+T for Tugulutherium
+B for Bambiraptor
+D for Deinonychus
+P for Protarchaeopteryx
+G for Graciliraptor
+I for Inostrancevia
+C for Caudipteryx
+M for Mei
+T for Troodon
+S for Sinornithosaurus
+K for Koparion
+W for Wuerhosaurus
+Y for Yalvac
+Z for Zallisaurodon
+R for Raptorex
+
+
+----------------------------------------------------------------------
+#20. Small Dinosaurs - Part 2 (dino-small-dinos-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-small-dinos-2-audio/
+
+Letter 0: A for Abrictosaurus
+Letter 1: B for Bugenosaurus
+Letter 2: C for Chirostenotes
+Letter 3: D for Dromaeosaurus
+Letter 4: E for Edmontosaurus
+Letter 5: F for Fusions
+Letter 6: G for Gastonosaurus
+Letter 7: H for Homalocephale
+Letter 8: I for Iguanodon
+Letter 9: J for Jeholornis
+Letter 10: K for Kulceratops
+Letter 11: L for Laosaurus
+Letter 12: M for Microceratops
+Letter 13: N for Nanshiungosaurus
+Letter 14: O for Orolceratops
+Letter 15: P for Psittacosaurus
+Letter 16: Q for Qinornithosaurus
+Letter 17: R for Rahonavis
+Letter 18: S for Scytalognathus
+Letter 19: T for Tapinocephalus
+Letter 20: U for Unaysaurus
+Letter 21: V for Vinyaraptor
+Letter 22: W for Wannanosaurus
+Letter 23: X for Xinjiangovenator
+Letter 24: Y for Yandusaurus
+Letter 25: Z for Zhejiangraptor
+Letter 26: A for Anfractosaurus
+Letter 27: B for Borealopelta
+Letter 28: C for Camptosaurus
+Letter 29: D for Dracorex
+
+PLAIN TEXT:
+A for Abrictosaurus
+B for Bugenosaurus
+C for Chirostenotes
+D for Dromaeosaurus
+E for Edmontosaurus
+F for Fusions
+G for Gastonosaurus
+H for Homalocephale
+I for Iguanodon
+J for Jeholornis
+K for Kulceratops
+L for Laosaurus
+M for Microceratops
+N for Nanshiungosaurus
+O for Orolceratops
+P for Psittacosaurus
+Q for Qinornithosaurus
+R for Rahonavis
+S for Scytalognathus
+T for Tapinocephalus
+U for Unaysaurus
+V for Vinyaraptor
+W for Wannanosaurus
+X for Xinjiangovenator
+Y for Yandusaurus
+Z for Zhejiangraptor
+A for Anfractosaurus
+B for Borealopelta
+C for Camptosaurus
+D for Dracorex
+
+
+----------------------------------------------------------------------
+#21. Small Dinosaurs - Part 3 (dino-small-dinos-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-small-dinos-3-audio/
+
+Letter 0: E for Elaphrosaurus
+Letter 1: F for Fabrosaurus
+Letter 2: G for Goyocephale
+Letter 3: H for Hylaeosaurus
+Letter 4: I for Ischinosaurus
+Letter 5: J for Jingshanosaurus
+Letter 6: K for Kaijiangosaurus
+Letter 7: L for Laquintasaura
+Letter 8: M for Microceratus
+Letter 9: N for Nuthetes
+Letter 10: O for Ornithomimus
+Letter 11: P for Placerias
+Letter 12: Q for Quadrupedalism
+Letter 13: R for Rhabdotus
+Letter 14: S for Sauropelta
+Letter 15: T for Tawjawisaurus
+Letter 16: U for Urbacodon
+Letter 17: V for Vectipelta
+Letter 18: W for Wuerhosaurus
+Letter 19: X for Xenotarsosaurus
+Letter 20: Y for Yanornis
+Letter 21: Z for Zuniceratops
+Letter 22: A for Aucasaurus
+Letter 23: B for Byronosaurus
+Letter 24: C for Craspedodon
+Letter 25: D for Dracorex
+Letter 26: E for Eotyrannosaurs
+Letter 27: F for Fruitadens
+Letter 28: G for Gasparinisaura
+Letter 29: H for Hypsilophodon
+
+PLAIN TEXT:
+E for Elaphrosaurus
+F for Fabrosaurus
+G for Goyocephale
+H for Hylaeosaurus
+I for Ischinosaurus
+J for Jingshanosaurus
+K for Kaijiangosaurus
+L for Laquintasaura
+M for Microceratus
+N for Nuthetes
+O for Ornithomimus
+P for Placerias
+Q for Quadrupedalism
+R for Rhabdotus
+S for Sauropelta
+T for Tawjawisaurus
+U for Urbacodon
+V for Vectipelta
+W for Wuerhosaurus
+X for Xenotarsosaurus
+Y for Yanornis
+Z for Zuniceratops
+A for Aucasaurus
+B for Byronosaurus
+C for Craspedodon
+D for Dracorex
+E for Eotyrannosaurs
+F for Fruitadens
+G for Gasparinisaura
+H for Hypsilophodon
+
+
+----------------------------------------------------------------------
+#22. Cretaceous Period - Part 1 (dino-cretaceous-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-cretaceous-1-audio/
+
+Letter 0: T for Triceratops
+Letter 1: A for Ankylosaurus
+Letter 2: I for Iguanodon
+Letter 3: P for Parasaurolophus
+Letter 4: C for Compsognathus
+Letter 5: D for Dracorex
+Letter 6: E for Euoplocephalus
+Letter 7: S for Spinosaurus
+Letter 8: V for Velociraptor
+Letter 9: H for Hesperosaurus
+Letter 10: G for Giganotosaurus
+Letter 11: C for Carnotaurus
+Letter 12: M for Maiasaura
+Letter 13: P for Psittacosaurus
+Letter 14: R for Rajasaurus
+Letter 15: O for Oviraptorosaur
+Letter 16: N for Nodosaurus
+Letter 17: K for Kritosaurus
+Letter 18: L for Lambeosaurus
+Letter 19: B for Brachiosaurus
+Letter 20: T for Toxodon
+Letter 21: U for Uintasaurus
+Letter 22: X for Xenotarsosaurus
+Letter 23: Y for Yandusaurus
+Letter 24: Z for Zuolong
+Letter 25: W for Wuerhosaurus
+Letter 26: F for Fukuiraptor
+Letter 27: Q for Qantassaurus
+Letter 28: J for Jaxartosaurus
+Letter 29: S for Stegosaurus
+
+PLAIN TEXT:
+T for Triceratops
+A for Ankylosaurus
+I for Iguanodon
+P for Parasaurolophus
+C for Compsognathus
+D for Dracorex
+E for Euoplocephalus
+S for Spinosaurus
+V for Velociraptor
+H for Hesperosaurus
+G for Giganotosaurus
+C for Carnotaurus
+M for Maiasaura
+P for Psittacosaurus
+R for Rajasaurus
+O for Oviraptorosaur
+N for Nodosaurus
+K for Kritosaurus
+L for Lambeosaurus
+B for Brachiosaurus
+T for Toxodon
+U for Uintasaurus
+X for Xenotarsosaurus
+Y for Yandusaurus
+Z for Zuolong
+W for Wuerhosaurus
+F for Fukuiraptor
+Q for Qantassaurus
+J for Jaxartosaurus
+S for Stegosaurus
+
+
+----------------------------------------------------------------------
+#23. Cretaceous Period - Part 2 (dino-cretaceous-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-cretaceous-2-audio/
+
+Letter 0: A for Argentinosaurus
+Letter 1: B for Brachiosaurus
+Letter 2: C for Carnotaurus
+Letter 3: D for Diplodocus
+Letter 4: E for Edmontosaurus
+Letter 5: F for Fukuisaurus
+Letter 6: G for Giganotosaurus
+Letter 7: H for Huanghetitan
+Letter 8: I for Isisaurus
+Letter 9: J for Jaxartosaurus
+Letter 10: K for Kaijutitan
+Letter 11: L for Ligocristus
+Letter 12: M for Mamenchisaurus
+Letter 13: N for Nemegtosaurus
+Letter 14: O for Opisthocoelicaudia
+Letter 15: P for Paralititan
+Letter 16: Q for Qiaowanlong
+Letter 17: R for Rapetosaurus
+Letter 18: S for Saltasaurus
+Letter 19: T for Tastavinsaurus
+Letter 20: U for Uberabatitan
+Letter 21: V for Venenosaurus
+Letter 22: W for Wintonotitan
+Letter 23: X for Xinjiangtitan
+Letter 24: Y for Yemenosaurus
+Letter 25: Z for Zapalasaurus
+Letter 26: A for Angolatitan
+Letter 27: B for Barosaurus
+Letter 28: C for Cetiosaurus
+Letter 29: D for Daxiatitan
+
+PLAIN TEXT:
+A for Argentinosaurus
+B for Brachiosaurus
+C for Carnotaurus
+D for Diplodocus
+E for Edmontosaurus
+F for Fukuisaurus
+G for Giganotosaurus
+H for Huanghetitan
+I for Isisaurus
+J for Jaxartosaurus
+K for Kaijutitan
+L for Ligocristus
+M for Mamenchisaurus
+N for Nemegtosaurus
+O for Opisthocoelicaudia
+P for Paralititan
+Q for Qiaowanlong
+R for Rapetosaurus
+S for Saltasaurus
+T for Tastavinsaurus
+U for Uberabatitan
+V for Venenosaurus
+W for Wintonotitan
+X for Xinjiangtitan
+Y for Yemenosaurus
+Z for Zapalasaurus
+A for Angolatitan
+B for Barosaurus
+C for Cetiosaurus
+D for Daxiatitan
+
+
+----------------------------------------------------------------------
+#24. Cretaceous Period - Part 3 (dino-cretaceous-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-cretaceous-3-audio/
+
+Letter 0: E for Erketu
+Letter 1: F for Futalognkosaurus
+Letter 2: G for Gondwanatitan
+Letter 3: H for Hypselosaurus
+Letter 4: I for Inosaurus
+Letter 5: J for Jingshanosaurus
+Letter 6: K for Klamelisaurus
+Letter 7: L for Lirainosaurus
+Letter 8: M for Mendozasaurus
+Letter 9: N for Nanzhousaurus
+Letter 10: O for Ornithotitan
+Letter 11: P for Pernasaurus
+Letter 12: Q for Qubbeosaurus
+Letter 13: R for Ribasaurus
+Letter 14: S for Savannasaurus
+Letter 15: T for Turiasaurus
+Letter 16: U for Ubirajara
+Letter 17: V for Valdoraptor
+Letter 18: W for Wamweracosaurus
+Letter 19: X for Xuanhanosaurus
+Letter 20: Y for Yongjuanosaurus
+Letter 21: Z for Zhejiangotitan
+Letter 22: A for Asiatosaurus
+Letter 23: B for Bactrosaurus
+Letter 24: C for Chubutosaurus
+Letter 25: D for Dinheirosaurus
+Letter 26: E for Europasaurus
+Letter 27: F for Fukuiraptor
+Letter 28: G for Gobititan
+Letter 29: H for Haplocheirus
+
+PLAIN TEXT:
+E for Erketu
+F for Futalognkosaurus
+G for Gondwanatitan
+H for Hypselosaurus
+I for Inosaurus
+J for Jingshanosaurus
+K for Klamelisaurus
+L for Lirainosaurus
+M for Mendozasaurus
+N for Nanzhousaurus
+O for Ornithotitan
+P for Pernasaurus
+Q for Qubbeosaurus
+R for Ribasaurus
+S for Savannasaurus
+T for Turiasaurus
+U for Ubirajara
+V for Valdoraptor
+W for Wamweracosaurus
+X for Xuanhanosaurus
+Y for Yongjuanosaurus
+Z for Zhejiangotitan
+A for Asiatosaurus
+B for Bactrosaurus
+C for Chubutosaurus
+D for Dinheirosaurus
+E for Europasaurus
+F for Fukuiraptor
+G for Gobititan
+H for Haplocheirus
+
+
+----------------------------------------------------------------------
+#25. Jurassic Period - Part 1 (dino-jurassic-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-jurassic-1-audio/
+
+Letter 0: S for Stegosaurus
+Letter 1: A for Allosaurus
+Letter 2: B for Brachiosaurus
+Letter 3: D for Diplodocus
+Letter 4: C for Compsognathus
+Letter 5: T for Triceratops
+Letter 6: M for Megalosaurus
+Letter 7: O for Oviraptor
+Letter 8: P for Parasaurolophus
+Letter 9: V for Velociraptor
+Letter 10: H for Heterodontosaurus
+Letter 11: L for Limusaurus
+Letter 12: Q for Qinling
+Letter 13: X for Xiaosaurus
+Letter 14: Y for Yandusaurus
+Letter 15: Z for Zuolong
+Letter 16: E for Eoraptor
+Letter 17: G for Guanlong
+Letter 18: I for Iguanodon
+Letter 19: J for Jingshanosaurus
+Letter 20: K for Kaijiangosaurus
+Letter 21: N for Nuthetes
+Letter 22: R for Raptorex
+Letter 23: S for Sinraptor
+Letter 24: U for Utahraptor
+Letter 25: W for Wuerhosaurus
+Letter 26: F for Fabrosaurus
+Letter 27: C for Camptosaurus
+Letter 28: D for Dracorex
+Letter 29: T for Torvosaurus
+
+PLAIN TEXT:
+S for Stegosaurus
+A for Allosaurus
+B for Brachiosaurus
+D for Diplodocus
+C for Compsognathus
+T for Triceratops
+M for Megalosaurus
+O for Oviraptor
+P for Parasaurolophus
+V for Velociraptor
+H for Heterodontosaurus
+L for Limusaurus
+Q for Qinling
+X for Xiaosaurus
+Y for Yandusaurus
+Z for Zuolong
+E for Eoraptor
+G for Guanlong
+I for Iguanodon
+J for Jingshanosaurus
+K for Kaijiangosaurus
+N for Nuthetes
+R for Raptorex
+S for Sinraptor
+U for Utahraptor
+W for Wuerhosaurus
+F for Fabrosaurus
+C for Camptosaurus
+D for Dracorex
+T for Torvosaurus
+
+
+----------------------------------------------------------------------
+#26. Jurassic Period - Part 2 (dino-jurassic-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-jurassic-2-audio/
+
+Letter 0: A for Apatosaurus
+Letter 1: B for Barosaurus
+Letter 2: C for Camarasaurus
+Letter 3: D for Dacentrurus
+Letter 4: E for Eggisaurus
+Letter 5: F for Fukuiraptor
+Letter 6: G for Gastonosaurus
+Letter 7: H for Haplocheirus
+Letter 8: I for Issanosaurs
+Letter 9: J for Jobaria
+Letter 10: K for Koparion
+Letter 11: L for Lexovisaurus
+Letter 12: M for Mamenchisaurus
+Letter 13: N for Nebrasketosaurus
+Letter 14: O for Omeisaurus
+Letter 15: P for Prosauropod
+Letter 16: Q for Qinling
+Letter 17: R for Rhoetosaurus
+Letter 18: S for Saichania
+Letter 19: T for Therizinosaurus
+Letter 20: U for Unaysaurus
+Letter 21: V for Vulcanodontosaurus
+Letter 22: W for Wamweracosaurus
+Letter 23: X for Xuanhanosaurus
+Letter 24: Y for Yinlong
+Letter 25: Z for Zigongosaurus
+Letter 26: A for Aisaurus
+Letter 27: B for Brachiosaurus
+Letter 28: C for Cetiosaurus
+Letter 29: D for Dracorex
+
+PLAIN TEXT:
+A for Apatosaurus
+B for Barosaurus
+C for Camarasaurus
+D for Dacentrurus
+E for Eggisaurus
+F for Fukuiraptor
+G for Gastonosaurus
+H for Haplocheirus
+I for Issanosaurs
+J for Jobaria
+K for Koparion
+L for Lexovisaurus
+M for Mamenchisaurus
+N for Nebrasketosaurus
+O for Omeisaurus
+P for Prosauropod
+Q for Qinling
+R for Rhoetosaurus
+S for Saichania
+T for Therizinosaurus
+U for Unaysaurus
+V for Vulcanodontosaurus
+W for Wamweracosaurus
+X for Xuanhanosaurus
+Y for Yinlong
+Z for Zigongosaurus
+A for Aisaurus
+B for Brachiosaurus
+C for Cetiosaurus
+D for Dracorex
+
+
+----------------------------------------------------------------------
+#27. Jurassic Period - Part 3 (dino-jurassic-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-jurassic-3-audio/
+
+Letter 0: E for Eoraptor
+Letter 1: F for Fruitadens
+Letter 2: G for Gasparinisaura
+Letter 3: H for Hesperosaurus
+Letter 4: I for Iguanodon
+Letter 5: J for Jeholosaurus
+Letter 6: K for Kaijiangosaurus
+Letter 7: L for Laosaurus
+Letter 8: M for Microceratops
+Letter 9: N for Nanshiungosaurus
+Letter 10: O for Ornithomimus
+Letter 11: P for Psittacosaurus
+Letter 12: Q for Qantassaurus
+Letter 13: R for Rahonavis
+Letter 14: S for Sinornithosaurus
+Letter 15: T for Troodon
+Letter 16: U for Unaysaurus
+Letter 17: V for Vinyaraptor
+Letter 18: W for Wuerhosaurus
+Letter 19: X for Xiaotingia
+Letter 20: Y for Yandusaurus
+Letter 21: Z for Zallisaurodon
+Letter 22: A for Abrictosaurus
+Letter 23: B for Bugenosaurus
+Letter 24: C for Chirostenotes
+Letter 25: D for Dromaeosaurus
+Letter 26: E for Edmontosaurus
+Letter 27: F for Fusions
+Letter 28: G for Goyocephale
+Letter 29: H for Homalocephale
+
+PLAIN TEXT:
+E for Eoraptor
+F for Fruitadens
+G for Gasparinisaura
+H for Hesperosaurus
+I for Iguanodon
+J for Jeholosaurus
+K for Kaijiangosaurus
+L for Laosaurus
+M for Microceratops
+N for Nanshiungosaurus
+O for Ornithomimus
+P for Psittacosaurus
+Q for Qantassaurus
+R for Rahonavis
+S for Sinornithosaurus
+T for Troodon
+U for Unaysaurus
+V for Vinyaraptor
+W for Wuerhosaurus
+X for Xiaotingia
+Y for Yandusaurus
+Z for Zallisaurodon
+A for Abrictosaurus
+B for Bugenosaurus
+C for Chirostenotes
+D for Dromaeosaurus
+E for Edmontosaurus
+F for Fusions
+G for Goyocephale
+H for Homalocephale
+
+
+----------------------------------------------------------------------
+#28. Amazing Dinosaurs - Part 1 (dino-amazing-dinos-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-amazing-dinos-1-audio/
+
+Letter 0: T for T-Rex
+Letter 1: V for Velociraptor
+Letter 2: S for Spinosaurus
+Letter 3: A for Allosaurus
+Letter 4: C for Carnotaurus
+Letter 5: G for Giganotosaurus
+Letter 6: T for Therizinosaurus
+Letter 7: D for Dilophosaurus
+Letter 8: M for Megalosaurus
+Letter 9: B for Baryonyx
+Letter 10: I for Iguanodon
+Letter 11: R for Rajasaurus
+Letter 12: U for Utahraptor
+Letter 13: O for Oviraptor
+Letter 14: P for Proceratosaurus
+Letter 15: N for Neovenator
+Letter 16: H for Herrerasaurus
+Letter 17: K for Kronosaurus
+Letter 18: X for Xenocheirus
+Letter 19: Y for Yangchuanosaurus
+Letter 20: Z for Zuniceratops
+Letter 21: L for Lexovisaurus
+Letter 22: E for Eoraptor
+Letter 23: J for Jeholosaurus
+Letter 24: W for Wuerhosaurus
+Letter 25: Q for Qinling
+Letter 26: F for Fukuiraptor
+Letter 27: I for Isisaurus
+Letter 28: C for Cryolophosaurus
+Letter 29: E for Eustreptospondylus
+
+PLAIN TEXT:
+T for T-Rex
+V for Velociraptor
+S for Spinosaurus
+A for Allosaurus
+C for Carnotaurus
+G for Giganotosaurus
+T for Therizinosaurus
+D for Dilophosaurus
+M for Megalosaurus
+B for Baryonyx
+I for Iguanodon
+R for Rajasaurus
+U for Utahraptor
+O for Oviraptor
+P for Proceratosaurus
+N for Neovenator
+H for Herrerasaurus
+K for Kronosaurus
+X for Xenocheirus
+Y for Yangchuanosaurus
+Z for Zuniceratops
+L for Lexovisaurus
+E for Eoraptor
+J for Jeholosaurus
+W for Wuerhosaurus
+Q for Qinling
+F for Fukuiraptor
+I for Isisaurus
+C for Cryolophosaurus
+E for Eustreptospondylus
+
+
+----------------------------------------------------------------------
+#29. Amazing Dinosaurs - Part 2 (dino-amazing-dinos-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-amazing-dinos-2-audio/
+
+Letter 0: A for Argentinosaurus
+Letter 1: B for Brachiosaurus
+Letter 2: C for Carnotaurus
+Letter 3: D for Diplodocus
+Letter 4: E for Edmontosaurus
+Letter 5: F for Fukuisaurus
+Letter 6: G for Giganotosaurus
+Letter 7: H for Hesperosaurus
+Letter 8: I for Iguanodon
+Letter 9: J for Jaxartosaurus
+Letter 10: K for Kaijutitan
+Letter 11: L for Limusaurus
+Letter 12: M for Mamenchisaurus
+Letter 13: N for Nemegtosaurus
+Letter 14: O for Opisthocoelicaudia
+Letter 15: P for Paralititan
+Letter 16: Q for Qiaowanlong
+Letter 17: R for Rapetosaurus
+Letter 18: S for Saltasaurus
+Letter 19: T for Tastavinsaurus
+Letter 20: U for Uberabatitan
+Letter 21: V for Venenosaurus
+Letter 22: W for Wintonotitan
+Letter 23: X for Xinjiangtitan
+Letter 24: Y for Yemenosaurus
+Letter 25: Z for Zapalasaurus
+Letter 26: A for Angolatitan
+Letter 27: B for Barosaurus
+Letter 28: C for Cetiosaurus
+Letter 29: D for Daxiatitan
+
+PLAIN TEXT:
+A for Argentinosaurus
+B for Brachiosaurus
+C for Carnotaurus
+D for Diplodocus
+E for Edmontosaurus
+F for Fukuisaurus
+G for Giganotosaurus
+H for Hesperosaurus
+I for Iguanodon
+J for Jaxartosaurus
+K for Kaijutitan
+L for Limusaurus
+M for Mamenchisaurus
+N for Nemegtosaurus
+O for Opisthocoelicaudia
+P for Paralititan
+Q for Qiaowanlong
+R for Rapetosaurus
+S for Saltasaurus
+T for Tastavinsaurus
+U for Uberabatitan
+V for Venenosaurus
+W for Wintonotitan
+X for Xinjiangtitan
+Y for Yemenosaurus
+Z for Zapalasaurus
+A for Angolatitan
+B for Barosaurus
+C for Cetiosaurus
+D for Daxiatitan
+
+
+----------------------------------------------------------------------
+#30. Amazing Dinosaurs - Part 3 (dino-amazing-dinos-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/dino-amazing-dinos-3-audio/
+
+Letter 0: E for Erketu
+Letter 1: F for Futalognkosaurus
+Letter 2: G for Gondwanatitan
+Letter 3: H for Hypselosaurus
+Letter 4: I for Inosaurus
+Letter 5: J for Jingshanosaurus
+Letter 6: K for Klamelisaurus
+Letter 7: L for Lirainosaurus
+Letter 8: M for Mendozasaurus
+Letter 9: N for Nanzhousaurus
+Letter 10: O for Ornithotitan
+Letter 11: P for Pernasaurus
+Letter 12: Q for Qubbeosaurus
+Letter 13: R for Ribasaurus
+Letter 14: S for Savannasaurus
+Letter 15: T for Turiasaurus
+Letter 16: U for Ubirajara
+Letter 17: V for Valdoraptor
+Letter 18: W for Wamweracosaurus
+Letter 19: X for Xuanhanosaurus
+Letter 20: Y for Yongjuanosaurus
+Letter 21: Z for Zhejiangotitan
+Letter 22: A for Asiatosaurus
+Letter 23: B for Bactrosaurus
+Letter 24: C for Chubutosaurus
+Letter 25: D for Dinheirosaurus
+Letter 26: E for Europasaurus
+Letter 27: F for Fukuiraptor
+Letter 28: G for Gobititan
+Letter 29: H for Haplocheirus
+
+PLAIN TEXT:
+E for Erketu
+F for Futalognkosaurus
+G for Gondwanatitan
+H for Hypselosaurus
+I for Inosaurus
+J for Jingshanosaurus
+K for Klamelisaurus
+L for Lirainosaurus
+M for Mendozasaurus
+N for Nanzhousaurus
+O for Ornithotitan
+P for Pernasaurus
+Q for Qubbeosaurus
+R for Ribasaurus
+S for Savannasaurus
+T for Turiasaurus
+U for Ubirajara
+V for Valdoraptor
+W for Wamweracosaurus
+X for Xuanhanosaurus
+Y for Yongjuanosaurus
+Z for Zhejiangotitan
+A for Asiatosaurus
+B for Bactrosaurus
+C for Chubutosaurus
+D for Dinheirosaurus
+E for Europasaurus
+F for Fukuiraptor
+G for Gobititan
+H for Haplocheirus
+
