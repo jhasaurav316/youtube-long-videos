@@ -1,118 +1,31 @@
 ============================================================
-  NEW MACHINE SETUP - YouTube Video Factory
-  Intel Ultra 7 155H | 48GB RAM | Windows
+  SETUP & RENDER - 50 Videos (10-15 min each)
 ============================================================
 
-STEP 1: Install Node.js
+STEP 1: Clone & install (needs internet)
 ------------------------------------------------------------
-Download from: https://nodejs.org (LTS version)
-Check "Add to PATH" during install.
-
-  node --version
-  npm --version
-
-
-STEP 2: Install Python + edge-tts
-------------------------------------------------------------
-Download from: https://www.python.org/downloads/
-Check "Add Python to PATH" during install.
-
-  pip install edge-tts
-  edge-tts --version
-
-
-STEP 3: Install FFmpeg
-------------------------------------------------------------
-  winget install ffmpeg
-
-If winget not available:
-  Download from https://ffmpeg.org/download.html
-  Extract and add bin folder to system PATH.
-
-  ffmpeg -version
-
-
-STEP 4: Install Git
-------------------------------------------------------------
-  winget install Git.Git
-
-  git --version
-
-
-STEP 5: Clone the project
-------------------------------------------------------------
-  cd D:\
   git clone https://github.com/jhasaurav316/youtube-long-videos.git
   cd youtube-long-videos
-  npm install
+  Set-ExecutionPolicy Bypass -Scope Process -Force; .\setup.ps1
+  (Restart PowerShell after setup)
 
 
-STEP 6: Verify all tools
+STEP 2: Generate audio (needs internet, run ONCE)
 ------------------------------------------------------------
-  node --version
-  npm --version
-  edge-tts --version
-  ffmpeg -version
-  git --version
+  cd youtube-long-videos
+  .\scripts\generate-50-audio.ps1
 
 
-============================================================
-  RENDERING COMMANDS
-============================================================
-
-Preview in browser:
-  npm run dev
-
-Generate audio (run BEFORE rendering):
-  .\scripts\phase1-audio.ps1
-  .\scripts\phase2-audio.ps1
-  ...up to phase20
-
-Render videos (HD quality):
-  .\scripts\phase1-render.ps1
-  .\scripts\phase2-render.ps1
-  ...up to phase20
-
-Render videos (MAX quality):
-  .\scripts\phase1-render.ps1 -Quality max
-
-Render specific range:
-  .\scripts\render-all-long-videos.ps1 -From 1 -To 10
-
-Render single video:
-  .\scripts\render-all-long-videos.ps1 -Single 1
+STEP 3: Render videos (NO internet needed)
+------------------------------------------------------------
+  .\scripts\render-50.ps1                    # All 50 videos
+  .\scripts\render-50.ps1 -From 1 -To 10    # First 10
+  .\scripts\render-50.ps1 -Single 1          # Just one
+  .\scripts\render-50.ps1 -Quality max       # Best quality
 
 
-============================================================
-  PHASE LIST (50 videos each)
-============================================================
-
-  Phase 1:  Videos 1-50       .\scripts\phase1-audio.ps1  then  .\scripts\phase1-render.ps1
-  Phase 2:  Videos 51-100     .\scripts\phase2-audio.ps1  then  .\scripts\phase2-render.ps1
-  Phase 3:  Videos 101-150    .\scripts\phase3-audio.ps1  then  .\scripts\phase3-render.ps1
-  Phase 4:  Videos 151-200    .\scripts\phase4-audio.ps1  then  .\scripts\phase4-render.ps1
-  Phase 5:  Videos 201-250    .\scripts\phase5-audio.ps1  then  .\scripts\phase5-render.ps1
-  Phase 6:  Videos 251-300    .\scripts\phase6-audio.ps1  then  .\scripts\phase6-render.ps1
-  Phase 7:  Videos 301-350    .\scripts\phase7-audio.ps1  then  .\scripts\phase7-render.ps1
-  Phase 8:  Videos 351-400    .\scripts\phase8-audio.ps1  then  .\scripts\phase8-render.ps1
-  Phase 9:  Videos 401-450    .\scripts\phase9-audio.ps1  then  .\scripts\phase9-render.ps1
-  Phase 10: Videos 451-500    .\scripts\phase10-audio.ps1 then  .\scripts\phase10-render.ps1
-  Phase 11: Videos 501-550    .\scripts\phase11-audio.ps1 then  .\scripts\phase11-render.ps1
-  Phase 12: Videos 551-600    .\scripts\phase12-audio.ps1 then  .\scripts\phase12-render.ps1
-  Phase 13: Videos 601-650    .\scripts\phase13-audio.ps1 then  .\scripts\phase13-render.ps1
-  Phase 14: Videos 651-700    .\scripts\phase14-audio.ps1 then  .\scripts\phase14-render.ps1
-  Phase 15: Videos 701-750    .\scripts\phase15-audio.ps1 then  .\scripts\phase15-render.ps1
-  Phase 16: Videos 751-800    .\scripts\phase16-audio.ps1 then  .\scripts\phase16-render.ps1
-  Phase 17: Videos 801-850    .\scripts\phase17-audio.ps1 then  .\scripts\phase17-render.ps1
-  Phase 18: Videos 851-900    .\scripts\phase18-audio.ps1 then  .\scripts\phase18-render.ps1
-  Phase 19: Videos 901-950    .\scripts\phase19-audio.ps1 then  .\scripts\phase19-render.ps1
-  Phase 20: Videos 951-1000   .\scripts\phase20-audio.ps1 then  .\scripts\phase20-render.ps1
-
-
-============================================================
-  OUTPUT
-============================================================
-
-  Rendered videos:  out\long-video\
-  Audio files:      public\*-audio\
-  Render logs:      scripts\render-log.txt
+OUTPUT
+------------------------------------------------------------
+  Videos:   out\50-videos\
+  Format:   1920x1080 landscape, 10-15 min each
+  Total:    ~10 hours of content

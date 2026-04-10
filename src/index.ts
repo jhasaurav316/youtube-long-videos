@@ -15,6 +15,7 @@ import { FoodRemotionRoot } from "./FoodRoot";
 import { ColorshapeRemotionRoot } from "./ColorshapeRoot";
 import { SpaceRemotionRoot } from "./SpaceRoot";
 import { LongVideoRemotionRoot } from "./LongVideoRoot";
+import { Video50RemotionRoot } from "./Video50Root";
 import React from "react";
 
 // ═══════════════════════════════════════════════════════════════════
@@ -42,7 +43,9 @@ const CombinedRoot: React.FC = () => {
     React.createElement(ColorshapeRemotionRoot),
     React.createElement(SpaceRemotionRoot),
     // Long Videos (1000 videos, landscape 1920x1080)
-    React.createElement(LongVideoRemotionRoot)
+    React.createElement(LongVideoRemotionRoot),
+    // 50 Videos (10-15 min each, landscape 1920x1080)
+    React.createElement(Video50RemotionRoot)
   );
 };
 
