@@ -1,7 +1,7 @@
 node_modules/
 out/
 public/*-audio/
-long-video-bundle*/
+long-video-bundle/
 *.log
 youtube-uploader/client_secret.json
 youtube-uploader/token.json

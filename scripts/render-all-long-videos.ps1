@@ -1,15 +1,13 @@
 # ============================================================================
-# Long Video Render Pipeline - 1000 Videos (1920x1080) GPU ACCELERATED
+# Long Video Render Pipeline - 1000 Videos (1920x1080)
 # ============================================================================
-# Supports NVIDIA GPU encoding (NVENC) + multi-GPU parallel rendering
+# Optimized for Intel Ultra 7 155H (16 cores) + 48GB RAM
 #
 # Usage:
-#   .\scripts\render-all-long-videos.ps1                           # All, HD
-#   .\scripts\render-all-long-videos.ps1 -From 1 -To 50           # Range
-#   .\scripts\render-all-long-videos.ps1 -Single 1                 # One video
-#   .\scripts\render-all-long-videos.ps1 -Quality max              # Max quality
-#   .\scripts\render-all-long-videos.ps1 -Gpu 0                    # Use GPU 0
-#   .\scripts\render-all-long-videos.ps1 -Concurrency 100          # Full CPU
+#   .\scripts\render-all-long-videos.ps1                      # All, HD
+#   .\scripts\render-all-long-videos.ps1 -From 1 -To 50      # Range
+#   .\scripts\render-all-long-videos.ps1 -Single 1            # One video
+#   .\scripts\render-all-long-videos.ps1 -Quality max         # Max quality
 # ============================================================================
 
 param(
@@ -17,9 +15,7 @@ param(
     [int]$To = 0,
     [int]$Single = 0,
     [ValidateSet("hd", "max")]
-    [string]$Quality = "hd",
-    [int]$Concurrency = 100,
-    [int]$Gpu = -1
+    [string]$Quality = "hd"
 )
 
 $ErrorActionPreference = "Stop"
@@ -28,9 +24,9 @@ if (Test-Path (Join-Path $PSScriptRoot "catalog.json")) {
     $ProjectDir = Split-Path -Parent $PSScriptRoot
 }
 $CatalogPath = Join-Path $PSScriptRoot "catalog.json"
-$LogFile = Join-Path $PSScriptRoot "render-log-gpu$Gpu.txt"
+$LogFile = Join-Path $PSScriptRoot "render-log.txt"
 
-# ---------- Quality Profiles (NVENC optimized for RTX 4090) ----------
+# ---------- Quality Profiles ----------
 $QualityProfiles = @{
     "hd" = @{
         CRF     = 18
@@ -39,8 +35,8 @@ $QualityProfiles = @{
     }
     "max" = @{
         CRF     = 14
-        Bitrate = "25M"
-        Label   = "HD MAX (1920x1080) CRF 14, 25Mbps"
+        Bitrate = "20M"
+        Label   = "HD MAX (1920x1080) CRF 14, 20Mbps"
     }
 }
 
@@ -66,22 +62,14 @@ $Total = $catalog.Count
 if ($Single -gt 0) { $From = $Single; $To = $Single }
 if ($To -eq 0 -or $To -gt $Total) { $To = $Total }
 
-# ---------- Set GPU environment ----------
-if ($Gpu -ge 0) {
-    $env:CUDA_VISIBLE_DEVICES = "$Gpu"
-    $env:GPU_DEVICE = "$Gpu"
-}
-
 # ---------- Header ----------
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
-Write-Host "  LONG VIDEO RENDER PIPELINE - GPU ACCELERATED" -ForegroundColor Cyan
+Write-Host "  LONG VIDEO RENDER PIPELINE" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "  Videos:      $Total total, rendering $From to $To" -ForegroundColor White
 Write-Host "  Quality:     $($QProfile.Label)" -ForegroundColor Yellow
-Write-Host "  Concurrency: $Concurrency%" -ForegroundColor White
-Write-Host "  GPU:         $(if ($Gpu -ge 0) { "GPU $Gpu (RTX 4090)" } else { 'Auto' })" -ForegroundColor Green
 Write-Host "  Format:      1920x1080 @ 30fps (landscape)" -ForegroundColor White
 Write-Host "  Duration:    30-40 min per video" -ForegroundColor White
 Write-Host ""
@@ -90,7 +78,6 @@ Write-Host ""
 Write-Host "  Bundling project (one-time)..." -ForegroundColor Gray
 $bundleStart = Get-Date
 $bundleDir = Join-Path $ProjectDir "long-video-bundle"
-if ($Gpu -ge 0) { $bundleDir = Join-Path $ProjectDir "long-video-bundle-gpu$Gpu" }
 
 if (-not (Test-Path (Join-Path $bundleDir "index.html"))) {
     Set-Location $ProjectDir
@@ -102,10 +89,9 @@ Write-Host ""
 
 @(
     "================================================================"
-    "  Long Video Render Log - GPU $Gpu"
+    "  Long Video Render Log"
     "  Started: $(Get-Date)"
     "  Quality: $($QProfile.Label)"
-    "  Concurrency: $Concurrency% | GPU: $Gpu"
     "  Range: $From to $To"
     "================================================================"
     ""
@@ -132,7 +118,7 @@ for ($idx = $From - 1; $idx -lt $To; $idx++) {
 
     Write-Host "────────────────────────────────────────────────" -ForegroundColor DarkGray
     Write-Host "  [$num/$To] $($video.title)" -ForegroundColor Yellow
-    Write-Host "  Composition: $compId | GPU: $(if ($Gpu -ge 0) { $Gpu } else { 'Auto' })" -ForegroundColor DarkGray
+    Write-Host "  Composition: $compId" -ForegroundColor DarkGray
 
     # Skip if already rendered
     if (Test-Path $outputFile) {
@@ -145,14 +131,14 @@ for ($idx = $From - 1; $idx -lt $To; $idx++) {
 
     $renderStart = Get-Date
 
-    # Build render command - GPU accelerated
+    # Build render command
     $renderArgs = @(
         "remotion", "render",
         "--bundle-dir=`"$bundleDir`"",
         $compId, "`"$outputFile`"",
         "--codec=h264",
         "--crf=$($QProfile.CRF)",
-        "--concurrency=$Concurrency%"
+        "--concurrency=100%"
     )
 
     if ($QProfile.Bitrate) {
@@ -204,7 +190,7 @@ if (Test-Path $outDir) {
 
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
-Write-Host "  RENDER COMPLETE (GPU $(if ($Gpu -ge 0) { $Gpu } else { 'Auto' }))" -ForegroundColor Cyan
+Write-Host "  RENDER COMPLETE" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host "  Success:    $successCount" -ForegroundColor Green
 Write-Host "  Skipped:    $skipCount" -ForegroundColor DarkCyan
@@ -219,7 +205,7 @@ Write-Host ""
     ""
     "================================================================"
     "  Completed: $(Get-Date)"
-    "  GPU: $Gpu | Success: $successCount | Skipped: $skipCount | Failed: $failCount"
+    "  Success: $successCount | Skipped: $skipCount | Failed: $failCount"
     "  Total time: $totalTime minutes | Total size: $totalSize GB"
     "================================================================"
 ) | Add-Content $LogFile
